@@ -39,7 +39,7 @@
 - [Everything is Copper](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper)
 - [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
 - [Framed Blocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
-- [FTB: Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups), [Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials), [Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams), [Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
+- FTB: [Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups), [Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials), [Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams), [Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
 - [Functional Storage](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
 - [GuideME](https://www.curseforge.com/minecraft/mc-mods/guideme)
 - [Hadean Breathe](https://www.curseforge.com/minecraft/mc-mods/hadean-breathe)
