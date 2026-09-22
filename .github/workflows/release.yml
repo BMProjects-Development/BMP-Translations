@@ -254,13 +254,20 @@ jobs:
             --arg version "$VERSION" \
             --arg project "$MODRINTH_PROJECT_ID" \
             --argjson gameVersions "$GAME_VERSIONS_JSON" \
-            '{name: $name, version_number: $version, changelog: $changelog, dependencies: [], game_versions: $gameVersions, version_type: "release", loaders: ["minecraft"], featured: true, status: "listed", project_id: $project, file_parts: ["file"], primary_file: "file", environment: "client_only"}')
-          printf '%s' "$data" > modrinth-version.json
-          response=$(curl --fail-with-body --silent --show-error \
+            '{name: $name, version_number: $version, changelog: $changelog, dependencies: [], game_versions: $gameVersions, version_type: "release", loaders: ["minecraft"], featured: false, status: "listed", project_id: $project, file_parts: ["file"], primary_file: "file", environment: "client_only"}')
+          http_status=$(curl --silent --show-error \
             --request POST \
             --header "Authorization: $MODRINTH_TOKEN" \
             --header "User-Agent: BMProjects-Development/BMP-Translations (github.com/BMProjects-Development/BMP-Translations)" \
-            --form "data=@modrinth-version.json;type=application/json" \
+            --form-string "data=$data" \
             --form "file=@$ZIP_FILE;type=application/zip" \
+            --output modrinth-response.json \
+            --write-out '%{http_code}' \
             "https://api.modrinth.com/v2/version")
-          echo "$response" | jq '{id, name, version_number, game_versions, status}'
+          if ! jq . modrinth-response.json; then
+            cat modrinth-response.json
+          fi
+          if [[ ! "$http_status" =~ ^2[0-9][0-9]$ ]]; then
+            echo "Modrinth API returned HTTP $http_status." >&2
+            exit 1
+          fi
