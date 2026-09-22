@@ -166,18 +166,6 @@ Modrinth создаётся отдельная версия проекта с з
 Задачи площадок независимы. Например, ошибка CurseForge не отменяет уже
 успешную публикацию на GitHub или Modrinth.
 
-## Необходимые GitHub Secrets
-
-В разделе **Settings → Secrets and variables → Actions** нужно добавить:
-
-- `CURSEFORGE_TOKEN` — авторский токен загрузки для проекта CurseForge
-  `1372113`;
-- `MODRINTH_TOKEN` — токен с правом создавать версии проекта
-  `bmp-translations`.
-
-Для GitHub Releases используется автоматически предоставляемый `GITHUB_TOKEN`
-с разрешением `contents: write`.
-
 ## Повтор неудачной публикации
 
 При восстановлении незавершённой публикации повышать версию ресурспака не
@@ -223,4 +211,3 @@ python scripts/release_tools.py build --minecraft 1.21.1 --output dist
 ```
 
 Созданные файлы в `dist/` игнорируются Git.
-

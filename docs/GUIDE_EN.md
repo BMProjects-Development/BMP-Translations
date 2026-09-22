@@ -163,18 +163,6 @@ version using the `minecraft` loader and the same compatibility list.
 The platform jobs are independent. For example, a CurseForge failure does not
 cancel an already successful GitHub or Modrinth publication.
 
-## Required GitHub secrets
-
-Configure these repository secrets under **Settings → Secrets and variables →
-Actions**:
-
-- `CURSEFORGE_TOKEN` — an author upload token for CurseForge project `1372113`;
-- `MODRINTH_TOKEN` — a token allowed to create versions for
-  `bmp-translations`.
-
-GitHub Releases use the automatically provided `GITHUB_TOKEN` with
-`contents: write` permission.
-
 ## Retrying a failed platform
 
 Do not increase the pack version when retrying an incomplete publication.
@@ -220,4 +208,3 @@ python scripts/release_tools.py build --minecraft 1.21.1 --output dist
 ```
 
 Generated files under `dist/` are ignored by Git.
-
