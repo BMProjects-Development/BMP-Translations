@@ -160,6 +160,11 @@ GitHub receives one release per Minecraft version. CurseForge receives one file
 with the configured compatible game versions. Modrinth receives one project
 version using the `minecraft` loader and the same compatibility list.
 
+GitHub supports only one `Latest` release per repository. For a release of one
+pack, that release becomes `Latest`. If one workflow run publishes several
+packs, the pack with the highest Minecraft version becomes `Latest`. The result
+therefore does not depend on which parallel publication job finishes last.
+
 The platform jobs are independent. For example, a CurseForge failure does not
 cancel an already successful GitHub or Modrinth publication.
 

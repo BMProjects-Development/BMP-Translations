@@ -1,4 +1,5 @@
 import importlib.util
+import json
 import tempfile
 import unittest
 from pathlib import Path
@@ -55,6 +56,37 @@ class ReleaseToolsTests(unittest.TestCase):
         self.assertGreater(release_tools.compare_semver("1.2.0", "1.2.0-rc.1"), 0)
         self.assertLess(release_tools.compare_semver("1.2.0-rc.1", "1.2.0"), 0)
         self.assertEqual(release_tools.compare_semver("1.2.0+build.2", "1.2.0+build.1"), 0)
+
+    def test_minecraft_versions_are_sorted_numerically(self):
+        versions = ["1.9.4", "1.21.1", "1.20.1", "1.16.5"]
+        versions.sort(key=release_tools.minecraft_version_key)
+        self.assertEqual(versions, ["1.9.4", "1.16.5", "1.20.1", "1.21.1"])
+
+    def test_plan_marks_highest_selected_minecraft_as_github_latest(self):
+        config = {
+            "project_name": "BMP",
+            "curseforge_project_id": "cf",
+            "modrinth_project_id": "mr",
+            "packs": {
+                "1.20.1": {"game_versions": ["1.20.1"]},
+                "1.21.1": {"game_versions": ["1.21.1"]},
+            },
+        }
+        with (
+            mock.patch.object(release_tools, "load_config", return_value=config),
+            mock.patch.object(release_tools, "normalize_before", return_value="before"),
+            mock.patch.object(release_tools, "run_git", return_value="parent"),
+            mock.patch.object(release_tools, "changed_version_packs", return_value=set()),
+            mock.patch.object(release_tools, "validate_pack", return_value=[]),
+            mock.patch.object(release_tools, "read_version", return_value="1.0.0"),
+        ):
+            plan = release_tools.create_plan(
+                "before", "head", "release gh 1.20.1 1.21.1"
+            )
+
+        entries = json.loads(plan["matrix"])["include"]
+        latest = [entry["minecraft"] for entry in entries if entry["github_latest"]]
+        self.assertEqual(latest, ["1.21.1"])
 
     def test_changelog_is_english_then_russian(self):
         minecraft = "1.21.1"

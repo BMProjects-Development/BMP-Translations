@@ -149,9 +149,19 @@ jobs:
           RELEASE_NAME: ${{ matrix.name }}
           ZIP_FILE: dist/${{ matrix.zip }}
           CHANGELOG_FILE: dist/${{ matrix.changelog }}
+          GITHUB_LATEST: ${{ matrix.github_latest }}
         run: |
           set -euo pipefail
+          latest_argument="--latest=false"
+          if [[ "$GITHUB_LATEST" == "true" ]]; then
+            latest_argument="--latest"
+          fi
           if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            if [[ "$GITHUB_LATEST" == "true" ]]; then
+              gh release edit "$TAG" --repo "$GITHUB_REPOSITORY" --latest
+              echo "GitHub release $TAG already exists and is now marked as Latest."
+              exit 0
+            fi
             echo "GitHub release $TAG already exists; leaving it unchanged."
             exit 0
           fi
@@ -159,7 +169,7 @@ jobs:
             --repo "$GITHUB_REPOSITORY" \
             --title "$RELEASE_NAME" \
             --notes-file "$CHANGELOG_FILE" \
-            --latest=false
+            "$latest_argument"
 
   curseforge:
     name: CurseForge — Minecraft ${{ matrix.minecraft }} v${{ matrix.version }}

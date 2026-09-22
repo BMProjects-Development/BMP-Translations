@@ -521,6 +521,10 @@ def changed_version_packs(before: str, head: str, known_packs: Iterable[str]) ->
     return result
 
 
+def minecraft_version_key(value: str) -> tuple[int, ...]:
+    return tuple(map(int, value.split(".")))
+
+
 def write_github_output(values: dict[str, str]) -> None:
     output_path = os.environ.get("GITHUB_OUTPUT")
     if not output_path:
@@ -578,7 +582,8 @@ def create_plan(before: str, head: str, message: str) -> dict[str, str]:
                 raise ReleaseError(f"Minecraft {minecraft} changed VERSION but has no resource-content changes")
 
     include = []
-    for minecraft in sorted(selected, key=lambda value: tuple(map(int, value.split(".")))):
+    latest_minecraft = max(selected, key=minecraft_version_key)
+    for minecraft in sorted(selected, key=minecraft_version_key):
         validate_pack(minecraft)
         version = read_version(minecraft)
         include.append(
@@ -590,6 +595,7 @@ def create_plan(before: str, head: str, message: str) -> dict[str, str]:
                 "zip": f"BMP_Translations_{minecraft}_v{version}.zip",
                 "changelog": f"CHANGELOG_{minecraft}_v{version}.md",
                 "name": f"{config['project_name']} {minecraft} - v{version}",
+                "github_latest": minecraft == latest_minecraft,
                 "game_versions": config["packs"][minecraft]["game_versions"],
                 "retry": bool(explicit_packs),
                 "curseforge_project_id": config["curseforge_project_id"],

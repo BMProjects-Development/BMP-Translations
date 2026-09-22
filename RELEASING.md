@@ -48,6 +48,11 @@ When several `VERSION` files change in the marked commit, every changed pack
 is released independently. For example, Minecraft 1.20.1 and 1.21.1 receive
 separate ZIP files, platform entries, GitHub releases, and tags.
 
+GitHub can mark only one release as `Latest`. Each workflow run marks its newest
+released Minecraft version as `Latest`. Therefore a single-version release always
+becomes the latest release by date, while a multi-version release uses the highest
+Minecraft version from that run.
+
 A version-specific tag is always created, even when the marker publishes only
 to CurseForge or Modrinth. The tag is the immutable changelog baseline for the
 next release.
