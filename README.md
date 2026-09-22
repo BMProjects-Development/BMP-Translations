@@ -5,6 +5,16 @@
 ## Links 
 [CurseForge](https://www.curseforge.com/minecraft/texture-packs/bmp-translations) | [Modrinth](https://modrinth.com/resourcepack/bmp-translations)
 
+
+<!-- BEGIN GENERATED TRANSLATED MODS -->
+## Translated mods | Переведённые моды
+
+- Minecraft 1.21.1: [English](packs/1.21.1/README_EN.md) · [Русский](packs/1.21.1/README_RU.md)
+- Minecraft 1.20.1: [English](packs/1.20.1/README_EN.md) · [Русский](packs/1.20.1/README_RU.md)
+- Minecraft 1.19.2: [English](packs/1.19.2/README_EN.md) · [Русский](packs/1.19.2/README_RU.md)
+- Minecraft 1.16.5: [English](packs/1.16.5/README_EN.md) · [Русский](packs/1.16.5/README_RU.md)
+<!-- END GENERATED TRANSLATED MODS -->
+
 ## Repository structure
 
 Resource-pack sources are stored unpacked in `packs/<minecraft-version>`.

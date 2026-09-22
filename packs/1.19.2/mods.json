@@ -1,0 +1,106 @@
+{
+  "minecraft": "1.19.2",
+  "mods": [
+    {
+      "name": "AE2",
+      "namespaces": [
+        "ae2"
+      ],
+      "modrinth": "https://modrinth.com/mod/ae2",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2"
+    },
+    {
+      "name": "AllTheCompressed",
+      "namespaces": [
+        "allthecompressed"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/allthecompressed"
+    },
+    {
+      "name": "Allthemodium",
+      "namespaces": [
+        "allthemodium"
+      ],
+      "modrinth": "https://modrinth.com/mod/allthemodium",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/allthemodium"
+    },
+    {
+      "name": "AllTheOres",
+      "namespaces": [
+        "alltheores"
+      ],
+      "resolved": true
+    },
+    {
+      "name": "Assembly Line Machines",
+      "namespaces": [
+        "assemblylinemachines"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/assemblylinemachines"
+    },
+    {
+      "name": "Beachparty",
+      "namespaces": [
+        "beachparty"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Candlelight",
+      "namespaces": [
+        "candlelight"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dimstages",
+      "namespaces": [
+        "dimstages"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Functional Storage",
+      "namespaces": [
+        "functionalstorage"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/functional-storage"
+    },
+    {
+      "name": "Iron Furnaces",
+      "namespaces": [
+        "ironfurnaces"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces"
+    },
+    {
+      "name": "Meadow",
+      "namespaces": [
+        "meadow"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Sophisticated Storage",
+      "namespaces": [
+        "sophisticatedstorage"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage"
+    },
+    {
+      "name": "The Bakery Modpack",
+      "namespaces": [
+        "bakery"
+      ],
+      "modrinth": "https://modrinth.com/mod/bakery",
+      "resolved": true
+    }
+  ]
+}

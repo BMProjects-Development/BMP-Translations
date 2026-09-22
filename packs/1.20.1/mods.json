@@ -1,0 +1,754 @@
+{
+  "minecraft": "1.20.1",
+  "mods": [
+    {
+      "name": "AE2",
+      "namespaces": [
+        "ae2"
+      ],
+      "modrinth": "https://modrinth.com/mod/ae2",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2"
+    },
+    {
+      "name": "AE2 Things",
+      "namespaces": [
+        "ae2things"
+      ],
+      "modrinth": "https://modrinth.com/mod/ae2things",
+      "resolved": true
+    },
+    {
+      "name": "Ae2importexportcard",
+      "namespaces": [
+        "ae2importexportcard"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ae2wtlib",
+      "namespaces": [
+        "ae2wtlib"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "AIOTBotania",
+      "namespaces": [
+        "aiotbotania"
+      ],
+      "resolved": true
+    },
+    {
+      "name": "AllTheCompressed",
+      "namespaces": [
+        "allthecompressed"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/allthecompressed"
+    },
+    {
+      "name": "Allthemodium",
+      "namespaces": [
+        "allthemodium"
+      ],
+      "modrinth": "https://modrinth.com/mod/allthemodium",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/allthemodium"
+    },
+    {
+      "name": "AllTheOres",
+      "namespaces": [
+        "alltheores"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alltheores"
+    },
+    {
+      "name": "AllTheTweaks",
+      "namespaces": [
+        "allthetweaks"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/all-the-tweaks"
+    },
+    {
+      "name": "Angel Ring",
+      "namespaces": [
+        "angelring"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/angel-ring"
+    },
+    {
+      "name": "Automobility",
+      "namespaces": [
+        "automobility"
+      ],
+      "modrinth": "https://modrinth.com/mod/automobility",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/automobility"
+    },
+    {
+      "name": "Backups",
+      "namespaces": [
+        "ftbbackups"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ftb-backups"
+    },
+    {
+      "name": "Baubley Heart Canisters",
+      "namespaces": [
+        "bhc"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters"
+    },
+    {
+      "name": "Better Nether",
+      "namespaces": [
+        "betternether"
+      ],
+      "modrinth": "https://modrinth.com/mod/betternether",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/betternether"
+    },
+    {
+      "name": "Bigreactors",
+      "namespaces": [
+        "bigreactors"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Biomes O' Plenty",
+      "namespaces": [
+        "biomesoplenty"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
+    },
+    {
+      "name": "Block Factorys Bosses",
+      "namespaces": [
+        "block_factorys_bosses"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Blood Magic",
+      "namespaces": [
+        "bloodmagic"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blood-magic"
+    },
+    {
+      "name": "Botany Pots",
+      "namespaces": [
+        "botanypots"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/botany-pots"
+    },
+    {
+      "name": "Brandon's Core",
+      "namespaces": [
+        "brandonscore"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/brandons-core"
+    },
+    {
+      "name": "Building Gadgets 2",
+      "namespaces": [
+        "buildinggadgets2"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets"
+    },
+    {
+      "name": "Byg",
+      "namespaces": [
+        "byg"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Caupona",
+      "namespaces": [
+        "caupona"
+      ],
+      "modrinth": "https://modrinth.com/mod/caupona",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/caupona"
+    },
+    {
+      "name": "Chemical Science",
+      "namespaces": [
+        "chemicalscience"
+      ],
+      "modrinth": "https://modrinth.com/mod/chemicalscience",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chemical-science"
+    },
+    {
+      "name": "Chipped",
+      "namespaces": [
+        "chipped"
+      ],
+      "modrinth": "https://modrinth.com/mod/chipped",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/chipped"
+    },
+    {
+      "name": "CodeChicken Lib",
+      "namespaces": [
+        "codechickenlib"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8"
+    },
+    {
+      "name": "Crafting Stantion",
+      "namespaces": [
+        "craftingstation"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/crafting-station"
+    },
+    {
+      "name": "Create Dd",
+      "namespaces": [
+        "create_dd"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Create Goggles",
+      "namespaces": [
+        "creategoggles"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/create-goggles"
+    },
+    {
+      "name": "Cultural Delights",
+      "namespaces": [
+        "culturaldelights"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cultural-delights"
+    },
+    {
+      "name": "Dis-Enchanting Table",
+      "namespaces": [
+        "disenchanting_table"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table"
+    },
+    {
+      "name": "Dodo's Mobs",
+      "namespaces": [
+        "dodosmobs"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dodos-mobs"
+    },
+    {
+      "name": "Draconic Additions",
+      "namespaces": [
+        "draconicadditions"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/draconicadditions"
+    },
+    {
+      "name": "Draconic Evolution",
+      "namespaces": [
+        "draconicevolution"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/draconic-evolution"
+    },
+    {
+      "name": "Elemental Craft",
+      "namespaces": [
+        "elementalcraft"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/elemental-craft"
+    },
+    {
+      "name": "Embeddium",
+      "namespaces": [
+        "embeddium"
+      ],
+      "modrinth": "https://modrinth.com/mod/embeddium",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/embeddium"
+    },
+    {
+      "name": "Enchanted",
+      "namespaces": [
+        "enchanted"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ender's Delight",
+      "namespaces": [
+        "endersdelight"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/enders-delight"
+    },
+    {
+      "name": "Entity Culling",
+      "namespaces": [
+        "entityculling"
+      ],
+      "modrinth": "https://modrinth.com/mod/entityculling",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/entityculling"
+    },
+    {
+      "name": "Er2create",
+      "namespaces": [
+        "er2create"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Essentials",
+      "namespaces": [
+        "ftbessentials"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ftb-essentials"
+    },
+    {
+      "name": "Everything is Copper",
+      "namespaces": [
+        "everythingcopper"
+      ],
+      "modrinth": "https://modrinth.com/mod/everythingcopper",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/everything-is-copper"
+    },
+    {
+      "name": "Framed Blocks",
+      "namespaces": [
+        "framedblocks"
+      ],
+      "modrinth": "https://modrinth.com/mod/framedblocks",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/framedblocks"
+    },
+    {
+      "name": "Ftbquests",
+      "namespaces": [
+        "ftbquests"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ftbragnarok",
+      "namespaces": [
+        "ftbragnarok"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Functional Storage",
+      "namespaces": [
+        "functionalstorage"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/functional-storage"
+    },
+    {
+      "name": "GuideME",
+      "namespaces": [
+        "guideme"
+      ],
+      "modrinth": "https://modrinth.com/mod/guideme",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/guideme"
+    },
+    {
+      "name": "Hadean Breathe",
+      "namespaces": [
+        "hadean_breathe"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/hadean-breathe"
+    },
+    {
+      "name": "Iron Furnaces",
+      "namespaces": [
+        "ironfurnaces"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces"
+    },
+    {
+      "name": "Iron Jetpacks",
+      "namespaces": [
+        "ironjetpacks"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks"
+    },
+    {
+      "name": "Itemcollectors",
+      "namespaces": [
+        "itemcollectors"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "JustHammers",
+      "namespaces": [
+        "justhammers"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/justhammers"
+    },
+    {
+      "name": "Justtrialspawners",
+      "namespaces": [
+        "justtrialspawners"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "LaserIO",
+      "namespaces": [
+        "laserio"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/laserio"
+    },
+    {
+      "name": "Leaderboards",
+      "namespaces": [
+        "leaderboards"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Living Things",
+      "namespaces": [
+        "livingthings"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/living-things"
+    },
+    {
+      "name": "Lodestone Warps",
+      "namespaces": [
+        "lodestone"
+      ],
+      "modrinth": "https://modrinth.com/mod/lodestone",
+      "resolved": true
+    },
+    {
+      "name": "Loot Journal",
+      "namespaces": [
+        "loot_journal"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "lootbeams",
+      "namespaces": [
+        "lootbeams"
+      ],
+      "modrinth": "https://modrinth.com/mod/lootbeams",
+      "resolved": true
+    },
+    {
+      "name": "Lychee",
+      "namespaces": [
+        "lychee"
+      ],
+      "modrinth": "https://modrinth.com/mod/lychee",
+      "resolved": true
+    },
+    {
+      "name": "Mana Jade",
+      "namespaces": [
+        "mana_jade"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Manaunification",
+      "namespaces": [
+        "manaunification"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Matc",
+      "namespaces": [
+        "matc"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "McJtyLib",
+      "namespaces": [
+        "mcjtylib"
+      ],
+      "modrinth": "https://modrinth.com/mod/mcjtylib",
+      "resolved": true
+    },
+    {
+      "name": "ME Requester",
+      "namespaces": [
+        "merequester"
+      ],
+      "modrinth": "https://modrinth.com/mod/merequester",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/me-requester"
+    },
+    {
+      "name": "Measurements",
+      "namespaces": [
+        "measurements"
+      ],
+      "modrinth": "https://modrinth.com/mod/measurements",
+      "resolved": true
+    },
+    {
+      "name": "Mega Cells",
+      "namespaces": [
+        "megacells"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mega-cells"
+    },
+    {
+      "name": "Mowzies Cataclysm",
+      "namespaces": [
+        "mowzies_cataclysm"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mowziesmobs",
+      "namespaces": [
+        "mowziesmobs"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "namespaces": [
+        "refurbished_furniture"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture"
+    },
+    {
+      "name": "MythicBotany",
+      "namespaces": [
+        "mythicbotany"
+      ],
+      "modrinth": "https://modrinth.com/mod/mythicbotany",
+      "resolved": true
+    },
+    {
+      "name": "Mythicbotany Lexicon",
+      "namespaces": [
+        "mythicbotany_lexicon"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Naturalist",
+      "namespaces": [
+        "naturalist"
+      ],
+      "modrinth": "https://modrinth.com/mod/naturalist",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/naturalist"
+    },
+    {
+      "name": "Neo Auth",
+      "namespaces": [
+        "neo_auth"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Nether's Delight",
+      "namespaces": [
+        "nethersdelight"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight"
+    },
+    {
+      "name": "Netherexp",
+      "namespaces": [
+        "netherexp"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Particlerain",
+      "namespaces": [
+        "particlerain"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Playing Cards",
+      "namespaces": [
+        "playingcards"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/playing-cards-chips"
+    },
+    {
+      "name": "Productive Bees",
+      "namespaces": [
+        "productivebees"
+      ],
+      "modrinth": "https://modrinth.com/mod/productivebees",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/productive-bees"
+    },
+    {
+      "name": "Rechiseled",
+      "namespaces": [
+        "rechiseled"
+      ],
+      "modrinth": "https://modrinth.com/mod/rechiseled",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/rechiseled"
+    },
+    {
+      "name": "Rechiseled: Create",
+      "namespaces": [
+        "rechiseledcreate"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/rechiseled-create"
+    },
+    {
+      "name": "Reskillable",
+      "namespaces": [
+        "reskillable"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Roots",
+      "namespaces": [
+        "roots"
+      ],
+      "resolved": true
+    },
+    {
+      "name": "Sophisticated Storage",
+      "namespaces": [
+        "sophisticatedstorage"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage"
+    },
+    {
+      "name": "Structurize",
+      "namespaces": [
+        "structurize"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/structurize"
+    },
+    {
+      "name": "Tiab",
+      "namespaces": [
+        "tiab"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Toast Control",
+      "namespaces": [
+        "toastcontrol"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/toast-control"
+    },
+    {
+      "name": "Twilight Delight",
+      "namespaces": [
+        "twilightdelight"
+      ],
+      "modrinth": "https://modrinth.com/mod/twilightdelight",
+      "resolved": true
+    },
+    {
+      "name": "Ultimine",
+      "namespaces": [
+        "ftbultimine"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine"
+    },
+    {
+      "name": "Undead Unleashed!",
+      "namespaces": [
+        "undead_unleashed"
+      ],
+      "resolved": true
+    },
+    {
+      "name": "ValkyrieLib",
+      "namespaces": [
+        "valkyrielib"
+      ],
+      "modrinth": "https://modrinth.com/mod/valkyrielib",
+      "resolved": true
+    },
+    {
+      "name": "Waystones",
+      "namespaces": [
+        "waystones"
+      ],
+      "modrinth": "https://modrinth.com/mod/waystones",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/waystones"
+    },
+    {
+      "name": "Wilderness",
+      "namespaces": [
+        "wilderness"
+      ],
+      "resolved": true,
+      "modrinth": "https://modrinth.com/mod/ketok-wilderness"
+    },
+    {
+      "name": "Wooden Bucket",
+      "namespaces": [
+        "woodenbucket"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/wooden-bucket"
+    },
+    {
+      "name": "Xaero's World Map",
+      "namespaces": [
+        "xaeroworldmap"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map"
+    }
+  ]
+}

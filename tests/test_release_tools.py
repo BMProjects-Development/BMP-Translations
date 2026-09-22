@@ -116,6 +116,27 @@ class ReleaseToolsTests(unittest.TestCase):
             self.assertIn("1 key updated", changelog)
             self.assertIn("добавлен 1 ключ", changelog)
 
+    def test_generated_mod_catalog_maps_namespaces_to_full_names(self):
+        minecraft = "1.21.1"
+        catalog = {
+            "minecraft": minecraft,
+            "mods": [
+                {
+                    "name": "Applied Energistics 2",
+                    "namespaces": ["ae2", "ae2guide"],
+                    "resolved": True,
+                }
+            ],
+        }
+        with (
+            mock.patch.object(release_tools, "pack_dir", return_value=SCRIPT.parents[1] / "virtual-pack"),
+            mock.patch.object(Path, "exists", return_value=True),
+            mock.patch.object(Path, "read_text", return_value=json.dumps(catalog)),
+        ):
+            names = release_tools.load_mod_names(minecraft)
+        self.assertEqual(names["ae2"], "Applied Energistics 2")
+        self.assertEqual(names["ae2guide"], "Applied Energistics 2")
+
 
 if __name__ == "__main__":
     unittest.main()

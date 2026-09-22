@@ -281,3 +281,78 @@ jobs:
             echo "Modrinth API returned HTTP $http_status." >&2
             exit 1
           fi
+
+  sync-metadata:
+    name: Sync translated-mod documentation
+    needs:
+      - plan
+      - github
+      - curseforge
+      - modrinth
+    if: >-
+      always() &&
+      needs.plan.outputs.release == 'true' &&
+      (needs.plan.outputs.gh != 'true' || needs.github.result == 'success') &&
+      (needs.plan.outputs.cf != 'true' || needs.curseforge.result == 'success') &&
+      (needs.plan.outputs.mr != 'true' || needs.modrinth.result == 'success')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out release commit
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          ref: ${{ github.sha }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Discover mods and generate documentation
+        run: python scripts/mod_metadata.py sync --discover
+
+      - name: Update bilingual Modrinth description
+        if: needs.plan.outputs.mr == 'true'
+        env:
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$MODRINTH_TOKEN" ]]; then
+            echo "Modrinth token is not configured." >&2
+            exit 1
+          fi
+          MODRINTH_PROJECT_ID=$(jq -r '.modrinth_project_id' release-config.json)
+          payload=$(jq -n \
+            --rawfile body docs/platform/MODRINTH_DESCRIPTION.md \
+            '{body: $body}')
+          http_status=$(curl --silent --show-error \
+            --request PATCH \
+            --header "Authorization: $MODRINTH_TOKEN" \
+            --header "User-Agent: BMProjects-Development/BMP-Translations (github.com/BMProjects-Development/BMP-Translations)" \
+            --header "Content-Type: application/json" \
+            --data "$payload" \
+            --output modrinth-description-response.txt \
+            --write-out '%{http_code}' \
+            "https://api.modrinth.com/v2/project/$MODRINTH_PROJECT_ID")
+          if [[ -s modrinth-description-response.txt ]]; then
+            cat modrinth-description-response.txt
+          fi
+          if [[ "$http_status" != "204" ]]; then
+            echo "Modrinth description update returned HTTP $http_status." >&2
+            exit 1
+          fi
+
+      - name: Commit generated metadata
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md docs/platform/MODRINTH_DESCRIPTION.md packs/*/README_EN.md packs/*/README_RU.md packs/*/mods.json
+          if git diff --cached --quiet; then
+            echo "Generated metadata is already up to date."
+            exit 0
+          fi
+          git commit -m "docs: sync translated mod lists"
+          git push origin HEAD:main

@@ -1,0 +1,965 @@
+{
+  "minecraft": "1.16.5",
+  "mods": [
+    {
+      "name": " Integrated Dungeons and Structures",
+      "namespaces": [
+        "idas"
+      ],
+      "modrinth": "https://modrinth.com/mod/idas",
+      "resolved": true
+    },
+    {
+      "name": "AEInfinityBooster",
+      "namespaces": [
+        "aeinfinitybooster"
+      ],
+      "modrinth": "https://modrinth.com/mod/aeinfinitybooster",
+      "resolved": true
+    },
+    {
+      "name": "AIOTBotania",
+      "namespaces": [
+        "aiotbotania"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/aiot-botania"
+    },
+    {
+      "name": "Amfd",
+      "namespaces": [
+        "amfd"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Artisan Tools",
+      "namespaces": [
+        "artisantools"
+      ],
+      "modrinth": "https://modrinth.com/mod/artisantools",
+      "resolved": true
+    },
+    {
+      "name": "Artisan Worktables 1.16",
+      "namespaces": [
+        "artisanworktables"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/artisan-worktables-1-16"
+    },
+    {
+      "name": "AstikorCarts",
+      "namespaces": [
+        "astikorcarts"
+      ],
+      "modrinth": "https://modrinth.com/mod/astikorcarts",
+      "resolved": true
+    },
+    {
+      "name": "Astral Sorcery",
+      "namespaces": [
+        "astralsorcery"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/astral-sorcery"
+    },
+    {
+      "name": "Athenaeum",
+      "namespaces": [
+        "athenaeum"
+      ],
+      "modrinth": "https://modrinth.com/mod/athenaeum",
+      "resolved": true
+    },
+    {
+      "name": "Bambooeverything",
+      "namespaces": [
+        "bambooeverything"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Betterdungeons",
+      "namespaces": [
+        "betterdungeons"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Betterendforge",
+      "namespaces": [
+        "betterendforge"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Betterstrongholds",
+      "namespaces": [
+        "betterstrongholds"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Blood Magic",
+      "namespaces": [
+        "bloodmagic"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blood-magic"
+    },
+    {
+      "name": "Boss Tools",
+      "namespaces": [
+        "boss_tools"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Boss Tools Giselle Addon",
+      "namespaces": [
+        "boss_tools_giselle_addon"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Building Gadgets",
+      "namespaces": [
+        "buildinggadgets"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets"
+    },
+    {
+      "name": "Byg",
+      "namespaces": [
+        "byg"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Callablehorses",
+      "namespaces": [
+        "callablehorses"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Cataclysm",
+      "namespaces": [
+        "cataclysm"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Cavesandcliffs",
+      "namespaces": [
+        "cavesandcliffs"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Champions",
+      "namespaces": [
+        "champions"
+      ],
+      "modrinth": "https://modrinth.com/mod/champions",
+      "resolved": true
+    },
+    {
+      "name": "Charcoal Pit",
+      "namespaces": [
+        "charcoal_pit"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/charcoal-pit"
+    },
+    {
+      "name": "Charginggadgets",
+      "namespaces": [
+        "charginggadgets"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "ChatHeads",
+      "namespaces": [
+        "chatheads"
+      ],
+      "modrinth": "https://modrinth.com/mod/chatheads",
+      "resolved": true
+    },
+    {
+      "name": "Chimes",
+      "namespaces": [
+        "chimes"
+      ],
+      "modrinth": "https://modrinth.com/mod/chimes",
+      "resolved": true
+    },
+    {
+      "name": "ChunkLoaders",
+      "namespaces": [
+        "chunkloaders"
+      ],
+      "modrinth": "https://modrinth.com/mod/chunkloaders",
+      "resolved": true
+    },
+    {
+      "name": "Citadel",
+      "namespaces": [
+        "citadel"
+      ],
+      "modrinth": "https://modrinth.com/mod/citadel",
+      "resolved": true
+    },
+    {
+      "name": "Codechickenlib",
+      "namespaces": [
+        "codechickenlib"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Comforts",
+      "namespaces": [
+        "comforts"
+      ],
+      "modrinth": "https://modrinth.com/mod/comforts",
+      "resolved": true
+    },
+    {
+      "name": "Compactmachines",
+      "namespaces": [
+        "compactmachines"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Compressium",
+      "namespaces": [
+        "compressium"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/compressium"
+    },
+    {
+      "name": "Constructsarmory",
+      "namespaces": [
+        "constructsarmory"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Create Crafts & Additions",
+      "namespaces": [
+        "createaddition"
+      ],
+      "modrinth": "https://modrinth.com/mod/createaddition",
+      "resolved": true
+    },
+    {
+      "name": "CreativeCore",
+      "namespaces": [
+        "creativecore"
+      ],
+      "modrinth": "https://modrinth.com/mod/creativecore",
+      "resolved": true
+    },
+    {
+      "name": "Curios API",
+      "namespaces": [
+        "curios"
+      ],
+      "modrinth": "https://modrinth.com/mod/curios",
+      "resolved": true
+    },
+    {
+      "name": "Dank Storage",
+      "namespaces": [
+        "dankstorage"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/dank-storage"
+    },
+    {
+      "name": "Decorative Blocks",
+      "namespaces": [
+        "decorative_blocks"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dimstages",
+      "namespaces": [
+        "dimstages"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ding",
+      "namespaces": [
+        "ding"
+      ],
+      "modrinth": "https://modrinth.com/mod/ding",
+      "resolved": true
+    },
+    {
+      "name": "Dsurround",
+      "namespaces": [
+        "dsurround"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dtatum",
+      "namespaces": [
+        "dtatum"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dtbyg",
+      "namespaces": [
+        "dtbyg"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dtquark",
+      "namespaces": [
+        "dtquark"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dttconstruct",
+      "namespaces": [
+        "dttconstruct"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dtupgradeaquatic",
+      "namespaces": [
+        "dtupgradeaquatic"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dummmmmmy",
+      "namespaces": [
+        "dummmmmmy"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "End Remastered",
+      "namespaces": [
+        "endrem"
+      ],
+      "modrinth": "https://modrinth.com/mod/endrem",
+      "resolved": true
+    },
+    {
+      "name": "EnderChests",
+      "namespaces": [
+        "enderchests"
+      ],
+      "modrinth": "https://modrinth.com/mod/enderchests",
+      "resolved": true
+    },
+    {
+      "name": "Ends Delight",
+      "namespaces": [
+        "ends_delight"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "EvilCraft",
+      "namespaces": [
+        "evilcraft"
+      ],
+      "modrinth": "https://modrinth.com/mod/evilcraft",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/evilcraft"
+    },
+    {
+      "name": "Explorerscompass",
+      "namespaces": [
+        "explorerscompass"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "ExtraBotany",
+      "namespaces": [
+        "extrabotany"
+      ],
+      "modrinth": "https://modrinth.com/mod/extrabotany",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/extrabotany"
+    },
+    {
+      "name": "Farmer's Respite",
+      "namespaces": [
+        "farmersrespite"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/farmers-respite"
+    },
+    {
+      "name": "Fclib",
+      "namespaces": [
+        "fclib"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "FramedBlocks",
+      "namespaces": [
+        "framedblocks"
+      ],
+      "modrinth": "https://modrinth.com/mod/framedblocks",
+      "resolved": true
+    },
+    {
+      "name": "Framedcompactdrawers",
+      "namespaces": [
+        "framedcompactdrawers"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "FTB Quests",
+      "namespaces": [
+        "ftbquests"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge"
+    },
+    {
+      "name": "Gateways",
+      "namespaces": [
+        "gateways"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Gauges, Switches & Modules",
+      "namespaces": [
+        "rsgauges"
+      ],
+      "modrinth": "https://modrinth.com/mod/rsgauges",
+      "resolved": true
+    },
+    {
+      "name": "Gravestone",
+      "namespaces": [
+        "gravestone"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Immersive Posts",
+      "namespaces": [
+        "immersiveposts"
+      ],
+      "modrinth": "https://modrinth.com/mod/immersiveposts",
+      "resolved": true
+    },
+    {
+      "name": "Iron Chests",
+      "namespaces": [
+        "ironchest"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/iron-chests"
+    },
+    {
+      "name": "Ironfurnaces",
+      "namespaces": [
+        "ironfurnaces"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Item Stages",
+      "namespaces": [
+        "itemstages"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/item-stages"
+    },
+    {
+      "name": "Itemcollectors",
+      "namespaces": [
+        "itemcollectors"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Itemfilters",
+      "namespaces": [
+        "itemfilters"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "ItemPhysic",
+      "namespaces": [
+        "itemphysic"
+      ],
+      "modrinth": "https://modrinth.com/mod/itemphysic",
+      "resolved": true
+    },
+    {
+      "name": "Jeimultiblocks",
+      "namespaces": [
+        "jeimultiblocks"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Jepb",
+      "namespaces": [
+        "jepb"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Just Enough Breeding (JEBr)",
+      "namespaces": [
+        "justenoughbreeding"
+      ],
+      "modrinth": "https://modrinth.com/mod/justenoughbreeding",
+      "resolved": true
+    },
+    {
+      "name": "Justenoughprofessions",
+      "namespaces": [
+        "justenoughprofessions"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Kiwi 🥝",
+      "namespaces": [
+        "kiwi"
+      ],
+      "modrinth": "https://modrinth.com/mod/kiwi",
+      "resolved": true
+    },
+    {
+      "name": "Legendarycreatures",
+      "namespaces": [
+        "legendarycreatures"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Legendarysurvivaloverhaul",
+      "namespaces": [
+        "legendarysurvivaloverhaul"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Lootr",
+      "namespaces": [
+        "lootr"
+      ],
+      "modrinth": "https://modrinth.com/mod/lootr",
+      "resolved": true
+    },
+    {
+      "name": "Luphieclutteredmod",
+      "namespaces": [
+        "luphieclutteredmod"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mana and Artifice",
+      "namespaces": [
+        "mana-and-artifice"
+      ],
+      "modrinth": "https://modrinth.com/mod/mana-and-artifice",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice"
+    },
+    {
+      "name": "Mcwbyg",
+      "namespaces": [
+        "mcwbyg"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mcwfences",
+      "namespaces": [
+        "mcwfences"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mcwfurnitures",
+      "namespaces": [
+        "mcwfurnitures"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mcwpaths",
+      "namespaces": [
+        "mcwpaths"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mcwroofs",
+      "namespaces": [
+        "mcwroofs"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mcwtrpdoors",
+      "namespaces": [
+        "mcwtrpdoors"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mcwwindows",
+      "namespaces": [
+        "mcwwindows"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mininggadgets",
+      "namespaces": [
+        "mininggadgets"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "More Industrial Foregoing Addons (MIFA)",
+      "namespaces": [
+        "mifa"
+      ],
+      "modrinth": "https://modrinth.com/mod/mifa",
+      "resolved": true
+    },
+    {
+      "name": "Moremekanismprocessing",
+      "namespaces": [
+        "moremekanismprocessing"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Mysticaladaptations",
+      "namespaces": [
+        "mysticaladaptations"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "MythicBotany",
+      "namespaces": [
+        "mythicbotany"
+      ],
+      "modrinth": "https://modrinth.com/mod/mythicbotany",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/mythicbotany"
+    },
+    {
+      "name": "Nether Skeletons",
+      "namespaces": [
+        "netherskeletons"
+      ],
+      "modrinth": "https://modrinth.com/mod/netherskeletons",
+      "resolved": true
+    },
+    {
+      "name": "Nether's Delight",
+      "namespaces": [
+        "nethers_delight"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight"
+    },
+    {
+      "name": "Netherdepthsupgrade",
+      "namespaces": [
+        "netherdepthsupgrade"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "No Tree Punching",
+      "namespaces": [
+        "notreepunching"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/no-tree-punching"
+    },
+    {
+      "name": "Oneshot Plushies",
+      "namespaces": [
+        "plushies"
+      ],
+      "modrinth": "https://modrinth.com/mod/plushies",
+      "resolved": true
+    },
+    {
+      "name": "Primutils",
+      "namespaces": [
+        "primutils"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Questsadditions",
+      "namespaces": [
+        "questsadditions"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Rechiseled",
+      "namespaces": [
+        "rechiseled"
+      ],
+      "modrinth": "https://modrinth.com/mod/rechiseled",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/rechiseled"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "namespaces": [
+        "reeses-sodium-options"
+      ],
+      "modrinth": "https://modrinth.com/mod/reeses-sodium-options",
+      "resolved": true
+    },
+    {
+      "name": "Resourceful Bees",
+      "namespaces": [
+        "resourcefulbees"
+      ],
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/resourceful-bees"
+    },
+    {
+      "name": "Resourcepackoverrides",
+      "namespaces": [
+        "resourcepackoverrides"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Savageandravage",
+      "namespaces": [
+        "savageandravage"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Scenic",
+      "namespaces": [
+        "scenic"
+      ],
+      "modrinth": "https://modrinth.com/mod/scenic",
+      "resolved": true
+    },
+    {
+      "name": "Selene",
+      "namespaces": [
+        "selene"
+      ],
+      "modrinth": "https://modrinth.com/mod/selene",
+      "resolved": true
+    },
+    {
+      "name": "Sereneseasons",
+      "namespaces": [
+        "sereneseasons"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Sereneseasonsfix",
+      "namespaces": [
+        "sereneseasonsfix"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "ShetiPhianCore",
+      "namespaces": [
+        "shetiphiancore"
+      ],
+      "modrinth": "https://modrinth.com/mod/shetiphiancore",
+      "resolved": true
+    },
+    {
+      "name": "SimplyLight",
+      "namespaces": [
+        "simplylight"
+      ],
+      "modrinth": "https://modrinth.com/mod/simplylight",
+      "resolved": true
+    },
+    {
+      "name": "Smallships",
+      "namespaces": [
+        "smallships"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Snowrealmagic",
+      "namespaces": [
+        "snowrealmagic"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Spartanshields",
+      "namespaces": [
+        "spartanshields"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Spartanweaponry",
+      "namespaces": [
+        "spartanweaponry"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Specialmobs",
+      "namespaces": [
+        "specialmobs"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Storage Drawers",
+      "namespaces": [
+        "storagedrawers"
+      ],
+      "modrinth": "https://modrinth.com/mod/storagedrawers",
+      "resolved": true,
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers"
+    },
+    {
+      "name": "Stylisheffects",
+      "namespaces": [
+        "stylisheffects"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Taiga",
+      "namespaces": [
+        "taiga"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Takesapillage",
+      "namespaces": [
+        "takesapillage"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Tconplanner",
+      "namespaces": [
+        "tconplanner"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "The Graveyard - Resurrected",
+      "namespaces": [
+        "graveyard"
+      ],
+      "modrinth": "https://modrinth.com/mod/graveyard",
+      "resolved": true
+    },
+    {
+      "name": "Tiab",
+      "namespaces": [
+        "tiab"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Tinkerslevellingaddon",
+      "namespaces": [
+        "tinkerslevellingaddon"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Tinyskeletons",
+      "namespaces": [
+        "tinyskeletons"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Travel Anchors",
+      "namespaces": [
+        "travel_anchors"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Travelerstitles",
+      "namespaces": [
+        "travelerstitles"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "veinmining",
+      "namespaces": [
+        "veinmining"
+      ],
+      "modrinth": "https://modrinth.com/mod/veinmining",
+      "resolved": true
+    },
+    {
+      "name": "Void Totem",
+      "namespaces": [
+        "voidtotem"
+      ],
+      "modrinth": "https://modrinth.com/mod/voidtotem",
+      "resolved": true
+    },
+    {
+      "name": "Waystones",
+      "namespaces": [
+        "waystones"
+      ],
+      "modrinth": "https://modrinth.com/mod/waystones",
+      "resolved": true
+    },
+    {
+      "name": "Zume",
+      "namespaces": [
+        "zume"
+      ],
+      "modrinth": "https://modrinth.com/mod/zume",
+      "resolved": true
+    }
+  ]
+}

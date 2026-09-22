@@ -1,0 +1,134 @@
+# Translated mods for Minecraft 1.16.5
+
+BMP Translations currently contains translations for 128 mods and add-ons on Minecraft 1.16.5.
+
+The list is generated from the resource-pack sources. A platform link is shown only when the project was found there.
+
+-  Integrated Dungeons and Structures — [Modrinth](https://modrinth.com/mod/idas)
+- AEInfinityBooster — [Modrinth](https://modrinth.com/mod/aeinfinitybooster)
+- AIOTBotania — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+- Amfd
+- Artisan Tools — [Modrinth](https://modrinth.com/mod/artisantools)
+- Artisan Worktables 1.16 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/artisan-worktables-1-16)
+- AstikorCarts — [Modrinth](https://modrinth.com/mod/astikorcarts)
+- Astral Sorcery — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
+- Athenaeum — [Modrinth](https://modrinth.com/mod/athenaeum)
+- Bambooeverything
+- Betterdungeons
+- Betterendforge
+- Betterstrongholds
+- Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- Boss Tools
+- Boss Tools Giselle Addon
+- Building Gadgets — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- Byg
+- Callablehorses
+- Cataclysm
+- Cavesandcliffs
+- Champions — [Modrinth](https://modrinth.com/mod/champions)
+- Charcoal Pit — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/charcoal-pit)
+- Charginggadgets
+- ChatHeads — [Modrinth](https://modrinth.com/mod/chatheads)
+- Chimes — [Modrinth](https://modrinth.com/mod/chimes)
+- ChunkLoaders — [Modrinth](https://modrinth.com/mod/chunkloaders)
+- Citadel — [Modrinth](https://modrinth.com/mod/citadel)
+- Codechickenlib
+- Comforts — [Modrinth](https://modrinth.com/mod/comforts)
+- Compactmachines
+- Compressium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/compressium)
+- Constructsarmory
+- Create Crafts & Additions — [Modrinth](https://modrinth.com/mod/createaddition)
+- CreativeCore — [Modrinth](https://modrinth.com/mod/creativecore)
+- Curios API — [Modrinth](https://modrinth.com/mod/curios)
+- Dank Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-storage)
+- Decorative Blocks
+- Dimstages
+- Ding — [Modrinth](https://modrinth.com/mod/ding)
+- Dsurround
+- Dtatum
+- Dtbyg
+- Dtquark
+- Dttconstruct
+- Dtupgradeaquatic
+- Dummmmmmy
+- End Remastered — [Modrinth](https://modrinth.com/mod/endrem)
+- EnderChests — [Modrinth](https://modrinth.com/mod/enderchests)
+- Ends Delight
+- EvilCraft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/evilcraft) · [Modrinth](https://modrinth.com/mod/evilcraft)
+- Explorerscompass
+- ExtraBotany — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extrabotany) · [Modrinth](https://modrinth.com/mod/extrabotany)
+- Farmer's Respite — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
+- Fclib
+- FramedBlocks — [Modrinth](https://modrinth.com/mod/framedblocks)
+- Framedcompactdrawers
+- FTB Quests — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
+- Gateways
+- Gauges, Switches & Modules — [Modrinth](https://modrinth.com/mod/rsgauges)
+- Gravestone
+- Immersive Posts — [Modrinth](https://modrinth.com/mod/immersiveposts)
+- Iron Chests — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+- Ironfurnaces
+- Item Stages — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-stages)
+- Itemcollectors
+- Itemfilters
+- ItemPhysic — [Modrinth](https://modrinth.com/mod/itemphysic)
+- Jeimultiblocks
+- Jepb
+- Just Enough Breeding (JEBr) — [Modrinth](https://modrinth.com/mod/justenoughbreeding)
+- Justenoughprofessions
+- Kiwi 🥝 — [Modrinth](https://modrinth.com/mod/kiwi)
+- Legendarycreatures
+- Legendarysurvivaloverhaul
+- Lootr — [Modrinth](https://modrinth.com/mod/lootr)
+- Luphieclutteredmod
+- Mana and Artifice — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice) · [Modrinth](https://modrinth.com/mod/mana-and-artifice)
+- Mcwbyg
+- Mcwfences
+- Mcwfurnitures
+- Mcwpaths
+- Mcwroofs
+- Mcwtrpdoors
+- Mcwwindows
+- Mininggadgets
+- More Industrial Foregoing Addons (MIFA) — [Modrinth](https://modrinth.com/mod/mifa)
+- Moremekanismprocessing
+- Mysticaladaptations
+- MythicBotany — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythicbotany) · [Modrinth](https://modrinth.com/mod/mythicbotany)
+- Nether Skeletons — [Modrinth](https://modrinth.com/mod/netherskeletons)
+- Nether's Delight — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- Netherdepthsupgrade
+- No Tree Punching — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/no-tree-punching)
+- Oneshot Plushies — [Modrinth](https://modrinth.com/mod/plushies)
+- Primutils
+- Questsadditions
+- Rechiseled — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled) · [Modrinth](https://modrinth.com/mod/rechiseled)
+- Reese's Sodium Options — [Modrinth](https://modrinth.com/mod/reeses-sodium-options)
+- Resourceful Bees — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-bees)
+- Resourcepackoverrides
+- Savageandravage
+- Scenic — [Modrinth](https://modrinth.com/mod/scenic)
+- Selene — [Modrinth](https://modrinth.com/mod/selene)
+- Sereneseasons
+- Sereneseasonsfix
+- ShetiPhianCore — [Modrinth](https://modrinth.com/mod/shetiphiancore)
+- SimplyLight — [Modrinth](https://modrinth.com/mod/simplylight)
+- Smallships
+- Snowrealmagic
+- Spartanshields
+- Spartanweaponry
+- Specialmobs
+- Storage Drawers — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) · [Modrinth](https://modrinth.com/mod/storagedrawers)
+- Stylisheffects
+- Taiga
+- Takesapillage
+- Tconplanner
+- The Graveyard - Resurrected — [Modrinth](https://modrinth.com/mod/graveyard)
+- Tiab
+- Tinkerslevellingaddon
+- Tinyskeletons
+- Travel Anchors
+- Travelerstitles
+- veinmining — [Modrinth](https://modrinth.com/mod/veinmining)
+- Void Totem — [Modrinth](https://modrinth.com/mod/voidtotem)
+- Waystones — [Modrinth](https://modrinth.com/mod/waystones)
+- Zume — [Modrinth](https://modrinth.com/mod/zume)

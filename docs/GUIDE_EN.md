@@ -11,7 +11,9 @@ packs/
     assets/
     pack.mcmeta
     pack.png
-    README.md
+    README_EN.md
+    README_RU.md
+    mods.json
     VERSION
   1.19.2/
   1.20.1/
@@ -73,8 +75,8 @@ requests. It checks:
 - file paths that differ only by letter casing;
 - accidental nested ZIP files.
 
-The builder excludes repository-only files such as `README.md`, `VERSION`, and
-`mods.json`. Files are sorted, timestamps are normalized, and fixed ZIP
+The builder excludes repository-only files such as `README_EN.md`,
+`README_RU.md`, `VERSION`, and `mods.json`. Files are sorted, timestamps are normalized, and fixed ZIP
 attributes are used, so identical sources produce byte-identical archives.
 
 The resulting filename is:
@@ -131,19 +133,28 @@ The generated Markdown contains:
 4. counts of added, updated, and removed translation keys;
 5. changes to `pack.mcmeta` and `pack.png`.
 
-By default, namespaces such as `ae2` are used as mod names. Friendly names can
-be provided in an optional `packs/<minecraft>/mods.json` file:
+Each pack has a generated `mods.json` catalog. It connects resource namespaces
+to full project names and to the platforms where the project was found:
 
 ```json
 {
-  "ae2": {
-    "name": "Applied Energistics 2"
-  },
-  "productivebees": "Productive Bees"
+  "minecraft": "1.21.1",
+  "mods": [
+    {
+      "name": "Applied Energistics 2",
+      "namespaces": ["ae2"],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2",
+      "modrinth": "https://modrinth.com/mod/ae2",
+      "resolved": true
+    }
+  ]
 }
 ```
 
-`mods.json` is repository metadata and is not included in the release ZIP.
+The synchronization script preserves reviewed records and discovers only exact
+or high-confidence Modrinth matches. It never invents a platform link when the
+match is uncertain; such records keep `resolved: false` for later review.
+Catalogs and generated README files are not included in the release ZIP.
 
 ## Publication flow
 
@@ -167,6 +178,19 @@ therefore does not depend on which parallel publication job finishes last.
 
 The platform jobs are independent. For example, a CurseForge failure does not
 cancel an already successful GitHub or Modrinth publication.
+
+After all selected publication jobs succeed, the metadata job scans the asset
+namespaces, refreshes every catalog and both language-specific README files,
+updates the links in the root README, and generates an English-first bilingual
+Modrinth description. When Modrinth was selected, that description is sent to
+the project API. Changed generated files are committed back to `main` with a
+non-release commit message.
+
+Run the same synchronization locally with:
+
+```shell
+python scripts/mod_metadata.py sync --discover
+```
 
 ## Retrying a failed platform
 

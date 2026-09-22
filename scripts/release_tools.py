@@ -25,7 +25,7 @@ VERSION_RE = re.compile(r"^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-([0-9A-Za
 MC_RE = re.compile(r"^\d+\.\d+(?:\.\d+)?$")
 MARKER_RE = re.compile(r"^\s*release\s+(all|gh|cf|mr)(?:\s+(.+?))?\s*$", re.IGNORECASE)
 ZERO_SHA_RE = re.compile(r"^0+$")
-IGNORED_SOURCE_NAMES = {"README.md", "VERSION", "mods.json"}
+IGNORED_SOURCE_NAMES = {"README.md", "README_EN.md", "README_RU.md", "VERSION", "mods.json"}
 
 
 class ReleaseError(RuntimeError):
@@ -140,7 +140,14 @@ def validate_pack(minecraft: str) -> list[str]:
         raise ReleaseError(f"Missing directory: {directory.relative_to(ROOT)}")
     version = read_version(minecraft)
 
-    required_paths = [directory / "pack.mcmeta", directory / "pack.png", directory / "assets"]
+    required_paths = [
+        directory / "pack.mcmeta",
+        directory / "pack.png",
+        directory / "assets",
+        directory / "README_EN.md",
+        directory / "README_RU.md",
+        directory / "mods.json",
+    ]
     for path in required_paths:
         if not path.exists():
             raise ReleaseError(f"Missing required pack path: {path.relative_to(ROOT)}")
@@ -172,6 +179,7 @@ def validate_pack(minecraft: str) -> list[str]:
 
     if json_count == 0:
         warnings.append(f"{minecraft}: no JSON files found")
+    load_mod_names(minecraft)
     print(f"Validated Minecraft {minecraft} v{version}: {json_count} JSON files")
     return warnings
 
@@ -343,6 +351,17 @@ def load_mod_names(minecraft: str) -> dict[str, str]:
     parsed = load_json_relaxed(path.read_text(encoding="utf-8-sig"), str(path.relative_to(ROOT)))
     if not isinstance(parsed, dict):
         raise ReleaseError(f"{path.relative_to(ROOT)} must contain an object")
+    if isinstance(parsed.get("mods"), list):
+        names: dict[str, str] = {}
+        for entry in parsed["mods"]:
+            if not isinstance(entry, dict) or not isinstance(entry.get("name"), str):
+                raise ReleaseError(f"{path.relative_to(ROOT)} contains an invalid mod entry")
+            namespaces = entry.get("namespaces")
+            if not isinstance(namespaces, list) or not all(isinstance(item, str) for item in namespaces):
+                raise ReleaseError(f"{path.relative_to(ROOT)} contains invalid namespaces")
+            for namespace in namespaces:
+                names[namespace] = entry["name"]
+        return names
     names: dict[str, str] = {}
     for namespace, value in parsed.items():
         if isinstance(value, str):
@@ -575,6 +594,8 @@ def create_plan(before: str, head: str, message: str) -> dict[str, str]:
                 not in {
                     f"packs/{minecraft}/VERSION",
                     f"packs/{minecraft}/README.md",
+                    f"packs/{minecraft}/README_EN.md",
+                    f"packs/{minecraft}/README_RU.md",
                     f"packs/{minecraft}/mods.json",
                 }
             }

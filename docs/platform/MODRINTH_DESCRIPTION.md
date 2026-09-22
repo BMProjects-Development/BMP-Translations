@@ -1,0 +1,516 @@
+# BMP Translations
+
+## English
+
+BMP Translations is a resource pack created by the BMProjects team. It adds Russian translations for mods and is designed both for our own modpacks and for other modpack authors.
+
+## Русский
+
+BMP Translations — ресурспак, созданный командой BMProjects. Он добавляет русские переводы модов и предназначен как для наших сборок, так и для использования другими авторами модпаков.
+
+## Translated mods | Переведённые моды
+
+### Minecraft 1.21.1
+
+<details>
+<summary>235 mods and add-ons | модов и дополнений</summary>
+
+- Accessories Compat Layer
+- Actually Additions
+- Advanced Ae
+- Advanced Loot Info (ALI) — [Modrinth](https://modrinth.com/mod/advanced-loot-info)
+- AE2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) · [Modrinth](https://modrinth.com/mod/ae2)
+- AE2 Import Export Card
+- AE2 Things — [Modrinth](https://modrinth.com/mod/ae2things)
+- AE2 WT Lib
+- AllTheCompressed — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthecompressed)
+- Allthemodium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthemodium) · [Modrinth](https://modrinth.com/mod/allthemodium)
+- AllTheOres — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alltheores)
+- AllTheTweaks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/all-the-tweaks)
+- Angel Ring — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angel-ring)
+- Another Furniture
+- Apotheosis — [Modrinth](https://modrinth.com/mod/apotheosis)
+- Apothic Attributes
+- Apothic Compats
+- Appex
+- Applied Flux — [Modrinth](https://modrinth.com/mod/appflux)
+- Ars Affinity
+- Ars Creo
+- Ars Hex
+- Ars Ocultas
+- Arts And Crafts
+- Avaritia
+- Bamboo Everything
+- Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
+- BetterStats — [Modrinth](https://modrinth.com/mod/betterstats)
+- Bigreactors
+- Biomes O' Plenty — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- Block Factorys Bosses
+- Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- Bonsai Trees 4
+- Botany Pots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- Brandon's Core — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brandons-core)
+- Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- Byg
+- Cataclysm
+- Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
+- Chancecubes
+- Chatimpressiveanimation
+- Chefsdelight
+- Chemical Science — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chemical-science) · [Modrinth](https://modrinth.com/mod/chemicalscience)
+- Chicken Roost
+- Chipped — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped) · [Modrinth](https://modrinth.com/mod/chipped)
+- Chisel — [Modrinth](https://modrinth.com/mod/psejas-chisel)
+- Chisel + Chipped Integration
+- Christmas Culinary Decorations
+- CodeChicken Lib — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
+- Cognition — [Modrinth](https://modrinth.com/mod/cognition)
+- Colored Water
+- Combat Roll
+- Compact Machines
+- Companions! — [Modrinth](https://modrinth.com/mod/companions-mod)
+- Crafting Stantion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
+- Create Dd
+- Create Goggles — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-goggles)
+- Create: Shimmer
+- Creeperoverhaul
+- Ctov
+- Cultural Delights — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cultural-delights)
+- Custommachinery
+- Custommachineryars
+- Custommachinerycreate
+- Custommachinerymekanism
+- Data & Essence
+- Deepdarkdimdungeons
+- Defaultoptions
+- Dimdungeous
+- Dis-Enchanting Table — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
+- Draconic Evolution — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- Dummmmmmy
+- Eatinganimation
+- Elemental Craft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
+- Embeddium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embeddium) · [Modrinth](https://modrinth.com/mod/embeddium)
+- Emirecipesharing
+- Enchanted
+- Enchdesc
+- Ender's Delight — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enders-delight)
+- EnderDrives — [Modrinth](https://modrinth.com/mod/enderdrives)
+- Enderzoology
+- Entity Culling — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling) · [Modrinth](https://modrinth.com/mod/entityculling)
+- Er2create
+- Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
+- Everything is Copper — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper) · [Modrinth](https://modrinth.com/mod/everythingcopper)
+- Expandedae
+- Extendedae
+- Fadingnightvision
+- Fancy World Animations [FWA] — [Modrinth](https://modrinth.com/mod/fwa)
+- Fmtt
+- Forbidden and Arcanus — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
+- Framed Blocks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/framedblocks) · [Modrinth](https://modrinth.com/mod/framedblocks)
+- FTB: Backups — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
+- Ftbauxilium
+- Ftbechoes
+- Ftbmaterials
+- Ftbpc
+- Ftbquests
+- Ftbstuff
+- Ftbteambases
+- Ftbunearthed
+- Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
+- Gadgets Against Grind — [Modrinth](https://modrinth.com/mod/gag)
+- Gateways — [Modrinth](https://modrinth.com/mod/gateway)
+- Gaze
+- GeOre — [Modrinth](https://modrinth.com/mod/geore)
+- Getittogetherdrops
+- GuideME — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guideme) · [Modrinth](https://modrinth.com/mod/guideme)
+- Hooked — [Modrinth](https://modrinth.com/mod/hooked)
+- Iceandfire
+- ImmersiveThunder — [Modrinth](https://modrinth.com/mod/immersivethunder)
+- Industrial Foregoing: Souls
+- Iron Furnaces — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
+- Iron Jetpacks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
+- Irons Jewelry
+- Irregular Implements
+- Itemcollectors
+- Jearchaeology
+- JEI Mekanism Multiblocks
+- Just Dire Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-dire-things)
+- Just Dyna Things
+- JustHammers — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justhammers)
+- Knightlib
+- LaserIO — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/laserio)
+- Lava Fishing — [Modrinth](https://modrinth.com/mod/lavafishing)
+- Leaderboards
+- Lfpirates
+- Lionfishapi
+- Living Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/living-things)
+- Magic Coins
+- Magic Vibe Decorations
+- Magistuarmory
+- Magnumtorch
+- Malum — [Modrinth](https://modrinth.com/mod/malum)
+- ME Requester — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/me-requester) · [Modrinth](https://modrinth.com/mod/merequester)
+- Mecrh
+- Mega Cells — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mega-cells)
+- Mekanism — [Modrinth](https://modrinth.com/mod/mekanism)
+- Mekanism Unleashed
+- Mekanismgenerators
+- Mob Grinding Utils
+- Mod Menu
+- Modernworldcreation
+- Modular Force Field Systems — [Modrinth](https://modrinth.com/mod/mffs)
+- Modular Machinery Reborn — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modular-machinery-reborn)
+- Moofluids
+- More Immersive Wires
+- Morered
+- MrCrayfish's Furniture Mod: Refurbished — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
+- Nautec — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nautec) · [Modrinth](https://modrinth.com/mod/nautec)
+- NBT Ac
+- Neo Vitae — [Modrinth](https://modrinth.com/mod/neovitae)
+- Neruina - Ticking Entity Fixer — [Modrinth](https://modrinth.com/mod/neruina)
+- Nether Skeletons — [Modrinth](https://modrinth.com/mod/netherskeletons)
+- Nethersdelight
+- Openpartiesandclaims
+- Oracle Index
+- Oritech — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech) · [Modrinth](https://modrinth.com/mod/oritech)
+- Oritech Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech-things)
+- Particlerain
+- Paxi — [Modrinth](https://modrinth.com/mod/paxi)
+- Pet Home — [Modrinth](https://modrinth.com/mod/pet_home)
+- Pipe Connector
+- Pipegoggles
+- Placeable Food
+- Pocketstorage
+- PolyLib — [Modrinth](https://modrinth.com/mod/polylib)
+- Productive Bees — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/productive-bees) · [Modrinth](https://modrinth.com/mod/productivebees)
+- Productivefarming
+- Reanimal
+- Rechiseled — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled) · [Modrinth](https://modrinth.com/mod/rechiseled)
+- Rechiseled: Create — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create)
+- Rep AE2 Bridge
+- Repeatable Trial Vaults
+- Replication — [Modrinth](https://modrinth.com/mod/replication)
+- Replication Matter Overflow
+- Reskillable
+- Rftoolsbase
+- Rftoolsbuilder
+- Rftoolspower
+- Rftoolsutility
+- Roots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roots)
+- RSInfinityBooster — [Modrinth](https://modrinth.com/mod/rsinfinitybooster)
+- Schematicenergistics
+- Shoppy
+- Shrink — [Modrinth](https://modrinth.com/mod/shrink)
+- Shulker Box Tooltip — [Modrinth](https://modrinth.com/mod/shulkerboxtooltip)
+- Simple Teleporters
+- Simpletomb
+- Simply Traps
+- Simplybows
+- Simplyswords
+- Simplytooltips
+- Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- Soulplied Energistics
+- Sounds — [Modrinth](https://modrinth.com/mod/sound)
+- StarbuncleMania
+- Statuseffectbars
+- Stone Chest
+- Structurize — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structurize)
+- Stylisheffects
+- Subtle Effects
+- Super Factory Manager
+- Teams — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams)
+- Tempad — [Modrinth](https://modrinth.com/mod/tempad)
+- Thaumic Decoration
+- Tiab
+- Toast Control — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- Tooltipoverhaul
+- Toxony — [Modrinth](https://modrinth.com/mod/toxony)
+- Trashcans
+- Travel Friendly Food
+- Trophymanager
+- Twilight Delight — [Modrinth](https://modrinth.com/mod/twilightdelight)
+- Ultimine — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
+- Vc Gliders
+- VillagerConfig — [Modrinth](https://modrinth.com/mod/villagerconfig)
+- Vista
+- Voltaic — [Modrinth](https://modrinth.com/mod/voltaic)
+- Wavy Water — [Modrinth](https://modrinth.com/mod/waves)
+- Waystones — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones) · [Modrinth](https://modrinth.com/mod/waystones)
+- Witcher Rpg
+- Wizard Tower
+- Wooden Bucket — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wooden-bucket)
+- Worldeditcui
+- Worldplaytime
+- Xaero's World Map — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- XNet — [Modrinth](https://modrinth.com/mod/xnet)
+- XNet Gases
+- XP Synthesiser
+- Xycraft Core
+- Xycraft Machines
+- Xycraft World
+- YTech — [Modrinth](https://modrinth.com/mod/ytech)
+- Zombie Variants
+
+</details>
+
+### Minecraft 1.20.1
+
+<details>
+<summary>95 mods and add-ons | модов и дополнений</summary>
+
+- AE2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) · [Modrinth](https://modrinth.com/mod/ae2)
+- AE2 Things — [Modrinth](https://modrinth.com/mod/ae2things)
+- Ae2importexportcard
+- Ae2wtlib
+- AIOTBotania
+- AllTheCompressed — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthecompressed)
+- Allthemodium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthemodium) · [Modrinth](https://modrinth.com/mod/allthemodium)
+- AllTheOres — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alltheores)
+- AllTheTweaks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/all-the-tweaks)
+- Angel Ring — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/angel-ring)
+- Automobility — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/automobility) · [Modrinth](https://modrinth.com/mod/automobility)
+- Backups — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
+- Baubley Heart Canisters — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters)
+- Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
+- Bigreactors
+- Biomes O' Plenty — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- Block Factorys Bosses
+- Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- Botany Pots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- Brandon's Core — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brandons-core)
+- Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- Byg
+- Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
+- Chemical Science — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chemical-science) · [Modrinth](https://modrinth.com/mod/chemicalscience)
+- Chipped — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chipped) · [Modrinth](https://modrinth.com/mod/chipped)
+- CodeChicken Lib — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
+- Crafting Stantion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
+- Create Dd
+- Create Goggles — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-goggles)
+- Cultural Delights — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cultural-delights)
+- Dis-Enchanting Table — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
+- Dodo's Mobs — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dodos-mobs)
+- Draconic Additions — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/draconicadditions)
+- Draconic Evolution — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- Elemental Craft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
+- Embeddium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embeddium) · [Modrinth](https://modrinth.com/mod/embeddium)
+- Enchanted
+- Ender's Delight — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enders-delight)
+- Entity Culling — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling) · [Modrinth](https://modrinth.com/mod/entityculling)
+- Er2create
+- Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
+- Everything is Copper — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper) · [Modrinth](https://modrinth.com/mod/everythingcopper)
+- Framed Blocks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/framedblocks) · [Modrinth](https://modrinth.com/mod/framedblocks)
+- Ftbquests
+- Ftbragnarok
+- Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
+- GuideME — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guideme) · [Modrinth](https://modrinth.com/mod/guideme)
+- Hadean Breathe — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hadean-breathe)
+- Iron Furnaces — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
+- Iron Jetpacks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
+- Itemcollectors
+- JustHammers — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justhammers)
+- Justtrialspawners
+- LaserIO — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/laserio)
+- Leaderboards
+- Living Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/living-things)
+- Lodestone Warps — [Modrinth](https://modrinth.com/mod/lodestone)
+- Loot Journal
+- lootbeams — [Modrinth](https://modrinth.com/mod/lootbeams)
+- Lychee — [Modrinth](https://modrinth.com/mod/lychee)
+- Mana Jade
+- Manaunification
+- Matc
+- McJtyLib — [Modrinth](https://modrinth.com/mod/mcjtylib)
+- ME Requester — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/me-requester) · [Modrinth](https://modrinth.com/mod/merequester)
+- Measurements — [Modrinth](https://modrinth.com/mod/measurements)
+- Mega Cells — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mega-cells)
+- Mowzies Cataclysm
+- Mowziesmobs
+- MrCrayfish's Furniture Mod: Refurbished — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
+- MythicBotany — [Modrinth](https://modrinth.com/mod/mythicbotany)
+- Mythicbotany Lexicon
+- Naturalist — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/naturalist) · [Modrinth](https://modrinth.com/mod/naturalist)
+- Neo Auth
+- Nether's Delight — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- Netherexp
+- Particlerain
+- Playing Cards — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/playing-cards-chips)
+- Productive Bees — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/productive-bees) · [Modrinth](https://modrinth.com/mod/productivebees)
+- Rechiseled — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled) · [Modrinth](https://modrinth.com/mod/rechiseled)
+- Rechiseled: Create — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create)
+- Reskillable
+- Roots
+- Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- Structurize — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structurize)
+- Tiab
+- Toast Control — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+- Twilight Delight — [Modrinth](https://modrinth.com/mod/twilightdelight)
+- Ultimine — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine)
+- Undead Unleashed!
+- ValkyrieLib — [Modrinth](https://modrinth.com/mod/valkyrielib)
+- Waystones — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones) · [Modrinth](https://modrinth.com/mod/waystones)
+- Wilderness — [Modrinth](https://modrinth.com/mod/ketok-wilderness)
+- Wooden Bucket — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wooden-bucket)
+- Xaero's World Map — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+</details>
+
+### Minecraft 1.19.2
+
+<details>
+<summary>13 mods and add-ons | модов и дополнений</summary>
+
+- AE2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) · [Modrinth](https://modrinth.com/mod/ae2)
+- AllTheCompressed — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthecompressed)
+- Allthemodium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthemodium) · [Modrinth](https://modrinth.com/mod/allthemodium)
+- AllTheOres
+- Assembly Line Machines — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/assemblylinemachines)
+- Beachparty
+- Candlelight
+- Dimstages
+- Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
+- Iron Furnaces — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
+- Meadow
+- Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- The Bakery Modpack — [Modrinth](https://modrinth.com/mod/bakery)
+
+</details>
+
+### Minecraft 1.16.5
+
+<details>
+<summary>128 mods and add-ons | модов и дополнений</summary>
+
+-  Integrated Dungeons and Structures — [Modrinth](https://modrinth.com/mod/idas)
+- AEInfinityBooster — [Modrinth](https://modrinth.com/mod/aeinfinitybooster)
+- AIOTBotania — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aiot-botania)
+- Amfd
+- Artisan Tools — [Modrinth](https://modrinth.com/mod/artisantools)
+- Artisan Worktables 1.16 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/artisan-worktables-1-16)
+- AstikorCarts — [Modrinth](https://modrinth.com/mod/astikorcarts)
+- Astral Sorcery — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
+- Athenaeum — [Modrinth](https://modrinth.com/mod/athenaeum)
+- Bambooeverything
+- Betterdungeons
+- Betterendforge
+- Betterstrongholds
+- Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- Boss Tools
+- Boss Tools Giselle Addon
+- Building Gadgets — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- Byg
+- Callablehorses
+- Cataclysm
+- Cavesandcliffs
+- Champions — [Modrinth](https://modrinth.com/mod/champions)
+- Charcoal Pit — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/charcoal-pit)
+- Charginggadgets
+- ChatHeads — [Modrinth](https://modrinth.com/mod/chatheads)
+- Chimes — [Modrinth](https://modrinth.com/mod/chimes)
+- ChunkLoaders — [Modrinth](https://modrinth.com/mod/chunkloaders)
+- Citadel — [Modrinth](https://modrinth.com/mod/citadel)
+- Codechickenlib
+- Comforts — [Modrinth](https://modrinth.com/mod/comforts)
+- Compactmachines
+- Compressium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/compressium)
+- Constructsarmory
+- Create Crafts & Additions — [Modrinth](https://modrinth.com/mod/createaddition)
+- CreativeCore — [Modrinth](https://modrinth.com/mod/creativecore)
+- Curios API — [Modrinth](https://modrinth.com/mod/curios)
+- Dank Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dank-storage)
+- Decorative Blocks
+- Dimstages
+- Ding — [Modrinth](https://modrinth.com/mod/ding)
+- Dsurround
+- Dtatum
+- Dtbyg
+- Dtquark
+- Dttconstruct
+- Dtupgradeaquatic
+- Dummmmmmy
+- End Remastered — [Modrinth](https://modrinth.com/mod/endrem)
+- EnderChests — [Modrinth](https://modrinth.com/mod/enderchests)
+- Ends Delight
+- EvilCraft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/evilcraft) · [Modrinth](https://modrinth.com/mod/evilcraft)
+- Explorerscompass
+- ExtraBotany — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/extrabotany) · [Modrinth](https://modrinth.com/mod/extrabotany)
+- Farmer's Respite — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
+- Fclib
+- FramedBlocks — [Modrinth](https://modrinth.com/mod/framedblocks)
+- Framedcompactdrawers
+- FTB Quests — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge)
+- Gateways
+- Gauges, Switches & Modules — [Modrinth](https://modrinth.com/mod/rsgauges)
+- Gravestone
+- Immersive Posts — [Modrinth](https://modrinth.com/mod/immersiveposts)
+- Iron Chests — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+- Ironfurnaces
+- Item Stages — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-stages)
+- Itemcollectors
+- Itemfilters
+- ItemPhysic — [Modrinth](https://modrinth.com/mod/itemphysic)
+- Jeimultiblocks
+- Jepb
+- Just Enough Breeding (JEBr) — [Modrinth](https://modrinth.com/mod/justenoughbreeding)
+- Justenoughprofessions
+- Kiwi 🥝 — [Modrinth](https://modrinth.com/mod/kiwi)
+- Legendarycreatures
+- Legendarysurvivaloverhaul
+- Lootr — [Modrinth](https://modrinth.com/mod/lootr)
+- Luphieclutteredmod
+- Mana and Artifice — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice) · [Modrinth](https://modrinth.com/mod/mana-and-artifice)
+- Mcwbyg
+- Mcwfences
+- Mcwfurnitures
+- Mcwpaths
+- Mcwroofs
+- Mcwtrpdoors
+- Mcwwindows
+- Mininggadgets
+- More Industrial Foregoing Addons (MIFA) — [Modrinth](https://modrinth.com/mod/mifa)
+- Moremekanismprocessing
+- Mysticaladaptations
+- MythicBotany — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mythicbotany) · [Modrinth](https://modrinth.com/mod/mythicbotany)
+- Nether Skeletons — [Modrinth](https://modrinth.com/mod/netherskeletons)
+- Nether's Delight — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+- Netherdepthsupgrade
+- No Tree Punching — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/no-tree-punching)
+- Oneshot Plushies — [Modrinth](https://modrinth.com/mod/plushies)
+- Primutils
+- Questsadditions
+- Rechiseled — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled) · [Modrinth](https://modrinth.com/mod/rechiseled)
+- Reese's Sodium Options — [Modrinth](https://modrinth.com/mod/reeses-sodium-options)
+- Resourceful Bees — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-bees)
+- Resourcepackoverrides
+- Savageandravage
+- Scenic — [Modrinth](https://modrinth.com/mod/scenic)
+- Selene — [Modrinth](https://modrinth.com/mod/selene)
+- Sereneseasons
+- Sereneseasonsfix
+- ShetiPhianCore — [Modrinth](https://modrinth.com/mod/shetiphiancore)
+- SimplyLight — [Modrinth](https://modrinth.com/mod/simplylight)
+- Smallships
+- Snowrealmagic
+- Spartanshields
+- Spartanweaponry
+- Specialmobs
+- Storage Drawers — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) · [Modrinth](https://modrinth.com/mod/storagedrawers)
+- Stylisheffects
+- Taiga
+- Takesapillage
+- Tconplanner
+- The Graveyard - Resurrected — [Modrinth](https://modrinth.com/mod/graveyard)
+- Tiab
+- Tinkerslevellingaddon
+- Tinyskeletons
+- Travel Anchors
+- Travelerstitles
+- veinmining — [Modrinth](https://modrinth.com/mod/veinmining)
+- Void Totem — [Modrinth](https://modrinth.com/mod/voidtotem)
+- Waystones — [Modrinth](https://modrinth.com/mod/waystones)
+- Zume — [Modrinth](https://modrinth.com/mod/zume)
+
+</details>
+
+![BMP Translations logo](https://cdn.modrinth.com/data/cached_images/48cdfa3fc47c784c863ad67c80175a194c2809ae_0.webp)

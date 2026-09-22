@@ -93,19 +93,23 @@ The English section is emitted first, followed by the Russian section. The
 generator reports added, updated, and removed asset namespaces and counts
 added, changed, and removed translation keys in JSON and `.lang` files.
 
-By default namespaces such as `ae2` are used as mod names. An optional
-`packs/<minecraft>/mods.json` can provide friendly names:
+Each generated `packs/<minecraft>/mods.json` catalog stores full project names,
+the resource namespaces they cover, and optional platform links:
 
 ```json
 {
-  "ae2": {
-    "name": "Applied Energistics 2"
-  },
-  "productivebees": "Productive Bees"
+  "name": "Applied Energistics 2",
+  "namespaces": ["ae2"],
+  "curseforge": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2",
+  "modrinth": "https://modrinth.com/mod/ae2",
+  "resolved": true
 }
 ```
 
-This file is repository metadata and is not included in the resource-pack ZIP.
+After a successful release, the metadata job refreshes the catalogs, both
+language-specific pack README files, the root README links, and the bilingual
+Modrinth description. Uncertain matches are kept with `resolved: false` and no
+invented platform link. These files are not included in the resource-pack ZIP.
 
 ## Local validation
 
@@ -115,6 +119,7 @@ dependencies.
 ```shell
 python scripts/release_tools.py validate
 python scripts/release_tools.py build --all --output dist
+python scripts/mod_metadata.py sync --discover
 ```
 
 The validator checks pack metadata, JSON/JSON-with-comments files, conflicting
