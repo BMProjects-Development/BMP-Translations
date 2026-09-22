@@ -1,6 +1,6 @@
 # Translated mods for Minecraft 1.21.1
 
-BMP Translations currently contains translations for 235 mods and add-ons on Minecraft 1.21.1.
+BMP Translations currently contains translations for 233 mods and add-ons on Minecraft 1.21.1.
 
 The list is generated from the resource-pack sources. A platform link is shown only when the project was found there.
 
@@ -102,7 +102,6 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Ftbmaterials
 - Ftbpc
 - Ftbquests
-- Ftbstuff
 - Ftbteambases
 - Ftbunearthed
 - Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
@@ -202,7 +201,6 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - StarbuncleMania
 - Statuseffectbars
-- Stone Chest
 - Structurize — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - Stylisheffects
 - Subtle Effects

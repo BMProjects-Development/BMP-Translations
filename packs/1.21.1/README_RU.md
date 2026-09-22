@@ -1,6 +1,6 @@
 # Переведённые моды для Minecraft 1.21.1
 
-BMP Translations содержит переводы для 235 модов и дополнений на Minecraft 1.21.1.
+BMP Translations содержит переводы для 233 модов и дополнений на Minecraft 1.21.1.
 
 Список создаётся автоматически из исходников ресурспака. Ссылка на площадку отображается только тогда, когда проект на ней найден.
 
@@ -102,7 +102,6 @@ BMP Translations содержит переводы для 235 модов и до
 - Ftbmaterials
 - Ftbpc
 - Ftbquests
-- Ftbstuff
 - Ftbteambases
 - Ftbunearthed
 - Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
@@ -202,7 +201,6 @@ BMP Translations содержит переводы для 235 модов и до
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - StarbuncleMania
 - Statuseffectbars
-- Stone Chest
 - Structurize — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - Stylisheffects
 - Subtle Effects

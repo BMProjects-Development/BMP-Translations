@@ -738,13 +738,6 @@
       "resolved": false
     },
     {
-      "name": "Ftbstuff",
-      "namespaces": [
-        "ftbstuff"
-      ],
-      "resolved": false
-    },
-    {
       "name": "Ftbteambases",
       "namespaces": [
         "ftbteambases"
@@ -1482,13 +1475,6 @@
         "statuseffectbars"
       ],
       "resolved": false
-    },
-    {
-      "name": "Stone Chest",
-      "namespaces": [
-        "stonechest"
-      ],
-      "resolved": true
     },
     {
       "name": "Structurize",

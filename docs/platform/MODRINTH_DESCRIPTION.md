@@ -13,7 +13,7 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 1.21.1
 
 <details>
-<summary>235 mods and add-ons | модов и дополнений</summary>
+<summary>233 mods and add-ons | модов и дополнений</summary>
 
 - Accessories Compat Layer
 - Actually Additions
@@ -113,7 +113,6 @@ BMP Translations — ресурспак, созданный командой BMP
 - Ftbmaterials
 - Ftbpc
 - Ftbquests
-- Ftbstuff
 - Ftbteambases
 - Ftbunearthed
 - Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
@@ -213,7 +212,6 @@ BMP Translations — ресурспак, созданный командой BMP
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - StarbuncleMania
 - Statuseffectbars
-- Stone Chest
 - Structurize — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - Stylisheffects
 - Subtle Effects
