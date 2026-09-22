@@ -1,0 +1,21 @@
+{
+  "primutils.jei.millstone.title": "Жёрнов",
+  "primutils.jei.millstone.chance_tooltip": "Шанс: %s%%",
+  "primutils.jei.millstone.useAmount": "Требуется вращений: %s",
+  "primutils.jei.drying_rack.title": "Сушка",
+  "primutils.jei.drying_rack.duration": "Длительность: %s тиков",
+  "primutils.jei.chopping_block.title": "Разделочный блок",
+  "primutils.jei.chopping_block.duration": "Рубить %s раз",
+  "primutils.jei.basin.title": "Чан",
+  "primutils.jei.basin.fluidAmount": "%sмб",
+  "primutils.jei.basin.stirAmount": "Перемешать %s раз",
+  "itemGroup.primutils": "Primitive Utils",
+  "block.primutils.millstone": "Жёрнов",
+  "primutils.tooltip.millstone": "ПКМ с предметом, чтобы добавить предмет. ПКМ пустой рукой — вращать. Shift+ПКМ — вынуть предмет. Все стороны поддерживают вставку из воронок/труб.",
+  "block.primutils.drying_rack": "Сушилка",
+  "primutils.tooltip.drying_rack": "ПКМ с предметом, чтобы добавить предмет. Shift+ПКМ — вынуть предмет. Со временем предметы высохнут. Все стороны поддерживают вставку из воронок/труб.",
+  "block.primutils.chopping_block": "Разделочный блок",
+  "primutils.tooltip.chopping_block": "ПКМ с предметом, чтобы добавить предмет. Shift+ПКМ — вынуть предмет. ПКМ топором — рубить. Все стороны поддерживают вставку из воронок/труб.",
+  "block.primutils.basin": "Деревянный чан",
+  "primutils.tooltip.basin": "ПКМ с предметом, чтобы добавить предмет. Shift+ПКМ — вынуть предмет. Можно добавить до 4 предметов. ПКМ ёмкостью с жидкостью — добавить/убрать жидкость. Все стороны поддерживают вставку предметов и жидкостей из воронок/труб."
+}

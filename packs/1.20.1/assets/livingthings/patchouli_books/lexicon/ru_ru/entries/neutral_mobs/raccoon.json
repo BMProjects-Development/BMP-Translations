@@ -1,0 +1,19 @@
+{
+  "name": "Енот",
+  "icon": "livingthings:raccoon_spawn_egg",
+  "category": "livingthings:neutral_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Среднего размера млекопитающие, которые тщательно моют свою еду перед употреблением.$(br2)$(bold)Здоровье: $()5 сердец$(br)$(bold)Урон: $()1 сердце$(br2)$(bold)Предметы для размножения: $()$(li)Пшеница$(li)Яблоко$(li)Морковь$(li)Картофель$(li)Свёкла"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:raccoon",
+      "rotate": false,
+      "scale": 0.9,
+      "default_rotation": 35,
+      "text": "Можно встретить в биомах $(bold)Леса$() и $(bold)Равнин$()."
+    }
+  ]
+}

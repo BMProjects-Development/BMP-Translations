@@ -1,0 +1,16 @@
+{
+  "name": "Кровавые кирпичи",
+  "icon": "bloodmagic:largebloodstonebrick",
+  "category": "bloodmagic:utility",
+  "pages":[
+    {
+      "type": "text",
+      "text": "$(item)Кровавые кирпичи$() являются декоративными блоками и используются в качестве $(thing)капителей$() для 4го уровня $(l:bloodmagic:altar/blood_altar)кровавого алтаря$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:largebloodstonebrick",
+      "recipe2": "bloodmagic:bloodstonebrick"
+    }
+  ]
+}

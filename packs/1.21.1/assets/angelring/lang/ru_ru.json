@@ -1,0 +1,23 @@
+{
+  "item.angelring.angel_ring": "Ангельское кольцо",
+  "item.angelring.diamond_ring": "Алмазное кольцо",
+  "item.angelring.angel_ring.not_enough_xp": "Вам нужен опыт, чтобы летать. Получите больше опыта, чтобы снова летать.",
+  "item.angelring.angel_ring.tooltip": "Удерживайте §eShift§7 для получения дополнительной информации!",
+  "item.angelring.angel_ring.desc0": "Ангельское кольцо со временем истощает опыт игрока во время полета.",
+  "item.angelring.angel_ring.desc1": "Если опыт игрока опустится до 1 уровня,",
+  "item.angelring.angel_ring.desc2": "магия исчезнет, и полет станет невозможным.",
+  "item.angelring.angel_ring.classic.desc0": "Ангельское кольцо переключено в классический режим. Предоставляет творческий полет во время игры в слоте диковин.",
+  "item.angelring.angel_ring.classic.desc1": "Переключите истощение опыта более чем на 0 очков в конфигурации, чтобы переключиться в режим ребаланса.",
+  "item.angelring.energetic_angel_ring": "Энергетическое Ангельское кольцо",
+  "item.angelring.energetic_angel_ring.not_enough_fe": "Чтобы летать, нужно больше FE. Зарядите свое Ангельское кольцо, чтобы снова летать.",
+  "item.angelring.energetic_angel_ring.tooltip": "Удерживайте §eShift§7 для получения дополнительной информации!",
+  "item.angelring.energetic_angel_ring.desc0": "Ангельское кольцо со временем истощает заряд FE во время полета.",
+  "item.angelring.energetic_angel_ring.desc1": "Ангельское кольцо в настоящее время содержит %s FE / %s FE.",
+  "item.angelring.leadstone_angel_ring": "Свинцовое Ангельское кольцо",
+  "item.angelring.hardened_angel_ring": "Закаленое Ангельское кольцо",
+  "item.angelring.reinforced_angel_ring": "Укрепленное Ангельское кольцо",
+  "item.angelring.resonant_angel_ring": "Резонансное Ангельское кольцо",
+  "curios.identifier.angelring": "Ангельское кольцо",
+  "itemGroup.angelring2": "Ангельское кольцо 2",
+  "angelring.warning": "§cВ вашем ангельском кольце заканчивается энергия!"
+}

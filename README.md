@@ -5,3 +5,12 @@
 
 ## Links 
 [CurseForge](https://www.curseforge.com/minecraft/texture-packs/bmp-translations) | [Modrinth](https://modrinth.com/resourcepack/bmp-translations)
+
+## Repository structure
+
+Resource-pack sources are stored unpacked in `packs/<minecraft-version>`.
+Every Minecraft version has its own `VERSION` and independent release history.
+ZIP files are validated and built automatically by GitHub Actions.
+
+See [RELEASING.md](RELEASING.md) for release markers, versioning, required
+secrets, changelog generation, and recovery instructions.

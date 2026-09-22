@@ -1,0 +1,6 @@
+{
+  "name": "Список ритуалов",
+  "description": "Некоторые простые $(thing)ритуалы$() доступны для вас с $(l:bloodmagic:altar/blood_altar)кровавым алтарём$() уровня III, но для более сложный ритуалов потребуются $(dusk)руны сумерек$(), и, алтарь IVго уровня. $(br)Используйте $(l:bloodmagic:rituals/ritual_diviner)ритуальный предсказатель$() чтобы собрать ритуал, $(l:bloodmagic:rituals/activation_crystals)кристал активации$() чтобы активировать, и $(l:bloodmagic:rituals/ritual_tinkerer)ритуальный мастер$() чтобы настроить их. Не забывайте держать свою $(l:bloodmagic:altar/soul_network)сеть душ$() наполненной!",
+  "icon": "bloodmagic:masterritualstone",
+  "parent": "bloodmagic:rituals"
+}

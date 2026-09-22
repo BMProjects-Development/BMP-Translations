@@ -1,0 +1,32 @@
+{
+  "name": "Сигил провидца",
+  "icon": "bloodmagic:seersigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Сигил провидца$() является более развитой формой $(l:bloodmagic:alchemy_array/sigil/divination)сигила прорицания$().  Наряду с отображением количества LP в вашей $(l:bloodmagic:altar/soul_network)сети душ$(/l), он также показывает больше информации при просмотре $(l:bloodmagic:altar/blood_altar)кровавого алтаря$(/l)."
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "Реагент зрения",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_sight",
+      "array.heading": "Сигил провидца",
+      "array.recipe": "bloodmagic:array/seersigil",
+      "array.text": "$(italic)Когда увидеть все недостаточно"
+    },
+    {
+      "type": "text",
+      "text": "Сверху вниз у нас есть: $(li)Текущий уровень $(l:bloodmagic:altar/blood_altar)кровавого алтаря$(/l). $(li)Количество крови, находящееся в алтаре, и текущая общая вместимость алтаря. (По умолчанию это значение равно 10 000 МБ, но может быть увеличено с помощью  $(l:bloodmagic:altar/blood_rune/capacity_rune)рун ёмкости$() и $(l:bloodmagic:altar/blood_rune/aug_capacity_rune)рун увеличиной ёмкости.$() $(li)Текущий прогресс крафта, если есть.  $(li)Потребление LP/Tick. $(li) Текущее хранилище LP любой $(l:bloodmagic:altar/blood_rune/charging_rune)заряжающей руны$()."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/seer_sigil_info.png"
+      ],
+      "title": "Интерфейс сигила провидца",
+      "border": true,
+      "text": "Сигил провидца отображает этот интерфейс, когда вы смотрите на кровавый алтарь."
+    }
+  ]
+}

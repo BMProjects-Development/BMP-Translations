@@ -1,0 +1,20 @@
+{
+	"key.ftbultimine": "FTB Ultimine",
+	"key.categories.ftbultimine": "FTB Ultimine",
+	"ftbultimine.info.base": "FTB Ultimine %s",
+	"ftbultimine.info.active": "Активен",
+	"ftbultimine.info.not_active": "Не активен",
+	"ftbultimine.info.cooldown": "На перезарядке",
+	"ftbultimine.info.blocks": "Добыто %d блоков",
+	"ftbultimine.info.partial_render": "%d оказанно",
+	"ftbultimine.change_shape": "Удерживайте Shift + (колёсиком мышки вверх/вниз), чтобы изменить форму",
+	"ftbultimine.shape.shapeless": "Бесформенный",
+	"ftbultimine.shape.small_tunnel": "Мини-туннель",
+	"ftbultimine.shape.large_tunnel": "Большой туннель (3x3)",
+	"ftbultimine.shape.small_square": "Квадрат 3х3",
+	"ftbultimine.shape.mining_tunnel": "Шахтёрский туннель",
+	"ftbultimine.shape.escape_tunnel": "Эвакуационный туннель",
+	"ftbultimine.config": "FTB Ultimine конфигурация",
+	"item.ftbultimine.ultiminer": "Ультромайнер",
+	"item.ftbultimine.ultiminer.tooltip": "Позволяет использовать %s, когда активен"
+}

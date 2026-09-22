@@ -1,0 +1,32 @@
+{
+  "name": "Стремительность",
+  "icon": "minecraft:sugar",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Стремительность$() увеличивает скорость передвижения объекта на 20% за уровень."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Стремительность (3:00)",
+      "a.recipe": "bloodmagic:flask/speed_boost",
+      "b.heading": "Стремительность (8:00)",
+      "b.recipe": "bloodmagic:flask/length_speed_boost",
+      "c.heading": "Стремительность II (1:30)",
+      "c.recipe": "bloodmagic:flask/potency_speed_boost"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "добавление $(l:bloodmagic:alchemy_table/potions#average_potions)Стандартных катализаторов$() позволит усилить зелье."
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Стремительность III (0:45)",
+      "a.recipe": "bloodmagic:flask/potency_average_speed_boost",
+      "b.heading": "Стремительность (21:20)",
+      "b.recipe": "bloodmagic:flask/length_average_speed_boost"
+    }
+
+  ]
+}

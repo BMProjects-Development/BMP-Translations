@@ -1,0 +1,144 @@
+{
+  "item.endrem.old_eye": "Старинный глаз",
+  "item.endrem.old_eye.description": "Согласно легендам, этот глаз принадлежал одному из великих песчанных червей",
+
+  "item.endrem.rogue_eye": "Глаз изгоя",
+  "item.endrem.rogue_eye.description": "Этот глаз открыл нашим предкам тайны редстоуна",
+
+  "item.endrem.nether_eye": "Глаз Ада",
+  "item.endrem.nether_eye.description": "Этот глаз был потерян демонои во время битвы между Адом и Раем",
+
+  "item.endrem.cold_eye": "Ледяной глаз",
+  "item.endrem.cold_eye.description": "Один из последних артифактов оставленных Iceologers перед их внезапным вымиранием",
+
+  "item.endrem.magical_eye": "Волшебный глаз",
+  "item.endrem.magical_eye.description": "Без этого глаза, Вызыватель бессилен",
+
+  "item.endrem.black_eye": "Чёрный глаз",
+  "item.endrem.black_eye.description": "Согласно пиратским легендам, этот глаз озарял Чёрную Жемчужину",
+
+  "item.endrem.lost_eye": "Потерянный глаз",
+  "item.endrem.lost_eye.description": "Этот глаз был выкован первыми кузнецами этого мира",
+
+  "item.endrem.wither_eye": "Глаз Искушителя",
+  "item.endrem.wither_eye.description": "Он был свидителем разрушения. Возможно он тоже был свидителем вашей смерти",
+
+  "item.endrem.guardian_eye": "Глаз Стража",
+  "item.endrem.guardian_eye.description": "Он видел как множество великих рыцарей задыхались на дне моря",
+
+  "item.endrem.end_crystal_eye": "Кристальный глаз Края",
+  "item.endrem.end_crystal_eye.description": "В нём заключён фрагмент души дракона Края",
+
+  "item.endrem.corrupted_eye": "Испорченный глаз",
+  "item.endrem.corrupted_eye.description": "Глаз жалкого короля, скончавшегося из-за своей же алчности. Легенды гласять что его обладателя озарит бесконечнвя удача",
+
+  "item.endrem.witch_eye": "Ведьмин глаз",
+  "item.endrem.witch_eye.description": "Считается, что этот зрачок видел древние рецепты зелий, утерянные во времени.",
+
+  "item.endrem.end_crystal_fragment": "Фрагмент кристального глаза Края",
+
+  "item.endrem.witch_pupil": "Ведьмин зрачок",
+
+  "item.endrem.end_crystal_ingot": "Кристаллический слиток Края",
+
+
+  "item.endrem.end_castle_disc": "Диск замка Края",
+  "item.endrem.end_castle_disc.desc.sub": "Диск замка Края",
+
+  "item.endrem.end_crystal_helmet": "Шлем из кристаллов Края",
+  "item.endrem.end_crystal_chestplate": "Кираса из кристаллов Края",
+  "item.endrem.end_crystal_leggings": "Поножи из кристаллов Края",
+  "item.endrem.end_crystal_boots": "Ботинки из кристаллов Края",
+  "item.endrem.armor.description.main": "При каждом крит. ударе, Вы получайте 1 секунду регенерации II",
+
+  "item.endrem.end_crystal_hoe": "Мотыга из кристаллов Края",
+  "item.endrem.end_crystal_axe": "Топор из кристаллов Края",
+  "item.endrem.end_crystal_pickaxe": "Кирка из кристаллов Края",
+  "item.endrem.end_crystal_shovel": "Лопата из Кристаллов Края",
+  "item.endrem.end_crystal_sword": "Меч из кристаллов Края",
+
+  "item.endrem.end_castle_map": "Карта замка Края",
+  "item.endrem.end_gate_map": "Карта врат Края",
+
+  "block.endrem.end_creator": "Создатель Края",
+  "block.endrem.end_creator_activated": "Активированный создатель Края",
+
+  "block.endrem.ancient_portal_frame": "Рамка древнего портала",
+  "block.endrem.end_crystal_ore": "Руда кристала Края",
+  "block.endrem.end_crystal_block": "Блок кристаллов Края",
+
+  "block.endrem.ender_eye.warning": "Этот глаз не хочет, чтобы его использовали",
+  "block.endrem.custom_eye.place": "Этот глаз уже установлен",
+  "block.endrem.custom_eye.frame_has_eye": "В этой рамке уже есть глаз",
+
+  "itemGroup.endremTab": "End Remastered",
+
+  "block.portal_open_sound": "Открытие портала",
+  "block.portal_open_sound.sub": "Открытие портала",
+
+  "item.endrem.end_castle_disc.desc": "Daserta - Тень Края",
+
+  "advancements.main.root.title": "Начало путешевствия",
+  "advancements.main.root.description": "Получите свой первый Глаз",
+
+  "advancements.main.root.end_crystal_armor.title": "Осыпь меня кристалами",
+  "advancements.main.root.end_crystal_armor.description": "Получите полный сет брони из кристаллов Края",
+
+  "advancements.main.old_eye.title": "Искатель удачи",
+  "advancements.main.old_eye.description": "Получите свой первый Старинный Глаз",
+
+  "advancements.main.rogue_eye.title": "Добро пожаловать в джунгли",
+  "advancements.main.rogue_eye.description": "Получите свой первый глаз изгоя",
+
+  "advancements.main.nether_eye.title": "Загляни в отчаяние",
+  "advancements.main.nether_eye.description": "Получите свой первый глаз ада",
+
+  "advancements.main.cold_eye.title": "Горячо",
+  "advancements.main.cold_eye.description": "Получите свой первый ледяной глаз",
+
+  "advancements.main.corrupted_eye.title": "Осыпь меня изумрудами",
+  "%%%%%%Comment%%%%%%": "Golden Shower fits better but whatever...",
+  "advancements.main.corrupted_eye.description": "Получите свой первый испорченный глаз",
+
+  "advancements.main.magical_eye.title": "Падший колдун",
+  "advancements.main.magical_eye.description": "Получите свой первый волшебный глаз",
+
+  "advancements.main.black_eye.title": "Ахххх, ну и где же мой корабль?",
+  "advancements.main.black_eye.description": "Получите свой первый чёрный глаз",
+
+  "advancements.main.lost_eye.title": "Нужна карта?",
+  "advancements.main.lost_eye.description": "Получите свой первый потерянный глаз",
+
+  "advancements.main.wither_eye.title": "Искушайте?",
+  "advancements.main.wither_eye.description": "Получите свой первый глаз искушителя",
+
+  "advancements.main.end_crystal_eye.title": "Кристалльно чисто",
+  "advancements.main.end_crystal_eye.description": "Получите свой первый кристальный глаз Края",
+
+  "advancements.main.guardian_eye.title": "Ну и кто теперь страж замка?",
+  "advancements.main.guardian_eye.description": "Получите свой первый глаз стража",
+
+  "advancements.main.witch_eye.title": "Сладость или гадость?",
+  "advancements.main.witch_eye.description": "Получите свой первый глаз ведьмы",
+
+  "advancements.main.find_end_castle.title": "Долгое путешевствие",
+  "advancements.main.find_end_castle.description": "Найдите замок Края",
+
+  "endrem.config.enable_ender_eyes": "Ванильные глаза Края",
+  "endrem.config.enable_strongholds": "Обычные крепости",
+  "endrem.config.enable_end_castle": "Замок Края",
+  "endrem.config.end_castle_distance": "Дистанция замка: %s",
+  "endrem.config.enable_end_gate": "Врата Края",
+  "endrem.config.end_gate_distance": "Дистанция до Врат Края : %s",
+  "endrem.config.end_gate_size": "Размер врат Края: %s",
+  "endrem.config.structure_difficulty": "Сложность мобов в структурах: ",
+  "endrem.config.structure_difficulty.no_mobs": "Мирная",
+  "endrem.config.structure_difficulty.easy": "Легко",
+  "endrem.config.structure_difficulty.normal": "Нормально",
+  "endrem.config.structure_difficulty.hard": "Сложно",
+  "endrem.config.structure_difficulty.nightmare": "Кошмар",
+  "endrem.config.title": "Настройки End Remastered",
+  "endrem.config.restart_message": "После изменений, Вы должны перезапустить Майнкрафт",
+  "endrem.config.done_button": "Готово",
+  "endrem.config.reset_button": "Сброс настроек"
+}

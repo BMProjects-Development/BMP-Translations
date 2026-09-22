@@ -1,0 +1,15 @@
+{
+  "name": "Твёрдые ладони",
+  "icon": "bloodmagic:sacrificialdagger",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Эффект: дает бонус к самопожертвованию, вплоть до дополнительных 150%. $(br2)Развитие: Жертвование крови с помощью жертвенного ножа. $(br2)Максимальный уровень: 10"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:self_sacrifice"
+    }
+  ]
+}

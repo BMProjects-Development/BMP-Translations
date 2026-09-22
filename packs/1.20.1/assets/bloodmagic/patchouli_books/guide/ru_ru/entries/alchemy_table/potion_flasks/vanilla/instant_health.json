@@ -1,0 +1,21 @@
+{
+  "name": "Исцеление",
+  "icon": "minecraft:glistering_melon_slice",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Исцеление$() осстанавливает объекту 4 единицы здоровья за уровень. Если объект - $(thing)Нежить$(), то вместо этого ему наносится вред на 4 единицы за уровень."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Исцеление",
+      "a.recipe": "bloodmagic:flask/health",
+      "b.heading": "Исцеление II",
+      "b.recipe": "bloodmagic:flask/potency_health",
+      "c.heading": "Исцеление III",
+      "c.recipe": "bloodmagic:flask/potency_average_health"
+
+    }
+  ]
+}

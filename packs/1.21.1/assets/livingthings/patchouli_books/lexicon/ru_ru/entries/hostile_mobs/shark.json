@@ -1,0 +1,19 @@
+{
+  "name": "Акула",
+  "icon": "livingthings:shark_spawn_egg",
+  "category": "livingthings:hostile_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Быстрое водное существо, которое охотится на игроков!$(br2)$(bold)Здоровье: $()11 сердец$(br)$(bold)Урон: $()3 сердца$(br2)$(bold)Дроп: $()$(li)0-3 Зуб акулы$(li)1-2 Сырая треска"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:shark",
+      "rotate": false,
+      "scale": 0.5,
+      "default_rotation": 45,
+      "text": "Встречается во всех $(bold)океанских$() биомах."
+    }
+  ]
+}

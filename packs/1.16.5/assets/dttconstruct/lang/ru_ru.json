@@ -1,0 +1,15 @@
+{
+  "block.dttconstruct.bloodshroom_branch": "Гриб кровавой шляпки",
+  "block.dttconstruct.greenheart_branch": "Дерево зелёного сердца",
+  "block.dttconstruct.skyroot_branch": "Небесное дерево",
+
+  "species.dttconstruct.bloodshroom": "Кровавая шляпка",
+  "species.dttconstruct.greenheart": "Зелёное сердце",
+  "species.dttconstruct.enderslime": "Эндерслизень",
+  "species.dttconstruct.skyroot": "Небесный корень",
+
+  "item.dttconstruct.bloodshroom_seed": "Шляпка кровавой шляпки",
+  "item.dttconstruct.greenheart_seed": "Семя зелёного сердца",
+  "item.dttconstruct.enderslime_seed": "Семя эндерслизня",
+  "item.dttconstruct.skyroot_seed": "Семя небесного корня"
+}

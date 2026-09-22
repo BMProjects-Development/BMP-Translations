@@ -1,0 +1,105 @@
+{
+
+  "itemGroup.boss_tools_giselle_addon_tab_main": "Space-BossTools: Дополнение Giselle",
+
+  "block.boss_tools_giselle_addon.fuel_loader": "Загрузчик топлива",
+  "block.boss_tools_giselle_addon.electric_blast_furnace": "Электрическая плавильная печь",
+  "block.boss_tools_giselle_addon.advanced_compressor": "Улучшенный компрессор",
+  "block.boss_tools_giselle_addon.gravity_normalizer": "Нормализатор гравитации",
+
+  "module.boss_tools_giselle_addon.space_breathing_unit": "Блок космического дыхания",
+  "description.boss_tools_giselle_addon.space_breathing_unit": "Позволяет дышать в измерениях Space-BossTools\nТакже наполняет удерживаемый предмет кислородом под дождём или в воде\nТребует включённой 'Кислородной канистры' в инвентаре",
+  "module.boss_tools_giselle_addon.space_fire_proof_unit": "Блок защиты от космического огня",
+  "description.boss_tools_giselle_addon.space_fire_proof_unit": "Защищает игрока от возгорания в измерениях Space-BossTools",
+  "module.boss_tools_giselle_addon.venus_acid_proof_unit": "Блок защиты от венерианской кислоты",
+  "description.boss_tools_giselle_addon.venus_acid_proof_unit": "Защищает от урона кислотным дождём в измерениях Space-BossTools",
+  "module.boss_tools_giselle_addon.gravity_normalizing_unit": "Блок нормализации гравитации",
+  "description.boss_tools_giselle_addon.gravity_normalizing_unit": "Нормализует гравитацию как в Верхнем мире в измерениях Space-BossTools",
+  "description.boss_tools_giselle_addon.instead_gravity_normalizing_unit": "Можно использовать вместо блока нормализации гравитации",
+
+  "item.boss_tools_giselle_addon.oxygen_can": "Кислородная канистра",
+  "item.boss_tools_giselle_addon.press_compressing_die": "Штамп для прессования",
+  "item.boss_tools_giselle_addon.mold_compressing": "Форма металлического пресса: Прессование",
+  "item.jaopca.boss_tools_compresseds": "Сжатый %s",
+
+  "description.boss_tools_giselle_addon.charge_mode": "Режим зарядки",
+
+  "enchantment.boss_tools_giselle_addon.space_breathing": "Космическое дыхание",
+  "enchantment.boss_tools_giselle_addon.space_breathing.desc": "Позволяет дышать в измерениях Space-BossTools\nИспользует энергию или прочность\nТребует включённой 'Кислородной канистры' в инвентаре",
+  "enchantment.boss_tools_giselle_addon.gravity_normalizing": "Нормализация гравитации",
+  "enchantment.boss_tools_giselle_addon.gravity_normalizing.desc": "Нормализует гравитацию как в Верхнем мире в измерениях Space-BossTools\nИспользует энергию или прочность",
+  "enchantment.boss_tools_giselle_addon.space_fire_proof": "Защита от космического огня",
+  "enchantment.boss_tools_giselle_addon.space_fire_proof.desc": "Защищает игрока от возгорания в измерениях Space-BossTools\nИспользует энергию или прочность",
+  "enchantment.boss_tools_giselle_addon.venus_acid_proof": "Защита от венерианской кислоты",
+  "enchantment.boss_tools_giselle_addon.venus_acid_proof.desc": "Защищает от урона кислотным дождём в измерениях Space-BossTools\nИспользует энергию или прочность",
+
+  "container.boss_tools_giselle_addon.fuel_loader": "Загрузчик топлива",
+  "container.boss_tools_giselle_addon.electric_blast_furnace": "Электрическая плавильная печь",
+  "container.boss_tools_giselle_addon.advanced_compressor": "Улучшенный компрессор",
+  "container.boss_tools_giselle_addon.gravity_normalizer": "Нормализатор гравитации",
+
+  "gui.boss_tools_giselle_addon.auto_pull": "Автозабор",
+  "gui.boss_tools_giselle_addon.auto_eject": "Автовыброс",
+  "gui.boss_tools_giselle_addon.workingarea.text": "Рабочая область: %1$sx%2$sx%3$s",
+  "gui.boss_tools_giselle_addon.workingarea.show": "Показать",
+  "gui.boss_tools_giselle_addon.workingarea.hide": "Скрыть",
+
+  "gui.boss_tools_giselle_addon.flag_edit.title": "Редактировать флаг",
+  "gui.boss_tools_giselle_addon.flag_edit.verify": "Проверить",
+  "gui.boss_tools_giselle_addon.flag_edit.verifying": "Проверка",
+  "gui.boss_tools_giselle_addon.flag_edit.save": "Сохранить",
+  "gui.boss_tools_giselle_addon.flag_edit.warning": "※ предупреждение: второй слой не будет отображаться",
+
+  "compressormode.boss_tools.compressing": "Прессование",
+  "compressormode.boss_tools_giselle_addon.rolling": "Прокатка",
+  "compressormode.boss_tools_giselle_addon.extruding": "Выдавливание",
+
+  "chargemode.boss_tools_giselle_addon.none": "Отключено",
+  "chargemode.boss_tools_giselle_addon.armors": "Включено: Вся броня",
+  "chargemode.boss_tools_giselle_addon.all": "Включено: Весь инвентарь",
+
+  "jei.category.boss_tools_giselle_addon.space_station": "Космическая станция",
+  "jei.info.boss_tools_giselle_addon.space_station": "Ингредиенты для создания\nКосмической станции",
+
+  "jei.category.boss_tools_giselle_addon.rolling": "Компрессор - Прокатка",
+  "jei.category.boss_tools_giselle_addon.extruding": "Компрессор - Выдавливание",
+  "jei.tooltip.boss_tools_giselle_addon.incompatible_mode1": "Несовместимый режим",
+  "jei.tooltip.boss_tools_giselle_addon.incompatible_mode2": "Требуется переключить на режим '%s'",
+  "jei.category.boss_tools_giselle_addon.fuel_loader": "Загрузчик топлива",
+  "jei.info.boss_tools_giselle_addon.fuel_loader": "Внутренний резервуар может принимать жидкость с тегом '%2$s'.\nЗатем передаёт топливо 'Роверу' или 'Ракетам' в радиусе %1$s блоков.",
+  "jei.info.boss_tools_giselle_addon.gravity_normalizer": "Нормализует гравитацию существ как в Верхнем мире в пределах диапазона",
+
+  "jei.category.boss_tools_giselle_addon.alien_trading": "Торговля с инопланетянами",
+  "jer.text.boss_tools_giselle_addon.alien_trading.notneeded": "Не требуется",
+  "jer.dim.boss_tools:moon": "Space-BossTools: Луна",
+  "jer.dim.boss_tools:mars": "Space-BossTools: Марс",
+  "jer.dim.boss_tools:mercury": "Space-BossTools: Меркурий",
+  "jer.dim.boss_tools:venus": "Space-BossTools: Венера",
+
+  "biome.boss_tools.orbit": "Орбита",
+  "biome.boss_tools.infernal_venus_barrens": "Инфернальные венерианские пустоши",
+  "biome.boss_tools.venus": "Венера",
+  "biome.boss_tools.mercury": "Меркурий",
+  "biome.boss_tools.mars": "Марс",
+  "biome.boss_tools.venus_hills": "Венерианские холмы",
+  "biome.boss_tools.moon": "Луна",
+  "biome.boss_tools.mercury_magma": "Магма Меркурия",
+  "biome.boss_tools.mars_ice_spike": "Ледяные пики Марса",
+
+  "item.boss_tools_giselle_addon.pneumatic_space_breathing_upgrade": "Улучшение космического дыхания",
+  "item.boss_tools_giselle_addon.pneumatic_gravity_normalizing_upgrade": "Улучшение нормализации гравитации",
+  "item.boss_tools_giselle_addon.pneumatic_space_fire_proof_upgrade": "Улучшение защиты от космического огня",
+  "item.boss_tools_giselle_addon.pneumatic_venus_acid_proof_upgrade": "Улучшение защиты от венерианской кислоты",
+
+  "pneumaticcraft.armor.upgrade.boss_tools_giselle_addon.space_breathing": "Космическое дыхание",
+  "pneumaticcraft.armor.upgrade.boss_tools_giselle_addon.gravity_normalizing": "Нормализация гравитации",
+  "pneumaticcraft.armor.upgrade.boss_tools_giselle_addon.space_fire_proof": "Защита от космического огня",
+  "pneumaticcraft.armor.upgrade.boss_tools_giselle_addon.venus_acid_proof": "Защита от венерианской кислоты",
+
+  "pneumaticcraft.gui.tab.info.item.armor.generic.space_breathingUpgrade": "Позволяет дышать в измерениях Space-BossTools\nТребует включённой 'Кислородной канистры' в инвентаре",
+  "pneumaticcraft.gui.tab.info.item.armor.generic.gravity_normalizingUpgrade": "Нормализует гравитацию как в Верхнем мире в измерениях Space-BossTools",
+  "pneumaticcraft.gui.tab.info.item.armor.generic.space_fire_proofUpgrade": "Защищает игрока от возгорания в измерениях Space-BossTools",
+  "pneumaticcraft.gui.tab.info.item.armor.generic.venus_acid_proofUpgrade": "Защищает от урона кислотным дождём в измерениях Space-BossTools",
+
+  "_eof": "eof"
+}

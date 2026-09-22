@@ -1,0 +1,20 @@
+{
+  "block.ars_creo.starbuncle_wheel": "Колесо Старбанкла",
+  "ars_creo.page.starbuncle_wheel": "Генерирует вращательную силу для Create. Если поставить золотой блок перед колесом, скорость вращения (RPM) увеличится.",
+  "ars_creo.page.behaviors": "Ars Creo добавляет специальные поведения механизмов для блоков из Ars Nouveau, включая Магические Турели и Банки Источника. Обычная Магическая Турель — выпускает заклинание по взаимодействию с механизмом. Турель-таймер — выпускает заклинание по таймеру. Улучшенная Магическая Турель — выпускает заклинание при посещении каждого нового блока. Банка Источника — может быть использована турелями на механизме.",
+  "itemGroup.ars_creo.general": "Ars Creo",
+  "ars_creo.display_source.turret.not_enough_space": "Недостаточно места",
+  "ars_creo.display_source.turret.for_turret_status": "для статуса турели",
+  "ars_creo.display_source.turret.no_spell": "Заклинание не выбрано.",
+  "ars_creo.display_source.turret.spell_name": "Заклинание: %s",
+  "ars_creo.display_source.turret.spell": "%s",
+  "ars_creo.display_source.turret_target": "Турель заклинаний",
+  "ars_creo.display_source.source_count": "Источник: %s",
+  "ars_creo.display_source.for_source_status": "для статуса источника",
+  "ars_creo.display_source.source_jar": "Количество источника",
+  "ars_creo.display_source.turret": "Заклинание",
+  "ars_creo.page1.ars_creo.display_link": "Связка дисплея цепляется к кувшину Источника — покажет запас, или к турели заклинаний — выведет текущее чародейство на Доску Дисплея!",
+  "ars_creo.page1.ars_creo.fluid_tank": "Зелья храни и перекачивай между баками Create через трубы и этот танк!",
+  "ars_creo.display_link": "Ars Creo: Связка дисплея",
+  "ars_creo.fluid_tank": "Ars Creo: Танк для зелий"
+}

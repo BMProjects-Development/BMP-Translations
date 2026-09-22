@@ -1,0 +1,12 @@
+{
+  "name": "Канал редстоун-сигнала",
+  "sortnum": 11,
+  "category": "laserio:mechanics",
+  "icon": "laserio:textures/gui/buttons/redstoneignore.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Все карты имеют «канал редстоун-сигнала», отдельный от главного канала.$(br2)У канала редстоун-сигнала особенный принцип работы. О принципе, вы можете прочитать в главах: $(l:laserio:redstonemode)Режим редстоун-сигнала$(/l) и $(l:laserio:card_redstone)Редстоун-карта$(/l)."
+    }
+  ]
+}

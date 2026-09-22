@@ -1,0 +1,148 @@
+{
+  "nbt_ac.options": "Настройки автодополнения NBT",
+
+  "nbt_ac.options.style": "Стиль",
+  "nbt_ac.options.suggestions": "Предложения",
+  "nbt_ac.options.suggestion_priority": "Приоритет предложений",
+  "nbt_ac.options.item_components": "Компоненты предметов",
+  "nbt_ac.options.mods_and_plugins_support": "Поддержка модов и плагинов",
+  "nbt_ac.options.advanced_settings": "Расширенные настройки",
+  "nbt_ac.options.debugging_options": "Параметры отладки",
+
+
+
+  "nbt_ac.options.field.short_boolean": "Короткая форма булевых значений",
+  "nbt_ac.options.field.short_boolean.desc": "Подставляет 1b/0b вместо true/false для булевых значений. Не применяется к формату raw JSON, так как он требует true/false.",
+
+  "nbt_ac.options.field.tag_quotation_marks": "Кавычки для тегов",
+  "nbt_ac.options.field.tag_quotation_marks.false": "Когда необходимо",
+  "nbt_ac.options.field.tag_quotation_marks.true": "Всегда",
+  "nbt_ac.options.field.tag_quotation_marks.desc": "Заключает имена тегов в кавычки.\ntrue — всегда\nfalse — когда необходимо",
+
+  "nbt_ac.options.field.string_quotation_marks": "Кавычки для строк",
+  "nbt_ac.options.field.string_quotation_marks.false": "Когда необходимо",
+  "nbt_ac.options.field.string_quotation_marks.true": "Всегда",
+  "nbt_ac.options.field.string_quotation_marks.desc": "Заключает строковые значения в кавычки.\ntrue — всегда\nfalse — когда необходимо",
+
+  "nbt_ac.options.field.default_quotation_mark_type": "Тип кавычек по умолчанию",
+  "nbt_ac.options.field.default_quotation_mark_type.1": "Одинарные (')",
+  "nbt_ac.options.field.default_quotation_mark_type.2": "Двойные (\")",
+  "nbt_ac.options.field.default_quotation_mark_type.desc": "Определяет тип кавычек, используемых по умолчанию.\n1 — одинарные (')\n2 — двойные (\")\nДругие значения считаются как 2.\nНа версиях 1.19.4 и старше установка одинарных кавычек (особенно при «Всегда») может вызывать проблемы с NBT-путями из-за ошибки MC-175504. Также не применяется к JSON-компонентам текста.",
+
+  "nbt_ac.options.field.json_string_suggestion": "Подсказка для JSON-строк",
+  "nbt_ac.options.field.json_string_suggestion.0": "Нет",
+  "nbt_ac.options.field.json_string_suggestion.1": "Рекомендуется",
+  "nbt_ac.options.field.json_string_suggestion.2": "По умолчанию для строк",
+  "nbt_ac.options.field.json_string_suggestion.3": "Устаревшее, раздельно (' \")",
+  "nbt_ac.options.field.json_string_suggestion.4": "Устаревшее, слитно ('\")",
+  "nbt_ac.options.field.json_string_suggestion.5": "Устаревшее, с обратным слэшем (\"\\\")",
+  "nbt_ac.options.field.json_string_suggestion.desc": "Определяет подсказку для открытия строки в JSON-компонентах текста.\n0 — нет\n1 — рекомендуется — как 2 на 1.20.4+, как 3 на старых версиях\n2 — по умолчанию для строк — использует тип кавычек из настройки «Тип кавычек по умолчанию»\n3 — устаревшее, раздельно (' \")\n4 — устаревшее, слитно ('\")\n5 — устаревшее, с обратным слэшем (\"\\\")\nДругие значения считаются как 1.",
+
+  "nbt_ac.options.field.hide_mc_namespace_in_tags": "Скрывать пространство имён Minecraft в тегах",
+  "nbt_ac.options.field.hide_mc_namespace_in_tags.desc": "Скрывает префикс «minecraft:» в подсказках тегов.",
+
+  "nbt_ac.options.field.hide_mc_namespace_in_strings": "Скрывать пространство имён Minecraft в строках",
+  "nbt_ac.options.field.hide_mc_namespace_in_strings.desc": "Скрывает префикс «minecraft:» в строковых подсказках.",
+
+
+  "nbt_ac.options.field.ignore_letter_case": "Игнорировать регистр",
+  "nbt_ac.options.field.ignore_letter_case.desc": "Игнорирует регистр символов при подсказках имён тегов.",
+
+  "nbt_ac.options.field.show_tag_hints": "Показывать подсказки тегов",
+  "nbt_ac.options.field.show_tag_hints.desc": "Показывает подсказки о теге (например, тип или источник) рядом с его именем.",
+
+  "nbt_ac.options.field.hide_forge_tags": "Скрывать Forge-теги",
+  "nbt_ac.options.field.hide_forge_tags.desc": "Скрывает теги Forge. Требует удаления «./minecraft/cache/nbt_ac» и перезапуска игры.",
+
+
+  "nbt_ac.options.field.custom_sorting": "Пользовательская сортировка",
+  "nbt_ac.options.field.custom_sorting.desc": "Позволяет моду использовать неалфавитную сортировку подсказок.",
+
+  "nbt_ac.options.field.mark_recommended": "Помечать рекомендуемые",
+  "nbt_ac.options.field.mark_recommended.desc": "Помечает рекомендуемые подсказки символом «<*>».",
+
+  "nbt_ac.options.field.recommended_at_the_top": "Рекомендуемые сверху",
+  "nbt_ac.options.field.recommended_at_the_top.desc": "Размещает рекомендуемые подсказки в верхней части списка. Требует пользовательской сортировки.",
+
+  "nbt_ac.options.field.mark_irrelevant": "Помечать нерелевантные",
+  "nbt_ac.options.field.mark_irrelevant.desc": "Помечает нерелевантные подсказки символом «<I>».",
+
+  "nbt_ac.options.field.gray_out_irrelevant": "Затемнять нерелевантные",
+  "nbt_ac.options.field.gray_out_irrelevant.desc": "Отображает нерелевантные подсказки серым цветом.",
+
+  "nbt_ac.options.field.placing_of_irrelevant": "Расположение нерелевантных",
+  "nbt_ac.options.field.placing_of_irrelevant.0": "Обычное",
+  "nbt_ac.options.field.placing_of_irrelevant.1": "Внизу",
+  "nbt_ac.options.field.placing_of_irrelevant.2": "Скрыты",
+  "nbt_ac.options.field.placing_of_irrelevant.desc": "Определяет расположение нерелевантных подсказок.\n0 — обычное\n1 — внизу списка\n2 — скрыты\nДругие значения считаются как 1.\nЗначения, отличные от «Обычное», требуют пользовательской сортировки.",
+
+
+  "nbt_ac.options.field.hide_mc_namespace_in_components": "Скрывать пространство имён Minecraft в компонентах",
+  "nbt_ac.options.field.hide_mc_namespace_in_components.desc": "Скрывает префикс «minecraft:» в подсказках компонентов предметов.",
+
+  "nbt_ac.options.field.show_custom_data_as_relevant": "Показывать «custom_data» как релевантный",
+  "nbt_ac.options.field.show_custom_data_as_relevant.desc": "При включении «minecraft:custom_data» всегда отображается как релевантная подсказка. При выключении — как нерелевантная.",
+
+  "nbt_ac.options.field.show_custom_model_data_as_relevant": "Показывать «custom_model_data» как релевантный",
+  "nbt_ac.options.field.show_custom_model_data_as_relevant.desc": "При включении «minecraft:custom_model_data» всегда отображается как релевантная подсказка. При выключении — как нерелевантная.",
+
+
+  "nbt_ac.options.field.vanilla_ids_sorting": "Сортировка ванильных ID",
+  "nbt_ac.options.field.vanilla_ids_sorting.0": "Без пользовательской сортировки",
+  "nbt_ac.options.field.vanilla_ids_sorting.1": "Зависит от условий",
+  "nbt_ac.options.field.vanilla_ids_sorting.2": "Всегда сверху",
+  "nbt_ac.options.field.vanilla_ids_sorting.3": "Всегда в середине",
+  "nbt_ac.options.field.vanilla_ids_sorting.desc": "Определяет порядок сортировки ванильных ID («minecraft:») относительно ID модов. Применяется только к автодополнению NBT. Также тесно связано с настройкой «Скрывать пространство имён Minecraft в строках».\n0 — без пользовательской сортировки — при скрытом namespace ванильные ID перемешиваются с ID модов, что не рекомендовано\n1 — зависит — сверху только при скрытом namespace, иначе в середине\n2 — всегда сверху\n3 — всегда в середине\nДругие значения считаются как 1.",
+
+  "nbt_ac.options.field.support_command_namespace": "Поддержка пространства имён команд",
+  "nbt_ac.options.field.support_command_namespace.desc": "Игнорирует «minecraft:» как префикс команд. Полезно, если плагины помещают команды Minecraft под этот namespace.",
+
+
+  "nbt_ac.options.field.use_new_thread": "Использовать новый поток",
+  "nbt_ac.options.field.use_new_thread.desc": "Загружает подсказки в отдельном потоке при запуске Minecraft.",
+
+  "nbt_ac.options.field.use_disassembler": "Использовать дизассемблер",
+  "nbt_ac.options.field.use_disassembler.desc": "Загружает подсказки, используя дизассемблирование методов «load» у сущностей и блок-сущностей.",
+
+  "nbt_ac.options.field.load_from_resources": "Загружать из ресурсов",
+  "nbt_ac.options.field.load_from_resources.desc": "Загружает подсказки из файлов ресурсов (необходимо для подгрузки тегов и предсказаний тегов).",
+
+  "nbt_ac.options.field.allow_block_entity_extraction": "Разрешить извлечение блок-сущностей",
+  "nbt_ac.options.field.allow_block_entity_extraction.desc": "Позволяет использовать метод извлечения данных блок-сущностей (похожий на используемый дизассемблером) после загрузки подсказок.",
+
+  "nbt_ac.options.field.use_cache": "Использовать кэш",
+  "nbt_ac.options.field.use_cache.desc": "Включает кэширование подсказок.",
+
+  "nbt_ac.options.field.max_cached_instances": "Максимум кэшированных экземпляров",
+  "nbt_ac.options.field.max_cached_instances.-1": "[без ограничения]",
+  "nbt_ac.options.field.max_cached_instances.desc": "Максимальное число кэшированных экземпляров Minecraft. Используйте -1 для снятия ограничения.",
+
+
+  "nbt_ac.options.field.max_stack_traces": "Максимум записанных трассировок стека",
+  "nbt_ac.options.field.max_stack_traces.-1": "[без ограничения]",
+  "nbt_ac.options.field.max_stack_traces.0": "0 (отключено)",
+  "nbt_ac.options.field.max_stack_traces.desc": "Ограничение количества выводимых трассировок исключений.\n-1 — без ограничения\n0 — трассировки отключены",
+
+  "nbt_ac.options.field.debug_mode": "Режим отладки",
+  "nbt_ac.options.field.debug_mode.desc": "Включает дополнительные сообщения и проверки, полезные для отладки.",
+
+  "nbt_ac.options.field.debug_sleep": "Задержка загрузки для отладки",
+  "nbt_ac.options.field.debug_sleep.0": "[отключено]",
+  "nbt_ac.options.field.debug_sleep.desc": "Задерживает загрузку подсказок для измерения времени (значение в миллисекундах, рекомендуется несколько тысяч).",
+
+  "nbt_ac.options.field.debug_config_screen": "Отладочный экран настроек",
+  "nbt_ac.options.field.debug_config_screen.desc": "Показывает экран настроек после выхода из меню Realms. Не сбрасывается кнопкой сброса настроек!",
+
+  "nbt_ac.options.field.save_suggestions": "Сохранять подсказки",
+  "nbt_ac.options.field.save_suggestions.0": "Отключено",
+  "nbt_ac.options.field.save_suggestions.1": "Включено",
+  "nbt_ac.options.field.save_suggestions.2": "Включено и отсортировано",
+  "nbt_ac.options.field.save_suggestions.desc": "Сохраняет подсказки в файл «.minecraft/nbt_ac_output.txt».\n0 — отключено\n1 — включено\n2 — включено и отсортировано (удобнее для сравнения)\nДругие значения считаются как 0.",
+
+
+
+  "nbt_ac.options.common.tooltip": "%s\n§8Значение по умолчанию: %s",
+  "nbt_ac.options.common.reset_settings": "Сбросить настройки",
+  "nbt_ac.options.common.undefined": "[не определено]",
+  "nbt_ac.options.common.gui_debug_warning": "Включён режим отладки экрана настроек!"
+}

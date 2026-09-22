@@ -1,0 +1,19 @@
+{
+  "name": "Пингвин",
+  "icon": "livingthings:penguin_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Милые животные, которые очень разговорчивы.$(br2)$(bold)Здоровье: $()5 сердец$(br2)$(bold)Предметы для размножения: $()$(li)Сырой лосось$(li)Сырая треска$(li)Иглобрюх"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:penguin",
+      "rotate": false,
+      "scale": 1.0,
+      "default_rotation": 45,
+      "text": "Может быть найден в $(bold)снежных$() биомах."
+    }
+  ]
+}

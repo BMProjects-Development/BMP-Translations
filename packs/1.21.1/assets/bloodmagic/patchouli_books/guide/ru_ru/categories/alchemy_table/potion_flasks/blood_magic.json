@@ -1,0 +1,6 @@
+{
+  "name": "Эффекты Blood Magic",
+  "description": "Эти эффекты могут быть созданы только прикосновением истинного сангвиника.",
+  "icon": "bloodmagic:simplecatalyst",
+  "parent": "bloodmagic:alchemy_table/potion_flasks"
+}

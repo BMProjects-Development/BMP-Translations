@@ -1,0 +1,17 @@
+{
+  "name": "Высота шага",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_stepheight",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Высота шага» позволяет вам без усилий шагать на полные блоки без прыжка. Перемещайтесь по местности плавно и сохраняйте темп без помех."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Высота шага»",
+      "recipe": "justdirethings:upgrade_stepheight"
+    }
+  ]
+}

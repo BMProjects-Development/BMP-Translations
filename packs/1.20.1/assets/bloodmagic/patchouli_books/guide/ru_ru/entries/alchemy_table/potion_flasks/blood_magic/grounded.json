@@ -1,0 +1,20 @@
+{
+  "name": "Заземление",
+  "icon": "minecraft:string",
+  "category": "bloodmagic:alchemy_table/potion_flasks/blood_magic",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Заземление$() не позволяет объекту совершать прыжки. Однако на плавание это не влияет. $(br2)Изготавливается из зелья $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/jump_boost)Прыгучести$()."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Заземление (3:00)",
+      "a.recipe": "bloodmagic:flask/jump_to_grounded",
+      "b.heading": "Заземление (8:00)",
+      "b.recipe": "bloodmagic:flask/length_grounded",
+      "c.heading": "Заземление (21:20)",
+      "c.recipe": "bloodmagic:flask/length_average_grounded"
+    }
+  ]
+}

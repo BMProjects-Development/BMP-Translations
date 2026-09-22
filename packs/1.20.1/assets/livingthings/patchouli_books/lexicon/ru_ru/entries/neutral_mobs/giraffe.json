@@ -1,0 +1,20 @@
+{
+  "name": "Жираф",
+  "icon": "livingthings:giraffe_spawn_egg",
+  "category": "livingthings:neutral_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Огромные животные, которые разозлятся, если на них напасть!$(br2)$(bold)Здоровье: $()15 сердец$(br)$(bold)Урон: $()2 сердца$(br2)$(bold)Предметы для размножения: $()$(li)Пшеница"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:giraffe",
+      "rotate": false,
+      "scale": 1.0,
+      "default_rotation": 45,
+      "offset": 0.1,
+      "text": "Можно встретить во всех биомах $(bold)Саванны$()."
+    }
+  ]
+}

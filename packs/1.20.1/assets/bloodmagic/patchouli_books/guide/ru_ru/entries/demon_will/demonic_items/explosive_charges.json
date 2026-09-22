@@ -1,0 +1,79 @@
+{
+  "name": "Взрывчатые заряды",
+  "icon": "bloodmagic:shaped_charge",
+  "category": "bloodmagic:demon_will/demonic_items",
+  "pages":[
+    {
+      "type": "text",
+      "text": "Добыча в шахте и прогулки по лесу это хорошо для тех, кто отказывается от большой мечты, но какой уважающий себя кровавый маг опустится до такого? $(br2)Думая об этом, вы разработали несколько хитрых маленьких устройств. Просто бросьте их в надоедливые деревья, камни или что-то еще, что вы хотите добыть, и подождите, пока они самовозгорятся."
+    },
+    {
+      "type": "text",
+      "text": "Мало того, вы можете улучшить их функциональность $(item)маслами$() используйте также немного $(raw)воли$(), как описано на следующих страницах. $(br2)В настоящее время доступны улучшеные заряды: $(li)Удачливый - применяет на добываемые блоки $(thing)удачу I$(). $(li)Плавкий - добыча блоков с эффектом $(thing)плавки$(). $(li)Шёлковое касание - разрушает блоки с эффектом $(thing)шёлкового касания$()."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Кумулятивный заряд",
+      "recipe": "bloodmagic:soulforge/shaped_charge",
+	  "anchor":"shaped_charge",
+	  "text": "$(item)Кумулятивный заряд$() разрушит область 5х5х5 относительно того блока на который он приземлится, добывая все блоки, будто они были добыты киркой. Он работает даже на обсидиан, при этом делая еще больший $(o)БАБАХ$()."
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "Удачливый",
+      "a.recipe": "bloodmagic:soulforge/shaped_charge_fortune_1",
+      "b.heading": "Плавкий",
+      "b.recipe": "bloodmagic:soulforge/shaped_charge_smelting",
+      "c.heading": "Шёлковое касание",
+      "c.recipe": "bloodmagic:soulforge/shaped_charge_silk_touch"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Размораживающий заряд",
+      "recipe": "bloodmagic:soulforge/deforester_charge",
+	  "anchor":"deforester_charge",
+	  "text": "$(item)Размораживающий заряд$() нужен для валки деревьев. Его можно использовать на бревнах или листьях, и он повалит все деревья, кроме самых могучих, сломав до $(item)2х стаков$() бревен за раз (и аккуратно обрывая все листья, которые попадаются на пути!) Даже гигантские деревья джунглей падают за считанные секунды."
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "Удачливый",
+      "a.recipe": "bloodmagic:soulforge/deforester_charge_fortune_1",
+      "b.heading": "Плавкий",
+      "b.recipe": "bloodmagic:soulforge/deforester_charge_smelting",
+      "c.heading": "Шёлковое касание",
+      "c.recipe": "bloodmagic:soulforge/deforester_charge_silk_touch"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Контролируемый заряд",
+      "recipe": "bloodmagic:soulforge/vein_charge",
+      "anchor":"controlled_charge",
+      "text": "$(item)Контролируемый заряд$(), разрушает блоки только $(thing)идентичные тому, на который приземлился заряд$(). Он уничтожит до $(item)3х стаков$() блоков, находящихся возле исходной точки. Как и в случае с другими зарядами, все добытые блоки будут сброшены."
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "Удачливый",
+      "a.recipe": "bloodmagic:soulforge/vein_charge_fortune_1",
+      "b.heading": "Плавкий",
+      "b.recipe": "bloodmagic:soulforge/vein_charge_smelting",
+      "c.heading": "Шёлковое касание",
+      "c.recipe": "bloodmagic:soulforge/vein_charge_silk_touch"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Грибковый заряд",
+      "recipe": "bloodmagic:soulforge/fungal_charge",
+      "anchor":"fungal_charge",
+      "text": "$(item)Грибковый заряд$() предназначен для вырубки гигантских грибов как в Верхнем мире, так и в Нижнем мире. Хотя сомнительно, что вы когда-нибудь достигнете этого за один заряд, но он может добыть до $(item)3х стаков блоков$()."
+    },
+    {
+      "type": "3x_crafting_soulforge",
+      "a.heading": "Удачливый",
+      "a.recipe": "bloodmagic:soulforge/fungal_charge_fortune_1",
+      "b.heading": "Плавкий",
+      "b.recipe": "bloodmagic:soulforge/fungal_charge_smelting",
+      "c.heading": "Шёлковое касание",
+      "c.recipe": "bloodmagic:soulforge/fungal_charge_silk_touch"
+    }
+  ]
+}

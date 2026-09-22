@@ -1,0 +1,6 @@
+{
+  "name": "Гаджеты",
+  "description": "Здесь собрана информация о всех гаджетах мода!",
+  "icon": "buildinggadgets2:gadget_building[buildinggadgets2:forge_energy=500000]",
+  "sortnum": 0
+}

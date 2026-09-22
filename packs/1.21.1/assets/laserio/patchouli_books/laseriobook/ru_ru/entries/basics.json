@@ -1,0 +1,47 @@
+{
+  "name": "Основы",
+  "sortnum": 0,
+  "category": "laserio:mechanics",
+  "icon": "laserio:logic_chip",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "ПКМ с картой в руке откроет её меню. Вы также можете открыть карту уже вставленную в $(l:laserio:laser_node)узел$(/l) щелчком ПКМ в меню.$(br)Режим ввода:$(br)1. $(l:laserio:modes)Режим$(/l)$(br)2. $(l:laserio:sneaky)Взаимодействие$(/l)$(br)3. Фильтр$(br)4. $(l:laserio:overclocker_card)Ускоритель карт$(/l)$(br)5. Приоритет$(l:laserio:priority)$(/l)$(br)6. $(l:laserio:channel)Канал$(/l)$(br)7. $(l:laserio:redstonemode)Режим редстоун-сигнала$(/l)$(br)8. $(l:laserio:redstonechannel)Канал редстоун-сигнала$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Меню ввода",
+      "images": [
+        "laserio:textures/book/entries/basics1.png"
+      ],
+      "border": true,
+      "text": "Предметная карта, переведённая в режим ввода."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Режим вывода:$(br2)1. $(l:laserio:modes)Режим$(/l)$(br)2. $(l:laserio:sneaky)Взаимодействие$(/l)$(br)3. $(l:laserio:roundrobin)Распределение$(/l)$(br)4. $(l:laserio:exact)Точное количество$(/l)$(br)5. Фильтр$(br)6. $(l:laserio:overclocker_card)Ускоритель карт$(/l)$(br)7. $(l:laserio:extractamount)Размер передачи$(/l)$(br)8. $(l:laserio:tickspeed)Скорость (в тиках)$(/l)$(br)9. $(l:laserio:channel)Канал$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Меню вывода",
+      "images": [
+        "laserio:textures/book/entries/basics-extract.png"
+      ],
+      "border": true,
+      "text": "Предметная карта, переведённая в режим вывода."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Режим резервации:$(br2)1. $(l:laserio:modes)Режим$(/l)$(br)2. $(l:laserio:sneaky)Взаимодействие$(/l)$(br)3. $(l:laserio:regulate)Регулировка$(/l)$(br)4. $(l:laserio:exact)Exact$(/l)$(br)5. Фильтр$(br)6. $(l:laserio:overclocker_card)Ускоритель карт$(/l)$(br)7. $(l:laserio:extractamount)Размер передачи$(/l)$(br)8. $(l:laserio:tickspeed)Скорость (в тиках)$(/l)$(br)9. $(l:laserio:channel)Канал$(/l)"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Меню резервации",
+      "images": [
+        "laserio:textures/book/entries/basics-stock.png"
+      ],
+      "border": true,
+      "text": "Предметная карта, переведённая в режим резервирования."
+    }
+  ]
+}

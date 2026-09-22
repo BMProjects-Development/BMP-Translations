@@ -1,0 +1,16 @@
+{
+  "item.rep_ae2_bridge.earth": "Земная материя",
+  "item.rep_ae2_bridge.nether": "Материя Незера",
+  "item.rep_ae2_bridge.organic": "Органическая материя",
+  "item.rep_ae2_bridge.ender": "Эндер-материя",
+  "item.rep_ae2_bridge.metallic": "Металлическая материя",
+  "item.rep_ae2_bridge.precious": "Драгоценная материя",
+  "item.rep_ae2_bridge.living": "Живая материя",
+  "item.rep_ae2_bridge.quantum": "Квантовая материя",
+
+  "block.rep_ae2_bridge.rep_ae2_bridge": "Соединитель AE2-Replication",
+  "block.rep_ae2_bridge.repae2bridge": "Соединитель RepAE2",
+  "item.rep_ae2_bridge.repae2bridge": "Соединитель RepAE2",
+
+  "item.rep_ae2_bridge.universal_matter.warning": "Предупреждение: это универсальная заполнительная материя; для корректной работы перезапустите клиент и сервер. Кроме того, для пользовательских видов материи, к сожалению, Dам также потребуется создать текстуры, модели предметов и языковые файлы."
+}

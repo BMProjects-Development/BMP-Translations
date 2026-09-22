@@ -1,0 +1,6 @@
+{
+    "name": "Пчёлы-отшельники",
+    "description": "Пчёл-отшельников можно найти в одиночных гнёздах в Верхнем мире.$(br2)$(l:hives/nests)О гнёздах можно прочитать здесь$(/l).",
+    "icon": "productivebees:oak_wood_nest",
+    "parent": "productivebees:bees"
+}

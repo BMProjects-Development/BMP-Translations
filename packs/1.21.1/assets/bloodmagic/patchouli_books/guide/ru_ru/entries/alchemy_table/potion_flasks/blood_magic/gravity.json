@@ -1,0 +1,31 @@
+{
+  "name": "Гравитация",
+  "icon": "minecraft:tropical_fish",
+  "category": "bloodmagic:alchemy_table/potion_flasks/blood_magic",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Гравитация$() заставляет цель падать быстрее и получать больше урона при приземлении. Однако это не уменьшает высоту прыжка. $(br2)Изготавливается из колбы, содержащей оба эффекта $(l:bloodmagic:alchemy_table/potion_flasks/blood_magic/grounded)Заземления$() и $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/slow_falling)Плавного падения$()."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Гравитация (3:00)",
+      "a.recipe": "bloodmagic:flask/gravity",
+      "b.heading": "Гравитация (8:00)",
+      "b.recipe": "bloodmagic:flask/length_gravity",
+      "c.heading": "Гравитация II (1:30)",
+      "c.recipe": "bloodmagic:flask/potency_gravity"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "добавление $(l:bloodmagic:alchemy_table/potions#average_potions)Стандартных катализаторов$() позволит усилить зелье"
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Гравитация III (0:45)",
+      "a.recipe": "bloodmagic:flask/potency_average_gravity",
+      "b.heading": "Гравитация (21:20)",
+      "b.recipe": "bloodmagic:flask/length_average_gravity"
+    }
+  ]
+}

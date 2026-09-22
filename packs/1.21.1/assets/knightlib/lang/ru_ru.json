@@ -1,0 +1,18 @@
+{
+  "item.knightlib.great_essence": "Великая эссенция",
+  "item.knightlib.small_essence": "Малая эссенция",
+  "item.knightlib.empty_grail": "Пустой грааль",
+  "item.knightlib.filled_grail": "Наполненный грааль",
+  "item.knightlib.homunculus": "Гомункул",
+  "block.knightlib.great_chalice": "Великая чаша",
+
+  "tooltip.item.knightlib.great_essence": "§8§oДаже короли в конце пути становятся топливом.",
+  "tooltip.item.knightlib.small_essence": "§8§oПоследний вздох в ничего не значащей жизни.",
+  "tooltip.item.knightlib.homunculus": "§8§oУродливое чудо, связанное платой в алхимии.",
+  "tooltip.item.knightlib.empty_grail": "§8§oНаполнено эссенцией.",
+  "tooltip.item.knightlib.filled_grail": "§8§oГлоток из него подобен танцу с самой смертью.",
+  "tooltip.item.knightlib.great_chalice": "§8§oШепчет имена, которых ты никогда не слышал... И всё же, они кажутся смутно знакомыми.",
+
+  "jei.knightlib.great_chalice_grail_interaction.title": "Великая чаша",
+  "jei.knightlib.great_chalice_fill_interaction.title": "Великая чаша наполнена"
+}

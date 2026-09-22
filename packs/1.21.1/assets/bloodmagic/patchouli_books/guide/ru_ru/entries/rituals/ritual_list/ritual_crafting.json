@@ -1,0 +1,111 @@
+{
+  "name": "Ритм бьющейся наковальни",
+  "icon": "minecraft:crafting_table",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ритм бьющейся наковальни",
+      "multiblock_id": "bloodmagic:crafting",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner#dusk)Сумрачный ритуальный предсказатель$(/l) для облегчения строительства."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "crafting",
+    "text_overrides": [
+      ["Item Filter", "l:bloodmagic:demon_will/item_routing/standard_item_filter"]
+    ]
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Ритм бьющейся наковальни$() - это мощный и универсальный ритуал, позволяющий автоматически создавать стандартные рецепты ремесел наряду с рецептами, использующими ваш $(l:bloodmagic:alchemy_table/alchemy_table)Алхимический стол$() или $(l:bloodmagic:demon_will/will_manipulation/soul_forge)Кузницу адского огня$() (если он правильно дополнен). Однако он может быть несколько сложным, поэтому ниже приводится руководство по его настройке. $(br2)Каждый ритуал может работать с одним рецептом."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Прежде всего, необходимо указать рецепт, по которому будет проводиться ритуал. Для этого используется фильтр предметов. $(br2)Можно использовать несколько типов фильтров предметов, однако ритуал будет принимать только один фильтр одновременно; все дополнительные фильтры будут игнорироваться."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Принимаются следующие фильтры: $(li)Стандартный фильтр предметов: точно определяет, какой предмет использовать в каждом слоте. $(li)Фильтр предметов по тегам: Использует $(thing)Теги$(), тобы указать, какие предметы использовать. Например, если для рецепта требуется любой вид камня (но подойдут андезит, гранит и т.д.), то в фильтре можно использовать forge:stone. $(li)Фильтр предметов по моду: Этот фильтр позволяет использовать любой предмет из мода в данном слоте."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "bloodmagic:images/entries/ritual/autocraft/filter_pickaxe.png"
+      ],
+      "title": "Образец фильтра",
+      "border": true,
+      "text": "Стандартный фильтр предметов, настроенный на автокрафт $(item)Каменных кирок$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Далее необходимо поместить фильтр предметов на ритуал. На этом рисунке мы использовали $(item)Каркас предмета$(), однако вместо него можно использовать сундук. Обратите внимание, что если в сундук поместить несколько $(item)фильтров$(), то будет использован только первый из них. $(br2)По умолчанию входной и выходной сундуки находятся в одном месте, однако это можно изменить с помощью $(l:bloodmagic/rituals/ritual_tinkerer)Ритуального мастера.$() Это может быть полезно для тех рецептов, в которых повторно используются некоторые компоненты, например, ваш $(l:bloodmagic:altar/soul_network)Blood Orb.$()"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "bloodmagic:images/entries/ritual/autocraft/default_placement.png",
+        "bloodmagic:images/entries/ritual/autocraft/optional_placement.png"
+      ],
+      "title": "Размещенный фильтр",
+      "border": true,
+      "text": "Фильтр и сундук в обычных местах, а также ритуал $(l:bloodmagic/rituals/ritual_tinkerer)Ритуальный мастер$() c сундуками на вход и выход."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Если в ритуале используется $(steadfast)Устойчивая$() или $(corrosive)Едкая$() воля, то вместо этого ритуал попытается создать связанную $(l:bloodmagic:demon_will/will_manipulation/soul_forge)Кузницу адской ковки$() или $(l:bloodmagic:alchemy_table/alchemy_table)Алхимический стол$(), соответственно. Все эти рецепты бесформенные, но если вам нужно 2 предмета, то в фильтре придется указать их дважды."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "bloodmagic:images/entries/ritual/autocraft/catalyst_recipe.png"
+      ],
+      "title": "Алхимический фильтр",
+      "border": true,
+      "text": "Фильтр, настроенный на создание $(l:bloodmagic:alchemy_table/potions)Простых катализаторов$()."
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crafting",
+      "page_type": "recipeRange",
+      "text_overrides": [
+        ["Item Filter", "l:bloodmagic:demon_will/item_routing/standard_item_filter"]
+      ],
+      "text": "Поддерживаемые фильтры: $(l:bloodmagic:demon_will/item_routing/standard_item_filter)Стандартные$(), $(l:bloodmagic:demon_will/item_routing/tag_item_filter)По тегам$() и $(l:bloodmagic:demon_will/item_routing/mod_item_filter)По моду$()."
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crafting",
+      "page_type": "inputRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crafting",
+      "page_type": "outputRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crafting",
+      "page_type": "outputFilterRange",
+      "text_overrides": [
+        ["filter", "l:bloodmagic:demon_will/item_routing/standard_item_filter"]
+      ],
+      "text": "Поддерживаемые фильтры: $(l:bloodmagic:demon_will/item_routing/standard_item_filter)Стандартные$(), $(l:bloodmagic:demon_will/item_routing/tag_item_filter)По тегам$() и $(l:bloodmagic:demon_will/item_routing/mod_item_filter)По моду$()."
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crafting",
+      "page_type": "hellforgedRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crafting",
+      "page_type": "steadfast"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crafting",
+      "page_type": "corrosive"
+    }
+  ]
+}

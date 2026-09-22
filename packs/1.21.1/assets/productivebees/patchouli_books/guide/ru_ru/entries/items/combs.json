@@ -1,0 +1,11 @@
+{
+    "name": "Соты",
+    "icon": "minecraft:honeycomb",
+    "category": "productivebees:items",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Пчёлы, живущие в $(l:hives/advanced_hives)продвинутых ульях$(/s), производят ресурсные соты, которые можно положить в $(l:blocks/centrifuge)центрифугу$(/l) для извлечения ресурсов.$(br)Соты можно сжать в блоки, чтобы их было удобнее хранить."
+        }
+    ]
+}

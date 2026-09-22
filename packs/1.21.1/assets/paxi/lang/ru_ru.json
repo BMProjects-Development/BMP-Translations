@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.paxi-fabric-1_21.title": "Paxi",
+  "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory": "Загружать из базовой папки «datapacks»",
+  "text.autoconfig.paxi-fabric-1_21.option.general.loadFromBaseDatapacksDirectory.@Tooltip": "Должен ли Paxi также принудительно загружать все дата-паки, размещённые в папке «datapacks» в основной папке Minecraft. Это сделано для совместимости с новой системой дата-паков CurseForge."
+}

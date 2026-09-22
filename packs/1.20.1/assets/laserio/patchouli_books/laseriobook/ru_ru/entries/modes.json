@@ -1,0 +1,32 @@
+{
+  "name": "Режимы",
+  "sortnum": 1,
+  "category": "laserio:mechanics",
+  "icon": "laserio:textures/gui/buttons/modestocker.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режимы определяют, что карта делает в принципе. На следующих страницах описаны доступные типы режимов.$(br2)Каждый тип карты (Предмет/Жидкость/Энергия) поддерживает следующие три режима. В качестве примера используются карты предметов.$(br2)Редстоун-карты поддерживают другой набор режимов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item{channel:0b,exact:0b,inv:{Items:[],Size:2},itemextractamt:1b,itemextractspeed:20,mode:0b,priority:0s,regulate:0b,roundRobin:0,sneaky:-1b}",
+      "text": "Карты режима ввода являются допустимым местом назначения для объектов, выводимых картами режима вывода.$(br2)Карты режима резервации будут пытаться выводить из карт режима ввода."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item{channel:0b,exact:0b,inv:{Items:[],Size:2},itemextractamt:1b,itemextractspeed:20,mode:1b,priority:0s,regulate:0b,roundRobin:0,sneaky:-1b}",
+      "text": "Карты режима вывода пытаются удалить объекты из соседнего блока. Например, предметы будут удалены из соседнего сундука и отправлены на карту ввода."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item{channel:0b,exact:0b,inv:{Items:[],Size:2},itemextractamt:1b,itemextractspeed:20,mode:2b,priority:0s,regulate:0b,roundRobin:0,sneaky:-1b}",
+      "text": "Карты режима резервации пытаются найти указанные предметы в их фильтре и извлечь их из других узлов вставки в той же сети.$(br2)Карты режима резервации требуют фильтра, установленного на «Разрешить»."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "laserio:card_item{channel:0b,exact:0b,inv:{Items:[],Size:2},itemextractamt:1b,itemextractspeed:20,mode:3b,priority:0s,regulate:0b,roundRobin:0,sneaky:-1b}",
+      "text": "Карты-датчики не перемещают объекты, а вместо этого смотрят на соседний инвентарь и издают редстоун-сигнал на канале редстоуна, если инвентарь соответствует фильтру.$(br2)Карты-датчики требуют фильтра."
+    }
+  ]
+}

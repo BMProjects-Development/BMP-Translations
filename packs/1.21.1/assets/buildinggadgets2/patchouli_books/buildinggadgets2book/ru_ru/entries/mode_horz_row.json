@@ -1,0 +1,24 @@
+{
+  "name": "Горизонтальный ряд",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/horizontal_row.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режим «Горизонтальный Ряд» будет строить блоки от игрока в направлении, в котором он смотрит. Это полезно для строительства мостов! $(br2)Переключите опцию «поместить сверху», чтобы увидеть, как это меняет размещение. $(br2)Это также доступно на гаджете обмена для замены блоков «слева и справа» от направления, в котором смотрит игрок."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Горизонтальный ряд",
+      "images": [
+        "buildinggadgets2:textures/book/images/horzrow1.png",
+        "buildinggadgets2:textures/book/images/horzrow3.png",
+        "buildinggadgets2:textures/book/images/horzrow2.png",
+        "buildinggadgets2:textures/book/images/horzrow4.png"
+      ],
+      "border": true,
+      "text": "Переключайте изображения выше, чтобы увидеть различные варианты"
+    }
+  ]
+}

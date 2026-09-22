@@ -1,0 +1,51 @@
+{
+  "gui.neo_auth.button.auth": "Аутентификация",
+  "gui.neo_auth.button.auth.tooltip": "Привет, %s!",
+  "gui.neo_auth.button.relogin": "Перезайти",
+
+  "gui.neo_auth.error.generic": "Что-то пошло не так! Пожалуйста, вернитесь и попробуйте снова.",
+  "gui.neo_auth.error.notPurchased": "На этом аккаунте не куплен Minecraft!",
+  "gui.neo_auth.error.timeout": "Время ожидания истекло! Пожалуйста, вернитесь и попробуйте снова.",
+
+  "gui.neo_auth.toast.greeting": "Привет, %s!",
+
+  "gui.neo_auth.method.title": "Выберите способ входа",
+  "gui.neo_auth.method.greeting": "Привет, %s!",
+  "gui.neo_auth.method.button.microsoft": "Microsoft",
+  "gui.neo_auth.method.button.microsoft.selectAccount": "Ctrl + клик для выбора аккаунта",
+  "gui.neo_auth.method.button.mojang": "Mojang (или устаревший)",
+  "gui.neo_auth.method.button.mojang.unavailable": "Недоступно, нажмите, чтобы узнать больше",
+  "gui.neo_auth.method.button.offline": "Офлайн",
+
+  "gui.neo_auth.microsoft.title": "Вход через Microsoft",
+  "gui.neo_auth.microsoft.browser": "Теперь Вы можете закрыть это окно и вернуться в Minecraft!",
+  "gui.neo_auth.microsoft.status.checkBrowser": "Пожалуйста, проверьте Ваш браузер...",
+  "gui.neo_auth.microsoft.status.msAccessToken": "Получение токена доступа Microsoft...",
+  "gui.neo_auth.microsoft.status.xboxAccessToken": "Получение токена доступа Xbox...",
+  "gui.neo_auth.microsoft.status.xboxXstsToken": "Получение токена Xbox XSTS...",
+  "gui.neo_auth.microsoft.status.mcAccessToken": "Получение токена доступа Minecraft...",
+  "gui.neo_auth.microsoft.status.mcProfile": "Получение Вашего профиля Minecraft...",
+  "gui.neo_auth.microsoft.warning.title": "Внимание! Нестандартные параметры аутентификации Microsoft",
+  "gui.neo_auth.microsoft.warning.body": "Если Вы не вносили это изменение, то это может привести к утечке токена Вашего аккаунта. Вы всё равно хотите продолжить?",
+  "gui.neo_auth.microsoft.warning.accept": "Я знаю, что делаю",
+  "gui.neo_auth.microsoft.warning.cancel": "Вернуться назад",
+
+  "gui.neo_auth.mojang.title": "Вход через Mojang (Устаревший)",
+
+  "neo_auth.configuration.title": "Конфигурация NeoAuth",
+  "neo_auth.configuration.buttons": "Кнопка аутентификации",
+  "neo_auth.configuration.xPos": "Координата X",
+  "neo_auth.configuration.yPos": "Координата Y",
+  "neo_auth.configuration.draggable": "Можно перетаскивать?",
+
+  "neo_auth.configuration.microsoft": "Microsoft",
+  "neo_auth.configuration.authorizeUrl": "URL авторизации OAuth2",
+  "neo_auth.configuration.xboxXstsUrl": "URL авторизации Xbox XSTS",
+  "neo_auth.configuration.clientId": "ID клиента OAuth2",
+  "neo_auth.configuration.tokenUrl": "URL токена доступа OAuth2",
+  "neo_auth.configuration.xboxAuthUrl": "URL аутентификации Xbox",
+  "neo_auth.configuration.prompt": "Запрос на взаимодействие",
+  "neo_auth.configuration.mcAuthUrl": "URL аутентификации Minecraft",
+  "neo_auth.configuration.port": "Порт URL обратного вызова OAuth2",
+  "neo_auth.configuration.mcProfileUrl": "URL профиля Minecraft"
+}

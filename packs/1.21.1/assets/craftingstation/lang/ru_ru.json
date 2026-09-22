@@ -1,0 +1,7 @@
+{
+  "block.craftingstation.crafting_station": "Станция крафта",
+  "block.craftingstation.crafting_station_slab": "Плита станции крафта",
+  "title.crafting_station": "Станция крафта",
+  "text.crafting_station.error": "Обнаружен неверный рецепт %s, подробности в логе",
+  "text.crafting_station.clear": "Очистить сетку крафта"
+}

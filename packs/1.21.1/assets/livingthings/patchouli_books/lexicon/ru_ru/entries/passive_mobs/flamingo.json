@@ -1,0 +1,20 @@
+{
+  "name": "Фламинго",
+  "icon": "livingthings:flamingo_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Розовая птица, которая чаще всего стоит на одной ноге.$(br2)$(bold)Здоровье: $()5 сердец$(br2)$(bold)Предметы для размножения: $()$(li)Сырой лосось$(li)Сырая треска"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:flamingo",
+      "rotate": false,
+      "scale": 0.8,
+      "default_rotation": 40,
+      "offset": 0.2,
+      "text": "Может быть найден в $(bold)болотах$() и у $(bold)рек$()."
+    }
+  ]
+}

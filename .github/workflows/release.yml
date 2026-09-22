@@ -1,0 +1,266 @@
+name: Release resource packs
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: bmp-translations-release-main
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    name: Read release marker
+    runs-on: ubuntu-latest
+    outputs:
+      release: ${{ steps.plan.outputs.release }}
+      gh: ${{ steps.plan.outputs.gh }}
+      cf: ${{ steps.plan.outputs.cf }}
+      mr: ${{ steps.plan.outputs.mr }}
+      matrix: ${{ steps.plan.outputs.matrix }}
+    steps:
+      - name: Check out full history
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Create release plan
+        id: plan
+        run: >-
+          python scripts/release_tools.py plan
+          --before "${{ github.event.before }}"
+          --head "${{ github.sha }}"
+
+  build:
+    name: Build Minecraft ${{ matrix.minecraft }} v${{ matrix.version }}
+    needs: plan
+    if: needs.plan.outputs.release == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - name: Check out full history
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Validate and build
+        run: >-
+          python scripts/release_tools.py build
+          --minecraft "${{ matrix.minecraft }}"
+          --output dist
+
+      - name: Generate bilingual changelog
+        run: >-
+          python scripts/release_tools.py changelog
+          --minecraft "${{ matrix.minecraft }}"
+          --head "${{ github.sha }}"
+          --output "dist/${{ matrix.changelog }}"
+
+      - name: Upload release artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: ${{ matrix.artifact }}
+          path: |
+            dist/${{ matrix.zip }}
+            dist/${{ matrix.changelog }}
+          if-no-files-found: error
+          retention-days: 14
+
+  tag:
+    name: Tag Minecraft ${{ matrix.minecraft }} v${{ matrix.version }}
+    needs:
+      - plan
+      - build
+    if: needs.plan.outputs.release == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - name: Check out full history
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Create immutable release tag
+        env:
+          TAG: ${{ matrix.tag }}
+          RETRY: ${{ matrix.retry }}
+        run: |
+          set -euo pipefail
+          if git rev-parse --verify --quiet "$TAG^{commit}" >/dev/null; then
+            tagged_commit=$(git rev-list -n 1 "$TAG")
+            if [[ "$RETRY" != "true" && "$tagged_commit" != "$GITHUB_SHA" ]]; then
+              echo "Tag $TAG already points to $tagged_commit, not $GITHUB_SHA." >&2
+              exit 1
+            fi
+            echo "Release tag $TAG already exists; leaving it unchanged."
+            exit 0
+          fi
+          if [[ "$RETRY" == "true" ]]; then
+            echo "Cannot retry $TAG because its release tag does not exist." >&2
+            exit 1
+          fi
+          git tag "$TAG" "$GITHUB_SHA"
+          git push origin "refs/tags/$TAG"
+
+  github:
+    name: GitHub — Minecraft ${{ matrix.minecraft }} v${{ matrix.version }}
+    needs:
+      - plan
+      - build
+      - tag
+    if: needs.plan.outputs.release == 'true' && needs.plan.outputs.gh == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - name: Download release artifact
+        uses: actions/download-artifact@v7
+        with:
+          name: ${{ matrix.artifact }}
+          path: dist
+
+      - name: Create GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ matrix.tag }}
+          RELEASE_NAME: ${{ matrix.name }}
+          ZIP_FILE: dist/${{ matrix.zip }}
+          CHANGELOG_FILE: dist/${{ matrix.changelog }}
+        run: |
+          set -euo pipefail
+          if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "GitHub release $TAG already exists; leaving it unchanged."
+            exit 0
+          fi
+          gh release create "$TAG" "$ZIP_FILE" \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "$RELEASE_NAME" \
+            --notes-file "$CHANGELOG_FILE" \
+            --latest=false
+
+  curseforge:
+    name: CurseForge — Minecraft ${{ matrix.minecraft }} v${{ matrix.version }}
+    needs:
+      - plan
+      - build
+      - tag
+    if: needs.plan.outputs.release == 'true' && needs.plan.outputs.cf == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - name: Download release artifact
+        uses: actions/download-artifact@v7
+        with:
+          name: ${{ matrix.artifact }}
+          path: dist
+
+      - name: Upload to CurseForge
+        env:
+          CURSEFORGE_TOKEN: ${{ secrets.CURSEFORGE_TOKEN }}
+          CURSEFORGE_PROJECT_ID: ${{ matrix.curseforge_project_id }}
+          RELEASE_NAME: ${{ matrix.name }}
+          ZIP_FILE: dist/${{ matrix.zip }}
+          CHANGELOG_FILE: dist/${{ matrix.changelog }}
+          GAME_VERSIONS_JSON: ${{ toJSON(matrix.game_versions) }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$CURSEFORGE_TOKEN" ]]; then
+            echo "CURSEFORGE_TOKEN secret is not configured." >&2
+            exit 1
+          fi
+          metadata=$(jq -n \
+            --rawfile changelog "$CHANGELOG_FILE" \
+            --arg displayName "$RELEASE_NAME" \
+            --argjson gameVersions "$GAME_VERSIONS_JSON" \
+            '{changelog: $changelog, changelogType: "markdown", displayName: $displayName, gameVersionNames: $gameVersions, releaseType: "release"}')
+          response=$(curl --fail-with-body --silent --show-error \
+            --request POST \
+            --header "X-Api-Token: $CURSEFORGE_TOKEN" \
+            --form-string "metadata=$metadata" \
+            --form "file=@$ZIP_FILE;type=application/zip" \
+            "https://minecraft.curseforge.com/api/projects/$CURSEFORGE_PROJECT_ID/upload-file")
+          echo "$response" | jq .
+
+  modrinth:
+    name: Modrinth — Minecraft ${{ matrix.minecraft }} v${{ matrix.version }}
+    needs:
+      - plan
+      - build
+      - tag
+    if: needs.plan.outputs.release == 'true' && needs.plan.outputs.mr == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    steps:
+      - name: Download release artifact
+        uses: actions/download-artifact@v7
+        with:
+          name: ${{ matrix.artifact }}
+          path: dist
+
+      - name: Upload to Modrinth
+        env:
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          MODRINTH_PROJECT_ID: ${{ matrix.modrinth_project_id }}
+          RELEASE_NAME: ${{ matrix.name }}
+          VERSION: ${{ matrix.version }}
+          ZIP_FILE: dist/${{ matrix.zip }}
+          CHANGELOG_FILE: dist/${{ matrix.changelog }}
+          GAME_VERSIONS_JSON: ${{ toJSON(matrix.game_versions) }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$MODRINTH_TOKEN" ]]; then
+            echo "MODRINTH_TOKEN secret is not configured." >&2
+            exit 1
+          fi
+          existing=$(curl --fail-with-body --silent --show-error \
+            --header "User-Agent: BMProjects-Development/BMP-Translations (github.com/BMProjects-Development/BMP-Translations)" \
+            "https://api.modrinth.com/v2/project/$MODRINTH_PROJECT_ID/version" | \
+            jq --arg version "$VERSION" --arg name "$RELEASE_NAME" \
+              '[.[] | select(.version_number == $version and .name == $name)] | length')
+          if [[ "$existing" != "0" ]]; then
+            echo "Modrinth version $RELEASE_NAME already exists; leaving it unchanged."
+            exit 0
+          fi
+          data=$(jq -n \
+            --rawfile changelog "$CHANGELOG_FILE" \
+            --arg name "$RELEASE_NAME" \
+            --arg version "$VERSION" \
+            --arg project "$MODRINTH_PROJECT_ID" \
+            --argjson gameVersions "$GAME_VERSIONS_JSON" \
+            '{name: $name, version_number: $version, changelog: $changelog, dependencies: [], game_versions: $gameVersions, version_type: "release", loaders: ["minecraft"], featured: true, status: "listed", project_id: $project, file_parts: ["file"], primary_file: "file", environment: "client_only"}')
+          printf '%s' "$data" > modrinth-version.json
+          response=$(curl --fail-with-body --silent --show-error \
+            --request POST \
+            --header "Authorization: $MODRINTH_TOKEN" \
+            --header "User-Agent: BMProjects-Development/BMP-Translations (github.com/BMProjects-Development/BMP-Translations)" \
+            --form "data=@modrinth-version.json;type=application/json" \
+            --form "file=@$ZIP_FILE;type=application/zip" \
+            "https://api.modrinth.com/v2/version")
+          echo "$response" | jq '{id, name, version_number, game_versions, status}'

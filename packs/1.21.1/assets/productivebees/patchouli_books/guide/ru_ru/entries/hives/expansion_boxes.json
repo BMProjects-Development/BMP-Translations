@@ -1,0 +1,71 @@
+{
+    "name": "Коробки расширения",
+    "icon": "productivebees:expansion_box_oak",
+    "category": "productivebees:hives",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Коробки расширения можно присоединить к $(l:hives/advanced_hives)продвинутым ульям$(/l), чтобы увеличить вместимость улья с 3 до 5 пчёл. Коробки расширения можно разместить сверху или рядом с ульем. Каждый улей может иметь только одну коробку расширения!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:boxes/expansion_box_oak"
+        },
+        {
+            "type": "multiblock",
+            "name": "Вертикально расширенный",
+            "multiblock": {
+                "mapping": {
+                    "H": "productivebees:advanced_oak_beehive[expanded=up]",
+                    "E": "productivebees:expansion_box_oak[expanded=up]"
+                },
+                "pattern": [
+                    [
+                        "E"
+                    ],
+                    [
+                        "H"
+                    ],
+                    [
+                        "0"
+                    ]
+                ],
+                "symmetrical": true,
+                "offset": [
+                    0,
+                    1,
+                    0
+                ]
+            },
+            "enable_visualize": false
+        },
+        {
+            "type": "multiblock",
+            "name": "Горизонтально расширенный",
+            "multiblock": {
+                "mapping": {
+                    "H": "productivebees:advanced_oak_beehive[expanded=left]",
+                    "E": "productivebees:expansion_box_oak[expanded=left]"
+                },
+                "pattern": [
+                    [
+                        "H",
+                        "E"
+                    ],
+                    [
+                        "0",
+                        " "
+                    ]
+                ],
+                "symmetrical": true,
+                "offset": [
+                    0,
+                    1,
+                    0
+                ]
+            },
+            "enable_visualize": false
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Алхимический стол",
+  "description": "$(l:bloodmagic:alchemy_table/alchemy_table)Алхимический стол$() - универсальная часть вашего снаряжения. С помощью него можно удваивать руды, производить основные ингредиенты из других менее полезных предметов, и даже создавать $(l:bloodmagic:alchemy_table/anointments)масла$()!",
+  "icon": "bloodmagic:alchemytable",
+  "sortnum": 1
+}

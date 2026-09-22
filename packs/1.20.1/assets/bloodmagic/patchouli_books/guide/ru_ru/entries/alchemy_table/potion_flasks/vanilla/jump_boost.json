@@ -1,0 +1,31 @@
+{
+  "name": "Прыгучесть",
+  "icon": "minecraft:rabbit_foot",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Прыгучесть$() увеличивает высоту прыжка объекта на 50% за уровень. Также снижает урон от падения на 1 единицу за уровень."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Прыгучесть (3:00)",
+      "a.recipe": "bloodmagic:flask/jump_boost",
+      "b.heading": "Прыгучесть (8:00)",
+      "b.recipe": "bloodmagic:flask/length_jump_boost",
+      "c.heading": "Прыгучесть II (1:30)",
+      "c.recipe": "bloodmagic:flask/potency_jump_boost"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "добавление $(l:bloodmagic:alchemy_table/potions#average_potions)Стандартных катализаторов$() позволит усилить зелье."
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Прыгучесть III (0:45)",
+      "a.recipe": "bloodmagic:flask/potency_average_jump_boost",
+      "b.heading": "Прыгучесть (21:20)",
+      "b.recipe": "bloodmagic:flask/length_average_jump_boost"
+    }
+  ]
+}

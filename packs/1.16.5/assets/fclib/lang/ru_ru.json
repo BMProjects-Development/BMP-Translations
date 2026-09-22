@@ -1,0 +1,15 @@
+{
+  "itemGroup.FCLib": "Моды FCLib",
+  "fclib.keybinds.category": "Горячие клавиши FCLib",
+  "fclib.shiftInfo": "§8Удерживайте §f<Красться> §8для дополнительной информации",
+  "fclib.reload.failed.targetNotFound": "§cОшибка FCLib: Ошибка в конфигурации %s §c, %s §cне найден в реестре Forge!",
+  "fclib.reload.failed.noValidConfigs": "§cОшибка FCLib: В конфигурации %s §cне найдено допустимых конфигураций",
+  "fclib.reload.success": "§aЕсли Вы не видите ошибок выше, значит, все конфигурации FCLib в формате Json были успешно перезагружены",
+  "fclib.reload.useForgeDimension": "Используйте /forge dimensions, если хотите получить список измерений. Используйте \"Default\" как тип объекта",
+  "fclib.reload.notSupported": "Команда не реализована",
+  "fclib.reload.argumentNotValid": "§cОшибка FCLib: Указанный аргумент %s §cв конфигурации %s §cнедействителен или не имеет допустимого исполнителя. Если Вы уверены, что аргумент действителен, сообщите об этом в мод, добавляющий этот аргумент",
+  "fclib.reload.conditionNotValid": "§cОшибка FCLib: Указанное условие %s §cв конфигурации %s §cнедействительно или не имеет допустимого исполнителя. Если Вы уверены, что условие действительно, сообщите об этом в мод, добавляющий это условие",
+  "fclib.reload.jsonSyntaxError": "§cОшибка FCLib: Синтаксическая ошибка Json в %s в %s",
+  "fclib.hoverText.clickToCopy": "Нажмите, чтобы скопировать",
+  "death.attack.generic_nobypass": "%1$s таинственно испарился из мира..."
+}

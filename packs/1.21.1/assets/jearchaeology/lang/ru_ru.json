@@ -1,0 +1,26 @@
+{
+  "emi.category.jearchaeology.brushing": "Расчистка",
+  "emi.category.jearchaeology.sniffing": "Обнюхивание нюхачом",
+  "jearchaeology.recipe.brush": "Расчистка",
+  "jearchaeology.recipe.sniff": "Обнюхивание нюхачом",
+
+  "jearchaeology.brush.structure.desert_well": "Пустынный колодец",
+  "jearchaeology.brush.structure.desert_pyramid": "Пустынная пирамида",
+  "jearchaeology.brush.structure.trail_ruins_common": "Развалины тропы",
+  "jearchaeology.brush.structure.trail_ruins_rare": "Развалины тропы",
+  "jearchaeology.brush.structure.ocean_ruin_warm": "Развалины тёплого океана",
+  "jearchaeology.brush.structure.ocean_ruin_cold": "Развалины холодного океана",
+  "jearchaeology.brush.structure.bastion": "Бастион [ATM]",
+  "jearchaeology.brush.structure.ancient_city": "Древний город [ATM]",
+  "jearchaeology.brush.structure.buried_ruins_or_obelist": "Погребённые руины и пустынный обелиск [BA]",
+  "jearchaeology.brush.structure.archeologist_camp_sand": "Лагерь археолога [BA]",
+  "jearchaeology.brush.structure.archeologist_camp_redsand": "Лагерь археолога [BA]",
+  "jearchaeology.brush.structure.archeologist_camp_grassy": "Лагерь археолога [BA]",
+  "jearchaeology.brush.structure.underwater": "Подводный подозрительный песок [BA]",
+  "jearchaeology.brush.structure.plains_gravel": "Стоунхендж [BA]",
+  "jearchaeology.brush.structure.fossil_chicken": "Окаменелость курицы [BA]",
+  "jearchaeology.brush.structure.fossil_creeper": "Окаменелость крипера [BA]",
+  "jearchaeology.brush.structure.fossil_jungle": "Окаменелость оцелота [BA]",
+  "jearchaeology.brush.structure.fossil_sheep": "Окаменелость овцы [BA]",
+  "jearchaeology.brush.structure.fossil_villager": "Окаменелость жителя [BA]"
+}

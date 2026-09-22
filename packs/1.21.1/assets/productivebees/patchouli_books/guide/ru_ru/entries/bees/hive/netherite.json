@@ -1,0 +1,19 @@
+{
+    "name": "Незеритовая пчела",
+    "icon": "minecraft:netherite_scrap",
+    "read_by_default": true,
+    "category": "productivebees:bees_hive",
+    "flag": "productivebees:netherite",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Незеритовая пчела",
+            "text": "Выводится от $(l:bees/hive/diamond)алмазной пчелы$(/l), если накормить её незеритовым блоком.",
+            "anchor": "netherite"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:netherite'}"
+        }
+    ]
+}

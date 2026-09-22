@@ -1,0 +1,66 @@
+{
+  "name": "Уровни и начало работы",
+  "icon": "bloodmagic:sacrificialdagger",
+  "category": "bloodmagic:utility",
+  "priority": "true",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Мы все еще работаем над развитием $(blood)Blood Magic 3$() и первые несколько шагов значительно отличаются от $(blood)Blood Magic 2$(). $(br2)Мы планируем добавить лучшее руководство, такое как entry unlocking, но мы ждем, пока развитие мода будет завершено. А пока вот краткий обзор того, как развиваться в этой альфа-версии $(blood)Blood Magic 3$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:altar",
+      "title": "Blood Altar (Tier-1)",
+      "text": "Первый шаг в $(blood)Blood Magic$() - создание $(l:bloodmagic:altar/blood_altar)кровавого алтаря$() и $(l:bloodmagic:altar/blood_altar#knife)жертвенного ножа$(). Используйте их чтобы генерировать $(blood)LP$() при самопожертвовании$(br2)Используйте $(blood)LP$() чтобы создать $(l:bloodmagic:altar/soul_network)слабый кровавый шар$(), несколько $(l:bloodmagic:altar/slates)сланцев$(), и немного $(l:bloodmagic:demon_will/will_manipulation/soul_snare)ловушек для души$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:alchemytable",
+      "title": "Алхимический стол (I уровень)",
+      "text": "$(l:bloodmagic:alchemy_table/alchemy_table)Алхимический стол$() использует $(blood)LP$() из $(thing)сети душ$() игрока (забирая ее $(l:bloodmagic:altar/soul_network)привязвнного кровавого шара$() внутри него) чтобы создавать различные предметы, такие как:$(li)$(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)тайный пепел$()$(li)$(item)реагенты$()$(li)$(l:bloodmagic:alchemy_table/anointments)масла$()$(li)$(thing)2x переработка руды$()$(li)и многое другое."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:arcaneashes",
+      "title": "Алхимические массивы (I уровень)",
+      "text": "$(thing)Алхимический массив$() производится путем размещения $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)тайного пепла$() на земле. В алхимическом массиве может содержаться 2 $(item)предмета$() после нажатия [$(k:use)]. С помощью него будут создаваться $(item)предметы$() (такие как $(l:bloodmagic:alchemy_array/sigil/divination)сигил прорицания$()) и выполнятся $(thing)некоторые функции$() (такие как $(l:bloodmagic:alchemy_array/functional_arrays/time_arrays)смена дня и ночи$())."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:soulforge",
+      "title": "Кузница адского огня (I уровень)",
+      "text": "$(l:bloodmagic:demon_will/will_manipulation/soul_forge)Кузница адского огня$() создает предметы используя $(l:bloodmagic:demon_will/will_manipulation/demon_will)волю демона$(). Вы получите свою первую $(raw)волю$() используя $(l:bloodmagic:demon_will/will_manipulation/soul_snare)ловушки для души$(), с последующем рекомендованым улучшением до $(l:bloodmagic:demon_will/demonic_items/sentient_sword)разумного меча$(). $(item)Кузница адского огня$() используется для вещей, непосредственно связанных с $(raw)волей демона$() (как $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камни душ$() и $(l:bloodmagic:demon_will/demonic_items/sentient_tools)разумные инструменты$()), и расходников (как $(l:bloodmagic:demon_will/demonic_items/explosive_charges)заряды$() и $(l:bloodmagic:demon_will/demonic_items/throwing_daggers)кинжалы$())."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:daggerofsacrifice",
+      "title": "II уровень",
+      "text": "На этом этапе вы сможете создать $(l:bloodmagic:altar/blood_altar#dagger_of_sacrifice)жертвенный кинжал$() чтобы убийство мобов приносило больше $(blood)LP$(). Различные $(item)улучшающие руны$() и $(item)сигилы$() уже будут доступны для вашего $(item)кровавого алтаря$(). Как и прежде, вы должны сосредоточиться на дальнейшем улучшении вашего $(l:bloodmagic:altar/blood_altar)алтаря$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:ritualdiviner",
+      "title": "III уровень",
+      "text": "К этому моменту у вас будет возможность проводить некоторые базовые $(l:bloodmagic:rituals/ritual_basics)ритуалы$() и создать $(l:bloodmagic:alchemy_array/living_equipment/living_basics)живую броню$(). Эта броня очень универсальна, хотя вам придется потрудиться, чтобы полностью раскрыть ее потенциал. На этом этапе вам следует задуматься об улучшении вашего $(l:bloodmagic:altar/blood_altar)алтаря$() и $(l:bloodmagic:rituals/ritual_diviner)ритуального предсказателя$() чтобы разблокировать больше $(thing)ритуалов$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:vengefulcrystal",
+      "title": "IV уровень",
+      "text": "Это наибольший уровень. На данный момент у вас есть доступ ко всему, что $(blood)Blood Magic$() может предложить. Вам будет доступен $(l:bloodmagic:rituals/ritual_tinkerer)ритуальный мастер$() и различные виды $(l:bloodmagic:demon_will/will_manipulation/aspected_will)аспектов воли$(), и подумайте, как их можно использовать для усовершенствования ваших существующих ритуалов, $(l:bloodmagic:demon_will/demonic_items/sentient_tools)разумных инструментов$() и $(l:bloodmagic:demon_will/demonic_items/sentient_sword)оружия$()."
+    },
+    {
+      "type": "spotlight",
+      "item": "bloodmagic:activationcrystalawakened",
+      "title": "V уровень",
+      "text": "В настоящее время это всего лишь миф. На данном этапе ничего не реализовано."
+    },
+    {
+      "type": "spotlight",
+      "item": "minecraft:barrier",
+      "title": "VI уровень?",
+      "text": "Что? Нет. Послушайте, даже в версии 1.12 это существовало только для красоты и в остальном не было реализовано. Вы зашли слишком далеко. Вернитесь на две страницы назад."
+    }
+  ]
+}

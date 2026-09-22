@@ -1,0 +1,27 @@
+{
+  "name": "Кристализированная воля",
+  "icon": "bloodmagic:defaultcrystal",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "extra_recipe_mappings": {
+    "bloodmagic:demoncrucible": 1,
+    "bloodmagic:demoncrystallizer": 1,
+    "bloodmagic:rawdemoncrystal": 1,
+    "bloodmagic:defaultcrystal": 1
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Теперь, когда у вас много $(l:bloodmagic:demon_will/will_manipulation/demon_will)воли демона$() в вашем $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камне души$(), пришло время изучить, что происходит, когда вы освобождаете ее в мир. $(br2)Прежде всего, вам нужно поместить $(raw)волю$() в $(l:bloodmagic:demon_will/will_manipulation/aura)ауру$(). Затем вам нужно создать $(thing)кристаллизатор демона$()."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Кристаллизатор демона",
+      "recipe": "bloodmagic:soulforge/demon_crystallizer",
+      "text": "$(l:bloodmagic:demon_will/will_manipulation/demon_will)Воля демона$() будет медленно потребляться из $(l:bloodmagic:demon_will/will_manipulation/aura)ауры$() для создания $(item)кристалов воли$(). Первый шпиль потратит 100 $(raw)воли$() для создания, а все последующие - по 40 каждый, но их можно сжечь за 50 в $(item)тигели демона$() для чистой прибыли 10. Самый большой $(item)кластер кристалов$() может вмещать в себя до 7 шпилей."
+    },
+    {
+      "type": "text",
+      "text": "Если у вас в инвентаре более 1 024 общего количества $(raw)воли$() (в любом количестве $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камней души$() и любого вида), вы можете собрать эти кристаллы, щелкнув по шпилю пустой рукой. Это удалит все, кроме центрального шпиля. $(br2)Однако, если у вас недостаточно $(raw)воли$(), и вы действительно нуждаетесь в центральном кристалле шпиля или просто торопитесь, вы можете собрать все кристаллы с помощью кирки."
+    }
+  ]
+}

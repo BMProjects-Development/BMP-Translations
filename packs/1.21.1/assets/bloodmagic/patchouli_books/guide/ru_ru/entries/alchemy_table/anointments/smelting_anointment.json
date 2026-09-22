@@ -1,0 +1,19 @@
+{
+  "name": "Медленно горящее масло",
+  "icon": "bloodmagic:smelting_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Медленно горящее масло",
+      "recipe": "bloodmagic:alchemytable/smelting_anointment",
+      "text": "Использует огонь для плавки добываемых блоков. $(br2)Поддерживается предметами: инструменты, мечи, заряды. $(br2)Применяется: Плавка I (256 блоков)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Медленно горящее масло L",
+      "recipe": "bloodmagic:alchemytable/smelting_anointment_l",
+      "text": "Эта улучшенная версия масла действует в четыре раза дольше. $(br2)Применяется: Плавка I (1024 блоков)"
+    }
+  ]
+}

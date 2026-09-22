@@ -1,0 +1,16 @@
+{
+  "name": "Жаждущий битвы",
+  "icon": "minecraft:rotten_flesh",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_downgrades",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Вызывает голод, если вы не атаковали что-либо в течение последнего времени. Более высокие уровни сокращают время действия и усиливают голод."
+    },
+    {
+      "type": "bloodmagic:living_armour_downgrade",
+      "a.recipe": "bloodmagic:downgrade/battle_hungry",
+      "b.upgrade": "bloodmagic:battle_hungry"
+    }
+  ]
+}

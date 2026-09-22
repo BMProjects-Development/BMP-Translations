@@ -1,0 +1,227 @@
+{
+  "itemGroup.reanimal": "Re:Animal",
+
+  "entity.reanimal.hedgehog": "Ёж",
+  "item.reanimal.hedgehog_spawn_egg": "Яйцо призыва ежа",
+  "item.reanimal.raw_hedgehog_meat": "Сырое мясо ежа",
+  "item.reanimal.cooked_hedgehog_meat": "Жареное мясо ежа",
+
+  "entity.reanimal.ostrich": "Страус",
+  "item.reanimal.ostrich_spawn_egg": "Яйцо призыва страуса",
+  "item.reanimal.ostrich_egg": "Страусиное яйцо",
+  "item.reanimal.raw_ostrich_meat": "Сырое мясо страуса",
+  "item.reanimal.cooked_ostrich_meat": "Жареное мясо страуса",
+
+  "entity.reanimal.kiwi": "Киви",
+  "item.reanimal.kiwi_spawn_egg": "Яйцо призыва киви",
+  "item.reanimal.kiwi_egg": "Яйцо киви",
+  "item.reanimal.raw_kiwi_meat": "Сырое мясо киви",
+  "item.reanimal.cooked_kiwi_meat": "Жареное мясо киви",
+
+  "entity.reanimal.pigeon": "Голубь",
+  "item.reanimal.pigeon_spawn_egg": "Яйцо призыва голубя",
+  "item.reanimal.pigeon_egg": "Голубиное яйцо",
+  "item.reanimal.raw_pigeon_meat": "Сырое мясо голубя",
+  "item.reanimal.cooked_pigeon_meat": "Жареное мясо голубя",
+
+  "entity.reanimal.butterfly": "Бабочка",
+  "item.reanimal.butterfly_spawn_egg": "Яйцо призыва бабочки",
+  "item.reanimal.butterfly_pollen": "Цветочная пыльца",
+
+  "entity.reanimal.capybara": "Капибара",
+  "item.reanimal.capybara_spawn_egg": "Яйцо призыва капибары",
+  "item.reanimal.raw_capybara_meat": "Сырое мясо капибары",
+  "item.reanimal.cooked_capybara_meat": "Жареное мясо капибары",
+
+  "entity.reanimal.red_panda": "Красная панда",
+  "item.reanimal.red_panda_spawn_egg": "Яйцо призыва красной панды",
+
+  "entity.reanimal.seal": "Тюлень",
+  "item.reanimal.seal_spawn_egg": "Яйцо призыва тюленя",
+  "item.reanimal.raw_seal_meat": "Сырое мясо тюленя",
+  "item.reanimal.cooked_seal_meat": "Жареное мясо тюленя",
+
+  "entity.reanimal.hippopotamus": "Гиппопотам",
+  "item.reanimal.hippopotamus_spawn_egg": "Яйцо призыва гиппопотама",
+  "item.reanimal.raw_hippopotamus_meat": "Сырое мясо гиппопотама",
+  "item.reanimal.cooked_hippopotamus_meat": "Жареное мясо гиппопотама",
+
+  "entity.reanimal.crocodile": "Крокодил",
+  "item.reanimal.crocodile_spawn_egg": "Яйцо призыва крокодила",
+  "item.reanimal.crocodile_egg": "Яйцо крокодила",
+  "block.reanimal.crocodile_egg": "Яйцо крокодила",
+  "item.reanimal.raw_crocodile_meat": "Сырое мясо крокодила",
+  "item.reanimal.cooked_crocodile_meat": "Жареное мясо крокодила",
+
+  "entity.reanimal.giraffe": "Жираф",
+  "item.reanimal.giraffe_spawn_egg": "Яйцо призыва жирафа",
+  "item.reanimal.raw_giraffe_meat": "Сырое мясо жирафа",
+  "item.reanimal.cooked_giraffe_meat": "Жареное мясо жирафа",
+
+  "entity.reanimal.dragonfly": "Стрекоза",
+  "item.reanimal.dragonfly_spawn_egg": "Яйцо призыва стрекозы",
+
+  "entity.reanimal.vulture": "Гриф",
+  "item.reanimal.vulture_spawn_egg": "Яйцо призыва грифа",
+  "item.reanimal.vulture_egg": "Яйцо грифа",
+
+  "entity.reanimal.penguin": "Пингвин",
+  "item.reanimal.penguin_spawn_egg": "Яйцо призыва пингвина",
+  "item.reanimal.penguin_egg": "Пингвинье яйцо",
+
+  "entity.reanimal.sea_urchin": "Морской ёж",
+  "item.reanimal.sea_urchin_spawn_egg": "Яйцо призыва морского ежа",
+  "item.reanimal.sea_urchin_caviar": "Икра морского ежа",
+
+  "item.reanimal.raw_starfish_caviar": "Сырая икра морской звезды",
+  "item.reanimal.cooked_starfish_caviar": "Жареная икра морской звезды",
+  "entity.reanimal.starfish": "Морская звезда",
+  "item.reanimal.starfish_spawn_egg": "Яйцо призыва морской звезды",
+
+  "item.reanimal.jellyfish_jelly": "Медузное желе",
+  "entity.reanimal.jellyfish": "Медуза",
+  "item.reanimal.jellyfish_spawn_egg": "Яйцо призыва медузы",
+
+  "item.reanimal.quill": "Дикобразья игла",
+  "item.reanimal.quill_arrow": "Игла-стрела",
+  "entity.reanimal.quill_arrow": "Игла-стрела",
+  "entity.reanimal.glow_stick": "Светящаяся палочка",
+  "item.reanimal.glow_stick_white": "Белая светящаяся палочка",
+  "item.reanimal.glow_stick_orange": "Оранжевая светящаяся палочка",
+  "item.reanimal.glow_stick_magenta": "Пурпурная светящаяся палочка",
+  "item.reanimal.glow_stick_light_blue": "Голубая светящаяся палочка",
+  "item.reanimal.glow_stick_yellow": "Жёлтая светящаяся палочка",
+  "item.reanimal.glow_stick_lime": "Лаймовая светящаяся палочка",
+  "item.reanimal.glow_stick_pink": "Розовая светящаяся палочка",
+  "item.reanimal.glow_stick_gray": "Серая светящаяся палочка",
+  "item.reanimal.glow_stick_light_gray": "Светло-серая светящаяся палочка",
+  "item.reanimal.glow_stick_cyan": "Бирюзовая светящаяся палочка",
+  "item.reanimal.glow_stick_purple": "Фиолетовая светящаяся палочка",
+  "item.reanimal.glow_stick_blue": "Синяя светящаяся палочка",
+  "item.reanimal.glow_stick_brown": "Коричневая светящаяся палочка",
+  "item.reanimal.glow_stick_green": "Зелёная светящаяся палочка",
+  "item.reanimal.glow_stick_red": "Красная светящаяся палочка",
+  "item.reanimal.glow_stick_black": "Чёрная светящаяся палочка",
+
+  "item.minecraft.potion.effect.quill": "Зелье игл",
+  "item.minecraft.potion.effect.long_quill": "Зелье игл",
+  "item.minecraft.potion.effect.strong_quill": "Зелье игл",
+  "item.minecraft.potion.effect.cramps": "Зелье судорог",
+  "item.minecraft.potion.effect.long_cramps": "Зелье судорог",
+  "item.minecraft.potion.effect.strong_cramps": "Зелье судорог",
+  "item.minecraft.potion.effect.glowing": "Зелье свечения",
+  "item.minecraft.potion.effect.long_glowing": "Зелье свечения",
+  "item.minecraft.potion.effect.strong_glowing": "Зелье свечения",
+
+  "item.minecraft.splash_potion.effect.quill": "Взрывное зелье игл",
+  "item.minecraft.splash_potion.effect.long_quill": "Взрывное зелье игл",
+  "item.minecraft.splash_potion.effect.strong_quill": "Взрывное зелье игл",
+  "item.minecraft.splash_potion.effect.cramps": "Взрывное зелье судорог",
+  "item.minecraft.splash_potion.effect.long_cramps": "Взрывное зелье судорог",
+  "item.minecraft.splash_potion.effect.strong_cramps": "Взрывное зелье судорог",
+  "item.minecraft.splash_potion.effect.glowing": "Взрывное зелье свечения",
+  "item.minecraft.splash_potion.effect.long_glowing": "Взрывное зелье свечения",
+  "item.minecraft.splash_potion.effect.strong_glowing": "Взрывное зелье свечения",
+
+  "item.minecraft.lingering_potion.effect.quill": "Туманное зелье игл",
+  "item.minecraft.lingering_potion.effect.long_quill": "Туманное зелье игл",
+  "item.minecraft.lingering_potion.effect.strong_quill": "Туманное зелье игл",
+  "item.minecraft.lingering_potion.effect.cramps": "Туманное зелье судорог",
+  "item.minecraft.lingering_potion.effect.long_cramps": "Туманное зелье судорог",
+  "item.minecraft.lingering_potion.effect.strong_cramps": "Туманное зелье судорог",
+  "item.minecraft.lingering_potion.effect.glowing": "Туманное зелье свечения",
+  "item.minecraft.lingering_potion.effect.long_glowing": "Туманное зелье свечения",
+  "item.minecraft.lingering_potion.effect.strong_glowing": "Туманное зелье свечения",
+
+  "item.minecraft.tipped_arrow.effect.quill": "Стрела игл",
+  "item.minecraft.tipped_arrow.effect.long_quill": "Стрела игл",
+  "item.minecraft.tipped_arrow.effect.strong_quill": "Стрела игл",
+  "item.minecraft.tipped_arrow.effect.cramps": "Стрела судорог",
+  "item.minecraft.tipped_arrow.effect.long_cramps": "Стрела судорог",
+  "item.minecraft.tipped_arrow.effect.strong_cramps": "Стрела судорог",
+  "item.minecraft.tipped_arrow.effect.glowing": "Стрела свечения",
+  "item.minecraft.tipped_arrow.effect.long_glowing": "Стрела свечения",
+  "item.minecraft.tipped_arrow.effect.strong_glowing": "Стрела свечения",
+
+  "block.reanimal.quill_platform": "Платформа из игл",
+
+  "effect.reanimal.quill": "Иглы",
+  "effect.reanimal.cramps": "Судороги",
+
+  "death.attack.reanimal.hedgehog_spikes": "%1$s укололся об ежа",
+  "death.attack.reanimal.hedgehog_spikes.player": "%1$s был уколот %2$s",
+  "death.attack.reanimal.sea_urchin_spikes": "%1$s укололся об морского ежа",
+  "death.attack.reanimal.sea_urchin_spikes.player": "%1$s был уколот %2$s",
+  "death.attack.reanimal.jellyfish_sting": "%1$s был ужален медузой",
+  "death.attack.reanimal.jellyfish_sting.player": "%1$s был ужален %2$s",
+
+  "subtitles.reanimal.entity.capybara.idle": "Капибара фыркает",
+  "subtitles.reanimal.entity.capybara.hurt": "Капибара ранена",
+  "subtitles.reanimal.entity.capybara.death": "Капибара умирает",
+
+  "subtitles.reanimal.entity.red_panda.idle": "Красная панда фурчит",
+  "subtitles.reanimal.entity.red_panda.hurt": "Красная панда ранена",
+  "subtitles.reanimal.entity.red_panda.death": "Красная панда умирает",
+
+  "subtitles.reanimal.entity.giraffe.idle": "Жираф фыркает",
+  "subtitles.reanimal.entity.giraffe.hurt": "Жираф ранен",
+  "subtitles.reanimal.entity.giraffe.death": "Жираф умирает",
+
+  "subtitles.reanimal.entity.hedgehog.idle": "Ёж фурчит",
+  "subtitles.reanimal.entity.hedgehog.hurt": "Ёж ранен",
+  "subtitles.reanimal.entity.hedgehog.death": "Ёж умирает",
+  "subtitles.reanimal.entity.hedgehog.roll": "Ёж сворачивается",
+  "subtitles.reanimal.entity.hedgehog.unroll": "Ёж разворачивается",
+
+  "subtitles.reanimal.entity.hippopotamus.bite": "Гиппопотам кусает",
+  "subtitles.reanimal.entity.hippopotamus.idle": "Гиппопотам фыркает",
+  "subtitles.reanimal.entity.hippopotamus.hurt": "Гиппопотам ранен",
+  "subtitles.reanimal.entity.hippopotamus.death": "Гиппопотам умирает",
+
+  "subtitles.reanimal.entity.crocodile.bite": "Крокодил кусает",
+  "subtitles.reanimal.entity.crocodile.idle": "Крокодил шипит",
+  "subtitles.reanimal.entity.crocodile.hurt": "Крокодил ранен",
+  "subtitles.reanimal.entity.crocodile.death": "Крокодил умирает",
+
+  "subtitles.reanimal.entity.kiwi.idle": "Киви свистит",
+  "subtitles.reanimal.entity.kiwi.hurt": "Киви ранен",
+  "subtitles.reanimal.entity.kiwi.death": "Киви умирает",
+
+  "subtitles.reanimal.entity.ostrich.idle": "Страус кричит",
+  "subtitles.reanimal.entity.ostrich.hurt": "Страус ранен",
+  "subtitles.reanimal.entity.ostrich.death": "Страус умирает",
+
+  "subtitles.reanimal.entity.penguin.idle": "Пингвин пищит",
+  "subtitles.reanimal.entity.penguin.hurt": "Пингвин ранен",
+  "subtitles.reanimal.entity.penguin.death": "Пингвин умирает",
+
+  "subtitles.reanimal.entity.pigeon.idle": "Голубь воркует",
+  "subtitles.reanimal.entity.pigeon.hurt": "Голубь ранен",
+  "subtitles.reanimal.entity.pigeon.death": "Голубь умирает",
+  "subtitles.reanimal.entity.pigeon.takeoff": "Голубь взлетает",
+
+  "subtitles.reanimal.entity.butterfly.idle": "Бабочка порхает",
+  "subtitles.reanimal.entity.butterfly.hurt": "Бабочка ранена",
+  "subtitles.reanimal.entity.butterfly.death": "Бабочка умирает",
+  "subtitles.reanimal.entity.butterfly.loop": "Бабочка порхает",
+
+  "subtitles.reanimal.entity.dragonfly.loop": "Стрекоза жужжит",
+  "subtitles.reanimal.entity.dragonfly.hurt": "Стрекоза ранена",
+  "subtitles.reanimal.entity.dragonfly.death": "Стрекоза умирает",
+
+  "subtitles.reanimal.entity.jellyfish.idle": "Медуза пульсирует",
+  "subtitles.reanimal.entity.jellyfish.hurt": "Медуза ранена",
+  "subtitles.reanimal.entity.jellyfish.death": "Медуза умирает",
+
+  "subtitles.reanimal.entity.sea_urchin.idle": "Морской ёж шуршит",
+  "subtitles.reanimal.entity.sea_urchin.hurt": "Морской ёж ранен",
+  "subtitles.reanimal.entity.sea_urchin.death": "Морской ёж умирает",
+
+  "subtitles.reanimal.entity.seal.idle": "Тюлень лает",
+  "subtitles.reanimal.entity.seal.hurt": "Тюлень ранен",
+  "subtitles.reanimal.entity.seal.death": "Тюлень умирает",
+
+  "subtitles.reanimal.entity.vulture.idle": "Гриф фыркает",
+  "subtitles.reanimal.entity.vulture.hurt": "Гриф ранен",
+  "subtitles.reanimal.entity.vulture.death": "Гриф умирает"
+}

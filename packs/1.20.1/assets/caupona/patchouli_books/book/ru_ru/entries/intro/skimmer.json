@@ -1,0 +1,28 @@
+{
+	"name": "Шумовка",
+	"icon": "caupona:bamboo_skimmer",
+	"category": "caupona:intro",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/bamboo_skimmer",
+			"text": "Шумовки используются для удаления пены из супа, уменьшая концентрацию на 0.5 каждый раз, пока не будет достигнут нижний предел. После снятия пены ни тип, ни основа не будут изменены."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "caupona:scraps",
+			"link_recipe": true,
+			"text": "Снятые ингредиенты превратятся в отходы, единственное применение которых — компостирование."
+		},
+		{
+			"type": "text",
+			"text": "Железные и бамбуковые шумовки функционируют одинаково, несмотря на то, что железные более долговечны."
+		},
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/iron_skimmer",
+			"recipe2": "caupona:crafting/iron_skimmer_alt"
+		}
+	]
+}

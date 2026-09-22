@@ -1,0 +1,56 @@
+{
+  "name": "Антехамбер",
+  "icon": "bloodmagic:dungeon_seal",
+  "category": "bloodmagic:dungeons",
+  "extra_recipe_mappings": {
+    "bloodmagic:inversion_pillar": 0,
+    "bloodmagic:dungeon_seal": 0,
+    "bloodmagic:dungeon_controller": 0,
+    "bloodmagic:inversion_pillar_cap": 0,
+    "bloodmagic:dungeon_brick3": 1,
+    "bloodmagic:dungeon_brick2": 1,
+    "bloodmagic:dungeon_brick1": 1,
+    "bloodmagic:dungeon_brick_assorted": 1,
+    "bloodmagic:dungeon_stone": 1,
+    "bloodmagic:dungeon_eye": 1,
+    "bloodmagic:dungeon_polished": 1,
+    "bloodmagic:dungeon_tile": 1,
+    "bloodmagic:dungeon_tilespecial": 1,
+    "bloodmagic:dungeon_smallbrick": 1,
+    "bloodmagic:dungeon_brick_stairs": 1,
+    "bloodmagic:dungeon_polished_stairs": 1,
+    "bloodmagic:dungeon_pillar_center": 1,
+    "bloodmagic:dungeon_pillar_special": 1,
+    "bloodmagic:dungeon_pillar_cap": 1,
+    "bloodmagic:dungeon_brick_wall": 1,
+    "bloodmagic:dungeon_polished_wall": 1,
+    "bloodmagic:dungeon_brick_gate": 1,
+    "bloodmagic:dungeon_polished_gate": 1,
+    "bloodmagic:dungeon_brick_slab": 1,
+    "bloodmagic:dungeon_tile_slab": 1,
+    "bloodmagic:dungeon_regular_cracked_brick1": 1,
+    "bloodmagic:dungeon_cracked_brick1": 1,
+    "bloodmagic:dungeon_emitter": 1,
+    "bloodmagic:dungeon_alternator": 1,
+    "bloodmagic:spikes": 1,
+    "bloodmagic:dungeon_spike_trap": 1
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "После выполнения ритуала $(l:bloodmagic:rituals/ritual_list/ritual_simple_dungeon)край скрытого царства$(), вы окажетесь перед $(thing)столбом инверсии$(). Нажмите правой кнопкой мыши на столб, чтобы перейти в Антехамбер, это ваш первый заход в $(thing)царство демонов.$() $(br)В первой комнате есть несколько вещей, на которые стоит обратить внимание: $(li)Один сундук с базовой добычей и, если вам повезет, с несколькими $(l:bloodmagic:dungeons/simple_key)железными ключами$()."
+    },
+    {
+      "type": "text",
+      "text": "$(li)Во-первых, в комнате есть несколько замков $(thing)печатей подземелья$() в $(thing)дверных проемах$(). Используйте $(item)ключ$() для разблокировки следующей комнаты. $(li)Во-вторых, есть $(item)столб инврсии$(), обратный тому, который вы вызвали ранее. Используйте [$(k:use)], чтобы вернуться в свой мир. $(br2)Также здесь есть большое количество декоративных блоков, если вам захочется добавить немного стиля своей базе."
+    },
+    {
+      "type": "text",
+      "text": "В любой следующей комнате, которую вы откроете, вы можете найти множество добычи, монстров, ловушек и, возможно, неактивированных ритуалов. Будьте начеку! $(br2)Несколько примеров добычи, которую вы можете найти: $(li)Зачарованные книги $(li)Зачарованное оружие и броня $(li)$(l:bloodmagic:alchemy_table/anointments)Различные масла$() $(li)$(l:bloodmagic:demon_will/will_manipulation/demon_will)Волю демона$() $(li)Ингредиенты для зелий"
+    },
+    {
+      "type": "text",
+      "text": "$(li)Тай фрукт $(li)Насыщенный тай $(li)Масло тай$(br2)Так что идите на охоту и будьте осторожны с ловушками и сокровищами!"
+    }
+  ]
+}

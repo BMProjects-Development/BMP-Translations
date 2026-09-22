@@ -1,0 +1,16 @@
+{
+  "name": "Искалеченная рука",
+  "icon": "minecraft:shield",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_downgrades",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эффект: Не позволяет использовать предмет, находящийся вне руки. Это относится к установке факелов, поднятию щита и т.д."
+    },
+    {
+      "type": "bloodmagic:living_armour_downgrade",
+      "a.recipe": "bloodmagic:downgrade/crippled_arm",
+      "b.upgrade": "bloodmagic:crippled_arm"
+    }
+  ]
+}

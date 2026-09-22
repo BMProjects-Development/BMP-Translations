@@ -1,0 +1,18 @@
+{
+    "name": "Светопчела",
+    "icon": "minecraft:glowstone_dust",
+    "read_by_default": true,
+    "category": "productivebees:bees_wild",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Светопчела",
+            "text": "Обитает в светящихся гнёздах в Незере. Светящиеся пчёлы предпочитают опылять светящиеся блоки, а именно: светокамень и фонари.",
+            "anchor": "glowing"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:glowing'}"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Самонаведение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_homing",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшите свою точность с помощью улучшения «Самонаведение». Снаряды, модифицированные этим улучшением, будут сами находить ближайшие цели, гарантируя, что ваши выстрелы никогда не промахнутся."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Самонаведение»",
+      "recipe": "justdirethings:upgrade_homing"
+    }
+  ]
+}

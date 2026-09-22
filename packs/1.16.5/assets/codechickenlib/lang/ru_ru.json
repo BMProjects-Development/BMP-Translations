@@ -1,0 +1,11 @@
+{
+  "ccl.commands.count.fail": "Сущностей не найдено.",
+  "ccl.commands.count.total": "Найдено сущностей: %s.",
+  "ccl.commands.gc.after": "После:",
+  "ccl.commands.gc.before": "До:",
+  "ccl.commands.gc.performing": "Выполняется сборка мусора...",
+  "ccl.commands.killall.fail": "Сущностей не найдено.",
+  "ccl.commands.killall.fail.player": "Вы не можете убивать игроков этой командой.",
+  "ccl.commands.killall.success": "Убито сущностей: %s.",
+  "ccl.commands.killall.success.line": "Убито: %s"
+}

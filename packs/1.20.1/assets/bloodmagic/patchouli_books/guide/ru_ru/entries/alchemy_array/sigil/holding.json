@@ -1,0 +1,24 @@
+{
+  "name": "Сигил удержания",
+  "icon": "bloodmagic:sigilofholding",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Этот сигил может содержать в себе до 5ти других $(item)сигилов$() одновременно, предоставляя вам их пассивные эффекты и позволяя вам активировать их по необходимости.$(br)Нажмите [$(k:bloodmagic.keybind.open_holding)] удерживая сигил, чтобы открыть его инвентарь.$() $(br)Нажмите [$(k:bloodmagic.keybind.cycle_holding_pos)] чтобы переключится вперед,$() или [$(k:bloodmagic.keybind.cycle_holding_neg)] чтобы вернутся обратно.$() удерживание [$(k:sneak)] и прокручивание колесика мыши, работает так же."
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "Удерживающий реагент",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_holding",
+      "array.heading": "Сигил удержания",
+      "array.recipe": "bloodmagic:array/holdingsigil",
+      "array.text": "$(italic)Сигил-концепция"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "Если у вас установлен $(thing)Curios API$() вы можете оборудовать этот $(item)сигил$() как амулет. Если вы хотите носить больше сигилов одновременно, рассмотрите возможность использования $(l:bloodmagic:alchemy_array/sigil/holding)сигила удержания$(), или $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)улучшения Разъём$() для вашей $(l:bloodmagic:alchemy_array/living_equipment/living_basics)живой брони$()."
+    }
+  ]
+}

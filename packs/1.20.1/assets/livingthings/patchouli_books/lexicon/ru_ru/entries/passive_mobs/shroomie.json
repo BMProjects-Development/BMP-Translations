@@ -1,0 +1,19 @@
+{
+  "name": "Грибочек",
+  "icon": "livingthings:shroomie_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Полезное животное, которое посадит хотя бы один гриб, если Вы дадите ему его.$(br2)$(bold)Здоровье: $()5 сердец$(br2)$(bold)Предметы для размножения: $()$(li)Пшеница$(br2)$(bold)Дроп:$()$(li)1-2 красных гриба$(br) --- или ---$(li)1-2 коричневых гриба"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:shroomie{ShroomieType:1}",
+      "rotate": false,
+      "default_rotation": 30,
+      "offset": 0.1,
+      "text": "Может быть найден во всех $(bold)грибных биомах$()."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Защита от времени",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_time_protection",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l:justdirethings:res_time_crystal)Кристаллы Времени$(/l) удивительны! Однако ношение их с собой иногда может иметь непреднамеренные побочные эффекты. Более того, дальнейшие исследования могут привести к появлению полей и способностей, изменяющих время.$(br2)Установка этого улучшения защитит вас от любых странных эффектов, связанных с манипуляциями со временем!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Защита от времени»",
+      "recipe": "justdirethings:upgrade_time_protection"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "item.dtatum.palm_seed": "Семя финиковой пальмы",
+
+  "species.dtatum.palm": "Финиковая пальма",
+  "species.dtatum.dead_palm": "Мёртвая пальма",
+  "species.dtatum.deadwood": "Мёртвое дерево",
+
+  "block.dtatum.palm_branch": "Финиковая пальма",
+  "block.dtatum.dead_palm_branch": "Мёртвая пальма",
+  "block.dtatum.deadwood_branch": "Мёртвое дерево"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Измеритель ауры демона",
+  "icon": "bloodmagic:demonwillgauge",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Пока находится в инвентаре игрока, $(item)измеритель ауры демона$() будет отображать элемент интерфейса, показывающий сколько $(raw)воли демона$() находится в локальной $(l:bloodmagic:demon_will/will_manipulation/aura)ауре$(). $(br)От верхней части к нижней, измеряемые аспекты воли: $(li)$(raw)Сырая$() $(li)$(corrosive)Едкая$() $(li)$(steadfast)Стойкая$() $(li)$(destructive)Разрушительная$() $(li)$(vengeful)Мстительная$()"
+    },
+    {
+      "type": "bloodmagic:crafting_soulforge",
+      "recipe": "bloodmagic:soulforge/demon_will_gauge",
+      "heading": "Измеритель ауры демона",
+      "text": "Изображение элемента энтерфейса измерителя."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/demon_will_aura_gauge.png"
+      ],
+      "title": "Интерфейс измерителя",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "Этот прибор появится в верхнем левом углу экрана. Цветные полосы дадут вам оценку того, сколько $(l:bloodmagic:demon_will/will_manipulation/aspected_will)аспектов воли$() каждого типа находится в текущем чанке. $(br2)Зажмите [$(k:sneak)] чтобы получить числовое значение для каждого аспекта, от 1 до 100 $(raw)воли$(). 100 - это максимальное количество любого аспекта $(raw)воли$() которое может находиться в чанке."
+    }
+  ]
+}

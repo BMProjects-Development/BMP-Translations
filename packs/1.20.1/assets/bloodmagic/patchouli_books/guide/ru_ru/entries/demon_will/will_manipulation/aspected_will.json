@@ -1,0 +1,55 @@
+{
+  "name": "Демонические аспекты воли",
+  "icon": "bloodmagic:vengefulcrystal",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "extra_recipe_mappings": {
+    "bloodmagic:steadfastdemoncrystal": 2,
+    "bloodmagic:corrosivedemoncrystal": 2,
+    "bloodmagic:destructivedemoncrystal": 2,
+    "bloodmagic:vengefuldemoncrystal": 2,
+    "bloodmagic:steadfastcrystal": 2,
+    "bloodmagic:corrosivecrystal": 2,
+    "bloodmagic:destructivecrystal": 2,
+    "bloodmagic:vengefulcrystal": 2,
+    "bloodmagic:basemonstersoul_vengeful": 2,
+    "bloodmagic:basemonstersoul_corrosive": 2,
+    "bloodmagic:basemonstersoul_steadfast": 2,
+    "bloodmagic:basemonstersoul_destructive": 2
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Высвобождение $(l:bloodmagic:demon_will/will_manipulation/demon_will)воли демона$() в атмосферу было определенно отличной идеей. Она оказалась полезной не только для усиления $(item)ритуалов$(), но вы также успешно сгустили ее в $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)кристаллический кластер$() и задумываетесь, что делать дальше. $(br2)Эти $(item)кристаллы$() кажутся вам... противоречивыми. Определенный $(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)ритуал$() может помочь вытащить их в более чистых формах..."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/will_splitting.png"
+      ],
+      "title": "Аспекты воли",
+      "border": true,
+      "text": "Ритуал $(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)резонанс граненого кристалла$() в действии.."
+    },
+    {
+      "type": "text",
+      "text": "Теперь у нас есть $(item)кристаллизованная воля$() в четырех новых вариантах! В $(water)рунах воды$() у нас $(steadfast)непоколебимая воля$(), в $(air)воздушных рунах$() - $(destructive)разрушительная воля$(), в $(fire)огненных рунах$() - $(vengeful)мстительная воля$(), а в $(earth)рунах земли$() - $(corrosive)едкая воля.$() $(br2) Эти новые виды воли можно сжечь в $(item)тигеле демона$() так же, как и сырую волю, и затем использовать в различных ритуалах с увлекательными эффектами."
+    },
+    {
+      "type": "text",
+      "anchor": "sentient_aspects",
+      "text": "Однако, новые типы кристаллизованной воли также изменят поведение ваших разумных инструментов, делая их более мощными. $(br) $(li)$(raw)Сырая воля$(): увеличивает урон и скорость атаки. $(corrosive)$(li)Едкая воля$(): атаки имеют шанс нанести яд или иссушение врагам, а в остальном такой же эффект как и у $(raw)сырой воли$(). $(vengeful)$(li)Мстительная воля$(): увеличивает урон, но не так сильно, как $(raw)сырая воля$(),"
+    },
+    {
+      "type": "text",
+      "text": "увеличивает скорость атаки больше, чем любой другой тип, дает бафф скорости движения, который увеличивается с увеличением количества воли. $(steadfast)$(li)Стойкая воля$(): увеличивает урон (но не так сильно, как $(raw)сырая воля$()) и даёт поглощение после убийства.$(br)$(li)$(destructive)Разрушительная воля$(): увеличивает урон сильнее, чем любой другой тип воли, но повышает скорость атаки меньше, чем любой другой тип. Наибольший уровень остается быстрее, чем у неусиленного инструмента / эквивалентный"
+    },
+    {
+      "type": "text",
+      "text": "железному, но медленнее, чем у любого другого типа воли. Вы, возможно, задаетесь вопросом: Как я могу превратить волю в удобную форму? Ответ прост: просто поместите ПУСТОЙ $(l:bloodmagic:demon_will/will_manipulation/soul_gem)кристал души$() в $(l:bloodmagic:demon_will/will_manipulation/soul_forge)кузницу адского огня$() в том же чанке, что и $(item)тигель демона$(), затем питайте тигель демона кристаллами воли нужного аспекта. Ваш $(l:bloodmagic:demon_will/will_manipulation/soul_gem)кристал души$() заполнится этим аспектом воли. Вы можете изменить, какой вид воли используют ваш $(raw)разумный инструмент$(), нажав [$(k:use)] в то время как держите его."
+    },
+    {
+      "type": "text",
+      "text": "Обратите внимание, что ваши $(raw)разумные инструменты$() будут использовать аспект с наибольшим количеством $(raw)воли$() в вашем инвентаре. Если вы носите 10 единиц $(corrosive)едкой воли$() в одном $(l:bloodmagic:demon_will/will_manipulation/soul_gem)кристале души$(), и 1,000 единиц $(raw)сырой воли$() в другом, то ваш инструмент будет использовать $(raw)сырую волю$()."
+    }
+  ]
+}

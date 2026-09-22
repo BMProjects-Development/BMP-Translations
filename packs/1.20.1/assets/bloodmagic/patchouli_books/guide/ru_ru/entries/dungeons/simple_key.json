@@ -1,0 +1,17 @@
+{
+  "name": "Железные ключи",
+  "icon": "bloodmagic:simplekey",
+  "category": "bloodmagic:dungeons",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Железные ключи - главный способ прокладывания пути в $(thing)подземельях$(). Их можно найти в сундуках внутри царства демонов, или скрафтить самостоятельно."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Железный ключ",
+      "recipe": "bloodmagic:soulforge/simple_key",
+      "text": "$(italic)Если это так просто, почему мы не можем просто взломать замок?$()"
+    }
+  ]
+}

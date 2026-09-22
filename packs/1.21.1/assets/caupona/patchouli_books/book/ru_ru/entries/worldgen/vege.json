@@ -1,0 +1,26 @@
+{
+  "name": "Травы",
+  "icon": "caupona:silphium_block",
+  "category": "caupona:worldgen",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Сильфиум теперь генерируется в мире. Эту траву нельзя сажать, её можно только обновлять с помощью костной муки."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "image",
+      "images": ["caupona:textures/gui/entries/silphium.png"],
+      "anchor": "silphium",
+      "title": "Сильфиум"
+    },
+    {
+      "type": "spotlight",
+      "item": "caupona:silphium",
+      "text": "Сильфиум растёт только на подсолнечных равнинах. Асафетида, редкая пряность, может быть получена путём выдерживания сильфиума и наковальни (не расходуется) в $(l:intro/counter_with_dolium)долии$(/l)."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Зельевая стрела",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_potionarrow",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Добавьте магическую составляющую вашим стрелам с помощью улучшения «Зельевая стрела». Это улучшение позволяет стрелам переносить эффекты зелий, накладывая дополнительные эффекты на цели."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Зельевая стрела»",
+      "recipe": "justdirethings:upgrade_potionarrow"
+    }
+  ]
+}

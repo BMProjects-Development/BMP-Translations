@@ -1,0 +1,18 @@
+{
+  "name": "Обезьяна",
+  "icon": "livingthings:monkey_spawn_egg",
+  "category": "livingthings:neutral_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br2)$(bold)Здоровье: $()3 сердца$(br)$(bold)Урон: $()1.5 сердца$(br2)$(bold)Предметы для размножения: $()$(li)Яблоки$(li)Бананы$(br2)$(bold)Дроп: $()$(li)1-2 кожи$(li)0-1 банан"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:monkey",
+      "rotate": false,
+      "default_rotation": 35,
+      "text": "Можно встретить во всех биомах $(bold)Джунглей$()."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Руна объема шара",
+  "icon": "bloodmagic:orbcapacityrune",
+  "category": "bloodmagic:altar/blood_rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Руна объема шара$() увеличивает емкость $(item)кровавого шара$() внутри алтаря на +2% за каждую руну, пока шар находится внутри алтаря."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:blood_rune_orb"
+    }
+  ]
+}

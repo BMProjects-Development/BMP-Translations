@@ -1,0 +1,42 @@
+{
+    "name": "Сбор генов",
+    "icon": "productivebees:gene",
+    "category": "productivebees:genetics",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Разливочная машина вместе с поршнем может использоваться для разлива пчёл по бутылкам. Поместите пчелу в центр и потяните за рычаг. Убедитесь, что в разливочной машине есть пустые бутылочки. Бросьте пчелу в бутылочке в центрифугу, чтобы отделить полезное от мусора."
+        },
+        {
+            "type": "multiblock",
+            "name": "Пчелиная разлив. машина",
+            "multiblock": {
+                "mapping": {
+                    "P": "minecraft:piston[facing=down]",
+                    "B": "productivebees:bottler[has_bottle=true]"
+                },
+                "pattern": [
+                    [
+                        "P"
+                    ],
+                    [
+                        " "
+                    ],
+                    [
+                        "B"
+                    ],
+                    [
+                        "0"
+                    ]
+                ],
+                "symmetrical": true,
+                "offset": [
+                    0,
+                    1,
+                    0
+                ]
+            },
+            "enable_visualize": false
+        }
+    ]
+}

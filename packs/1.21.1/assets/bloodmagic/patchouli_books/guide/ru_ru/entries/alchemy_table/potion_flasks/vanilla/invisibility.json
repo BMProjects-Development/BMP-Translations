@@ -1,0 +1,20 @@
+{
+  "name": "Невидимость",
+  "icon": "minecraft:glass_pane",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Невидимость$() заставляет объект исчезнуть из виду, что затрудняет его обнаружение. Этот эффект не распространяется ни на $(item)Броню$(), ни на удерживаемые предметы, которые могут выдать местонахождение объекта.$(br2)Изготавливается из зелья $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/night_vision)Ночного зрения$()."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Невидимость (3:00)",
+      "a.recipe": "bloodmagic:flask/night_to_invis",
+      "b.heading": "Невидимость (8:00)",
+      "b.recipe": "bloodmagic:flask/length_invisibility",
+      "c.heading": "Невидимость (21:20)",
+      "c.recipe": "bloodmagic:flask/length_average_invisibility"
+    }
+  ]
+}

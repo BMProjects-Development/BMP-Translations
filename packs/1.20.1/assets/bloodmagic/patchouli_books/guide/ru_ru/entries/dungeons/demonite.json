@@ -1,0 +1,45 @@
+{
+  "name": "Демонит",
+  "icon": "bloodmagic:dungeon_ore",
+  "category": "bloodmagic:dungeons",
+  "extra_recipe_mappings": {
+    "bloodmagic:dungeon_ore": 0,
+    "bloodmagic:rawdemonite": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(item)Демонит$() можно найти только в $(thing)пещерах$(), а именно в $(thing)Шахтах$(). Для этого нужно найти $(item)Ключ бригадира$() в лабиринте и с его помощью открыть $(thing)Пространственное искажение$(). Из него можно изготовить $(item)Адские слитки$() или $(item)Адскую пыль$(). $(br2)При добыче с помощью Шелкового касания, руду можно собирать напрямую, в противном случае из нее будут выпадать куски $(item)Сырого демонита$()."
+    },
+    {
+      "type": "patchouli:smelting",
+      "heading": "Адский слиток",
+      "recipe": "bloodmagic:smelting/ingot_from_demonite",
+      "recipe2": "bloodmagic:smelting/ingot_from_raw_hellforged",
+      "recipe3": "bloodmagic:smelting/ingot_hellforged"
+    },
+    {
+      "type": "patchouli:smelting",
+      "heading": "Адский слиток",
+      "recipe": "bloodmagic:smelting/ingot_hellforged"
+    },
+    {
+      "type": "bloodmagic:3x_crafting_arc",
+      "a.heading": "Адская пыль",
+      "a.recipe": "bloodmagic:arc/dustsfrom_gravel_hellforged",
+      "b.recipe": "bloodmagic:arc/dustsfrom_ore_hellforged",
+      "c.recipe": "bloodmagic:arc/dustsfrom_raw_hellforged"
+    },
+    {
+      "type": "bloodmagic:2x_crafting_arc",
+      "a.heading": "Обработка демонита",
+      "a.recipe": "bloodmagic:arc/fragmentshellforged",
+      "b.recipe": "bloodmagic:arc/gravelshellforged"
+    },
+    {
+      "type": "patchouli:crafting",
+      "heading": "Адский блок",
+      "recipe": "bloodmagic:hellforged_block"
+    }
+  ]
+}

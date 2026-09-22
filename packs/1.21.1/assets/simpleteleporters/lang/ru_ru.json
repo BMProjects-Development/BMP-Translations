@@ -1,0 +1,17 @@
+{
+  "block.simpleteleporters.teleporter": "Телепортер",
+  "item.simpleteleporters.ender_shard": "Эндер-осколок",
+  "simpleteleportersblock.teleporter.crystal_inserted.subtitle.": "Эндер-осколок вставлен",
+  "simpleteleportersblock.teleporter.crystal_removed.subtitle.": "Эндер-осколок извлечён",
+  "simpleteleportersblock.teleporter.teleport.subtitle.": "Телепортер активирован",
+  "simpleteleportersitem.ender_shard.link.subtitle.": "Связь эндер-осколка установлена",
+  "text.simpleteleporters.crystal_info": "Эндер-осколок связан с координатами %1$s, %2$s, %3$s в измерении %4$s",
+  "text.simpleteleporters.error.invalid_position": "Неверная позиция телепорта! Возможно, путь заблокирован блоком?",
+  "text.simpleteleporters.error.no_crystal": "В этом телепортере нет эндер-осколка!",
+  "text.simpleteleporters.error.unlinked_shard": "Этот эндер-осколок не связан!",
+  "text.simpleteleporters.error.unlinked_teleporter": "Эндер-осколок телепортера не связан!",
+  "text.simpleteleporters.error.wrong_dimension": "Эндер-осколок этого телепортера недостаточно силён для перемещения между измерениями!",
+  "text.simpleteleporters.how_to_link": "%1$s + %2$s по блоку, чтобы связать позицию",
+  "text.simpleteleporters.linked": "Связан: %1$s, %2$s, %3$s в измерении %4$s",
+  "text.simpleteleporters.unlinked": "Не связан"
+}

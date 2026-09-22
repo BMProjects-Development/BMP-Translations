@@ -1,0 +1,11 @@
+{
+  "packAction.copyId.description": "Удерживайте %s, чтобы скопировать",
+  "packAction.copyId.success": "Скопировано!",
+  "packAction.copyId.title": "Копировать ID пакета",
+  "packAction.reloadSettings.description": "Удерживайте %s, чтобы перезагрузить",
+  "packAction.reloadSettings.success": "Перезагружено!",
+  "packAction.reloadSettings.title": "Перезагрузить настройки",
+  "packAction.toggleDebug.description": "Удерживайте %s, чтобы переключить",
+  "packAction.toggleDebug.success": "Переключено!",
+  "packAction.toggleDebug.title": "Переключить отображение ID пакетов"
+}

@@ -1,0 +1,13 @@
+{
+  "item.fmtt.crystal_of_time": "Кристалл времени",
+  "item.fmtt.crystal_of_tech": "Кристалл техники",
+  "item.fmtt.crystal_of_magic": "Кристалл магии",
+  "item.fmtt.crystal_of_chance": "Кристалл шанса",
+  "item.fmtt.crystal_of_cosmos": "Кристалл космоса",
+  "item.fmtt.unknown_crystal": "Неизвестный кристалл",
+  "item.fmtt.fmtt_reward_item": "Награда FMTT",
+  "item.fmtt.fmtt_xp_item": "Опыт FMTT",
+  "creativetab.fmtt_creative_tab": "FMTT",
+
+  "tooltip.fmtt.energy": "Энергия: %d/%d FE"
+}

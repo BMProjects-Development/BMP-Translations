@@ -1,0 +1,20 @@
+{
+  "name": "Зависание",
+  "icon": "minecraft:cobweb",
+  "category": "bloodmagic:alchemy_table/potion_flasks/blood_magic",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Зависание$() не позволяет объекту прыгать, падать или каким-либо образом испытывать воздействие гравитации. Тем не менее, объект может двигаться, словно по ровной, бесконечной поверхности льда. $(br2)Изготавливается из колбы $(l:bloodmagic:alchemy_table/potion_flasks/blood_magic/gravity)Гравитация$()."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Зависание (3:00)",
+      "a.recipe": "bloodmagic:flask/gravity_to_suspended",
+      "b.heading": "Зависание (8:00)",
+      "b.recipe": "bloodmagic:flask/length_suspended",
+      "c.heading": "Зависание (21:20)",
+      "c.recipe": "bloodmagic:flask/length_average_suspended"
+    }
+  ]
+}

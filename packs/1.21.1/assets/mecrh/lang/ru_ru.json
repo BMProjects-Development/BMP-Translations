@@ -1,0 +1,16 @@
+{
+  "entity.mecrh.egg_bomb": "Яичная бомба",
+  "entity.mecrh.ender_chicken": "Могучая Эндер-курица",
+  "item.mecrh.ender_chicken_spawn_egg": "Яйцо призыва Эндер-курицы",
+  "item.mecrh.music_disc_chicken_of_chaos": "Пластинка",
+  "item.mecrh.music_disc_chicken_of_chaos.desc": "FTB Team — курица Хаоса",
+  "item.mecrh.test_stick": "Тестовая палка",
+  "mecrh.message.wrong_forcefield_item": "Недопустимое оружие для силового поля!",
+  "mecrh.subtitle.charge_start": "Курица заряжается",
+  "mecrh.subtitle.chicken_spin": "Курица начинает вращаться",
+  "mecrh.subtitle.forcefield_off": "Силовое поле отключено",
+  "mecrh.subtitle.forcefield_on": "Силовое поле активировано",
+  "mecrh.subtitle.laser_end": "Лазер выключается",
+  "mecrh.subtitle.laser_loop": "Лазер стреляет",
+  "mecrh.subtitle.laser_start": "Лазер включается"
+}

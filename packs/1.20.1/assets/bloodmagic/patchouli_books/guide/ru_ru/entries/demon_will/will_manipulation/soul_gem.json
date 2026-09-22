@@ -1,0 +1,53 @@
+{
+  "name": "Камни душ",
+  "icon": "bloodmagic:soulgemgreater",
+  "category": "bloodmagic:demon_will/will_manipulation",
+
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:bloodmagic:demon_will/will_manipulation/demon_will)Воля демона$() - это очень полезный ресурс, но фрагменты, которые вы получали до сих пор, явно недостаточно мощные. Вам нужен контейнер для хранения; кажется, $(item)камень души$() подойдет идеально. Более того, он может поглотить всю оставшуюся $(l:bloodmagic:demon_will/will_manipulation/demon_will)волю демона$(), которая у вас может лежать где-то. Просто бросьте их на землю, и ваш новый блестящий самоцвет поглотит их."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Мелкий камень души",
+      "recipe": "bloodmagic:soulforge/pettytartaricgem",
+      "text": "Первый $(item)камень души$() может хранить до 64 единиц $(l:bloodmagic:demon_will/will_manipulation/demon_will)воли демона$(). Гораздо компактнее, чем раньше! $(br2)Если вам когда-нибудь понадобится переместить $(raw)волю$() из одного камня в другой, просто нажмите [$(k:use)], удерживая камень, который вы хотите опустошить,"
+    },
+    {
+      "type": "text",
+      "text": "и он передаст свою волю в первый подходящий камень, который он найдет в вашем инвентаре. $(br)$(item)Мелкий камень души$() - это полезный инструмент, но, очевидно, не слишком мощный. Однако, если вы тщательно поработаете с ним, используя $(item)алмаз$(), $(item)лазурит$() и $(item)редстоун$(), вы сможете увеличить его емкость в четыре раза."
+    },  
+    {
+      "type": "crafting_soulforge",
+      "heading": "Меньший камень души",
+      "recipe": "bloodmagic:soulforge/lessertartaricgem",
+      "text": "Этот усиленный камень может удерживать до 256 единиц $(l:bloodmagic:demon_will/will_manipulation/demon_will)воли$(). $(br)Примечание: вам нужен только один камень при улучшении. $(item)Кузница адского огня$() будет использовать $(raw)волю$() из камня, который учавствует в крафте. Не волнуйтесь, созданный камень будет содержать всю оставшиуюся $(raw)волю$() после процесса крафта."
+    },
+    {
+      "type": "text",
+      "text": "$(item)Меньший камень души$() - уже намного лучше, но вы продолжаете испытывать неудобства из-за его ограничений. Для дальнейшего прогресса вам нужно сосредоточиться на $(l:bloodmagic:altar/blood_altar)кровавом алтаре$(), так как вам понадобятся $(l:bloodmagic:altar/slates)усиленный сланец$(). Комбинируя сланец со своим камнем души и дополнительно очищая его с помощью $(item)алмаза$() и $(item)золотого блока$(), вы нашли способ еще раз увеличить его объем хранения в четыре раза."
+    },  
+    {
+      "type": "crafting_soulforge",
+      "heading": "Обычный камень души",
+      "recipe": "bloodmagic:soulforge/commontartaricgem",
+      "text": "Этот сложный камень может содержать впечатляющие 1,024 единиц $(l:bloodmagic:demon_will/will_manipulation/demon_will)воли$()."
+    },
+    {
+      "type": "text",
+      "text": "Вы достигли впечатляющих высот при создании $(item)обычного камня души$(), но вы чувствуете, что вы можете сделать еще больше. Однако, чтобы извлечь больше пользы из вашего камня, вам понадобится объединить все свои работы до сих пор. Вам нужен $(l:bloodmagic:altar/slates)демонический сланец$(), $(l:bloodmagic:utility/alchemical_reaction_chamber#blood_shard)осколок слабой крови$() $(o)и$() $(l:bloodmagic:demon_will/will_manipulation/crystallized_will)кристал воли демона$(). Конечно же, это позволит повысить мощность ваших $(l:bloodmagic:demon_will/demonic_items/sentient_tools)разумных инструментов$() до невиданных высот..."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Большой камень души",
+      "recipe": "bloodmagic:soulforge/greatertartaricgem",
+      "text": "Этот шедевр искусства может вместить поразительные 4,096 $(l:bloodmagic:demon_will/will_manipulation/demon_will)воли$()."
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "Если у вас установлен $(thing)Curios API$(), вы можете надеть $(item)камень души$() в качестве ожерелья. Если вы хотите использовать больше амулетов одновременно, рассмотрите возможность использования  $(l:bloodmagic:alchemy_array/sigil/holding)сигила удержания$(), или $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)улучшение Разъем$() для вашей $(l:bloodmagic:alchemy_array/living_equipment/living_basics)живой брони$()."
+    }
+  ]
+}

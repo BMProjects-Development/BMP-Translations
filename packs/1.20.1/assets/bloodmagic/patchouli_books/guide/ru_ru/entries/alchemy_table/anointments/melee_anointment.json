@@ -1,0 +1,25 @@
+{
+  "name": "Масло силы",
+  "icon": "bloodmagic:melee_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Масло силы",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment",
+      "text": "Временно увеличивает урон в ближнем бою на +3. $(br2)Поддерживается предметами: иструменты, мечи.$(br2)Применяется: Точильный камень I (256 ударов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Масло силы L",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment_l",
+      "text": "Эта улучшенная версия масла действует в четыре раза дольше. $(br2)Применяется: Точильный камень I (1024 ударов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Масло силы II",
+      "recipe": "bloodmagic:alchemytable/melee_damage_anointment_2",
+      "text": "Эта улучшенная версия масла увеличивает урон в ближнем бою на +6. $(br2)Применяется: Точильный камень II (256 ударов)"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Воля демона",
+  "icon": "bloodmagic:basemonstersoul",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "extra_recipe_mappings": {
+    "bloodmagic:basemonstersoul": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Как только у вас появился $(l:bloodmagic:altar/blood_altar)кровавый алтарь$(), вам нужно будет собрать немного $(item)воли демона$(). Есть два способа получить волю демона:$(br)$(li)Убить моба, на которого была брошена $(l:bloodmagic:demon_will/will_manipulation/soul_snare)ловушка для души$(/l) и который был убит, когда появились белые частицы.$(li)Убить враждебного моба с помощью $(l:bloodmagic:demon_will/demonic_items/sentient_sword)разумного меча$().$(br)Так как вы только начинаете использовать мод, у вас еще нет $(l:bloodmagic:demon_will/demonic_items/sentient_sword)разумного меча$(),"
+    },
+    {
+      "type": "text",
+      "text": "вам нужно использовать $(l:bloodmagic:demon_will/will_manipulation/soul_snare)ловушку для души$(), чтобы получить $(item)волю демона$(). $(br2) $(item)Воля демона$() является расходуемым ресурсом в $(blood)Blood Magic$(), и используется для питания $(l:bloodmagic:demon_will/will_manipulation/soul_forge)кузницы адского огня$(). $(br2) В мифологии $(blood)Blood Magic$() $(raw)воля демона$() представляет собой остаточный эффект, возникающий тогда, когда демон внушает свою волю телам умерших или других монстров."
+    },
+    {
+      "type": "image",
+      "images": ["bloodmagic:images/entries/demon_will/demon_will.png"],
+      "title": "Воля демона",
+      "border": true
+    },
+    {
+      "type": "text",
+      "text": "Как только у вас появится немного $(raw)воли$(), вы сможете использовать её для создания полезных инструментов в $(l:bloodmagic:demon_will/will_manipulation/soul_forge)кузнице адского огня$(). Если воля мешается в вашем инвентаре, могут помочь $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камни души$()."
+    }
+  ]
+}

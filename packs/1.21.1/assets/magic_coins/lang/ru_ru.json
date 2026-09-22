@@ -1,0 +1,20 @@
+{
+    "item_group.magic_coins.magic_group": "Магические монеты",
+    "item.magic_coins.silver_coin": "Серебрянная монета",
+    "item.magic_coins.silver_coin.description": "Ценность этой монеты - $%s",
+    "item.magic_coins.gold_coin": "Золотая монета",
+    "item.magic_coins.gold_coin.description": "Ценность этой монеты - $%s",
+    "item.magic_coins.crystal_coin": "Кристальная монета",
+    "item.magic_coins.crystal_coin.description": "Ценность этой монеты - $%s",
+    "item.magic_coins.prosperity_amulet": "Амулет процветания",
+    "item.prosperity_amulet.description_0.effect_0": "Защищает монеты в",
+    "item.prosperity_amulet.description_1.effect_0": "вашем кошельке при смерти",
+    "item.prosperity_amulet.description_0.effect_1": "Когда здоровье меньше 50% дает",
+    "item.prosperity_amulet.description_1.effect_1": "эффект регенерации I уровня на 3 секунды.",
+    "command.coins.add.success": "%2$s получил %1$d %3$s",
+    "command.coins.set.success": "%2$s установлен: %1$d %3$s",
+    "command.coins.rank.title": "Рейтинг магнатов",
+    "text.coin": "монета",
+    "text.coins": "монеты",
+    "text.page": "страницы"
+}

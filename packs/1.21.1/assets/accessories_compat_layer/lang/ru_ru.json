@@ -1,0 +1,17 @@
+{
+  "accessories.slot.pocket": "Карман",
+
+  "text.config.accessories_compat.title": "Конфигурация совместимости Accessories",
+
+  "text.config.accessories_compat.option.slotIdRedirects": "Перенаправления ID слотов",
+  "text.config.accessories_compat.option.slotIdRedirects.tooltip": "Полезно, когда требуется перенаправить слот из Trinkets на обычный тип слота Accessories",
+
+  "text.config.accessories_compat.option.dumpDataWhenNullEntries": "Выгружать данные при пустых записях",
+  "text.config.accessories_compat.option.dumpDataWhenNullEntries.tooltip": "Полезно, когда в Trinkets возникает ошибка из-за нулевого значения, и такое поведение приводит к вылету",
+
+  "text.config.accessories_compat.option.addPocketSlot": "Добавить слот «Карман»",
+  "text.config.accessories_compat.option.addPocketSlot.tooltip": "Добавляет слот «Карман», который имитирует слот из Curios",
+
+  "text.config.accessories_compat.option.showPocketSlotInTooltip": "Показывать слот «Карман» в подсказке",
+  "text.config.accessories_compat.option.showPocketSlotInTooltip.tooltip": "Показывает слот «Карман» в подсказке, если он не подходит для данного слота"
+}

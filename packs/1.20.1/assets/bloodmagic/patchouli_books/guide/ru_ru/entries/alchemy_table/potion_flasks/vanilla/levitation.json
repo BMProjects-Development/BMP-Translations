@@ -1,0 +1,31 @@
+{
+  "name": "Левитация",
+  "icon": "minecraft:shulker_shell",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Левитация$() заставляет объект взмыть в воздух. При более высоких уровнях объект левитирует быстрее.$(br2)Изготавливается из зелья $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/slow_falling)Плавного падения$()."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Левитация (3:00)",
+      "a.recipe": "bloodmagic:flask/fall_to_levitation",
+      "b.heading": "Левитация (8:00)",
+      "b.recipe": "bloodmagic:flask/length_levitation",
+      "c.heading": "Левитация II (1:30)",
+      "c.recipe": "bloodmagic:flask/potency_levitation"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "добавление $(l:bloodmagic:alchemy_table/potions#average_potions)Стандартных катализаторов$() позволит усилить зелье."
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Левитация III (0:45)",
+      "a.recipe": "bloodmagic:flask/potency_average_levitation",
+      "b.heading": "Левитация (21:20)",
+      "b.recipe": "bloodmagic:flask/length_average_levitation"
+    }
+  ]
+}

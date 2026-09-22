@@ -1,0 +1,17 @@
+{
+  "name": "Элитры",
+  "icon": "minecraft:elytra",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Добавляет элитры на вашу живую броню. Вместо того, чтобы развиватся, $(l:bloodmagic:alchemy_array/living_equipment/living_tomes)том улучшения живой брони$() должен быть создан. $(br2)Эти элитры истощают прочность нагрудника, но в два раза медленнее, чем обычные элитры. $(br2) И так же выглядят довольно аккуратно."
+    },
+    {
+      "type": "bloodmagic:crafting_upgrade_array",
+      "a.heading": "Элитры",
+      "a.recipe": "bloodmagic:array/living_elytra_upgrade",
+      "b.upgrade": "bloodmagic:elytra"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Вращение",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/rotate.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Функция «Вращение» позволяет игроку поворачивать структуру в гаджетах «Копировать-вставить» или «Вырезать-вставить» вокруг начальной точки.$(br2)Попробуйте это и понаблюдайте за изменением полупрозрачного изображения структуры, чтобы лучше понять принцип, или пролистайте картинки справа"
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Вращение",
+      "images": [
+        "buildinggadgets2:textures/book/images/rotate1.png",
+        "buildinggadgets2:textures/book/images/rotate2.png",
+        "buildinggadgets2:textures/book/images/rotate3.png"
+      ],
+      "border": true,
+      "text": "Поворот дома!"
+    }
+  ]
+}

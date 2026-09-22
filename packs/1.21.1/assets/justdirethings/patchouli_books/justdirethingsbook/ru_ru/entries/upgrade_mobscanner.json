@@ -1,0 +1,17 @@
+{
+  "name": "Сканер мобов",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_mobscanner",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Сканер мобов» — это активируемая способность, которую можно установить на феррикоровые мечи и мечи уровнем выше. При активации этой способности ближайшие враги будут отмечены частицами, которые видны сквозь блоки."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Сканер мобов»",
+      "recipe": "justdirethings:upgrade_mobscanner"
+    }
+  ]
+}

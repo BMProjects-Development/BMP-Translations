@@ -1,0 +1,15 @@
+{
+  "name": "Здравие",
+  "icon": "minecraft:golden_apple",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Эффект: Дает дополнительное здоровье, до 50 полусердец. $(br2)Развитие: Восстановление здоровья (Обычным лечением, с помощью $(item)зелья исцеления$() или $(item)зелья регенерации$().) $(br2)Максимальный уровень: 10"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:health"
+    }
+  ]
+}

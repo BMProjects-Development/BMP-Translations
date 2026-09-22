@@ -1,0 +1,1 @@
+{"name":"Shark Tooth","icon":"livingthings:shark_tooth","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Obtaining:$()$(br)can be dropped by Sharks"},{"type":"spotlight","item":"livingthings:shark_tooth","text":"$(br)$(bold)Usage:$()$(li)can be used for arrows$(li)can be crafted to bone meal"}]}

@@ -1,0 +1,29 @@
+{
+  "name": "Трещина расколотого кристалла",
+  "icon": "bloodmagic:defaultcrystal",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Трещина расколотого кристалла",
+      "multiblock_id": "bloodmagic:crystal_harvest",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner#dusk)сумрачный ритуальный предсказатель$(/l) для более легкой постройки."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "crystal_harvest",
+      "text_overrides": [
+        ["Кластеры кристаллов воли демона", "l:bloodmagic:demon_will/will_manipulation/crystallized_will"],
+        ["аспекты", "l:bloodmagic:demon_will/will_manipulation/aspected_will"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "crystal_harvest",
+      "page_type": "crystal",
+      "text_overrides": [
+        ["воля демона", "raw"]
+      ]
+    }
+  ]
+}

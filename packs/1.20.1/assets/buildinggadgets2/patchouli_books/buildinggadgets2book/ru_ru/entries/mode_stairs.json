@@ -1,0 +1,22 @@
+{
+  "name": "Ступеньки",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/stairs.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режим «Ступеньки» будет строить либо вверх и от Вас, либо вверх и к Вам, в зависимости от того, находитесь ли Вы выше или ниже блока, на который смотрите.$(br2)Честно говоря, он довольно своеобразный и запутанный, и его можно было бы переработать."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Ступеньки",
+      "images": [
+        "buildinggadgets2:textures/book/images/stairs1.png",
+        "buildinggadgets2:textures/book/images/stairs2.png"
+      ],
+      "border": true,
+      "text": "Переключайте изображения выше, чтобы увидеть различные варианты"
+    }
+  ]
+}

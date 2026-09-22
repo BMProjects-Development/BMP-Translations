@@ -1,0 +1,14 @@
+{
+  "custommachinerycreate.gui.creation.components.contraption": "Механизм",
+  "custommachinerycreate.gui.creation.components.contraption.stress_impact": "Нагрузка",
+
+  "custommachinery.machine.component.contraption": "Механизм",
+
+  "custommachinerycreate.requirement.contraption.info.speed.input": "Требуемая скорость: %s RPM",
+  "custommachinerycreate.requirement.contraption.info.speed.output": "Выходная скорость: %s RPM",
+  "custommachinerycreate.requirement.contraption.info.stress.input": "Нагрузка: %sx RPM",
+  "custommachinerycreate.requirement.contraption.info.stress.output": "Запас нагрузки: %sx RPM",
+  "custommachinerycreate.requirement.contraption.info.scaling": "Скорость обработки зависит от скорости вращения",
+  "custommachinerycreate.requirement.contraption.error.speed.input": "Не хватает скорости вращения: %s RPM требуется, но доступно только %s RPM",
+  "custommachinerycreate.requirement.contraption.error.stress.input": "Этот механизм перегружен!"
+}

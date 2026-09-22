@@ -1,0 +1,18 @@
+{
+    "name": "Пчела-фермер",
+    "icon": "minecraft:wheat",
+    "read_by_default": true,
+    "sortnum": 1,
+    "category": "productivebees:bees_worker",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Пчела-фермер",
+            "text": "Собирает ближайшие посевы и оставляет собранное на земле. Она работает в 4 блоках от домашнего улья. Это радиус может быть увеличен улучшением «Диапазон». Если у вас есть мод, который добавляет сбор посевов на ПКМ, то пчела делает то же самое."
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:farmer_bee"
+        }
+    ]
+}

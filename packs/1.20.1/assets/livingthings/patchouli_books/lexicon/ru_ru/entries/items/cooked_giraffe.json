@@ -1,0 +1,1 @@
+{"name":"Cooked Giraffe Meat","icon":"livingthings:cooked_giraffe","category":"livingthings:item_category","pages":[{"type":"text","text":"$(br)$(bold)Obtaining:$()$(br)can be obtained by smelting Raw Giraffe Meat"},{"type":"spotlight","item":"livingthings:cooked_giraffe","text":"$(br)$(bold)Usage:$()$(li)can be eaten"}]}

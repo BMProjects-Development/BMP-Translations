@@ -1,0 +1,17 @@
+{
+  "name": "Полет",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_flight",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Обретите силу неограниченного полёта с улучшением «Полет». Это улучшение позволяет вам свободно летать в режиме выживания, почти как в творческом режиме.$(br2)Оно использует энергию Forge для удержания вас в воздухе, так что следите, чтобы она не закончилась!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения Полет",
+      "recipe": "justdirethings:upgrade_flight"
+    }
+  ]
+}

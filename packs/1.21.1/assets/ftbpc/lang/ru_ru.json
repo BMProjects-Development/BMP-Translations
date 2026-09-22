@@ -1,0 +1,17 @@
+{
+  "block.ftbpc.trigger_block": "Триггер игрока",
+  "ftbpackcompanion.actionpad.tpa.request_sent": "Запрос на телепортацию отправлен",
+  "ftbpackcompanion.home": "Дом",
+  "ftbpackcompanion.key.category": "Pack Companion",
+  "ftbpackcompanion.key.open_action_pad": "Открыть планшет действий",
+  "ftbpackcompanion.shaders_notice.no_shaders.description": "Шейдеры включены в этот сборку, но по умолчанию отключены. Хотите включить их? Шейдеры могут требовать много ресурсов, вызывать проблемы с некоторыми модами и могут быть несовместимы с Вашим оборудованием.",
+  "ftbpackcompanion.shaders_notice.no_shaders.title": "Нет шейдеров",
+  "ftbpackcompanion.shaders_notice.shaders.description": "Если Вы хотите использовать шейдеры, Вы можете включить их здесь, чтобы испытать сборку с ярким внешним видом. Если у Вас возникнут проблемы, Вы всегда можете отключить их позже в настройках видео.",
+  "ftbpackcompanion.shaders_notice.shaders.title": "Шейдеры",
+  "ftbpackcompanion.shaders_notice.shaders_btn.disable": "Отключить шейдеры",
+  "ftbpackcompanion.shaders_notice.shaders_btn.enable": "Включить шейдеры",
+  "ftbpackcompanion.shaders_notice.title": "Хотите использовать шейдеры?",
+  "ftbpackcompanion.spawn": "Точка возрождения",
+  "ftbpackcompanion.tpa": "Запрос телепортации",
+  "item.ftbpc.action_pad": "Планшет действий"
+}

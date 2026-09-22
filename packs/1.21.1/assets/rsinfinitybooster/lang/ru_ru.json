@@ -1,0 +1,7 @@
+{
+  "item_group.rsinfinitybooster.tab": "RS Бесконечный бустер",
+  "item.rsinfinitybooster.infinity_card": "Бесконечный усилитель радиуса",
+  "item.rsinfinitybooster.dimension_card": "Карта измерений",
+  "item.rsinfinitybooster.tooltip.infinity_card.help": "Увеличивает дальность беспроводного передатчика на ∞ блоков",
+  "item.rsinfinitybooster.tooltip.dimension_card.help": "Увеличивает дальность беспроводного передатчика на ∞ блоков и позволяет подключаться к сети из любого измерения"
+}

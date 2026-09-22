@@ -1,0 +1,37 @@
+{
+  "name": "Поверхность",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/surface.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режим «Поверхность» расширит набор блоков, на который Вы смотрите. Смотрите изображения справа для примера.$(br2)Режим «нечетко» позволит гаджету нацеливаться на любые блоки или только на те, на которые Вы смотрите."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Поверхность (нечетко)",
+      "images": [
+        "buildinggadgets2:textures/book/images/surface5.png",
+        "buildinggadgets2:textures/book/images/surface1.png",
+        "buildinggadgets2:textures/book/images/surface2.png"
+      ],
+      "border": true,
+      "text": "Переключайте изображения выше, чтобы увидеть различные варианты"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Этот режим также доступен для гаджета обмена, и нечеткий режим работает так же. $(br2)Дополнительно, режим «связанный» будет обменивать только блоки, соединённые с теми, на которые Вы смотрите. Смотрите изображения справа для пояснения."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Поверхность (связанный)",
+      "images": [
+        "buildinggadgets2:textures/book/images/surface3.png",
+        "buildinggadgets2:textures/book/images/surface4.png"
+      ],
+      "border": true,
+      "text": "Переключайте изображения выше, чтобы увидеть различные варианты"
+    }
+  ]
+}

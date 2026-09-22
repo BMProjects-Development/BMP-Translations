@@ -1,0 +1,20 @@
+{
+  "block.vista.television": "Телевизор",
+  "item.vista.cassette": "Кассета",
+  "item.vista.hollow_cassette": "Пустая кассета",
+  "item.vista.picture_tape": "Плёнка с изображением",
+  "block.vista.viewfinder": "Видоискатель",
+  "tooltip.vista.cassette.tape": "Плёнка: %s",
+  "tooltip.vista.hollow_cassette.linked": "Привязана к [%1$s, %2$s, %3$s]",
+  "tooltip.vista.hollow_cassette.linked_unknown": "Привязана к неверному местоположению",
+  "tooltip.vista.hollow_cassette.linked_away": "Привязана где-то в %s",
+  "cassette_tape.vista.block_wave.tooltip": "Plantkillable - Block Wave",
+  "cassette_tape.vista.mc98.tooltip": "Plantkillable - Mc 98",
+  "cassette_tape.vista.space_sniffer.tooltip": "Plantkillable - Space Sniffer",
+  "cassette_tape.vista.bounce.tooltip": "MehVahdJukaar - Bounce",
+  "cassette_tape.vista.67.tooltip": "MehVahdJukaar - 67",
+  "cassette_tape.vista.mc_98.tooltip": "Plantkillable - Mc 98",
+  "subtitles.vista.television.eject": "Извлечение кассеты",
+  "subtitles.vista.television.insert": "Вставка кассеты",
+  "message.vista.viewfinder.control": "Нажмите %1$s чтобы слезть, %2$s чтобы Заблокировать/Разблокировать"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Детёныш дракона Края",
+  "icon": "livingthings:baby_ender_dragon_spawn_egg",
+  "category": "livingthings:hostile_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Почти опасное существо, которое любит фрукты хоруса!$(br)Прирученные детёныши дракона Края будут следовать за Вами.$(br2)$(bold)Здоровье: $()5 сердец$(br2)$(bold)Предметы для приручения: $()$(li)Фрукт хоруса"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:baby_ender_dragon",
+      "rotate": false,
+      "scale": 0.6,
+      "default_rotation": 45,
+      "offset": 0.2,
+      "text": "Можно вылупить, поместив яйцо дракона на вершину пурпурной колонны."
+    }
+  ]
+}

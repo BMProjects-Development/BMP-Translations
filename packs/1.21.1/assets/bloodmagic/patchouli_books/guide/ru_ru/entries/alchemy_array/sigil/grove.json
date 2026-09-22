@@ -1,0 +1,38 @@
+ {
+  "name": "Сигил зеленой рощи",
+  "icon": "bloodmagic:growthsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Сигил зеленой рощи$() это предмет, который можно использовать многократно. Созданный в массиве с $(item)реагентом роста$() и $(item)усиленным сланцем$(), сигил может использовать из вашей $(thing)сети душ$() $(blood)LP$() для питания и выращивания близлежащих растений."
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "Реагент роста",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_growth",
+      "array.heading": "Сигил зеленой рощи",
+      "array.recipe": "bloodmagic:array/growthsigil"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/grove_sigil1.png",
+        "bloodmagic:images/entries/sigil/grove_sigil2.png",
+        "bloodmagic:images/entries/sigil/grove_sigil3.png"
+      ],
+      "title": "Масиив сигила зеленой рощи",
+      "border": true,
+      "text": "Массив сигила зеленой рощи, а также ее основное использование."
+    },
+    {
+      "type": "text",
+      "text": "Если вы нажмете [$(k:use)] на блоке который $(2)растет$(), он применит эффект костной муки при потреблении $(blood)150 LP$(). $(br2)Однако, если удерживать [$(k:sneak)] и [$(k:use)] при наведении на воздух, он загорится, показывая, что он активирован, и поглотит $(blood)150 LP$() каждые 5 секунд до деактивации. К каждому блоку в большом радиусе 7x7x5 с центром на игроке будет применен эффект костной муки. Отлично для выращивания картошечки!"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "Если у вас установлен $(thing)Curios API$() вы можете оборудовать этот $(item)сигил$() как амулет. Если вы хотите носить больше сигилов одновременно, рассмотрите возможность использования $(l:bloodmagic:alchemy_array/sigil/holding)сигила удержания$(), или $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)улучшение Разъём$() для вашей $(l:bloodmagic:alchemy_array/living_equipment/living_basics)живой брони$()."
+    }
+  ]
+}

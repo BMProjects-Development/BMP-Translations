@@ -1,0 +1,13 @@
+{
+	"fml.menu.mods.info.displayname.chatimpressiveanimation": "Chat Impressive Animation",
+	"fml.menu.mods.info.description.chatimpressiveanimation": "Улучшает внешний вид чата, добавляя анимации открытия/закрытия чата, отправки сообщений и т.д. Также убирается индикатор сообщений",
+	"modmenu.nameTranslation.chatimpressiveanimation": "Chat Impressive Animation",
+	"modmenu.descriptionTranslation.chatimpressiveanimation": "Улучшает внешний вид чата, добавляя анимации открытия/закрытия чата, отправки сообщений и т.д. Также убирается индикатор сообщений",
+
+	"text.autoconfig.chatimpressiveanimation.title": "Chat Impressive Animation",
+	"text.autoconfig.chatimpressiveanimation.option.enableChatSendingAnimation": "Включить анимацию отправки сообщений",
+	"text.autoconfig.chatimpressiveanimation.option.chatSendingAnimationFadeTime": "Продолжительность анимации отправки сообщения (мс)",
+	"text.autoconfig.chatimpressiveanimation.option.enableChatBarAnimation": "Включить анимацию чата",
+	"text.autoconfig.chatimpressiveanimation.option.chatBarAnimationFadeTime": "Продолжительность анимации чата (мс)",
+	"text.autoconfig.chatimpressiveanimation.option.removeMessageIndicator": "Убрать индикатор сообщения"
+}

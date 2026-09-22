@@ -1,0 +1,11 @@
+{
+  "tooltipoverhaul.common_rarity": "Обычный",
+  "tooltipoverhaul.uncommon_rarity": "Необычный",
+  "tooltipoverhaul.rare_rarity": "Редкий",
+  "tooltipoverhaul.epic_rarity": "Эпический",
+  "tooltipoverhaul.binds.category": "Tooltip Overhaul",
+  "tooltipoverhaul.binds.compare_bind": "Переключить сравнение снаряжения",
+  "tooltipoverhaul.equipped_badge_text": "Экипировано",
+  "tooltipoverhaul.reload_resources.success": "§a[TooltipOverhaul] Файлы custom_frames.json успешно перезагружены!",
+  "tooltipoverhaul.reload_resources.fail": "§c[TooltipOverhaul] Не удалось перезагрузить ресурсы!"
+}

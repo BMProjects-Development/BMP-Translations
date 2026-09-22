@@ -1,0 +1,50 @@
+{
+  "name": "Аура воли демона",
+  "icon": "bloodmagic:demoncrucible",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Как мы уже $(l:bloodmagic:demon_will/will_manipulation/demon_will)установили$(), $(raw)воля демона$() сгущается вокруг определенных существ и приводит их в движение с помощью зловещей силы. Однако это не единственное место, где может существовать $(raw)воля$(). Сжигая $(raw)волю$() в $(item)демоническом тигеле$(), можно освободить волю в $(thing)ауру$()."
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Демонический тигель",
+      "recipe": "bloodmagic:soulforge/demon_crucible",
+      "text": "Поместите заряженный $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камень души$() или любой аспект $(item)воли демона$() или $(item)кристал демона$() в него и позвольте ему работать. $(item)Кристалы$() будут использоваться, когда уровень $(raw)воли$() в чанке опустится ниже 50, а $(raw)воля демона$() (в форме предмета или из $(item)камня души$())) будет использоваться постепенно, по мере необходимости."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/demon_crucible.png"
+      ],
+      "title": "Демонический тигель",
+      "border": true,
+      "text": "$(item)Демонический тигель$(), с $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камнем души$() внутри."
+    },
+    {
+      "type": "text",
+      "text": "Теперь у нас есть $(raw)сырая воля$() в атмосфере. Отлично, а что дальше? Некоторые $(thing)ритуалы$() $(l:bloodmagic:rituals/ritual_tinkerer)используют$() $(raw)сырую волю$(), но главное преимущество здесь заключается в возможности создавать улучшенные $(item)кристаллы воли демона$(), которые затем можно $(l:bloodmagic:rituals/ritual_list/ritual_crystal_split)разделить$() на $(l:bloodmagic:demon_will/will_manipulation/aspected_will)аспекты$(). $(br)Получив некоторое количество этих $(item)кристаллических аспектов$(), вы можете снова их сжечь в $(item)тигеле$(), чтобы освободить их в $(thing)ауру$() и получить выгоду от своих ритуалов."
+    },
+    {
+      "type": "text",
+      "text": "Некоторые важные моменты, которые следует отметить: Во-первых, $(thing)аура$() работает на основе чанков. То есть, любой вид $(raw)воли$(), который вы сожжете, заполнит чанк, в котором вы его сожгли, до максимальной вместимости 100 для каждого типа. Это можно измерить с помощью $(l:bloodmagic:demon_will/will_manipulation/aura_gauge)измерителя ауры демона$(). В настоящее время нет способа переносить $(raw)волю$() из одного чанка в другой, поэтому лучше всего передавать его в виде предмета - как $(item)кристаллизованную волю$() или заполняя и опустошая $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камень души$()."
+    },
+    {
+      "type": "text",
+      "text": "Говоря о $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камне души$(), помещение его в $(l:bloodmagic:demon_will/will_manipulation/soul_forge)кузницу адского огня$() приведет к быстрому поглощению им $(raw)воли$() из того же чанка. $(br2) Если в чанке есть $(raw)воля$() какого-либо аспекта, такого как $(raw)сырая$() или $(corrosive)коррозийную$(), и в камне $(item)души$() пусто, то возможно заполнить камень этим аспектом. $(br2) Это позволяет соответствующим образом модифицировать ваши $(l:bloodmagic:demon_will/demonic_items/sentient_tools)разумные инструменты$() и $(l:bloodmagic:demon_will/demonic_items/sentient_sword)меч$(). Эффекты определяются $(l:bloodmagic:demon_will/will_manipulation/aspected_will#sentient_aspects)здесь$()."
+    },
+    {
+      "type": "relations",
+      "title": "Ссылки по теме",
+      "entries": [
+        "bloodmagic:rituals/ritual_tinkerer",
+        "bloodmagic:demon_will/will_manipulation/crystallized_will",
+        "bloodmagic:demon_will/will_manipulation/aspected_will",
+        "bloodmagic:rituals/ritual_list/ritual_crystal_split",
+        "bloodmagic:rituals/ritual_list/ritual_crystal_harvest"
+      ],
+      "text": "Я могу сделать больше, я чувствую это..."
+    }
+  ]
+}

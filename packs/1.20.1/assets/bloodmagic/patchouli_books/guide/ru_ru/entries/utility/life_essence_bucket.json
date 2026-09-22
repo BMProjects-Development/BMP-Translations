@@ -1,0 +1,17 @@
+{
+  "name": "Ведро жизни",
+  "icon": "bloodmagic:life_essence_bucket",
+  "category": "bloodmagic:utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(blood)Жизненная эссенция$() из $(l:bloodmagic:altar/blood_altar)кровавого алтаря$() используется для создания предметов и питания $(thing)ритуалов$() в $(l:bloodmagic:altar/soul_network)сети душ$(). Если вы хотите построить ров из этой эссенции вокруг $(l:bloodmagic:utility/incense_altar)алтаря благовоний$(), просто поместите $(item)ведро$() в $(l:bloodmagic:altar/blood_altar)алтарь$() и дождитесь, пока оно наполнится. $(blood)1 LP$() = 1mb, поэтому 1000 LP достаточно для наполнения $(item)ведра$()."
+    },
+    {
+      "type": "crafting_altar",
+      "heading": "Ведро жизни",
+      "recipe": "bloodmagic:altar/bucket_life",
+      "text": "$(italic)Однозначно, это не кровь. Кровь уже бы свернулась к этому моменту. $(br2)... Почему ты на меня так смотришь?$()"
+    }
+  ]
+}

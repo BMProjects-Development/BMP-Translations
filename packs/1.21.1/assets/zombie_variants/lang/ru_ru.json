@@ -1,0 +1,35 @@
+{
+  "entity.zombie_variants.badlands_zombie": "Зомби пустошей",
+  "entity.zombie_variants.bamboo_zombie": "Бамбуковый зомби",
+  "entity.zombie_variants.cave_zombie": "Пещерный зомби",
+  "entity.zombie_variants.cherry_zombie": "Вишнёвый зомби",
+  "entity.zombie_variants.deep_dark_zombie": "Зомби тёмных глубин",
+  "entity.zombie_variants.desert_zombie": "Пустынный зомби",
+  "entity.zombie_variants.dripstone_zombie": "Зомби капельника",
+  "entity.zombie_variants.frozen_zombie": "Замороженный зомби",
+  "entity.zombie_variants.jungle_zombie": "Джунглевый зомби",
+  "entity.zombie_variants.lush_zombie": "Зомби цветущих пещер",
+  "entity.zombie_variants.mangrove_zombie": "Мангровый зомби",
+  "entity.zombie_variants.pale_garden_zombie": "Зомби бледного сада",
+  "entity.zombie_variants.savanna_zombie": "Саванный зомби",
+  "entity.zombie_variants.swamp_zombie": "Болотный зомби",
+  "entity.zombie_variants.mushroom_zombie": "Грибной зомби",
+
+
+  "item.zombie_variants.badlands_zombie_spawn_egg": "Яйцо призыва зомби пустошей",
+  "item.zombie_variants.bamboo_zombie_spawn_egg": "Яйцо призыва бамбукового зомби",
+  "item.zombie_variants.cave_zombie_spawn_egg": "Яйцо призыва пещерного зомби",
+  "item.zombie_variants.cherry_zombie_spawn_egg": "Яйцо призыва вишнёвого зомби",
+  "item.zombie_variants.deep_dark_zombie_spawn_egg": "Яйцо призыва зомби Тёмных глубин",
+  "item.zombie_variants.desert_zombie_spawn_egg": "Яйцо призыва пустынного зомби",
+  "item.zombie_variants.dripstone_zombie_spawn_egg": "Яйцо призыва зомби капельника",
+  "item.zombie_variants.frozen_zombie_spawn_egg": "Яйцо призыва замёрзшего зомби",
+  "item.zombie_variants.jungle_zombie_spawn_egg": "Яйцо призыва джунглевого зомби",
+  "item.zombie_variants.lush_zombie_spawn_egg": "Яйцо призыва зомби цветущих пещер",
+  "item.zombie_variants.mangrove_zombie_spawn_egg": "Яйцо призыва мангрового зомби",
+  "item.zombie_variants.pale_garden_zombie_spawn_egg": "Яйцо призыва зомби Бледного сада",
+  "item.zombie_variants.savanna_zombie_spawn_egg": "Яйцо призыва саванного зомби",
+  "item.zombie_variants.swamp_zombie_spawn_egg": "Яйцо призыва болотного зомби",
+  "item.zombie_variants.mushroom_zombie_spawn_egg": "Яйцо призыва грибного зомби"
+
+}

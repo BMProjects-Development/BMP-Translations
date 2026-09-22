@@ -1,0 +1,12 @@
+{
+    "name": "Медовое угощение",
+    "icon": "productivebees:honey_treat",
+    "category": "productivebees:items",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:honey_treat",
+            "text": "Медовые угощения можно скормить злым пчёлам, чтобы успокоить их. Скармливание их детве ускорит их взросление.$(br2)Медовые угощения также можно комбинировать с генами для передачи генетики от одной пчелы к другой. $(l:genetics/transferring)Подробнее о генетике здесь$(/l)."
+        }
+    ]
+}

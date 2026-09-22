@@ -1,0 +1,6 @@
+{
+  "enchantment.veinmining.vein_mining": "Добыча жил",
+  "enchantment.veinmining.vein_mining.desc": "Разрушает блоки одного типа при добыче.",
+  "key.veinmining.category": "Добыча жил",
+  "key.veinmining.activate.desc": "Активировать добычу жил"
+}

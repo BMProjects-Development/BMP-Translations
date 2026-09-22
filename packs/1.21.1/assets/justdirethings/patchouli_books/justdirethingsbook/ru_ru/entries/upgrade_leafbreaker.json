@@ -1,0 +1,17 @@
+{
+  "name": "Разрушитель листьев",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_leafbreaker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Разрушитель листьев» — это активируемая способность. Просто нажмите правой кнопкой мыши на блок листьев, чтобы активировать его, и все соседние блоки листьев также будут разрушены."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Разрушитель листьев»",
+      "recipe": "justdirethings:upgrade_leafbreaker"
+    }
+  ]
+}

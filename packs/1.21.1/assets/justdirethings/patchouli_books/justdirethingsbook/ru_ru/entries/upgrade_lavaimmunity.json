@@ -1,0 +1,17 @@
+{
+  "name": "Иммунитет к лаве",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lavaimmunity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Защитите себя от обжигающей жары лавы с помощью улучшения «Иммунитет к лаве». Это улучшение обеспечивает полную неуязвимость к урону от лавы.$(br2)Для поддержания вас на плаву используется FE энергия, так что следите, чтобы она не закончилась!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Иммунитет к лаве»",
+      "recipe": "justdirethings:upgrade_lavaimmunity"
+    }
+  ]
+}

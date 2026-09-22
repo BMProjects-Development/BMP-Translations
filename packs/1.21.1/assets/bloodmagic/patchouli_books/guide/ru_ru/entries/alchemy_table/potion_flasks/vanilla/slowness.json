@@ -1,0 +1,33 @@
+{
+  "name": "Замедление",
+  "icon": "minecraft:soul_sand",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Замедление$() уменьшает скорость передвижения объекта на 15% за уровень. $(br2)Изготавливается из зелья $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/speed)Стремительности$() либо из зелья $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/jump_boost)Прыгучести$(). $(br2)Комбинации катализаторов см. на обороте."
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Замедление скорости",
+      "a.recipe": "bloodmagic:flask/speed_to_slow",
+      "b.heading": "Замедление прыжка",
+      "b.recipe": "bloodmagic:flask/jump_to_slow"
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Замедление (8:00)",
+      "a.recipe": "bloodmagic:flask/length_slowness",
+      "b.heading": "Замедление II (1:30)",
+      "b.recipe": "bloodmagic:flask/potency_slowness"
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Замедление III (0:45)",
+      "a.recipe": "bloodmagic:flask/potency_average_slowness",
+      "b.heading": "Замедление (21:20)",
+      "b.recipe": "bloodmagic:flask/length_average_slowness"
+    }
+
+  ]
+}

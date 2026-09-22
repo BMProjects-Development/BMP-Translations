@@ -1,0 +1,19 @@
+{
+  "name": "Сигил пустоты",
+  "icon": "bloodmagic:voidsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Сигил пустоты$(), при нажатии [$(k:use)] когда вы смотрите на любой блок жидкости, уничтожит его за 50LP за блок. Хорошо подходит для очистки надоедливых потоков лавы без утомительного размещения и разрушения отдельных блоков."
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "Реагент пустоты",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_void",
+      "array.heading": "Сигил пустоты",
+      "array.recipe": "bloodmagic:array/voidsigil",
+      "array.text": "$(italic)Лучше, чем швабра\u00AE!"
+    }
+  ]
+}

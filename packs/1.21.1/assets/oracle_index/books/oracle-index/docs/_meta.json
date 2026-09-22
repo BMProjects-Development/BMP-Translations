@@ -1,0 +1,14 @@
+{
+  "user_guide.mdx": {
+    "name": "\uD83D\uDCD7 Руководство пользователя",
+    "icon": null
+  },
+  "search.mdx": {
+    "name": "\uD83D\uDD0D Умный поиск",
+    "icon": null
+  },
+  "developer": {
+    "name": "⌨ Руководство для разработчиков",
+    "icon": null
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Манта",
+  "icon": "livingthings:mantaray_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Водное животное, которое выглядит так, будто летит по морю.$(br2)$(bold)Здоровье: $()5 сердец$(br2)$(bold)Дроп:$()$(li)1-2 сырой трески"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:mantaray",
+      "rotate": false,
+      "scale": 0.8,
+      "default_rotation": 37,
+      "offset": -0.1,
+      "text": "Может быть найдена во всех $(bold)океанических$() биомах."
+    }
+  ]
+}

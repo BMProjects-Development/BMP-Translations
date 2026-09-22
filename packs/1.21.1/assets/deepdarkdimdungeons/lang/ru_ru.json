@@ -1,0 +1,13 @@
+{
+  "itemGroup.deepdarkdimdungeons": "Deep Dark Dim Dungeons",
+  "block.deepdarkdimdungeons.deep_dark_portal": "Глубинный тёмный портал",
+  "item.deepdarkdimdungeons.deep_dark_catalyst": "Глубинный тёмный катализатор",
+
+  "deepdarkdimdungeons.portal.starting_generation": "Создание подземелья...",
+  "deepdarkdimdungeons.portal.generation_failed": "Ошибка генерации подземелья.",
+  "deepdarkdimdungeons.portal.invalid_frame": "Не обнаружена правильная рамка портала.",
+  "deepdarkdimdungeons.portal.generating_progress": "Создание подземелья... (%ds)",
+  "deepdarkdimdungeons.portal.no_catalyst": "Создание портала остановлена: катализатор не найден!",
+  "deepdarkdimdungeons.portal.complete": "Портал активирован! Создание подземелья завершено.",
+  "deepdarkdimdungeons.portal.complete_consumed": "Портал активирован! Создание подземелья завершено. Катализатор потрачен."
+}

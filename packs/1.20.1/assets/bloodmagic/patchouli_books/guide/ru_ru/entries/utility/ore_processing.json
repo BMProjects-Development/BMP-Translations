@@ -1,0 +1,96 @@
+{
+  "name": "Основная обработка руды",
+  "icon": "bloodmagic:basiccuttingfluid",
+  "category": "bloodmagic:utility",
+  "extra_recipe_mappings": {
+    "bloodmagic:copperfragment": 7,
+    "bloodmagic:goldfragment": 7,
+    "bloodmagic:fragment_netherite_scrap": 7,
+    "bloodmagic:coppergravel": 9,
+    "bloodmagic:goldgravel": 9,
+    "bloodmagic:gravel_netherite_scrap": 9,
+    "bloodmagic:coppersand": 7,
+    "bloodmagic:sand_netherite": 7
+      },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(l:bloodmagic:alchemy_table/alchemy_table)Алхимический стол$() может быть использован, среди прочего, для удвоения руды, в то время как $(l:bloodmagic:utility/alchemical_reaction_chamber)камера алхимической реакции$() может увеличивать выход руд в три раза. Получайте больше руд из своих экспедиций с помощью силы крови!"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Основное масло для смазки",
+	  "anchor": "cutting_fluid",
+      "recipe": "bloodmagic:alchemytable/basic_cutting_fluid_sigil",
+      "text": "Основное масло для смазки используется для 2x обработки руд. Оно также может быть использована в $(l:bloodmagic:utility/alchemical_reaction_chamber)камера алхимической реакции$(/l) для того же самого назначения. В этом примере используется $(l:bloodmagic:alchemy_array/sigil/water)сигил воды$() но в случае необходимости можно использовать обычный $(water)пузырёк воды$() однако, в отличие от сигила, он будет потреблен."
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Улучшенное масло для смазки",
+      "anchor": "intermediate_cutting_fluid", 
+      "recipe": "bloodmagic:alchemytable/intermediate_cutting_fluid_sigil",
+      "text": "Улучшенное масло для смазки Это улучшенная версия, которая длится восемь раз дольше и увеличивает скорость создания на 25%. Однако, вам придется отправиться на поиски $(l:bloodmagic:dungeons/lobby)скрытого царства$() за $(l:bloodmagic:dungeons/tau_fruit)маслом тай$()."
+    },
+    {
+      "type": "2x_crafting_alchemy_table",
+      "a.heading": "Железный песок",
+      "a.recipe": "bloodmagic:alchemytable/sand_iron",
+      "b.heading": "Золотой песок",
+      "b.recipe": "bloodmagic:alchemytable/sand_gold"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe":"bloodmagic:smelting/ingot_iron",
+      "recipe2": "bloodmagic:smelting/ingot_gold"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Взрывчатый порошок",
+      "anchor": "ore_processing",
+      "recipe": "bloodmagic:alchemytable/explosive_powder",
+      "text": "$(item)Взрывчатый порошок$() в $(item)камере алхимической реакции$() используется чтобы превратить $(item)руды$() в $(item)фрагменты руд$() для $(thing)3x обработки руд$(), или превратить $(item)слидки$() в их $(item)песчаный$() вариат. Он так же может превратить $(fire)незерак$() в $(air)серу$() и 5mb $(fire)лавы$()."
+    },
+    {
+      "type": "3x_crafting_arc",
+      "a.heading": "Руда в 3 фрагмента руды",
+      "a.recipe": "bloodmagic:arc/fragmentsiron",
+      "b.heading": "Слиток в металлический песок",
+      "b.recipe": "bloodmagic:arc/dustsfrom_ingot_iron",
+      "c.heading": "Сера и лава",
+      "c.recipe": "bloodmagic:arc/netherrack_to_sulfer",
+      "c.fluid_output": "minecraft:lava_bucket"
+    },
+    {
+      "type": "crafting_soulforge",
+      "heading": "Примитивный резонатор",
+      "recipe": "bloodmagic:soulforge/primitive_crystalline_resonator",
+      "text": "$(item)Резонатор$() используется чтобы превратить $(item)фрагменты руды$() в соответствующий $(item)гравий$() чтобы продолжить обработку и создать $(item)мелкую пыль$() которая пока не реализована."
+    },
+    {
+      "type": "crafting_arc",
+      "heading": "Фрагмент в гравий",
+      "recipe": "bloodmagic:arc/gravelsiron"
+    },
+    {
+      "type": "text",
+      "text": "$(item)Масло для смазки$() используется для превращения металлического $(item)гравия$() в металлический $(item)песок$() для продолжения $(thing)3x обработки руды$(). Он также может превратить $(item)руду$() в два металлических песка для $(thing)2x обработки руды$(). Такая же $(thing)2x обработка руды$() возможна на $(l:bloodmagic:alchemy_table/alchemy_table)алхимическом столе$(), но если это сделать в $(item)камере алхимической реакции$() вы сэкономите немного $(blood)LP$()."
+    },
+    {
+      "type": "2x_crafting_arc",
+      "a.heading": "Металлический гравий в песок",
+      "a.recipe": "bloodmagic:arc/dustsfrom_gravel_iron",
+      "b.heading": "Руда в 2 металлических песка",
+      "b.recipe": "bloodmagic:arc/dustsfrom_ore_iron"
+    },
+    {
+      "type": "crafting",
+      "heading": "Топливная ячейка (Печь)",
+      "recipe": "bloodmagic:primitive_furnace_cell",
+      "text": "$(item)Камера алхимической реакции$() также функционирует как $(thing)печь$(), но единственные источники топлива, которые она принимает, является $(item)примитивный топливный элемент$() и $(l:bloodmagic:utility/lava_crystal)кристалл лавы$(/l)."
+    },
+    {
+      "type": "text",
+      "text": "$(item)Примитивный топливный элемент$() может выдержать до 128 применений. Это больше, чем $(item)угольный блок$() Используется для его создания (60 предметов), и так как он теряет прочность только после завершения крафта, то не будет расходовать топливо."
+    }
+  ]
+}

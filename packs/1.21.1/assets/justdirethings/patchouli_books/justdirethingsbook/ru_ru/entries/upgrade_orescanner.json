@@ -1,0 +1,17 @@
+{
+  "name": "Сканер руды",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_orescanner",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшение «Сканер руды» — это активируемая способность, которую можно установить на феррикоровые кирки и кирки уровнем выше. При активации этой способности ближайшие руды будут отмечены частицами, которые видны сквозь блоки, но нет различий между типами руд."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Сканер руды»",
+      "recipe": "justdirethings:upgrade_orescanner"
+    }
+  ]
+}

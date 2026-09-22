@@ -1,0 +1,20 @@
+{
+  "name": "Павлин",
+  "icon": "livingthings:peacock_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Павлины — крупные фазаны, известные своими красивыми разноцветными перьями.$(br2)$(bold)Здоровье: $()4 сердца$(br2)$(bold)Предметы для размножения: $()$(li)Пшеница"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:peacock",
+      "rotate": false,
+      "scale": 0.8,
+      "default_rotation": 40,
+      "offset": 0.2,
+      "text": "Может быть найден в $(bold)саваннах$() и $(bold)джунглях$()."
+    }
+  ]
+}

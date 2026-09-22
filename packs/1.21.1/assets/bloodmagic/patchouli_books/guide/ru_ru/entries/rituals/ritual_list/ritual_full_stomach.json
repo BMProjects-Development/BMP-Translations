@@ -1,0 +1,27 @@
+{
+  "name": "Ритуал сытого желудка",
+  "icon": "minecraft:cake",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ритуал сытого желудка",
+      "multiblock_id": "bloodmagic:full_stomach",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner)Ритуальный предсказатель$(/l) для облегчения строительства."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "full_stomach"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "full_stomach",
+      "page_type": "fillRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "full_stomach",
+      "page_type": "chest"
+    }
+  ]
+}

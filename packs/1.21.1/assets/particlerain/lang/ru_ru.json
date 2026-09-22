@@ -1,0 +1,71 @@
+{
+  "particlerain.configuration.maxParticleAmount": "Максимальное количество частиц",
+  "particlerain.configuration.particleDensity": "Плотность частиц",
+  "particlerain.configuration.particleStormDensity": "Плотность частиц во время шторма",
+  "particlerain.configuration.particleRadius": "Радиус появления частиц",
+
+  "particlerain.configuration.doRainParticles": "Включить частицы дождя",
+  "particlerain.configuration.doSplashParticles": "Включить частицы брызг",
+  "particlerain.configuration.doSmokeParticles": "Включить частицы дыма",
+  "particlerain.configuration.doRippleParticles": "Включить частицы ряби",
+  "particlerain.configuration.doStreakParticles": "Включить частицы полос",
+  "particlerain.configuration.doSnowParticles": "Включить частицы снега",
+  "particlerain.configuration.doSandParticles": "Включить частицы песка",
+  "particlerain.configuration.doShrubParticles": "Включить частицы кустарника",
+  "particlerain.configuration.doFogParticles": "Включить частицы тумана",
+  "particlerain.configuration.doGroundFogParticles": "Включить частицы приземного тумана",
+
+  "particlerain.configuration.rain.density": "Плотность частиц дождя",
+  "particlerain.configuration.rain.gravity": "Гравитация дождя",
+  "particlerain.configuration.rain.windStrength": "Сила ветра дождя",
+  "particlerain.configuration.rain.stormWindStrength": "Сила ветра дождя во время шторма",
+  "particlerain.configuration.rain.opacity": "Непрозрачность дождя",
+  "particlerain.configuration.rain.splashDensity": "Плотность брызг дождя",
+  "particlerain.configuration.rain.size": "Размер частиц дождя",
+
+  "particlerain.configuration.snow.density": "Плотность частиц снега",
+  "particlerain.configuration.snow.gravity": "Гравитация снега",
+  "particlerain.configuration.snow.rotationAmount": "Величина вращения снега",
+  "particlerain.configuration.snow.stormRotationAmount": "Величина вращения снега во время шторма",
+  "particlerain.configuration.snow.windStrength": "Сила ветра снега",
+  "particlerain.configuration.snow.stormWindStrength": "Сила ветра снега во время шторма",
+  "particlerain.configuration.snow.size": "Размер частиц снега",
+
+  "particlerain.configuration.ripple.resolution": "Разрешение ряби",
+  "particlerain.configuration.ripple.useResourcepackResolution": "Использовать разрешение из ресурспака для ряби",
+
+  "particlerain.configuration.sand.density": "Плотность частиц песка",
+  "particlerain.configuration.sand.gravity": "Гравитация песка",
+  "particlerain.configuration.sand.windStrength": "Сила ветра песка",
+  "particlerain.configuration.sand.moteSize": "Размер песчинки",
+  "particlerain.configuration.sand.size": "Размер частиц песка",
+  "particlerain.configuration.sand.spawnOnGround": "Создавать частицы песка на земле",
+  "particlerain.configuration.sand.matchTags": "Блоки с этими тегами будут создавать частицы песка",
+
+  "particlerain.configuration.shrub.density": "Плотность частиц кустарника",
+  "particlerain.configuration.shrub.gravity": "Гравитация кустарника",
+  "particlerain.configuration.shrub.rotationAmount": "Величина вращения кустарника",
+  "particlerain.configuration.shrub.bounciness": "Упругость кустарника",
+
+  "particlerain.configuration.fog.density": "Плотность частиц тумана",
+  "particlerain.configuration.fog.gravity": "Гравитация тумана",
+  "particlerain.configuration.fog.size": "Размер частиц тумана",
+
+  "particlerain.configuration.groundFog.density": "Плотность приземного тумана",
+  "particlerain.configuration.groundFog.spawnHeight": "Высота появления приземного тумана",
+  "particlerain.configuration.groundFog.size": "Размер приземного тумана",
+
+  "particlerain.configuration.doRainSounds": "Включить звуки дождя",
+  "particlerain.configuration.doSnowSounds": "Включить звуки снега",
+  "particlerain.configuration.doSandSounds": "Включить звуки песка",
+
+  "particlerain.configuration.renderVanillaWeather": "Отображать ванильную погоду",
+  "particlerain.configuration.tickVanillaWeather": "Такты ванильной погоды",
+  "particlerain.configuration.biomeTint": "Применять оттенок биома к частицам",
+  "particlerain.configuration.tintMix": "Процент смешивания оттенка биома",
+  "particlerain.configuration.spawnAboveClouds": "Создавать частицы над облаками",
+  "particlerain.configuration.cloudHeight": "Высота облаков",
+  "particlerain.configuration.alwaysRaining": "Всегда идёт дождь",
+  "particlerain.configuration.yLevelWindAdjustment": "Корректировать ветер по уровню Y",
+  "particlerain.configuration.syncRegistry": "Синхронизировать реестр с сервером"
+}

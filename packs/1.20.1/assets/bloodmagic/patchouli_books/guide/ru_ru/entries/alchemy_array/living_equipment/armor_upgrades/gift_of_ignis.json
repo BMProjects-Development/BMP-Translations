@@ -1,0 +1,15 @@
+{
+  "name": "Дар Игнис",
+  "icon": "minecraft:blaze_powder",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Эффект: Обеспечивает огнестойкость. Более высокие уровни длятся дольше и перезаряжаются быстрее. $(br2)Развитие: Нахождение в огне. ($(item)Зелье огнестойкости$() может быть твоим другом.) $(br2)Максимальный уровень: 5"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:fire_resist"
+    }
+  ]
+}

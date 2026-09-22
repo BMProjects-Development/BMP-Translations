@@ -1,0 +1,34 @@
+{
+  "combat_roll.mod_name": "Боевой перекат",
+
+  "keybinds.combat_roll.roll": "Перекат",
+
+  "gui.combat_roll.config_menu": "Настройки Боевого переката",
+  "gui.combat_roll.close": "Закрыть",
+  "gui.combat_roll.settings": "Настройки",
+  "gui.combat_roll.hud": "Переместить стрелку",
+  "gui.combat_roll.corner": "Угол",
+  "gui.combat_roll.reset": "Сбросить",
+
+  "enchantment.combat_roll.longfooted": "Дальний перекат",
+  "enchantment.combat_roll.longfooted.desc": "Увеличивает дальность ваших перекатов",
+  "enchantment.combat_roll.acrobat": "Акробат",
+  "enchantment.combat_roll.acrobat.desc": "Сокращает время перезарядки между перекатами",
+  "enchantment.combat_roll.multi_roll": "Многократный перекат",
+  "enchantment.combat_roll.multi_roll.desc": "Даёт дополнительные перекаты",
+
+  "attribute.name.combat_roll.distance": "Дальность переката",
+  "attribute.name.combat_roll.count": "Дополнительный перекат",
+  "attribute.name.combat_roll.recharge": "Перезарядка переката",
+
+  "text.autoconfig.combat_roll.title": "Боевой перекат",
+  "text.autoconfig.combat_roll.option.client.playCooldownSound": "Воспроизводить звук готовности перезарядки",
+  "text.autoconfig.combat_roll.option.client.playCooldownFlash": "Мигать стрелкой при готовности перезарядки",
+  "text.autoconfig.combat_roll.option.client.playRollSound": "Воспроизводить звук переката",
+  "text.autoconfig.combat_roll.option.client.hudArrowColor": "Цвет стрелки",
+  "text.autoconfig.combat_roll.option.client.hudBackgroundOpacity": "Непрозрачность фона стрелки",
+  "text.autoconfig.combat_roll.option.client.showHUDInCreative": "Показывать стрелку в творческом режиме",
+  "text.autoconfig.combat_roll.option.client.showWhenFull": "Показывать стрелку при полной перезарядке",
+  "text.autoconfig.combat_roll.option.client.showKeybinding": "Показывать привязку клавиш на HUD",
+  "text.autoconfig.combat_roll.option.client.keybindingLabelPosition": "Положение подписи привязки клавиш"
+}

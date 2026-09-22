@@ -1,0 +1,57 @@
+{
+  "itemGroup.compactmachines": "Compact Machines 3",
+
+  "tooltip.compactmachines.machine_id": "ID механизма: %s",
+  "tooltip.compactmachines.owner": "Владелец: %s",
+  "tooltip.compactmachines.unknown_player": "Неизвестный игрок",
+  "tooltip.compactmachines.machine.size": "Размер: %1$s×%1$s×%1$s",
+  "tooltip.compactmachines.hold_shift.hint": "Удерживайте Shift для просмотра деталей.",
+  "tooltip.compactmachines.psd.hint": "Используется в качестве внутриигровой документации, а также для входа в компактные механизмы.",
+  "tooltip.compactmachines.solid_wall.hint": "Внимание! Неразрушим для игроков без творческого режима!",
+  "tooltip.compactmachines.machine.hint": "%1$s предоставляет комнату %2$s.",
+  "tooltip.compactmachines.tunnel_type": "Тип ID: %1$s",
+
+  "messages.compactmachines.psd.spawnpoint_set": "Новая точка входа установлена.",
+  "messages.compactmachines.no_machine_data": "Данные механизма не загружены; сообщите об этом.",
+
+  "block.compactmachines.machine": "Компактный механизм",
+  "block.compactmachines.machine_tiny": "Крошечный компактный механизм",
+  "block.compactmachines.machine_small": "Маленький компактный механизм",
+  "block.compactmachines.machine_normal": "Средний компактный механизм",
+  "block.compactmachines.machine_large": "Большой компактный механизм",
+  "block.compactmachines.machine_giant": "Гигантский компактный механизм",
+  "block.compactmachines.machine_maximum": "Максимальный компактный механизм",
+
+  "block.compactmachines.solid_wall": "Крепкая стена компактного механизма",
+  "block.compactmachines.wall": "Стена компактного механизма",
+  "block.compactmachines.tunnel_wall": "Крепкая стена компактного механизма (с туннелем)",
+
+  "item.compactmachines.machine_tiny": "Крошечный компактный механизм",
+  "item.compactmachines.machine_small": "Маленький компактный механизм",
+  "item.compactmachines.machine_normal": "Средний компактный механизм",
+  "item.compactmachines.machine_large": "Большой компактный механизм",
+  "item.compactmachines.machine_giant": "Гигантский компактный механизм",
+  "item.compactmachines.machine_maximum": "Максимальный компактный механизм",
+
+  "item.compactmachines.personal_shrinking_device": "Персональное сжимающее устройство",
+
+  "item.compactmachines.tunnels.item": "Предметный туннель",
+  "item.compactmachines.tunnels.redstone_in": "Редстоуновый туннель (Вход)",
+  "item.compactmachines.tunnels.redstone_out": "Редстоуновый туннель (Выход)",
+
+  "compactmachines.cannot_enter": "Вы возитесь с устройством для сжатия, но безрезультатно. Оно отказывается работать.",
+
+  "compactmachines.connected_block": "Подключён: %s",
+  "compactmachines.direction.side": "Сторона: %s",
+  "compactmachines.direction.up": "Верх",
+  "compactmachines.direction.down": "Низ",
+  "compactmachines.direction.north": "Север",
+  "compactmachines.direction.south": "Юг",
+  "compactmachines.direction.west": "Запад",
+  "compactmachines.direction.east": "Восток",
+
+  "compactmachines.psd.pages.machines.title": "Компактные механизмы",
+  "compactmachines.psd.pages.machines": "Компактные механизмы являются основной механикой этого мода. Они позволяют Вам строить большие комнаты в пространстве размером в один блок, соединённого с внешним миром.\nОни бывают разных размеров, начиная от 3×3×3 и заканчивая 13×13×13.\nВы можете использовать Туннели, чтобы соединять внешние стороны блока с внутренними стенами для транспортировки предметов, жидкостей и т.д.\nВойти в механизм можно, нажав по нему ПКМ Персональным сжимающим устройством.\nПожалуйста, используйте JEI для просмотра рецептов создания.",
+
+  "compactmachines.errors.unknown_tunnel_type": "Неизвестный тип туннеля (%s)"
+}

@@ -1,0 +1,11 @@
+{
+  "block.craftingstation.crafting_station": "Станция крафта",
+  "block.craftingstation.crafting_station_slab": "Плита станции крафта",
+  "title.crafting_station": "Станция крафта",
+  "text.crafting_station.error": "Обнаружен неправильный рецепт %s, подробности в логе",
+  "text.crafting_station.clear": "Очистить сетку крафта",
+  "text.crafting_station.connected_resources.true": "Использовать подключенные ресурсы: Да",
+  "text.crafting_station.connected_resources.false": "Использовать подключенные ресурсы: Нет",
+  "text.crafting_station.jei_nopull_output": "Заблокированные слоты в этом контейнере!\nJEI больше не может извлекать ресурсы из слотов только для вывода, например, из слота результата печи.\n\nПожалуйста, переместите эти предметы в обычные слоты хранения для использования!"
+
+}

@@ -1,0 +1,8 @@
+{
+  "item.matc.inferium_crystal" : "§eИнфериевый кристалл наполнения",
+  "item.matc.prudentium_crystal" : "§2Прудентиевый кристалл наполнения",
+  "item.matc.tertium_crystal" : "§6Тертиевый кристалл наполнения",
+  "item.matc.imperium_crystal" : "§9Империевый кристалл наполнения",
+  "item.matc.supremium_crystal" : "§cСупремиевый кристалл наполнения",
+  "itemGroup.matc": "Уровневые кристаллы Mystical Agriculture"
+}

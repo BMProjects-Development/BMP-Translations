@@ -1,0 +1,19 @@
+{
+  "name": "Сигил воздуха",
+  "icon": "bloodmagic:airsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Отбрасывает вас в том направлении, в котором вы смотрите, за $(blood)50 LP$() за использование. Обратите внимание, что использование сигила не дает никакого эффекта невесомости, поэтому будьте осторожны при приземлении! Хороший способ быстро передвигаться, хотя и с некоторым риском. Многие неосторожные маги встретили свой конец, исчерпав  $(blood)LP$() в их $(l:bloodmagic:altar/soul_network)Сети душ$() во время полета над миром."
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "Воздушный реагент",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_air",
+      "array.heading": "Сигил воздуха",
+      "array.recipe": "bloodmagic:array/airsigil",
+      "array.text": "$(italic)Мне уже легче...$()"
+    }
+  ]
+}

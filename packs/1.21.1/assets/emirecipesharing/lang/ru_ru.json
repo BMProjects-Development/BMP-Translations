@@ -1,0 +1,8 @@
+{
+  "tooltip.emirecipesharing.share": "Поделиться этим рецептом",
+  "misc.emirecipesharing.shared_recipe": "%s поделился(ась) рецептом: %s",
+  "misc.emirecipesharing.unknown": "Неизвестно",
+  "misc.emirecipesharing.share_cooldown": "Подождите %s секунду(ы) перед тем, как поделиться следующим рецептом.",
+  "text.autoconfig.emirecipesharing.option.showSharedRecipesInChat": "Показывать общие рецепты в чате",
+  "text.autoconfig.emirecipesharing.option.showSharedRecipesInChat.@Tooltip": "Показывать сообщение в чате, когда рецептом делятся"
+}

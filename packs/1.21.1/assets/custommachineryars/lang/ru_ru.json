@@ -1,0 +1,26 @@
+{
+  "custommachineryars.gui.element.source.tooltip": "Источник: %s / %s",
+  "custommachineryars.jei.ingredient.source": "Источник: %s",
+  "custommachineryars.jei.ingredient.source.pertick": "Источник: %s",
+  "custommachineryars.jei.ingredient.source.pertick.input": "Потребляет источник %s по %s/т",
+  "custommachineryars.jei.ingredient.source.pertick.output": "Производит источник %s по %s/т",
+  "custommachineryars.jei.ingredient.source.input": "Потребляет %s источника",
+  "custommachineryars.jei.ingredient.source.output": "Производит %s источника",
+  "custommachineryars.requirements.source.error.input": "Недостаточно источника: нужно %s, найдено %s!",
+  "custommachineryars.requirements.source.error.output": "Недостаточно места для хранения %s источника!",
+  "custommachineryars.requirements.sourcepertick.error.input": "Недостаточно источника: нужно %s, найдено %s!",
+  "custommachineryars.requirements.sourcepertick.error.output": "Недостаточно места для хранения %s источника!",
+  "custommachineryars.connections.send": "Машина настроена на отправку к %s",
+  "custommachineryars.connections.take": "Машина настроена на получение от %s",
+  "custommachineryars.connections.fail": "Слишком далеко.",
+  "custommachineryars.relay.no_from": "Место получения не выбрано.",
+  "custommachineryars.relay.no_to": "Место отправки не выбрано.",
+  "custommachineryars.relay.one_from": "Получение из %d места(мест).",
+  "custommachineryars.relay.one_to": "Отправка в %d место(мест).",
+
+  "custommachineryars.gui.creation.components.source.title": "Компонент источника",
+
+  "custommachinery.machine.component.source": "Источник",
+  "custommachinery.machine.guielement.source": "Источник",
+  "custommachinery.machine.component.item_source": "Предмет (обработчик источника)"
+}

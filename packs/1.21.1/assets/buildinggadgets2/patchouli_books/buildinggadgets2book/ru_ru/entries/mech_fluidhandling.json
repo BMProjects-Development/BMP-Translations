@@ -1,0 +1,35 @@
+{
+  "name": "Работа с жидкостями",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "minecraft:water_bucket",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Гаджеты могут взаимодействовать с жидкостями! Убедитесь, что $(l:buildinggadgets2:mech_raytrace_fluids)Трассировка жидкостей$(/l) включена, чтобы выбрать жидкость, удерживая Shift и нажав ПКМ. $(br2)Для размещения жидкостей в мире Вам понадобится ведро с соответствующей жидкостью. $(br2)В качестве альтернативы можно использовать моды, добавляющие резервуары (например, Mekanism), и жидкости будут извлекаться/помещаться в них."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Работа с жидкостями",
+      "images": [
+        "buildinggadgets2:textures/book/images/fluidhandling1.png",
+        "buildinggadgets2:textures/book/images/fluidhandling2.png"
+      ],
+      "border": true,
+      "text": "Переключайте изображения выше, чтобы увидеть различные варианты"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Гаджет копировать-вставить, конечно же, тоже умеет работать с жидкостями!$(br2)При отмене или замене жидкостей гаджет попытается найти место для жидкости (например, пустое ведро или резервуар), но уничтожит жидкость, если место не будет найдено."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Работа с жидкостями",
+      "images": [
+        "buildinggadgets2:textures/book/images/fluidhandling3.png"
+      ],
+      "border": true,
+      "text": "Вставка жидкостей"
+    }
+  ]
+}

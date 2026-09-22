@@ -1,0 +1,20 @@
+{
+  "name": "Том Перитии",
+  "icon": "bloodmagic:experiencebook",
+  "category": "bloodmagic:utility",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Том Перитии$() позволяет безопасно хранить ваш $(thing)опыт$(). $(br2)Зажмите [$(k:sneak)] и [$(k:use)] с Томом в руке, чтобы передать $(thing)один уровень$(). Зажмите [$(k:use)] чтобы $(thing)извлечь уровень$(). Удерживайте [$(k:use)] чтобы $(thing)вместить/извлечь несколько уровней$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:experience_tome"
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "Если у вас установлен $(thing)Curios API$() вы можете оборудовать $(item)том Перитии$() как амулет. Если вы хотите носить больше амулетов одновременно, рассмотрите возможность использования $(l:bloodmagic:alchemy_array/sigil/holding)сигила удержания$(), или $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)улучшения Разъём$() для вашей $(l:bloodmagic:alchemy_array/living_equipment/living_basics)живой брони$()."
+    }
+  ]
+}

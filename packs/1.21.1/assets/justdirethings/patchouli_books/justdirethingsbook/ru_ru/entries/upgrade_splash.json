@@ -1,0 +1,17 @@
+{
+  "name": "Всплеск",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_splash",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Усильте свои дальние атаки с помощью улучшения «Всплеск». Это улучшение превращает попадания стрел во взрывные эффекты, распространяя воздействие на большую площадь."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Всплеск»",
+      "recipe": "justdirethings:upgrade_splash"
+    }
+  ]
+}

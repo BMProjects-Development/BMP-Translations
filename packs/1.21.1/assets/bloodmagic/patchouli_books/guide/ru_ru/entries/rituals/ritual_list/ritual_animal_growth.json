@@ -1,0 +1,54 @@
+{
+  "name": "Ритуал пастуха",
+  "icon": "minecraft:white_wool",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Ритуал пастуха",
+      "multiblock_id": "bloodmagic:animal_growth",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner#dusk)сумрачный ритуальный предсказатель$(/l) для более легкой постройки."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "animal_growth"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "animal_growth",
+      "page_type": "raw",
+      "text_overrides": [
+        ["Сырая воля", "raw"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "animal_growth",
+      "page_type": "vengeful"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "animal_growth",
+      "page_type": "destructive"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "animal_growth",
+      "page_type": "steadfast",
+      "text_overrides": [
+        ["сундук", "предмет"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "animal_growth",
+      "page_type": "growing"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "animal_growth",
+      "page_type": "chest",
+      "text": "Требуется $(steadfast)стойкая воля$()."
+    }
+  ]
+}

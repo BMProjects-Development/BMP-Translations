@@ -1,0 +1,13 @@
+{
+  "name": "Детали фильтра",
+  "icon": "bloodmagic:componentframeparts",
+  "category": "bloodmagic:demon_will/item_routing",
+  "pages":[
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Детали фильтра",
+      "recipe": "bloodmagic:alchemytable/component_frame_parts",
+      "text": "$(item)Детали фильтра$() являются неотъемлемым компонентом всех $(item)фильтров$(). Они бесполезны сами по себе."
+    }
+  ]
+}

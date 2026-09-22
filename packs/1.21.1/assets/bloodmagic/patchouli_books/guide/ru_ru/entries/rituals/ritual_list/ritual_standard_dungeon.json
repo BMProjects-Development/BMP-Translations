@@ -1,0 +1,21 @@
+{
+  "name": "Путь в бесконечное царство",
+  "icon": "bloodmagic:ingot_hellforged",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Бесконечное царство",
+      "multiblock_id": "bloodmagic:standard_dungeon",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner)Ритуальный предсказатель$(/l) для облегчения строительства."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "standard_dungeon",
+      "text_overrides": [
+        ["Demon Realm", "thing"]
+      ],
+      "text": "Остерегайтесь, царство демонов очень опасно. Приходите подготовленными!"
+    }
+  ]
+}

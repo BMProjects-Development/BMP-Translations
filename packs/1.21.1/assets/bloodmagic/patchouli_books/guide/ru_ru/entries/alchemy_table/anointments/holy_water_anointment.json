@@ -1,0 +1,25 @@
+{
+  "name": "Святая вода",
+  "icon": "bloodmagic:holy_water_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Святая вода",
+      "recipe": "bloodmagic:alchemytable/holy_water_anointment",
+      "text": "Временно увеличивает урон в ближнем бою, наносимый нежити, на +5. $(br2)Поддерживает: инструменты, мечи.$(br2)Применяется: Священный удар I (256 ударов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Святая вода L",
+      "recipe": "bloodmagic:alchemytable/holy_water_anointment_l",
+      "text": "Эта улучшенная версия масла действует в четыре раза дольше. $(br2)Применяется: Священный удар I (1024 ударов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Святая вода II",
+      "recipe": "bloodmagic:alchemytable/holy_water_anointment_2",
+      "text": "Эта улучшенная версия масла увеличивает урон в ближнем бою, наносимый нежити, на +10. $(br2)Применяется: Священный удар II (256 ударов)"
+    }
+  ]
+}

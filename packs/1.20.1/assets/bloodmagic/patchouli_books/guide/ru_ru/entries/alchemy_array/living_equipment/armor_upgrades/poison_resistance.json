@@ -1,0 +1,15 @@
+{
+  "name": "Сопротивление яду",
+  "icon": "minecraft:milk_bucket",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Эффект: лечит яд. Имеет кулдаун, который сокращается с дополнительными уровнями. $(br2)Развитие: Быть отравленым. $(br2)Максимальный уровень: 5"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:poison_resist"
+    }
+  ]
+}

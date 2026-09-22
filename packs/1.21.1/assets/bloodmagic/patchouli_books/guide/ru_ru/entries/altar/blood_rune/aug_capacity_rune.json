@@ -1,0 +1,16 @@
+{
+  "name": "Руна увеличенной емкости",
+  "icon": "bloodmagic:bettercapacityrune",
+  "category": "bloodmagic:altar/blood_rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Руна увеличенной емкости$() увеличивает емкость $(l:bloodmagic:altar/blood_altar)кровавого алтаря$(/l) на +7,5% за руну. Руну увеличенной емкости необходимо использовать $(o)после$() обычных $(l:bloodmagic:altar/blood_rune/capacity_rune)рун емкости$()."
+    },
+    {
+      "type": "crafting",
+      "title": "Руна увеличенной емкости",
+      "recipe": "bloodmagic:blood_rune_aug_capacity"
+    }
+  ]
+}

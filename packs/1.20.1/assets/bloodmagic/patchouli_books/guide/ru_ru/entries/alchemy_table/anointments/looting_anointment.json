@@ -1,0 +1,25 @@
+{
+  "name": "Блеск добычи",
+  "icon": "bloodmagic:looting_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Блеск добычи",
+      "recipe": "bloodmagic:alchemytable/looting_anointment",
+      "text": "Увеличивает дроп с убитых мобов. Также сочетается с зачарованием Добыча.$(br2)Поддерживается предметами: мечи.$(br2)Применяется: Добыча I (256 ударов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Блеск добычи L",
+      "recipe": "bloodmagic:alchemytable/looting_anointment_l",
+      "text": "Эта улучшенная версия масла действует в четыре раза дольше. $(br2)Применяется: Добыча I (1024 ударов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Блеск добычи II",
+      "recipe": "bloodmagic:alchemytable/looting_anointment_2",
+      "text": "Эта улучшенная версия масла еще больше увеличивает дроп с убитых мобов. $(br2)Применяется: Добыча II (256 ударов)"
+    }
+  ]
+}

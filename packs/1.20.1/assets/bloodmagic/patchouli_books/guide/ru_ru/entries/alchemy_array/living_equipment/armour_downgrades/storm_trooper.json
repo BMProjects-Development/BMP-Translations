@@ -1,0 +1,16 @@
+{
+  "name": "Штурмовик",
+  "icon": "minecraft:arrow",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_downgrades",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Делает вас очень неточным при стрельбе из луков и арбалетов."
+    },
+    {
+      "type": "bloodmagic:living_armour_downgrade",
+      "a.recipe": "bloodmagic:downgrade/storm_trooper",
+      "b.upgrade": "bloodmagic:storm_trooper"
+    }
+  ]
+}

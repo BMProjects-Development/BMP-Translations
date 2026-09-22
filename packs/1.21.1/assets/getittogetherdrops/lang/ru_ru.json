@@ -1,0 +1,6 @@
+{
+	"getittogetherdrops.configuration.checkY": "Проверять по Y",
+	"getittogetherdrops.configuration.checkY.tooltip": "Установите значение true, если выпавшие предметы должны также проверять пространство над и под собой, или false, если нет (значение \"false\" соответствует поведению ванильной версии).",
+	"getittogetherdrops.configuration.radius": "Радиус",
+	"getittogetherdrops.configuration.radius.tooltip": "Радиус (в блоках), в котором выпавшие предметы должны проверять наличие других выпавших предметов для объединения (значение \"0.5\" соответствует поведению ванильной версии)."
+}

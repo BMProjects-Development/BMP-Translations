@@ -1,0 +1,18 @@
+{
+  "item.xp_synthesiser.kill_recorder": "Регистратор убийств",
+  "block.xp_synthesiser.xp_synthesiser": "Синтезатор опыта",
+  "itemGroup.xp_synthesiser": "XP Synthesiser",
+  "xp_synthesiser.configuration.general": "Основные настройки",
+  "xp_synthesiser.configuration.title": "Синтезатор опыта",
+  "xp_synthesiser.configuration.section.xp.synthesiser.server.toml": "Синтезатор опыта",
+  "xp_synthesiser.configuration.xpPointCost.tooltip": "Стоимость очка опыта",
+  "xp_synthesiser.configuration.requiresPower.tooltip": "Требует энергию",
+  "xp_synthesiser.configuration.section.xp.synthesiser.server.toml.title": "Синтезатор опыта",
+  "xp_synthesiser.configuration.general.tooltip": "Настройки",
+  "xp_synthesiser.configuration.general.button": "Открыть",
+  "xp_synthesiser.configuration.requiresPower": "Синтезатор опыта требует энергию",
+  "xp_synthesiser.configuration.xpPointCost": "Стоимость энергии за очко опыта",
+  "xp_synthesiser.configuration.xpScalingCost": "Масштабируемая стоимость энергии за очко опыта",
+  "xp_synthesiser.configuration.xpScalingFactor": "Масштабируемый коэффициент энергии",
+  "xp_synthesiser.configuration.xpPointCost": "Стоимость энергии за очко опыта"
+}

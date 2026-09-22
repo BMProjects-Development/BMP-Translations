@@ -1,0 +1,6 @@
+{
+  "name": "Понижение показателей живой брони",
+  "description": "Список доступных понижающих показателей живой брони. $(br2) click $(l:bloodmagic:rituals/ritual_list/ritual_living_downgrade#downgrades)HERE$() для ознакомления с принципом их работы.",
+  "icon": "bloodmagic:upgradescraps",
+  "parent": "bloodmagic:alchemy_array/living_equipment"
+}

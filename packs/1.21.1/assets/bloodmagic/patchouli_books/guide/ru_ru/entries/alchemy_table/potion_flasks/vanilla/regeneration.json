@@ -1,0 +1,31 @@
+{
+  "name": "Регенерация",
+  "icon": "minecraft:ghast_tear",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Регенерация$() исцеляет объект с течением времени. Более высокие уровни увеличивают скорость исцеления."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Регенерация (3:00)",
+      "a.recipe": "bloodmagic:flask/regen",
+      "b.heading": "Регенерация (8:00)",
+      "b.recipe": "bloodmagic:flask/length_regen",
+      "c.heading": "Регенерация II (1:30)",
+      "c.recipe": "bloodmagic:flask/potency_regen"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "добавление $(l:bloodmagic:alchemy_table/potions#average_potions)Стандартных катализаторов$() позволит усилить зелье."
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Регенерация III (0:45)",
+      "a.recipe": "bloodmagic:flask/potency_average_regen",
+      "b.heading": "Регенерация (21:20)",
+      "b.recipe": "bloodmagic:flask/length_average_regen"
+    }
+  ]
+}

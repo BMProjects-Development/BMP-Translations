@@ -1,0 +1,27 @@
+{
+  "name": "Область применения наполнителей",
+  "icon": "minecraft:dispenser",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "patchouli:multiblock",
+      "name": "Область применения наполнителей",
+      "multiblock_id": "bloodmagic:placer",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner)Ритуальный предсказатель$(/l) для облегчения строительства."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "placer"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "placer",
+      "page_type": "placerRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "placer",
+      "page_type": "chest"
+    }
+  ]
+}

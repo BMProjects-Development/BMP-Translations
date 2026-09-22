@@ -1,0 +1,21 @@
+{
+  "name": "Строить-ко-мне",
+  "sortnum": 1,
+  "category": "buildinggadgets2:modes",
+  "icon": "buildinggadgets2:textures/book/mode/build_to_me.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Режим «Строить-ко-мне» будет строить ряд блоков от грани блока, на которую Вы смотрите, до игрока. Он может строить как горизонтально, так и вертикально, в зависимости от того, на какую грань блока Вы смотрите.$(br2)Настройка диапазона игнорируется в этом режиме.$(br2)Переключение опции «поместить сверху» будет строить до головы игрока, а не до ног."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Строить-ко-мне",
+      "images": [
+        "buildinggadgets2:textures/book/images/ghost_render.png"
+      ],
+      "border": true,
+      "text": "Строительство к игроку"
+    }
+  ]
+}

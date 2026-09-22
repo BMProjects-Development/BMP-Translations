@@ -1,0 +1,19 @@
+{
+    "name": "Кристаллическая пчела",
+    "icon": "minecraft:quartz",
+    "read_by_default": true,
+    "category": "productivebees:bees_wild",
+    "flag": "productivebees:crystalline",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Кристаллическая пчела",
+            "text": "Обитает в гнёздах из незер-кварца в Незере. Кристаллические пчёлы предпочитают опылять что-то содержащее или сделаное из незер-кварца.",
+            "anchor": "crystalline"
+        },
+        {
+            "type": "patchouli:entity",
+            "entity": "productivebees:configurable_bee{type:'productivebees:crystalline'}"
+        }
+    ]
+}

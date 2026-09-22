@@ -1,0 +1,17 @@
+{
+  "name": "Ночное зрение",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_nightvision",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Свободно ориентируйтесь в темноте с помощью улучшения «Ночное зрение». Это улучшение дарует постоянный эффект ночного зрения, освещая ваше окружение в любое время."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Ночное зрение»",
+      "recipe": "justdirethings:upgrade_nightvision"
+    }
+  ]
+}

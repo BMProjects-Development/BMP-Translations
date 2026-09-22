@@ -1,0 +1,11 @@
+{
+  "commands.sereneseasonsfix.get_season.not_whitelisted": "Сезоны отключены для этого измерения",
+  "commands.sereneseasonsfix.set_season.not_whitelisted": "Сезоны отключены для этого измерения",
+  "commands.sereneseasonsfix.time.sync_season.not_whitelisted": "Сезоны отключены для этого измерения",
+  "commands.sereneseasonsfix.time.sync_season.success": "Время сезонов синхронизировано с мировым временем",
+  "commands.sereneseasonsfix.time.set_season.not_whitelisted": "Сезоны отключены для этого измерения",
+  "commands.sereneseasonsfix.time.set_season.success": "Время сезонов установлено на %s",
+  "commands.sereneseasonsfix.time.set_season_start.not_whitelisted": "Сезоны отключены для этого измерения",
+  "commands.sereneseasonsfix.time.set_season_start.success": "Время начала сезона установлено на %s",
+  "commands.sereneseasonsfix.time.info": "Время сезона: %s\nВремя начала сезона: %s\nМировое время: %s\nРазница: %s\nИзмерение в белом списке: %s"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Лазерный гаечный ключ",
+  "icon": "laserio:laser_wrench",
+  "sortnum": 1,
+  "category": "laserio:items",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Лазерный гаечный ключ в основном используется для соединения нескольких блоков вместе.$(br2)$(l:laserio:laser_node)узлы$(/l) и $(l:laserio:laser_connector)соединители$(/l) могут быть соединены нажатием ПКМ крадучись для выбора блока, а затем ПКМ на другом блоке для установления соединения.$(br2)Максимальная дальность соединения составляет 8 блоков."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Лазерный гаечный ключ",
+      "images": [
+        "laserio:textures/book/entries/laser_wrench.png"
+      ],
+      "border": true,
+      "text": "Выбранный блок выделен зелёным."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Лазерный гаечный ключ",
+      "recipe": "laserio:laser_wrench"
+    }
+  ]
+}

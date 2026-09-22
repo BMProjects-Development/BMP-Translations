@@ -1,0 +1,26 @@
+{
+  "name": "Кухонная плита",
+  "icon": "caupona:brick_kitchen_stove",
+  "category": "caupona:intro",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Кухонные плиты можно использовать для нагрева кухонной утвари."
+    },
+    {
+      "type": "text",
+      "text": "Кухонные плиты перестают работать после простоя в течение некоторого времени."
+    },
+    {
+      "type": "crafting",
+      "recipe": "caupona:mud_kitchen_stove",
+      "text": "Печи из грязи и сухого камня дешевы, но они производят тепло в два раза медленнее, чем другие разновидности печей, наравне с $(l:worldgen/volcanic_fumarole)фумарольными вентиляционными отверстиями$(/l)."
+    },
+    {
+      "type": "crafting",
+      "recipe": "caupona:crafting/brick_kitchen_stove",
+      "text": "Существуют также плиты из $(l:intro/kitchen_materials)других материалов$(/l), которые быстрее, но потребляют больше топлива."
+    }
+  ]
+}

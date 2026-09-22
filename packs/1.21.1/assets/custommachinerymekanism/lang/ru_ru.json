@@ -1,0 +1,43 @@
+{
+  "custommachinerymekanism.requirements.chemical.error.input": "Недостаточно %s, требуется %smB!",
+  "custommachinerymekanism.requirements.chemical.error.output": "Недостаточно места для хранения %smB %s!",
+  "custommachinerymekanism.requirements.heat.error.input": "Недостаточно накопленного тепла, нужно %s, найдено %s!",
+  "custommachinerymekanism.requirements.temp.error": "Требуется температура: %s",
+  "custommachinerymekanism.requirements.radiation.error": "Недостаточно радиации: %s, нужно %s!",
+  "custommachinerymekanism.requirements.radiation.info.input": "Удаляет %s в радиусе %s блоков",
+  "custommachinerymekanism.requirements.radiation.info.output": "Излучает %s",
+  "custommachinerymekanism.requirements.radiation.info.tick.input": "Удаляет %s/т в радиусе %s блоков",
+  "custommachinerymekanism.requirements.radiation.info.tick.output": "Излучает %s/т",
+
+  "custommachinerymekanism.gui.creation.components.heat.title": "Тепловой компонент",
+  "custommachinerymekanism.gui.creation.components.heat.capacity": "Ёмкость",
+  "custommachinerymekanism.gui.creation.components.heat.capacity.tooltip": "Количество тепла (в кельвинах), необходимое для нагрева машины с 1K",
+  "custommachinerymekanism.gui.creation.components.heat.base": "Базовая температура",
+  "custommachinerymekanism.gui.creation.components.heat.base.tooltip": "Температура (в кельвинах), которую будет иметь машина без подачи тепла",
+  "custommachinerymekanism.gui.creation.components.heat.conduction": "Проводимость",
+  "custommachinerymekanism.gui.creation.components.heat.conduction.tooltip": "Коэффициент, определяющий, сколько тепла может быть добавлено или извлечено\nБольшие значения позволяют извлекать больше тепла, но вводить меньше",
+  "custommachinerymekanism.gui.creation.components.heat.insulation": "Изоляция",
+  "custommachinerymekanism.gui.creation.components.heat.insulation.tooltip": "Коэффициент, определяющий, сколько тепла будет рассеиваться в окружающую среду (теряться)\nЧем выше значение, тем меньше потерь тепла",
+  "custommachinerymekanism.gui.creation.components.chemical.title": "Химический компонент",
+  "custommachinerymekanism.gui.creation.components.chemical.radiations": "Радиация",
+  "custommachinerymekanism.gui.creation.components.chemical.radiations.tooltip": "Излучает радиацию при разрушении машины, содержащей радиоактивный химикат",
+
+  "custommachinerymekanism.gui.creation.gui.heat.min": "Мин",
+  "custommachinerymekanism.gui.creation.gui.heat.min.tooltip": "Минимальная температура, отображаемая шкалой",
+  "custommachinerymekanism.gui.creation.gui.heat.max": "Макс",
+  "custommachinerymekanism.gui.creation.gui.heat.max.tooltip": "Максимальная температура, отображаемая шкалой",
+
+  "custommachinerymekanism.jei.ingredient.heat": "Тепло: %s",
+  "custommachinerymekanism.jei.ingredient.heat.input": "Потребляет %s тепла",
+  "custommachinerymekanism.jei.ingredient.heat.output": "Производит %s тепла",
+  "custommachinerymekanism.jei.ingredient.heat.pertick.input": "Потребляет %s тепла/т",
+  "custommachinerymekanism.jei.ingredient.heat.pertick.output": "Производит %s тепла/т",
+
+  "custommachinery.machine.component.heat": "Тепло",
+  "custommachinery.machine.component.chemical": "Химия",
+  "custommachinery.machine.component.radiation": "Радиация",
+
+  "custommachinery.machine.guielement.heat": "Тепло",
+  "custommachinery.machine.guielement.chemical": "Химия",
+  "custommachinery.machine.guielement.radiation": "Радиация"
+}

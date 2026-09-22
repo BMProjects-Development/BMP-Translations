@@ -1,0 +1,17 @@
+{
+  "name": "Оседающее облако",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_lingering",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Усильте свою площадь поражения с помощью улучшения «Оседающее облако». Это улучшение заставляет зелья, выпущенные из лука, оставлять после себя оседающее облако, продлевая их воздействие на окружающую среду и врагов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Оседающее облако»",
+      "recipe": "justdirethings:upgrade_lingering"
+    }
+  ]
+}

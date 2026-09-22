@@ -1,0 +1,27 @@
+{
+  "name": "Ритуал прыжка в высоту",
+  "icon": "minecraft:diamond_boots",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "patchouli:multiblock",
+      "name": "Ритуал прыжка в высоту",
+      "multiblock_id": "bloodmagic:jumping",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner)Ритуальный предсказатель$(/l) для облегчения строительства."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "jumping"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "jumping",
+      "page_type": "jumpRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "jumping",
+      "page_type": "jumpPower"
+    }
+  ]
+}

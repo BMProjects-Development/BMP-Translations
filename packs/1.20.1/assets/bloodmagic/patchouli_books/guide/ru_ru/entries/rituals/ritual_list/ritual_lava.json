@@ -1,0 +1,97 @@
+{
+  "name": "Серенада преисподней",
+  "icon": "minecraft:lava_bucket",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Серенада преисподней",
+      "multiblock_id": "bloodmagic:lava",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner#dusk)сумрачный ритуальный предсказатель$(/l) для более легкой постройки."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "lava",
+      "text_overrides": [
+        ["master ritual stone", "l:bloodmagic:rituals/ritual_stones"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "raw",
+      "text_overrides": [
+        ["LP", "blood"],
+        ["tank", "item"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "corrosive",
+      "text": "Особенно полезно против обитателей нижнего мира."
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "vengeful",
+      "text_overrides": [
+        ["Fire Fuse", "thing"]
+      ],
+      "text": "Когда дебафф закончится, они произведут замечательное подобие фейерверка."
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "destructive",
+      "text_overrides": [
+        ["Destructive Will", "destructive"]
+      ]
+    },
+        {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "steadfast",
+      "text_overrides": [
+        ["Fire Resistance", "thing"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "lavaRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "fireDamage",
+      "text_overrides": [
+        ["Corrosive Will", "corrosive"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "fireFuse",
+      "text_overrides": [
+        ["Fire Fuse", "thing"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "fireResist",
+      "text_overrides": [
+        ["Fire Resistance", "thing"]
+      ]
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "lava",
+      "page_type": "lavaTank",
+      "text_overrides": [
+        ["tank", "item"]
+      ]
+    }
+  ]
+}

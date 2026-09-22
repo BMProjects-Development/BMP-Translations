@@ -1,0 +1,25 @@
+{
+  "name": "Сущность пустоты",
+  "icon": "bloodmagic:voiding_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "bloodmagic:crafting_alchemy_table",
+      "heading": "Сущность пустоты",
+      "recipe": "bloodmagic:alchemytable/voiding_anointment",
+      "text": "Удаляет простые блоки при добыче, такие как камень, землю и незерак. $(br2)Доступные предметы: Инструменты, Мечи, Заряды. $(br2) Применение: Удаление I (256 блоков)"
+    },
+    {
+      "type": "bloodmagic:crafting_alchemy_table",
+      "heading": "Сущность пустоты L",
+      "recipe": "bloodmagic:alchemytable/voiding_anointment_l",
+      "text": "Эта модернизированная версия действует в четыре раза дольше. $(br2) Применение: Удаление I (1024 блока)"
+    },
+    {
+      "type": "bloodmagic:crafting_alchemy_table",
+      "heading": "Сущность пустоты XL",
+      "recipe": "bloodmagic:alchemytable/voiding_anointment_xl",
+      "text": "Эта модернизированная версия действует в шестнадцать раз дольше. $(br2) Применение: Удаление I (4096 блоков)"
+    }
+  ]
+}

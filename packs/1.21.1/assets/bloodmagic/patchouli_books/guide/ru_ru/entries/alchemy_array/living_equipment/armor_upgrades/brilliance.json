@@ -1,0 +1,17 @@
+{
+  "name": "Блеск",
+  "icon": "minecraft:diamond",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_upgrades",
+  "pages": [
+    {
+      "type": "bloodmagic:crafting_alchemy_table",
+      "heading": "Блеск",
+      "recipe": "bloodmagic:alchemytable/upgrade_brilliance",
+      "text": "Эффект: Повышает защиту брони. Максимальное значение +5 брони и +8 выносливости. $(br2)Обучение: созданием живого фолианта в таблице алхимии. Каждый фолиант добавляет 1 уровень Блеска. $(br2)Максимальный уровень: 5"
+    },
+    {
+      "type": "bloodmagic:living_armour_upgrade_table",
+      "upgrade": "bloodmagic:diamond_protect"
+    }
+  ]
+}

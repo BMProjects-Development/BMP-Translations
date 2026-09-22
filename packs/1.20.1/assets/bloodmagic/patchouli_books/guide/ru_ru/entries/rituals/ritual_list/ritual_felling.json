@@ -1,0 +1,27 @@
+{
+  "name": "Лесоруб",
+  "icon": "minecraft:oak_sapling",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Лесоруб",
+      "multiblock_id": "bloodmagic:felling",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner)Ритуальный предсказатель$(/l) для облегчения строительства."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "felling"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "felling",
+      "page_type": "fellingRange"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "felling",
+      "page_type": "chest"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "biome.wilderness.old_growth_forest": "Старый заросший лес",
+  "biome.wilderness.mixed_forest": "Смешанный лес",
+
+  "block.wilderness.overgrown_oak_log": "Заросшее дубовое бревно",
+  "block.wilderness.overgrown_oak_wood": "Заросшее дубовое дерево",
+  "block.wilderness.overgrown_birch_log": "Заросшое берёзовое бревно",
+  "block.wilderness.overgrown_birch_wood": "Заросшее берёзовое дерево",
+  "block.wilderness.overgrown_spruce_log": "Заросшее еловое бревно",
+  "block.wilderness.overgrown_spruce_wood": "Заросшее еловое дерево",
+
+  "block.wilderness.shelf_fungi": "Древесный гриб",
+
+  "trim_pattern.wilderness.roots": "Кузнечный шаблон: Корни",
+
+  "subtitles.wilderness.item.axe.unmoss": "Топор способен убрать мох."
+}

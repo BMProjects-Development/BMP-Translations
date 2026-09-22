@@ -1,0 +1,16 @@
+{
+	"block.chimes.bamboo_chimes": "Бамбуковые колокольчики ветра",
+	"block.chimes.carved_bamboo_chimes": "Резные бамбуковые колокольчики ветра",
+	"block.chimes.iron_chimes": "Железные колокольчики ветра",
+	"block.chimes.copper_chimes": "Медные колокольчики ветра",
+	"block.chimes.amethyst_chimes": "Аметистовые колокольчики ветра",
+	"chimes.configGui.title": "Настройки колокольчиков",
+	"chimes.configGui.animations.button": "Колокольчики ветра",
+	"chimes.configGui.bamboo_leaf.button": "Падающие листья бамбука",
+	"chimes.configGui.options.animated": "Анимированные",
+	"chimes.configGui.options.static": "Статичные",
+	"chimes.configGui.options.on": "Включено",
+	"chimes.configGui.options.off": "Выключено",
+	"chimes.subtitles.wind_chime.chimes": "Звон колокольчиков",
+	"chimes.subtitles.wind_chime.twinkle": "Мерцание колокольчиков"
+}

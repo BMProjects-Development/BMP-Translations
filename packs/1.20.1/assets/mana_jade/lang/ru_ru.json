@@ -1,0 +1,55 @@
+{
+  "config.jade.plugin_mana_jade.mana_pool_storage": "Хранилище бассейна маны",
+  "config.jade.plugin_mana_jade.mana_spreader_storage": "Хранилище распространителя маны",
+  "config.jade.plugin_mana_jade.special_flora_storage": "Хранилище флоры",
+
+  "config.jade.plugin_mana_jade.mana_pool_catalyst": "Катализатор бассейна маны",
+  "config.jade.plugin_mana_jade.mana_spreader_burst_info": "Информация об импульсе распространителя маны",
+  "config.jade.plugin_mana_jade.runic_altar_recipe_progress": "Прогресс рецепта рунического алтаря",
+  "config.jade.plugin_mana_jade.terra_plate_recipe_progress": "Прогресс рецепта земной плиты",
+
+  "config.jade.plugin_mana_jade.pure_daisy_recipe_progress": "Прогресс рецепта чистой маргаритки",
+  "config.jade.plugin_mana_jade.mana_star_info": "Информация о звезде маны",
+
+  "config.jade.plugin_mana_jade.hydroangeas_info": "Информация о водогортензии",
+  "config.jade.plugin_mana_jade.endoflame_info": "Информация о пламени Края",
+  "config.jade.plugin_mana_jade.thermalily_info": "Информация о термалилии",
+  "config.jade.plugin_mana_jade.rosa_arcana_info": "Информация о тайной розе",
+  "config.jade.plugin_mana_jade.munchdew_info": "Информация о жующей росе",
+
+  "tooltip.mana_jade.mana_receiver_storage": "Мана: %d/%d",
+  "tooltip.mana_jade.creative_mana_pool_storage": "Мана: ∞",
+
+  "tooltip.mana_jade.mana_pool_catalyst": "Катализатор: %s",
+  "tooltip.mana_jade.mana_spreader_burst_starting_mana": "Начальная мана импульса: %d",
+  "tooltip.mana_jade.mana_spreader_burst_velocity": "Скорость импульса: %s, %s, %s",
+  "tooltip.mana_jade.mana_spreader_burst_ticks_before_mana_loss": "Тиков импульса до потери маны: %d",
+  "tooltip.mana_jade.mana_spreader_burst_mana_loss": "Потеря маны импульса за тик: %d",
+
+  "tooltip.mana_jade.pure_daisy_recipe_progress": "Прогресс %s: %s/%s с",
+  "tooltip.mana_jade.mana_star_info": "Мана: %s/с",
+
+  "tooltip.mana_jade.hydroangeas_mana_per_second": "Мана: %s/с",
+  "tooltip.mana_jade.hydroangeas_decay_time": "Время увядания: %sс",
+  "tooltip.mana_jade.endoflame_mana_per_second": "Мана: %s/с",
+  "tooltip.mana_jade.endoflame_burn_time": "Время горения: %sс",
+  "tooltip.mana_jade.thermalily_mana_per_second": "Мана: %s/с",
+  "tooltip.mana_jade.thermalily_burn_time": "Время горения: %sс",
+  "tooltip.mana_jade.thermalily_cooldown_time": "Перезарядка: %sс/%sс",
+  "tooltip.mana_jade.rosa_arcana_mana_per_xp": "Мана: %d/ед. опыта",
+  "tooltip.mana_jade.rosa_arcana_xp_per_second": "Опыт от игрока: %d/с",
+  "tooltip.mana_jade.munchdew_mana_per_leaf": "Мана: %d/лист",
+  "tooltip.mana_jade.munchdew_leaves_per_second": "Листья: %d/с",
+  "tooltip.mana_jade.munchdew_cooldown": "Перезарядка: %s/%s",
+
+  "tooltip.mana_jade.true": "истина",
+  "tooltip.mana_jade.false": "ложь",
+  "tooltip.mana_jade.direction.west": "Запад",
+  "tooltip.mana_jade.direction.southwest": "Юго-запад",
+  "tooltip.mana_jade.direction.south": "Юг",
+  "tooltip.mana_jade.direction.southeast": "Юго-восток",
+  "tooltip.mana_jade.direction.east": "Восток",
+  "tooltip.mana_jade.direction.northeast": "Северо-восток",
+  "tooltip.mana_jade.direction.north": "Север",
+  "tooltip.mana_jade.direction.northwest": "Северо-запад"
+}

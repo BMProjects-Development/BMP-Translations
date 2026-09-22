@@ -1,0 +1,16 @@
+{
+  "name": "Ослабленная пика",
+  "icon": "minecraft:stone_pickaxe",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_downgrades",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эффект: Снижает скорость передвижения. Максимальное снижение составляет 80%."
+    },
+    {
+      "type": "bloodmagic:living_armour_downgrade",
+      "a.recipe": "bloodmagic:downgrade/dig_slowdown",
+      "b.upgrade": "bloodmagic:dig_slowdown"
+    }
+  ]
+}

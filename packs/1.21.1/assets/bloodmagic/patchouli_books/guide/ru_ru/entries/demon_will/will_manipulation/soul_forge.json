@@ -1,0 +1,15 @@
+{
+  "name": "Кузница адского огня",
+  "icon": "bloodmagic:soulforge",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Кузница адского огня$() - это один из основных механизмов крафта в $(blood)Blood Magic$(), наряду с $(l:bloodmagic:altar/blood_altar)кровавым алтарем$(/l). Здесь вы можете работать с $(l:bloodmagic:demon_will/will_manipulation/demon_will)волей демона$(), собранной вами с убитых мобов, чтобы создавать $(l:bloodmagic:demon_will/demonic_items/sentient_tools)разумные инструменты$(), включая $(l:bloodmagic:demon_will/demonic_items/sentient_sword)разумный меч$(), $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камни души$(), различные $(item)реагенты$(), $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)тайный пепел$() и многие другие вещи."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:soul_forge"
+    }
+  ]
+}

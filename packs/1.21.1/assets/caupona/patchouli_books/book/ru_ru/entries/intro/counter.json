@@ -1,0 +1,17 @@
+{
+	"name": "Прилавок",
+	"icon": "caupona:brick_counter",
+	"category": "caupona:intro",
+	"sortnum": 7,
+	"pages": [
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/brick_counter",
+			"text": "Прилавки — это кухонное оборудование. Как и другие приспособления, они имеют варианты из разных $(l:intro/kitchen_materials)материалов$(/l)."
+		},
+		{
+			"type": "text",
+			"text": "Они предназначены только для декорации, для соединения $(l:intro/stove)плит$(/l) и $(l:intro/counter_with_dolium)прилавков с долиями$(/l), а также другого кухонного оборудования."
+		}
+	]
+}

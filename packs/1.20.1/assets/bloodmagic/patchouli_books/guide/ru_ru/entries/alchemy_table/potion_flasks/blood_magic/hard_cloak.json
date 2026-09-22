@@ -1,0 +1,31 @@
+{
+  "name": "Твердый плащ",
+  "icon": "minecraft:obsidian",
+  "category": "bloodmagic:alchemy_table/potion_flasks/blood_magic",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Твердый плащ$() дает 3 единицы прочности брони за уровень при использовании."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Твердый плащ (3:00)",
+      "a.recipe": "bloodmagic:flask/hard_cloak",
+      "b.heading": "Твердый плащ (8:00)",
+      "b.recipe": "bloodmagic:flask/length_hard_cloak",
+      "c.heading": "Твердый плащ II (1:30)",
+      "c.recipe": "bloodmagic:flask/potency_hard_cloak"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "добавление $(l:bloodmagic:alchemy_table/potions#average_potions)Стандартных катализаторов$() позволит усилить зелье."
+    },
+    {
+      "type": "bloodmagic:2x_crafting_flask",
+      "a.heading": "Твердый плащ III (0:45)",
+      "a.recipe": "bloodmagic:flask/potency_average_hard_cloak",
+      "b.heading": "Твердый плащ (21:20)",
+      "b.recipe": "bloodmagic:flask/length_average_hard_cloak"
+    }
+  ]
+}

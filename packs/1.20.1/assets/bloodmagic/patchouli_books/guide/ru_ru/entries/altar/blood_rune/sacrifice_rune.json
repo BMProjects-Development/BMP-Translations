@@ -1,0 +1,15 @@
+{
+  "name": "Руна жертвоприношения",
+  "icon": "bloodmagic:sacrificerune",
+  "category": "bloodmagic:altar/blood_rune",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Руна жертвоприношения$() увеличивает количество $(blood)жизненной эссенции$() полученной для кровавого алтаря с помощью средств, которые забирают здоровье у неигровых сущностей. Каждая руна дает бонус +10% дополнительно."
+    },
+    {
+      "type": "crafting",
+      "recipe": "bloodmagic:blood_rune_sacrifice"
+    }
+  ]
+}

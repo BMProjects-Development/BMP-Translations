@@ -1,0 +1,27 @@
+{
+  "name": "Фильтр тегов элементов",
+  "icon": "bloodmagic:itemrouterfilteroredict",
+  "category": "bloodmagic:demon_will/item_routing",
+  "pages":[
+    {
+      "type": "text",
+      "text": "$(item)Фильтр тегов элементов$() позволяет выбирать до 9 предметов и фильтровать их по соответствующим $(thing)тегам$(). Аналогично $(l:bloodmagic:demon_will/item_routing/standard_item_filter)стандартному фильтру элементов$() он имеет селектор количества и функцию разрешения/запрета. Если количество не указано, по умолчанию выбираются все предметы. $(br)Для каждого элемента, добавленного в этот фильтр, можно выбрать,"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Фильтр тегов элементов",
+      "recipe": "bloodmagic:alchemytable/tag_router_filter",
+      "text": "соответствовать ли ему по $(thing)одному конкретному тегу$() или $(thing)любому из его тегов$(). Это позволяет запрещать или разрешать категории предметов, так что вы можете указать, что все предметы с тегом $(thing)forge:руды$() должны быть отправлены в вашу печь, например."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/routing/tag_item_filter_gui.png",
+        "bloodmagic:images/entries/routing/tag_item_filter_mouseover.png"
+      ],
+      "title": "Интерфейс",
+      "border": true,
+      "text": "Графический интерфейс и текст при наведении курсора на настроенный фильтр."
+    }
+  ]
+}

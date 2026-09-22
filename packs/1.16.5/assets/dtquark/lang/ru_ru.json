@@ -1,0 +1,17 @@
+{
+  "block.dtquark.blossom_branch": "Цветущее дерево",
+
+  "species.dtquark.fiery_blossom": "Огненное",
+  "species.dtquark.frosty_blossom": "Морозное",
+  "species.dtquark.serene_blossom": "Безмятежное",
+  "species.dtquark.sunny_blossom": "Солнечное",
+  "species.dtquark.sweet_blossom": "Сладкое",
+  "species.dtquark.warm_blossom": "Тёплое",
+
+  "item.dtquark.fiery_blossom_seed": "Косточка огненного цветения",
+  "item.dtquark.frosty_blossom_seed": "Косточка морозного цветения",
+  "item.dtquark.serene_blossom_seed": "Косточка безмятежного цветения",
+  "item.dtquark.sunny_blossom_seed": "Косточка солнечного цветения",
+  "item.dtquark.sweet_blossom_seed": "Косточка сладкого цветения",
+  "item.dtquark.warm_blossom_seed": "Косточка тёплого цветения"
+}

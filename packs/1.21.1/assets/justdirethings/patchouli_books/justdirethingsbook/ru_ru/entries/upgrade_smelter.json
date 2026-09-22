@@ -1,0 +1,17 @@
+{
+  "name": "Плавильник",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_smelter",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Мгновенно переплавляйте предметы с помощью улучшения «Плавильник». Установленное на инструменты, это улучшение позволяет напрямую получать переплавленные продукты из добытых руд.$(br2)Использует некоторое количество прочности."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Плавильник»",
+      "recipe": "justdirethings:upgrade_smelter"
+    }
+  ]
+}

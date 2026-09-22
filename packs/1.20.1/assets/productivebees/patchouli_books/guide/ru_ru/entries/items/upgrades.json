@@ -1,0 +1,152 @@
+{
+    "name": "Улучшения",
+    "icon": "productivebees:upgrade_base",
+    "category": "productivebees:items",
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "productivebees:upgrade_base",
+            "text": "Улучшения можно установить в машины и ульи, чтобы расширить их функциональность или улучшить производительность"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/base",
+            "text": "Основа всех остальных улучшений."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/breeding",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l), $(l:blocks/catcher)пчелиный ловец$(/l).",
+            "anchor": "babee"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей, улучшение «Детва» даёт небольшой шанс пчёлам, живущим внутри улья, произвести новое потомство без вашего участия. Обратите внимание, что пчёлы, которые не могут размножаться естественным путём, не совместимы с этим улучшением. $(br)При установке в $(l:blocks/catcher)пчелиный ловец$(/l), в клетки будет ловиться только детва пчёл."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/productivity",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l), $(l:blocks/honey_generator)медовый генератор(/l).",
+            "anchor": "productivity"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей, улучшение «Продуктивность» увеличивает количество сот, производимых пчелой за один вылет. Можно установить несколько улучшений «Продуктивность»."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/time",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l), $(l:blocks/centrifuge)центрифуга$(/l), $(l:blocks/incubator)инкубатор$(/l), $(l:blocks/honey_generator)медовый генератор(/l).",
+            "anchor": "speed"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей, улучшение «Скорость» уменьшает время, которое пчела проводит внутри улья. $(br)При установке в $(l:blocks/centrifuge)центрифугу$(/l) или $(l:blocks/incubator)инкубатор$(/l), оно увеличивает скорость их работы."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/filter",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l), $(l:blocks/catcher)пчелиный ловец$(/l).",
+            "anchor": "filter"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Щёлкните ПКМ на пчелу, чтобы добавить её в фильтр. Поместите фильтр в сетку создания, чтобы очистить его. При установке в улей в него смогут входить только пчёлы, указанные в фильтре. $(br)При установке в $(l:blocks/catcher)пчелиный ловец$(/l), им будут ловиться пчёлы, указанные в фильтре."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/range",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l), $(l:blocks/catcher)пчелиный ловец$(/l).",
+            "anchor": "range"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей, радиус действия пчёл-фермеров и пчёл-сборщиц/барахольщиц увеличивается на 1 за каждое улучшение с базовых 4. При установке в ловец улучшение «Диапазон» расширяет область действия на 1 блок во всех направлениях. Можно установить несколько улучшений «Диапазон»."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/anti_teleport",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l).",
+            "anchor": "anti_teleport"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей, пчёлы, способные телепортироваться, перестанут это делать, если живут в этом улье."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/bee_sampler",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l).",
+            "anchor": "sampler"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей, с каждого посещения опыляющих пчёл будет извлекаться небольшой образец ген. Это не причиняет им никакого вреда. В одном улье можно установить несколько таких улучшений для повышения скорости."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/comb_block",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l).",
+            "anchor": "comb_block"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей, пчёлы будут производить полные блоки сот вместо медовых сот."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "productivebees:upgrades/simulator",
+            "text": "Используется в: $(l:hives/advanced_hives#expanded)расширенные ульи$(/l).",
+            "anchor": "simulator"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "При установке в улей пчёлы больше не будут физически покидать улей, их полёт к цветочному блоку будет симулирован для улучшения производительности сервера. Необходимый цветочный блок или кормушка с цветочными блоками должны быть размещены практически вплотную к улью, не перекрывая переднюю часть, а прямо на блок ниже этой точки."
+        },
+        {
+            "type": "multiblock",
+            "name": "Симулированный улей",
+            "multiblock": {
+                "mapping": {
+                    "h": "productivebees:advanced_oak_beehive[expanded=up]",
+                    "e": "productivebees:expansion_box_oak[expanded=up]",
+                    "f": "productivebees:feeder[type=top]"
+                },
+                "pattern": [
+                    [
+                        " e"
+                    ],
+                    [
+                        " h"
+                    ],
+                    [
+                        "f0"
+                    ]
+                ],
+                "offset": [
+                    0, 1, 0
+                ]
+            },
+            "enable_visualize": false
+        },
+        {
+            "type": "multiblock",
+            "name": "Симулированный улей",
+            "multiblock": {
+                "mapping": {
+                    "h": "productivebees:advanced_oak_beehive[expanded=left,facing=east]",
+                    "e": "productivebees:expansion_box_oak[expanded=left,facing=east]",
+                    "f": "minecraft:iron_block"
+                },
+                "pattern": [
+                    ["he","  "],
+                    ["0 ", "f "]
+                ],
+                "offset": [
+                    0, 1, 0
+                ]
+            },
+            "enable_visualize": false
+        }
+    ]
+}

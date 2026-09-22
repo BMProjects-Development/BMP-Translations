@@ -1,0 +1,52 @@
+{
+  "itemGroup.chancecubes": "Кубы удачи",
+
+  "block.chancecubes.chance_cube": "Куб удачи",
+  "block.chancecubes.chance_icosahedron": "Двадцатигранник удачи",
+  "block.chancecubes.giant_chance_cube": "Гигантский куб удачи",
+  "block.chancecubes.compact_giant_chance_cube": "Компактный гигантский куб удачи",
+  "block.chancecubes.cube_dispenser": "Распределитель кубов удачи",
+
+  "item.chancecubes.chance_pendant_tier1": "Кулон удачи 1 уровня",
+  "item.chancecubes.chance_pendant_tier2": "Кулон удачи 2 уровня",
+  "item.chancecubes.chance_pendant_tier3": "Кулон удачи 3 уровня",
+
+  "item.chancecubes.creative_pendant": "Творческий кулон удачи",
+  "item.chancecubes.reward_selector_pendant": "Кулон «Выбор награды»",
+  "item.chancecubes.single_use_reward_selector_pendant": "Одноразовый кулон «Выбор награды»",
+
+  "item.chancecubes.silk_touch_pendant": "Кулон удачи с шёлковым касанием",
+
+  "item.chancecubes.scanner": "Сканер кубов удачи",
+
+  "death.attack.mathdeath": "Разум %1$s взорвался от силы математики",
+  "death.attack.mazedeath": "%1$s был потерян навсегда в лабиринте Куба Удачи.",
+  "death.attack.questiondeath": "%1$s перенес последствия неправильного ответа.",
+  "death.attack.digbuilddeath": "Руки %1$s, видимо, сломались.",
+  "death.attack.matchingdeath": "%1$s получил по заслугам.",
+
+  "advancements.chancecubes:root.desc": "Игра на Удачу и Ловкость",
+  "advancements.chancecubes:chance_icosahedron": "Диско-Шар!",
+  "advancements.chancecubes:chance_icosahedron.desc": "Откройте Двадцатигранник удачи",
+  "advancements.chancecubes:giant_chance_cube": "Бааааммммм!",
+  "advancements.chancecubes:giant_chance_cube.desc": "Разбейте Гигантский куб удачи",
+  "advancements.chancecubes:lonely_dirt": "Одинокий грунт",
+  "advancements.chancecubes:lonely_dirt.desc": "Получите Одинокий комок земли",
+  "advancements.chancecubes:wither": "Это реально??",
+  "advancements.chancecubes:wither.desc": "Заставьте киви-визер реально появиться",
+  "advancements.chancecubes:herobrine": "Он реален??",
+  "advancements.chancecubes:herobrine.desc": "Заставьте Херобрина реально появиться",
+  "advancements.chancecubes:its_a_lie": "Это ложь!",
+  "advancements.chancecubes:its_a_lie.desc": "Да, торт - это ложь",
+
+  "chancecubes.reward.raining_potions": "Это называется искусством! Посмотрите на это!",
+
+  "stat.chancecubes.opened_chance_cube": "Открыто кубов удачи",
+  "stat.chancecubes.opened_giant_chance_cube": "Открыто гигантских кубов удачи",
+  "stat.chancecubes.opened_d20": "Открыто двадцатигранников удачи",
+
+  "chancecubes.networking.trigger_d20.failed": "Не удалось активировать D20: %s",
+  "chancecubes.networking.creative_pendant.failed": "Не удалось активировать творческий кулон: %s",
+  "chancecubes.networking.reward_selector.failed": "Не удалось активировать выбор награды: %s",
+  "chancecubes.networking.cube_scan.failed": "Не удалось выполнить сканирование куба: %s"
+}

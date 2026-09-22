@@ -1,0 +1,27 @@
+{
+  "name": "Ваша первая воля",
+  "icon": "bloodmagic:soulsnare",
+  "category": "bloodmagic:demon_will/will_manipulation",
+  "priority": "true",
+  "pages": [
+    {
+      "type": "crafting_altar",
+      "heading": "Ловушка для души",
+      "recipe": "bloodmagic:altar/soul_snare",
+      "text": "$(item)Ловушка для души$() это ваш первый шаг в работ с $(l:bloodmagic:demon_will/will_manipulation/demon_will)волей демона$() в $(blood)Blood Magic$()."
+    },
+    {
+      "type": "text",
+      "text": "Использование $(item)ловушек$() достаточно простое, просто скравтите достаточное количество и бросайте во $(thing)враждебных мобов$(). Вокруг мобов появятся белые частицы, после чего можно атаковать их. При убийстве мобов выпадет $(l:bloodmagic:demon_will/will_manipulation/demon_will)воля демона$(). Зачарование 'добыча' увеличит количество выпадаемой $(raw)воли$(). Собрав несколько штук можно приступать к созданию $(l:bloodmagic:demon_will/demonic_items/sentient_sword)разумного меча$() и $(l:bloodmagic:demon_will/will_manipulation/soul_gem)камня душ$() это сделает сбор $(l:bloodmagic:demon_will/will_manipulation/demon_will)воли демона$() еще более простым."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/demon_will/snare_particles.png"
+      ],
+      "title": "Ловушка на скелете",
+      "border": true,
+      "text": "Скелет с белыми частицами после попадания его души в ловушку."
+    }
+  ]
+}

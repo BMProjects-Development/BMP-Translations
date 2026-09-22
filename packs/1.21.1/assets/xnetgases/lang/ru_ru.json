@@ -1,0 +1,19 @@
+{
+  "xnetgases.channel.chemical": "Химикаты",
+  "xnetgases.channel.chemical_logic": "Логика химикатов",
+  "xnetgases.require_insert_rate.label": "Требовать скорость вставки",
+  "xnetgases.chemical.rate.tooltip.formatted": "Скорость химикатов %s|(макс. %d мб)",
+  "xnetgases.chemical.min_max.tooltip.formatted": "Отключить %s если химикат|слишком %s",
+  "xnetgases.enum.connector_mode.ins": "Вст",
+  "xnetgases.enum.connector_mode.ins.tooltip": "Вставлять химикаты в|подключённый блок",
+  "xnetgases.enum.connector_mode.ext": "Изв",
+  "xnetgases.enum.connector_mode.ext.tooltip": "Извлекать химикаты из|подключённого блока",
+  "xnetgases.enum.channel_mode.priority": "Приоритет",
+  "xnetgases.enum.channel_mode.priority.tooltip": "Режим распределения|Текущий: Приоритет",
+  "xnetgases.enum.channel_mode.round_robin": "Циклический",
+  "xnetgases.enum.channel_mode.round_robin.tooltip": "Режим распределения|Текущий: Циклический",
+  "xnetgases.enum.sensor_mode.off": "Выкл",
+  "xnetgases.enum.sensor_mode.off.tooltip": "Не используется",
+  "xnetgases.enum.sensor_mode.on": "Вкл",
+  "xnetgases.enum.sensor_mode.on.tooltip": "Сканирует количество химиката|в подключённом блоке"
+}

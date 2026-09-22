@@ -1,0 +1,33 @@
+{
+  "name": "Сигил быстрого шахтера",
+  "icon": "bloodmagic:miningsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Сигил быстрого шахтера$() будет активирован нажатиями [$(k:sneak)] и [$(k:use)], цена использования $(blood)100 LP$() каждые 5 секунд и применить эффект зелья ускорения. Таким образом ускоряя скорость добычи, копания и рубки. Крафтится используя $(item)горный реагент$() и $(item)усиленный сланец$() в массиве алхимии."
+    },
+    {
+      "type": "crafting_2-step_sigil",
+      "alchemy_table.heading": "Горный реагент",
+      "alchemy_table.recipe": "bloodmagic:alchemytable/reagent_fastminer",
+      "array.heading": "Сигил быстрого шахтера",
+      "array.recipe": "bloodmagic:array/fastminersigil"
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/mining_sigil1.png",
+        "bloodmagic:images/entries/sigil/mining_sigil2.png"
+      ],
+      "title": "Массив сигила быстрого шахтера",
+      "border": true,
+      "text": "Массив сигила быстрого шахтера, а также его основные области применения."
+    },
+    {
+      "type": "text",
+      "flag": "mod:curios",
+      "text": "Если у вас установлен $(thing)Curios API$() вы можете оборудовать этот $(item)сигил$() как амулет. Если вы хотите носить больше сигилов одновременно, рассмотрите возможность использования $(l:bloodmagic:alchemy_array/sigil/holding)сигила удержания$(), или $(l:bloodmagic:alchemy_array/living_equipment/armor_upgrades/curios_sockets)улучшение Разъём$() для вашей $(l:bloodmagic:alchemy_array/living_equipment/living_basics)живой брони$()."
+    }
+  ]
+}

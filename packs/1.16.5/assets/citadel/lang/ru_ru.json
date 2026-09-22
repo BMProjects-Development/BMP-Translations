@@ -1,0 +1,20 @@
+{
+  "item.citadel.debug": "Отладчик Citadel",
+  "item.citadel.citadel_book": "Книга Citadel",
+  "item.citadel.effect_item": "Эффект зелья",
+  "item.citadel.fancy_item": "Необычный предмет",
+  "book.citadel_book.root": "Книга Citadel!!!",
+  "book.citadel_book.link_example": "Пример ссылки",
+  "book.citadel_book.hover_text_pillager_example": "Ссылки на сущности — это маленькие милые кнопки!",
+  "citadel.gui.patreon_rewards_option": "Настройки для патронов Citadel...",
+  "citadel.gui.patreon_customization": "Настройки для патронов Citadel",
+  "citadel.gui.orbit_dist": "Дистанция вращения",
+  "citadel.gui.orbit_speed": "Скорость вращения",
+  "citadel.gui.orbit_height": "Высота вращения",
+  "citadel.gui.reset": "Сбросить",
+  "citadel.gui.follower_type": "Тип: ",
+  "citadel.follower.none": "Нет",
+  "citadel.follower.citadel": "Космическая станция",
+  "citadel.follower.citadel_red": "Красная космическая станция",
+  "citadel.follower.citadel_gray": "Серая космическая станция"
+}

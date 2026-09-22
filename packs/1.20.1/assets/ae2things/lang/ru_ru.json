@@ -1,0 +1,23 @@
+{
+  "block.ae2things.advanced_inscriber" : "Продвинутый литограф",
+  "block.ae2things.crystal_growth" : "Камера роста кристаллов",
+  "command.ae2things.getuuid_fail_notdisk" : "Ошибка: указанный предмет не является диском.",
+  "command.ae2things.getuuid_fail_nouuid" : "Ошибка: указанный диск пуст или не имеет UUID.",
+  "command.ae2things.getuuid_success" : "UUID указанного диска: [%s]",
+  "command.ae2things.recover_fail" : "Не удалось восстановить диск: UUID [%s] не существует.",
+  "command.ae2things.recover_success" : "%s восстановил диск с UUID [%s].",
+  "gui.ae2things.advanced_inscriber" : "Продвинутый литограф",
+  "gui.ae2things.crystal_growth" : "Камера роста кристаллов",
+  "gui.ae2things.upgrade.disk" : "Диски хранения МЭ",
+  "gui.ae2things.upgrade.portabledisk" : "Портативные диски хранения МЭ",
+  "item.ae2things.disk_drive_16k" : "16К диск хранения МЭ",
+  "item.ae2things.disk_drive_1k" : "1К диск хранения МЭ",
+  "item.ae2things.disk_drive_4k" : "4К диск хранения МЭ",
+  "item.ae2things.disk_drive_64k" : "64К диск хранения МЭ",
+  "item.ae2things.disk_housing" : "Корпус диска хранения МЭ",
+  "item.ae2things.portable_disk_16k" : "16К портативный диск хранения МЭ",
+  "item.ae2things.portable_disk_1k" : "1К портативный диск хранения МЭ",
+  "item.ae2things.portable_disk_4k" : "4К портативный диск хранения МЭ",
+  "item.ae2things.portable_disk_64k" : "64К портативный диск хранения МЭ",
+  "itemGroup.ae2things.item_group" : "AE2 Things"
+}

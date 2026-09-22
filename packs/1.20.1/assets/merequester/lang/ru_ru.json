@@ -1,0 +1,32 @@
+{
+  "itemGroup.merequester": "ME Requester",
+
+  "item.merequester.requester_terminal": "МЭ терминал для запрашивателя",
+  "block.merequester.requester": "МЭ запрашиватель",
+
+  "gui.merequester.requester_terminal": "МЭ терм. запрашив.",
+  "gui.merequester.no_requesters": "No ME Requesters found!",
+
+  "tooltip.merequester.requester_desc": "Автоматически берёт предметы/жидкости из системы когда надо. Должен быть подключен к МЭ сети и может быть доступен через МЭ терминал для запрашивателя. При ломании теряет конфигурацию. Конфигурацию можно скопировать с помощью карты памяти.",
+
+  "tooltip.merequester.shift_for_more": "%s для информации",
+  "tooltip.merequester.enter_to_submit": "%s для принятия",
+
+  "tooltip.merequester.whole_number": "Должно быть целое число!",
+  "tooltip.merequester.locked": "Закрыто! Запрос в процессе.",
+
+  "tooltip.merequester.toggle": "Перекл. запрос",
+  "tooltip.merequester.amount": "Поддерживаемое кол-во",
+  "tooltip.merequester.batch": "Размер партии",
+  "tooltip.merequester.submit": "Применить изменения",
+  "tooltip.merequester.status": "Статус запроса",
+
+  "tooltip.merequester.idle": "Простой",
+  "tooltip.merequester.idle_desc": "Запрашиватель бездействует когда запрошенное количество уже достигнуто или для этого предмета/жидкости отсутствует шаблон крафта.",
+  "tooltip.merequester.missing": "Отсутствие ингредиентов",
+  "tooltip.merequester.missing_desc": "В системе отсутствуют ингредиенты для создания предмета/жидкости. Процесс продолжится, когда ингредиенты станут доступны.",
+  "tooltip.merequester.link": "Создание",
+  "tooltip.merequester.link_desc": "В настоящее время система создаёт запрошенный предмет/жидкость.",
+  "tooltip.merequester.export": "Экспорт",
+  "tooltip.merequester.export_desc": "Запрашиватель пытается экспортировать результат крафта в систему. Если у запрашивателя этот статут долгое время - в системе нет свободного места."
+}

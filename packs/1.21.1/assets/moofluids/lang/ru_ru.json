@@ -1,0 +1,18 @@
+{
+  "moofluids.top.fluid": "Жидкость",
+  "moofluids.top.cooldown": "Перезарядка до дойки",
+  "moofluids.top.ready": "Готова к дойке",
+  "item.moofluids.fluid_cow_spawn_egg": "Яйцо призыва жидкостной коровы",
+  "item.moofluids.alchemy_glass": "Алхимическое стекло",
+  "item.moofluids.alchemy_glass.tooltip": "ПКМ, чтобы просмотреть рецепты разведения коров жидкостными яйцами",
+  "entity.moofluids.fluid_cow": "Жидкостная корова",
+  "itemGroup.moofluids.moo_fluids": "Жидкость Moo",
+  "block.moofluids.fluid_cow_jar": "Банка для жидкостной коровы",
+  "block.moofluids.fluid_cow_jar_filled": "Банка для жидкостной коровы (заполненная)",
+  "jei.moofluids.category.breeding": "Разведение жидкостных коров",
+  "jei.moofluids.fluid_cow.tooltip": "ПКМ, чтобы увидеть рецепты/использование жидкости",
+  "tooltip.moofluids.fluid_cow_jar.contains": "Содержит: %s",
+  "tooltip.moofluids.fluid_cow_jar.fluid": "Жидкость: %s",
+  "tooltip.moofluids.fluid_cow_jar.amount": "Количество: %s мБ",
+  "tooltip.moofluids.fluid_cow_jar.hint": "Урони на корову наковальню, чтобы поймать её"
+}

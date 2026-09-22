@@ -1,0 +1,25 @@
+{
+  "name": "Экстракт удачи",
+  "icon": "bloodmagic:fortune_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Экстракт удачи",
+      "recipe": "bloodmagic:alchemytable/fortune_anointment",
+      "text": "Увеличивает добычу некоторых блоков. Также сочетается с чарами Удача. $(br2)Поддерживается предметами: инструменты, мечи, заряды. $(br2)Применяется: Удача I (256 блоков)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Экстракт удачи L",
+      "recipe": "bloodmagic:alchemytable/fortune_anointment_l",
+      "text": "Эта улучшенная версия масла действует в четыре раза дольше. $(br2)Применяется: Удача I (1024 блоков)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Экстракт удачи II",
+      "recipe": "bloodmagic:alchemytable/fortune_anointment_2",
+      "text": "Эта улучшенная версия масла увеличивает добычу. $(br2)Применяется: Удача II (256 блоков)"
+    }
+  ]
+}

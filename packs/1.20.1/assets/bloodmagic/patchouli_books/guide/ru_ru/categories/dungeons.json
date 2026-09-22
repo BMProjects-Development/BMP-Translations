@@ -1,0 +1,6 @@
+{
+  "name": "Подземелье",
+  "description": "Проведите ритуал $(l:bloodmagic:rituals/ritual_list/ritual_simple_dungeon)край скрытого царства$() чтобы оказаться в $(thing)царстве демонов.$() Это опасное место полно угроз, ловушек и сокровищ!",
+  "icon": "bloodmagic:simplekey",
+  "sortnum": 7
+}

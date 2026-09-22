@@ -1,0 +1,16 @@
+{
+  "name": "Хромая нога",
+  "icon": "minecraft:soul_sand",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_downgrades",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Эффект: Значительно снижает скорость передвижения. Максимальное снижение - 70%. $(br2)Максимальный уровень: 10"
+    },
+    {
+      "type": "bloodmagic:living_armour_downgrade",
+      "a.recipe": "bloodmagic:downgrade/speed_decrease",
+      "b.upgrade": "bloodmagic:speed_decrease"
+    }
+  ]
+}

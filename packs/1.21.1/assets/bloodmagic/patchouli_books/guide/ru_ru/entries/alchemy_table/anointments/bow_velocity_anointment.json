@@ -1,0 +1,25 @@
+{
+  "name": "Стремительная стрела",
+  "icon": "bloodmagic:bow_velocity_anointment",
+  "category": "bloodmagic:alchemy_table/anointments",
+  "pages": [
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Стремительная стрела",
+      "recipe": "bloodmagic:alchemytable/bow_velocity_anointment",
+      "text": "Увеличивает скорость выпущенных стрел на 50%. Также пропорционально увеличивает урон, наносимый стрелами. Также сочетается с ванильными зачарованиями. $(br2)Поддерживается предметами: луки, арбалеты$(br2)Применяется: Снайперская стрельба I (256 выстрелов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Стремительная стрела L",
+      "recipe": "bloodmagic:alchemytable/bow_velocity_anointment_l",
+      "text": "Эта улучшенная версия масла действует в четыре раза дольше. $(br2)Применяется: Снайперская стрельба I (1024 выстрелов)"
+    },
+    {
+      "type": "crafting_alchemy_table",
+      "heading": "Стремительная стрела II",
+      "recipe": "bloodmagic:alchemytable/bow_velocity_anointment_2",
+      "text": "Эта улучшенная версия масла увеличивает скорость на 100%. $(br2)Применяется: Снайперская стрельба II (256 выстрелов)"
+    }
+  ]
+}

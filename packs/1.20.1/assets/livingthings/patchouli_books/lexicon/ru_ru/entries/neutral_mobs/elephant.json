@@ -1,0 +1,19 @@
+{
+  "name": "Слон",
+  "icon": "livingthings:elephant_spawn_egg",
+  "category": "livingthings:neutral_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Огромные животные, которые разозлятся, если на них напасть!$(br2)$(bold)Здоровье: $()30 сердец$(br)$(bold)Урон: $()3.5 сердца$(br2)$(bold)Предметы для размножения: $()$(li)Пшеница (только приручённые)$(br2)Можно приручить с помощью яблок. Приручённых слонов можно оседлать, а затем установить на них сундук."
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:elephant",
+      "rotate": false,
+      "scale": 0.9,
+      "default_rotation": 45,
+      "text": "Можно встретить во всех биомах $(bold)Саванны$()."
+    }
+  ]
+}

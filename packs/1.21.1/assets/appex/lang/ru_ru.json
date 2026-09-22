@@ -1,0 +1,29 @@
+{
+  "text.appex.experience": "Опыт",
+  "text.appex.creative_tab": "Applied Experienced",
+  "text.appex.experience_button.insert": "Ввод: %s %s",
+  "text.appex.experience_button.extract": "Вывод: %s %s",
+  "appex.gui.element.experience.tooltip": "%s / %s",
+  "gui.appex.experience_converter": "Конвертер опыта",
+
+  "item.appex.experience_cell_housing": "Пустая ME ячейка хранения опыта",
+
+  "item.appex.experience_storage_cell_1k": "1k ME ячейка хранения опыта",
+  "item.appex.experience_storage_cell_4k": "4k ME ячейка хранения опыта",
+  "item.appex.experience_storage_cell_16k": "16k ME ячейка хранения опыта",
+  "item.appex.experience_storage_cell_64k": "64k ME ячейка хранения опыта",
+  "item.appex.experience_storage_cell_256k": "256k ME ячейка хранения опыта",
+
+  "item.appex.portable_experience_cell_16k": "16k портативная ячейка хранения опыта",
+  "item.appex.portable_experience_cell_1k": "1k портативная ячейка хранения опыта",
+  "item.appex.portable_experience_cell_4k": "4k портативная ячейка хранения опыта",
+  "item.appex.portable_experience_cell_64k": "64k портативная ячейка хранения опыта",
+  "item.appex.portable_experience_cell_256k": "256k портативная ячейка хранения опыта",
+
+  "item.appex.experience_p2p_tunnel": "P2P-туннель опыта",
+
+  "block.appex.experience_acceptor": "ME приемник опыта",
+  "block.appex.experience_converter": "Конвертер опыта",
+
+  "appex.item.converter.tooltip": "Хранит: %s XP"
+}

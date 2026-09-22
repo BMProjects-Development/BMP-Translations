@@ -1,0 +1,19 @@
+{
+  "oracle_index.title.oracle_index": "Индекс Oracle",
+  "oracle_index.title.oracle-index": "Индекс Oracle",
+  "key.oracle_index.open": "Открыть Индекс Oracle",
+  "key.oracle_index.search": "Открыть поиск Oracle",
+  "key.categories.oracle": "Индекс Oracle",
+  "oracle_index.searchbar.placeholder": "Найти или вычислить",
+  "oracle_index.searchbar.tooltip": "Умный поиск, поддерживающий полные предложения и математические выражения.",
+  "tooltip.oracle_index.open_search": "Открыть поиск. Вы всегда можете открыть его, нажав [CTRL + %s] или [%s].",
+  "tooltip.oracle_index.back": "Вернуться на предыдущую страницу.",
+  "tooltip.oracle_index.close_screen": "Закрыть вики.",
+  "oracle_index.button.docs": "Документация",
+  "oracle_index.button.content": "Содержание",
+  "oracle_index.tooltip.docs": "Удерживайте [ALT] для документации",
+  "oracle_index.callout.default": "Заметка",
+  "oracle_index.callout.info": "Информация",
+  "oracle_index.callout.warning": "Предупреждение",
+  "oracle_index.callout.danger": "Опасно"
+}

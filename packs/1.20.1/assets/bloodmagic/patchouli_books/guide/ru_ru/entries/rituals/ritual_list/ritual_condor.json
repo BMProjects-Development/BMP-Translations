@@ -1,0 +1,22 @@
+{
+  "name": "Почитание Кондора",
+  "icon": "minecraft:feather",
+  "category": "bloodmagic:rituals/ritual_list",
+  "pages": [
+    {
+      "type": "multiblock",
+      "name": "Почитание Кондора",
+      "multiblock_id": "bloodmagic:condor",
+      "text": "Используйте $(l:bloodmagic:rituals/ritual_diviner#dusk)Сумрачный ритуальный предсказатель$(/l) для облегчения строительства."
+    },
+    {
+      "type": "bloodmagic:ritual_info",
+      "ritual": "condor"
+    },
+    {
+      "type": "bloodmagic:ritual_data",
+      "ritual": "condor",
+      "page_type": "flightRange"
+    }
+  ]
+}

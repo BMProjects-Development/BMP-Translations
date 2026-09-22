@@ -1,0 +1,17 @@
+{
+  "name": "Коптильня",
+  "sortnum": 1,
+  "category": "justdirethings:upgrades",
+  "icon": "justdirethings:upgrade_smoker",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Улучшите свои кулинарные возможности с помощью улучшения «Коптильня». Любая добыча с мобов будет автоматически коптиться! Говядина превратится в стейк.$(br2)Использует некоторое количество прочности."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Создание улучшения «Коптильня»",
+      "recipe": "justdirethings:upgrade_smoker"
+    }
+  ]
+}

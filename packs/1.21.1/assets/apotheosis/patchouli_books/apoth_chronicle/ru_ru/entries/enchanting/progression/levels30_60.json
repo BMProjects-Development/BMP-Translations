@@ -1,0 +1,44 @@
+{
+    "name": "Уровни 30 - 60",
+    "icon": "apothic_enchanting:hellshelf",
+    "category": "apotheosis:enchanting/progression",
+	"flag": "apotheosis:enchanting",
+    "pages": [
+		{
+            "type": "patchouli:crafting",
+			"title": "Достижение 45-го ЛВЛ",
+			"recipe": "apothic_enchanting:hellshelf",
+			"text": "Чтобы достичь 45-го уровня, вам нужно создать несколько $(9)Адских полок$() и добавить их к вашим существующим книжным полкам."
+		},
+			{
+				"type": "patchouli:crafting",
+				"title": "Достижение 45-го ЛВЛ",
+				"recipe": "apothic_enchanting:seashelf",
+				"text": "Если вам не нравится Ад, вы также можете отправиться в океан и вместо этого создать $(9)Морские полки$()."
+			},
+			{
+				"type": "patchouli:spotlight",
+				"title": "Достижение 60-го ЛВЛ",
+				"item": "apothic_enchanting:infused_hellshelf",
+				"text": "Как только вы достигнете 45-го уровня, вам нужно будет исследовать $(l:apotheosis:enchanting/table/infusion)Зачарование Настоя$() для улучшения ваших полок."
+			},
+			{
+				"type": "patchouli:spotlight",
+				"title": "Достижение 60-го ЛВЛ",
+				"item": "apothic_enchanting:infused_seashelf",
+				"text": "Создайте еще несколько полок того типа, который вы использовали, наполните их и улучшите.$(p)Эти новые полки, расположенные поверх ваших старых, позволят вам достичь 60-го уровня."
+			},
+			{
+				"type": "patchouli:spotlight",
+				"title": "Другие Статиситики",
+				"item": "apothic_enchanting:sightshelf",
+				"text": "Теперь у вас есть доступ к лучшим возможностям для увеличения других статов.$(p)В дополнение к бонусам от Адских книжных полок и Морских книжных полок теперь вы также можете создавать $(9)Книжные Полки Видения$() чтобы увеличить ваши $(подсказки)."
+			},
+			{
+				"type": "patchouli:crafting",
+				"title": "Другие Статиситики",
+				"recipe": "apothic_enchanting:geode_shelf",
+				"text": "Если у вас есть стабильный запас аметиста, вы также можете изготовить $(9)Морскую Книжную Полку Исправления$() чтобы еще больше увеличить ваш $(исправление)."
+			}
+	]
+}

@@ -1,0 +1,177 @@
+{
+  "item.modifiers.both_hands": "При удерживании:",
+
+  "apothic_attributes.adv.base": "[Сущность: %s | Элемент: %s]",
+
+  "apothic_attributes.adv.sharpness_bonus": "[Резкость: +%s]",
+
+  "apothic_attributes.value.flat": "%s",
+  "apothic_attributes.value.percent": "%s%%",
+
+  "apothic_attributes.value.boolean.enabled": "Включено",
+  "apothic_attributes.value.boolean.disabled": "Отключено",
+  "apothic_attributes.value.boolean.enable": "Включает",
+  "apothic_attributes.value.boolean.force_disable": "Принудительно отключает",
+  "apothic_attributes.value.boolean.invalid": "Недействительно",
+
+  "apothic_attributes.modifier.plus": "+%s %s",
+  "apothic_attributes.modifier.take": "-%s %s",
+  "apothic_attributes.modifier.bool": "%s %s",
+
+  "apothic_attributes.gui.attributes": "Атрибуты",
+  "apothic_attributes.gui.base": "База: %s",
+  "apothic_attributes.gui.min": "Мин: %s",
+  "apothic_attributes.gui.max": "Макс: %s",
+  "apothic_attributes.gui.modifiers": "Модификаторы",
+  "apothic_attributes.gui.addition": "Добавление: %s",
+  "apothic_attributes.gui.multiply_base": "Умножить базу: %s",
+  "apothic_attributes.gui.multiply_total": "Умножить общее: %s",
+  "apothic_attributes.gui.press_shift": "Удерживайте Shift для получения дополнительной информации.",
+  "apothic_attributes.gui.current": "Текущий: %s",
+  "apothic_attributes.gui.show_attributes": "Показать атрибуты",
+  "apothic_attributes.gui.formula.base": "Базовый",
+  "apothic_attributes.gui.formula.value": "Значение",
+  "apothic_attributes.gui.no_modifiers": "Нет модификаторов",
+
+  "attribute.name.generic.armor.desc": "Увеличивает снижение физического урона.",
+  "attribute.name.generic.armor_toughness.desc": "Снижает эффективность снижения брони противника.",
+  "attribute.name.generic.attack_damage.desc": "Физический урон, нанесенный полностью заряженной атакой.",
+  "attribute.name.generic.attack_knockback.desc": "Насколько далеко ваши атаки ближнего боя отбрасывают противников, в полублоках.",
+  "attribute.name.generic.attack_speed.desc": "Сколько полностью заряженных атак вы можете выполнить в секунду",
+  "attribute.name.generic.knockback_resistance.desc": "Сколько отбрасываний вы игнорируете",
+  "attribute.name.generic.luck.desc": "Увеличивает вероятность хороших событий",
+  "attribute.name.generic.max_health.desc": "Сколько очков здоровья вы можете иметь",
+  "attribute.name.generic.movement_speed.desc": "Скорость передвижения при ходьбе",
+
+  "neoforge.entity_reach.desc": "На каком расстоянии вы можете взаимодействовать с сущностями, в блоках",
+  "neoforge.entity_gravity.desc": "Ускорение по отношению к земле, в блоках/с²",
+  "neoforge.name_tag_distance.desc": "На каком расстоянии должен находиться другой игрок, чтобы увидеть ваше имя",
+  "neoforge.block_reach.desc": "Насколько далеко вы можете взаимодействовать с блоками, в блоках",
+  "neoforge.step_height.desc": "На сколько блоков вы можете подняться без прыжка",
+  "neoforge.swim_speed.desc": "Как быстро вы плаваете относительно нормы",
+
+  "apothic_attributes:draw_speed": "Скорость натяжения",
+  "apothic_attributes:draw_speed.desc": "Как быстро вы натягиваете оружие дальнего боя, например луки, арбалеты или трезубцы",
+
+  "apothic_attributes:crit_chance": "Шанс критического удара",
+  "apothic_attributes:crit_chance.desc": "Вероятность того, что любой наносимый вами урон нанесет критический удар, нанося дополнительный урон, основанный на вашем критическом уроне",
+
+  "apothic_attributes:crit_damage": "Критический урон",
+  "apothic_attributes:crit_damage.desc": "Множитель урона для критических ударов, включая прыжок в оригинале crits.",
+
+  "apothic_attributes:cold_damage": "Урон холодом",
+  "apothic_attributes:cold_damage.desc": "Дополнительный магический урон, наносимый при атаках ближнего боя и замедляющий пораженных врагов",
+
+  "apothic_attributes:fire_damage": "Урон огнем",
+  "apothic_attributes:fire_damage.desc": "Дополнительный магический урон, наносимый при атаках ближнего боя и сжигающий пораженных врагов",
+
+  "apothic_attributes:life_steal": "Кража жизни",
+  "apothic_attributes:life_steal.desc": "Процент урона после смягчения, который вас исцелит",
+
+  "apothic_attributes:current_hp_damage": "Текущий урон HP",
+  "apothic_attributes:current_hp_damage.desc": "Дополнительный физический урон, наносимый при атаках ближнего боя, в зависимости от здоровья цели",
+
+  "apothic_attributes:overheal": "Сверхлечение",
+  "apothic_attributes:overheal.desc": "Процент урона после смягчения, который предоставит вам поглощающий щит.",
+
+  "apothic_attributes:ghost_health": "Здоровье призрака",
+  "apothic_attributes:ghost_health.desc": "Еще не реализовано",
+
+  "apothic_attributes:mining_speed": "Скорость майнинга",
+  "apothic_attributes:mining_speed.desc": "Насколько быстро вы добываете блоки по сравнению с обычной",
+
+  "apothic_attributes:arrow_damage": "Урон от стрел",
+  "apothic_attributes:arrow_damage.desc": "Множитель урона для стрел. Трезубцы — это стрелы",
+
+  "apothic_attributes:arrow_velocity": "Скорость стрел",
+  "apothic_attributes:arrow_velocity.desc": "Множитель скорости для стрел. Урон от стрел масштабируется со скоростью",
+
+  "apothic_attributes:experience_gained": "Полученный опыт",
+  "apothic_attributes:experience_gained.desc": "Множитель на сколько опыта вы получаете за разрушение блоков и убийство мобов.",
+
+  "apothic_attributes:healing_received": "Полученное исцеление",
+  "apothic_attributes:healing_received.desc": "Множитель на все входящие исцеления.",
+
+  "apothic_attributes:armor_pierce": "Пробитие брони",
+  "apothic_attributes:armor_pierce.desc": "Плоское снижение значения брони цели.",
+
+  "apothic_attributes:armor_shred": "Уничтожение брони",
+  "apothic_attributes:armor_shred.desc": "Процентное снижение значения брони цели.",
+
+  "apothic_attributes:prot_pierce": "Пробитие защиты",
+  "apothic_attributes:prot_pierce.desc": "Плоское снижение общего количества очков защиты цели.",
+
+  "apothic_attributes:prot_shred": "Уничтожение защиты",
+  "apothic_attributes:prot_shred.desc": "Процентное снижение общего количества очков защиты цели.",
+
+  "apothic_attributes:dodge_chance": "Шанс уклонения",
+  "apothic_attributes:dodge_chance.desc": "Шанс уклониться от атаки ближнего боя или снаряда.",
+
+  "apothic_attributes:elytra_flight": "Полет надкрылий",
+  "apothic_attributes:elytra_flight.desc": "Если вы можете летать, как будто на вас надкрылья.",
+
+  "apothic_attributes:creative_flight": "Творческий полет",
+  "apothic_attributes:creative_flight.desc": "Если вы можете летать, как будто в творческом режиме.",
+
+  "comment_id": "MobFx - описания дублируются для поддержки JEED.",
+
+  "effect.apothic_attributes.knowledge": "Древние знания",
+  "effect.apothic_attributes.knowledge.desc": "Увеличивает опыт, получаемый от убийств и блоков.",
+  "effect.apothic_attributes.knowledge.description": "Увеличивает опыт, получаемый от убийств и блоков.",
+
+  "effect.apothic_attributes.sundering": "Раскол",
+  "effect.apothic_attributes.sundering.desc": "Увеличивает получаемый урон.",
+  "effect.apothic_attributes.sundering.description": "Увеличивает получаемый урон.",
+
+  "effect.apothic_attributes.vitality": "Взрывная жизненная сила",
+  "effect.apothic_attributes.vitality.desc": "Увеличивает получаемое исцеление.",
+  "effect.apothic_attributes.vitality.description": "Увеличивает получаемое исцеление.",
+
+  "effect.apothic_attributes.grievous": "Тяжёлые раны",
+  "effect.apothic_attributes.grievous.desc": "Уменьшает получаемое исцеление.",
+  "effect.apothic_attributes.grievous.description": "Уменьшает получаемое исцеление.",
+
+  "effect.apothic_attributes.bleeding": "Кровотечение",
+  "effect.apothic_attributes.bleeding.desc": "Наносит урон каждые две секунды.",
+  "effect.apothic_attributes.bleeding.description": "Наносит урон каждые две секунды.",
+
+  "effect.apothic_attributes.detonation": "Пылающая детонация",
+  "effect.apothic_attributes.detonation.desc": "По истечении срока действия наносит урон, основанный на оставшихся огненных тиках.",
+  "effect.apothic_attributes.detonation.description": "По истечении срока действия наносит урон, основанный на оставшихся огненных тиках.",
+
+  "effect.apothic_attributes.flying": "Полет",
+  "effect.apothic_attributes.flying.desc": "Предоставляет творческий Полет.",
+  "effect.apothic_attributes.flying.description": "Предоставить Творческий Полет.",
+
+  "effect.minecraft.night_vision.desc": "Позволяет вам видеть в темноте.",
+  "effect.minecraft.invisibility.desc": "Делает вас невидимым, за исключением снаряжения.",
+  "effect.minecraft.jump_boost.desc": "Увеличивает высоту прыжка.",
+  "effect.minecraft.fire_resistance.desc": "Делает вас невосприимчивым к урону от огня.",
+  "effect.minecraft.water_breathing.desc": "Не позволяет вам утонуть.",
+  "effect.minecraft.instant_health.desc": "Мгновенно восстанавливает часть вашего здоровья.",
+  "effect.minecraft.instant_damage.desc": "Мгновенно наносит часть магического урона.",
+  "effect.minecraft.poison.desc": "Периодически наносит нелетальный урон.",
+  "effect.minecraft.regeneration.desc": "Заставляет вас восстанавливает здоровье с течением времени.",
+
+  "comment_id": "Источники урона",
+
+  "death.attack.apothic_attributes:bleeding": "%1$s истек кровью",
+  "death.attack.apothic_attributes:bleeding.item": "%1$s истек кровью из-за %3$s %2$s",
+  "death.attack.apothic_attributes:bleeding.player": "%1$s истек кровью, пытаясь сбежать от %2$s",
+
+  "death.attack.apothic_attributes:detonation": "%1$s был взорван пламенем",
+  "death.attack.apothic_attributes:detonation.item": "%1$s был взорван пламенем",
+  "death.attack.apothic_attributes:detonation.player": "%1$s был взорван пламенем",
+
+  "death.attack.apothic_attributes:current_hp_damage": "%1$s был сбит",
+  "death.attack.apothic_attributes:current_hp_damage.item": "%1$s был сбит %2$s с помощью %3$s",
+  "death.attack.apothic_attributes:current_hp_damage.player": "%1$s был сбит во время сражения с %2$s",
+
+  "death.attack.apothic_attributes:fire_damage": "%1$s был сожжен до смерти",
+  "death.attack.apothic_attributes:fire_damage.item": "%1$s был сожжен до смерти %2$s с помощью %3$s",
+  "death.attack.apothic_attributes:fire_damage.player": "%1$s был сожжен до смерти во время сражения с %2$s",
+
+  "death.attack.apothic_attributes:cold_damage": "%1$s был заморожен до смерти",
+  "death.attack.apothic_attributes:cold_damage.item": "%1$s был заморожен насмерть %2$s с помощью %3$s",
+  "death.attack.apothic_attributes:cold_damage.player": "%1$s был заморожен насмерть во время сражения с %2$s"
+}

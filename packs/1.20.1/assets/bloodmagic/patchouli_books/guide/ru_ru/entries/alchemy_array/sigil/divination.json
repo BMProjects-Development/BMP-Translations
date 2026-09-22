@@ -1,0 +1,39 @@
+{
+  "name": "Сигил прорицания",
+  "icon": "bloodmagic:divinationsigil",
+  "category": "bloodmagic:alchemy_array/sigil",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)Сигил прорицания$() возможно, первый из многих сигилов, которые вы хотели бы создать в Blood Magic. Чтобы создать сигил, вам нужно создать $(l:bloodmagic:alchemy_array/functional_arrays/arcane_ash)массив алхимии$(/l) и использовать $(item)редстоун$() и $(item)чистый лист. $() в качестве базового элемента и катализатора соответственно."
+    },
+    {
+      "type": "crafting_array",
+      "heading": "Сигил прорицания",
+      "recipe": "bloodmagic:array/divinationsigil",
+      "text": " $(italic)Загляни в душу."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/divination_sigil.png"
+      ],
+      "title": "Массив для сигила прорицания",
+      "border": true,
+      "text": "Сигил прорицания рядом с его массивом крафта."
+    },
+    {
+      "type": "text",
+      "text": "Сигил прорицания имеет два основных применения: $(br)$(li)Когда любой игрок нажимает [$(k:use)] смотря в воздух сигилом, он отображает количество  $(blood)LP$() которая находится в $(l:bloodmagic:altar/soul_network)его сети душ.$(/l)$(li)При нажатии  [$(k:use)] на $(l:bloodmagic:altar/blood_altar)кровавый алтарь$(/l), он сообщит игроку текущий уровень алтаря, количество $(blood)крови$() хранящееся в алтаре, а также его текущую максимальную вместимость. Иметь под рукой $(item)сигил прорицания$() также может быть полезно для $(l:bloodmagic:utility/incense_altar)алтаря благовоний$()."
+    },
+    {
+      "type": "image",
+      "images": [
+        "bloodmagic:images/entries/sigil/divination_sigil_info.png"
+      ],
+      "title": "Отображение сигила прорицания",
+      "border": true,
+      "text": "Сигил прорицания отображает такой интерфейс, когда вы смотрите на кровавый алтарь."
+    }
+  ]
+}

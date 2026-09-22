@@ -1,0 +1,16 @@
+{
+  "name": "Закалка",
+  "icon": "minecraft:glass_bottle",
+  "category": "bloodmagic:alchemy_array/living_equipment/armor_downgrades",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Не позволяет пить зелья во время ношения брони."
+    },
+    {
+      "type": "bloodmagic:living_armour_downgrade",
+      "a.recipe": "bloodmagic:downgrade/quenched",
+      "b.upgrade": "bloodmagic:quenched"
+    }
+  ]
+}

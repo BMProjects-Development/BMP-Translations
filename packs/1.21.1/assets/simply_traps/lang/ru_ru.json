@@ -1,0 +1,18 @@
+{
+  "block.simply_traps.circular_barbed_wire_ivy": "Кольцевая колючая проволока с плющом",
+  "block.simple_traps.stake": "Деревянный кол",
+  "block.simply_traps.grass_trap": "Травяная ловушка",
+  "block.simply_traps.stake_wall": "Стена из деревянных кольев",
+  "block.simple_traps.circular_barbed_wire_ivy": "Кольцевая колючая проволока с плющом",
+  "item_group.simple_traps.simple_traps_gui": "Простые ловушки",
+  "block.simple_traps.circular_barbed_wire_iron": "Железная кольцевая колючая проволока",
+  "block.simple_traps.spike_trap": "Ловушка с шипами",
+  "block.simply_traps.slime_trap": "Ловушка из слизи",
+  "block.simply_traps.boundingboxtestblock": "Тестовый блок границ",
+  "block.simple_traps.slime_trap": "Ловушка из слизи",
+  "item_group.simply_traps.simple_traps_gui": "Простые ловушки",
+  "block.simply_traps.circular_barbed_wire_iron": "Железная кольцевая колючая проволока",
+  "block.simply_traps.stake": "Деревянный кол",
+  "block.simply_traps.spike_trap": "Ловушка с шипами",
+  "block.simple_traps.stake_wall": "Стена из деревянных кольев"
+}

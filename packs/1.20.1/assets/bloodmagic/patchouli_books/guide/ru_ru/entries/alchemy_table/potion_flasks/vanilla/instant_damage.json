@@ -1,0 +1,29 @@
+{
+  "name": "Вред",
+  "icon": "minecraft:iron_sword",
+  "category": "bloodmagic:alchemy_table/potion_flasks/vanilla",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Вред$() наносит объекту 6 единиц $(thing)Магического урона$() за уровень. Если объект - $(thing)Нежить$(), то вместо этого она будет исцелена на 6 единиц за уровень.$(br2)Изготавливается из зелья $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/instant_health)Исцеления$() либо из зелья $(l:bloodmagic:alchemy_table/potion_flasks/vanilla/poison)Отравления$()."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Урон здоровью",
+      "a.recipe": "bloodmagic:flask/health_to_harm",
+      "b.heading": "Урон от отравления",
+      "b.recipe": "bloodmagic:flask/poison_to_harm",
+      "c.heading": "Мгновенный урон II",
+      "c.recipe": "bloodmagic:flask/potency_harm"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "добавление $(l:bloodmagic:alchemy_table/potions#average_potions)Стандартных катализаторов$() позволит усилить зелье."
+    },
+    {
+      "type": "bloodmagic:crafting_flask",
+      "heading": "Мгновенный урон III",
+      "recipe": "bloodmagic:flask/potency_average_harm"
+    }
+  ]
+}

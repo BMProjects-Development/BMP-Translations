@@ -1,0 +1,20 @@
+{
+  "name": "Пассивность",
+  "icon": "minecraft:honeycomb",
+  "category": "bloodmagic:alchemy_table/potion_flasks/blood_magic",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(thing)Пассивность$() не позволяет пораженной цели атаковать. Игроки при этом не подвергаются воздействию."
+    },
+    {
+      "type": "bloodmagic:3x_crafting_flask",
+      "a.heading": "Пассивность (3:00)",
+      "a.recipe": "bloodmagic:flask/passivity",
+      "b.heading": "Пассивность (8:00)",
+      "b.recipe": "bloodmagic:flask/length_passivity",
+      "c.heading": "Пассивность (21:20)",
+      "c.recipe": "bloodmagic:flask/length_average_passivity"
+    }
+  ]
+}

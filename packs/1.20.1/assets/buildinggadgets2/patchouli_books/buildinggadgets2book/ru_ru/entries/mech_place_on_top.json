@@ -1,0 +1,22 @@
+{
+  "name": "Размещение сверху",
+  "sortnum": 1,
+  "category": "buildinggadgets2:mechanics",
+  "icon": "buildinggadgets2:textures/book/icons/place_on_top.png",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Функция «Размещение сверху» работает немного по-разному для каждого режима, а для некоторых режимов она вообще не будет иметь никакого эффекта.$(br2)Как правило, вместо размещения вокруг блока, размещение будет происходить поверх него. Попробуйте и посмотрите, как это изменит изображение структуры!$(br2)Посмотрите на две картинки справа для примера."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Размещение сверху",
+      "images": [
+        "buildinggadgets2:textures/book/images/placeontop1.png",
+        "buildinggadgets2:textures/book/images/placeontop2.png"
+      ],
+      "border": true,
+      "text": "Переключайте изображения выше, чтобы увидеть различные варианты"
+    }
+  ]
+}

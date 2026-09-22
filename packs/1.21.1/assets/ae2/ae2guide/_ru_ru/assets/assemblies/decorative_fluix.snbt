@@ -1,0 +1,15 @@
+{
+    DataVersion: 3337,
+    size: [5, 1, 1],
+    data: [
+        {pos: [0, 0, 0], state: "ae2:fluix_slab{type:bottom,waterlogged:false}"},
+        {pos: [2, 0, 0], state: "ae2:fluix_stairs{facing:south,half:bottom,shape:straight,waterlogged:false}"},
+        {pos: [4, 0, 0], state: "ae2:fluix_block"}
+    ],
+    entities: [],
+    palette: [
+        "ae2:fluix_block",
+        "ae2:fluix_slab{type:bottom,waterlogged:false}",
+        "ae2:fluix_stairs{facing:south,half:bottom,shape:straight,waterlogged:false}"
+    ]
+}

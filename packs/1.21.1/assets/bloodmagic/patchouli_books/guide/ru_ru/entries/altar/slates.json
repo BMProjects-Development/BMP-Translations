@@ -1,0 +1,33 @@
+{
+  "name": "Уровни сланца",
+  "icon": "bloodmagic:blankslate",
+  "category": "bloodmagic:altar",
+  "extra_recipe_mappings": {
+    "bloodmagic:blankslate": 1,
+    "bloodmagic:reinforcedslate": 1,
+    "bloodmagic:infusedslate": 2,
+    "bloodmagic:demonslate": 2
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "Основное приминение $(l:bloodmagic:altar/blood_altar)Кровавого алтаря$(/l) - производство $(item)сланца$(). Каждый уровень сланца требует предыдущего уровня и более мощного алтаря, чем предыдущий. $(br2)Обратите внимание, что $(item)эфирный сланец$() в настоящее время не реализован по умолчанию в моде, но может использоваться, если вы играете с пакетом модов. Подробности см. в JEI." 
+    },
+    {
+      "type": "2x_crafting_altar",
+      "a.heading": "Чистый лист",
+      "a.recipe": "bloodmagic:altar/slate",
+      "b.heading": "Усиленный сланец",
+      "b.recipe": "bloodmagic:altar/reinforcedslate"
+    },
+    {
+      "type": "2x_crafting_altar",
+      "a.heading": "Пропитанный сланец",
+      "a.recipe": "bloodmagic:altar/imbuedslate",
+      "b.heading": "Демонический сланец",
+      "b.recipe": "bloodmagic:altar/demonicslate"
+    }
+  ]
+}
+
+

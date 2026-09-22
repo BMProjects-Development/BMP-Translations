@@ -1,0 +1,25 @@
+{
+	"name": "Свинец",
+	"icon": "caupona:lead_ingot",
+	"category": "caupona:intro",
+	"sortnum": 5,
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "caupona:leaden_walnut",
+			"link_recipe": true,
+			"text": "Есть вероятность, что $(l:worldgen/plants#walnut_tree)ореховые деревья$(/l), растущие в Нижнем мире, будут давать свинцовые грецкие орехи вместо обычных."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "caupona:litharge_cake",
+			"link_recipe": true,
+			"text": "Выдерживание свинцовых грецких орехов с наковальней (не потребляется) в $(l:intro/counter_with_dolium)долийях$(/l) дает литарговые лепешки."
+		},
+		{
+			"type": "smelting",
+			"recipe": "caupona:smelting/lead_nugget",
+			"text": "Литарговые лепешки можно переплавить в свинцовые самородки."
+		}
+	]
+}

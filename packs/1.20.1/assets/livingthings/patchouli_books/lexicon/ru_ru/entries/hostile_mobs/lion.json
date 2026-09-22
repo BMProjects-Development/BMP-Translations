@@ -1,0 +1,19 @@
+{
+  "name": "Лев",
+  "icon": "livingthings:lion_spawn_egg",
+  "category": "livingthings:hostile_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Опасное животное!$(br2)$(bold)Здоровье: $()10 сердец$(br)$(bold)Урон: $()2.5 сердца$(br2)$(bold)Предметы для размножения: $()$(li)Сырая говядина$(li)Сырая курица$(li)Сырой кролик"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:lion{IsMale:true}",
+      "rotate": false,
+      "scale": 0.8,
+      "default_rotation": 45,
+      "text": "Встречается во всех $(bold)саванных$() биомах."
+    }
+  ]
+}
