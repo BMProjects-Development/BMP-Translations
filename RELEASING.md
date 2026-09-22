@@ -1,5 +1,8 @@
 # Releasing BMP Translations
 
+Full documentation is available in
+[English](docs/GUIDE_EN.md) and [Russian](docs/GUIDE_RU.md).
+
 Each supported Minecraft version is an independent release line. Its current
 BMP Translations version is stored in `packs/<minecraft>/VERSION`.
 

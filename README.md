@@ -12,5 +12,9 @@ Resource-pack sources are stored unpacked in `packs/<minecraft-version>`.
 Every Minecraft version has its own `VERSION` and independent release history.
 ZIP files are validated and built automatically by GitHub Actions.
 
-See [RELEASING.md](RELEASING.md) for release markers, versioning, required
-secrets, changelog generation, and recovery instructions.
+Release-system documentation:
+
+- [English guide](docs/GUIDE_EN.md)
+- [Русское руководство](docs/GUIDE_RU.md)
+
+The shorter [RELEASING.md](RELEASING.md) reference is also available.
