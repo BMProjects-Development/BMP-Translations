@@ -43,7 +43,7 @@ In short:
 * You must provide appropriate credit to **BMP Translations / BMProjects (BMP)**.
 * You must indicate if you modified the material.
 * Adapted versions of our licensed material must remain available under **CC BY-SA 4.0** or a compatible license.
-* hird-party content remains subject to the rights and licenses of its respective owners.
+* Third-party content remains subject to the rights and licenses of its respective owners.
 
 For the complete licensing terms and project-specific details, see [LICENSE.md](LICENSE.md).
 
