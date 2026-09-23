@@ -1,0 +1,18 @@
+{
+  "name": "guide.animus.entry.reagent_builder",
+  "icon": "animus:reagentbuilder",
+  "category": "animus:items",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "animus:crafting_soulforge",
+      "heading": "Реагент: Строитель",
+      "recipe": "animus:soulforge/reagentbuilder",
+      "text": "Реагент, наполненный созидательной энергией."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Этот катализатор можно объединить с $(item)Усиленной плиткой$() в Алхимическом массиве для создания $(l:animus:sigils/sigil_builder)Сигила быстрого строителя$()."
+    }
+  ]
+}

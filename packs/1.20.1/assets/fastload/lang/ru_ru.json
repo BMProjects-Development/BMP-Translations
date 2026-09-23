@@ -1,0 +1,23 @@
+{
+  "fastload.screen.buildingTerrain.building": "Построение видимых чанков",
+  "fastload.screen.buildingTerrain.preparing": "Подготовка всех чанков",
+  "fastload.buildingTerrain.starting": "Запуск сессии",
+  "fastload.screen.buildingTerrain.template": "Завершено / Цель",
+  "fastload.screen.config": "Конфигурация Fastload",
+  "fastload.button.debug": "Режим отладки",
+  "fastload.button.debug.tooltip": "Должна ли отладочная информация выводиться в логи?",
+  "fastload.button.instant_load": "Мгновенная загрузка",
+  "fastload.button.instant_load.tooltip": "Вам не терпится? Ненавидите экраны загрузки? Просто включите это, загрузите мир, и вы об этом пожалеете. -_-",
+  "fastload.button.local_render_chunk_radius": "Локальный радиус",
+  "fastload.button.local_render_chunk_radius.tooltip": "Радиус, определяющий, сколько чанков по кругу должно рендериться на экране построения ландшафта Fastload в одиночной игре.",
+  "fastload.button.local_render_chunk_radius.min": "Отключено",
+  "fastload.button.local_render_chunk_radius.max": "Какого черта",
+  "fastload.button.server_render_chunk_radius": "Серверный радиус",
+  "fastload.button.server_render_chunk_radius.tooltip": "Радиус, определяющий, сколько чанков по кругу должно рендериться на экране построения ландшафта Fastload на серверах.",
+  "fastload.button.server_render_chunk_radius.min": "Отключено",
+  "fastload.button.server_render_chunk_radius.max": "Какого черта",
+  "fastload.button.chunk_try_limit": "Лимит попыток для чанков",
+  "fastload.button.chunk_try_limit.tooltip": "Сколько раз одно и то же количество чанков может быть возвращено подряд, прежде чем предварительный рендеринг будет прерван.",
+  "fastload.button.chunk_try_limit.min": "ПК NASA",
+  "fastload.button.chunk_try_limit.max": "Улитка"
+}

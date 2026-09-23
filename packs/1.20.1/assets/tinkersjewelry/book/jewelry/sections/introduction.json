@@ -1,0 +1,12 @@
+[
+  {
+    "name": "introduction",
+    "type": "mantle:text",
+    "data": "intro/welcome.json"
+  },
+  {
+    "name": "introduction",
+    "type": "mantle:text",
+    "data": "intro/toolparts.json"
+  }
+]

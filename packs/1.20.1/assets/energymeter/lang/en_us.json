@@ -1,0 +1,77 @@
+{
+  "label.energymeter.itemGroup": "Energy Meter",
+
+  "block.energymeter.meter": "Энергометр",
+  "container.energymeter.meter": "Энергометр",
+
+  "label.energymeter.meter": "Энергометр",
+  "label.energymeter.transfer_rate": "Скорость передачи",
+  "label.energymeter.number": "Формат чисел",
+  "label.energymeter.status": "Статус",
+  "label.energymeter.mode": "Режим",
+  "label.energymeter.accuracy": "Точность",
+  "label.energymeter.interval": "И",
+  "label.energymeter.threshold": "П",
+
+  "tooltip.energymeter.side_config": "Конфигурация входа/выхода",
+  "tooltip.energymeter.io_side": "Сторона",
+  "tooltip.energymeter.io_mode": "Режим",
+  "tooltip.energymeter.current": "Текущий",
+
+  "tooltip.energymeter.number": "Настройка чисел",
+  "tooltip.energymeter.number_desc_1": "Определяет, должен ли формат отображения скорости передачи быть коротким или длинным.",
+  "tooltip.energymeter.number_desc_2": "Влияет на числа, только если они больше 1 000 FE/t.",
+
+  "tooltip.energymeter.mode": "Настройка режима",
+  "tooltip.energymeter.mode_desc_1": "Определяет режим работы энергометра.",
+  "tooltip.energymeter.mode_desc_2": "Работает как обычный кабель. Энергия распределяется равномерно и ограничена только входом/выходом.",
+  "tooltip.energymeter.mode_desc_3": "Работает как мусорка. Поступающая энергия будет уничтожаться. Может использоваться для измерения максимального поступления энергии.",
+
+  "tooltip.energymeter.accuracy": "Настройка точности",
+  "tooltip.energymeter.accuracy_desc_1": "Определяет точность измерения энергометра.",
+  "tooltip.energymeter.accuracy_desc_2": "Отображает среднюю скорость за последние 5 тиков. В каждом периоде предыдущие значения отбрасываются и показывается только текущий период, что может привести к скачкам при нестабильном потоке энергии.",
+  "tooltip.energymeter.accuracy_desc_3": "Принимает пользовательский интервал в тиках и рассчитывает среднее значение за этот период. Кроме того, учитывает скорость из предыдущего периода, сглаживая скачки и повышая точность на протяжении нескольких циклов.",
+
+  "tooltip.energymeter.interval": "Интервал обновления",
+  "tooltip.energymeter.interval_desc_1": "Определяет количество тиков (1 сек = 20 тиков) между каждым расчетом скорости передачи.",
+  "tooltip.energymeter.interval_desc_2": "Более высокие значения сгладят скачки, но приведут к более медленному обновлению на дисплее.",
+
+  "tooltip.energymeter.threshold": "Нулевой порог",
+  "tooltip.energymeter.threshold_desc_1": "Определяет порог сброса в тиках (1 сек = 20 тиков). Если в течение этого периода энергия не поступает, счетчик сбрасывается на ноль.",
+  "tooltip.energymeter.threshold_desc_2": "Более низкие значения быстрее обнаружат потерю энергии. Значение не может быть больше интервала, так как это будет бессмысленно.",
+
+  "tooltip.energymeter.action_click": "Клик",
+  "tooltip.energymeter.action_hold": "Удерживайте",
+  "tooltip.energymeter.action_1": "чтобы переключить",
+  "tooltip.energymeter.action_2": "чтобы сбросить",
+  "tooltip.energymeter.action_3": "чтобы изменить",
+  "tooltip.energymeter.action_4": "для расширенной информации",
+  "tooltip.energymeter.action_5": "чтобы изменить интервал",
+  "tooltip.energymeter.action_6": "чтобы применить интервал",
+
+  "block_side.energymeter.bottom": "Снизу",
+  "block_side.energymeter.top": "Сверху",
+  "block_side.energymeter.front": "Спереди",
+  "block_side.energymeter.back": "Сзади",
+  "block_side.energymeter.left": "Слева",
+  "block_side.energymeter.right": "Справа",
+
+  "io_setting.energymeter.off": "Выкл",
+  "io_setting.energymeter.in": "Вход",
+  "io_setting.energymeter.out": "Выход",
+  "io_setting.energymeter.screen": "Экран",
+
+  "number.energymeter.long": "Длинный",
+  "number.energymeter.short": "Короткий",
+
+  "status.energymeter.disconnected": "Отключено",
+  "status.energymeter.connected": "Подключено",
+  "status.energymeter.transferring": "Передача",
+  "status.energymeter.consuming": "Потребление",
+
+  "mode.energymeter.transfer": "Передача",
+  "mode.energymeter.consumer": "Потребитель",
+
+  "accuracy.energymeter.exact": "Точный",
+  "accuracy.energymeter.interval": "Интервал"
+}

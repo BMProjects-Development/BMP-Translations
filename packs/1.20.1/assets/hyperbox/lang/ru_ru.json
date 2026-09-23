@@ -1,0 +1,15 @@
+{
+	"block.hyperbox.hyperbox": "Гипербокс",
+	"block.hyperbox.hyperbox_preview": "Гипербокс",
+	"block.hyperbox.aperture": "Апертура",
+	"menu.hyperbox": "Создание измерения гипербокса",
+	"menu.hyperbox.edit_dimension": "ID измерения",
+	"menu.hyperbox.edit_name": "Название гипербокса",
+	"menu.hyperbox.use_default_name_checkbox": "Использовать название по умолчанию",
+	"menu.hyperbox.save_and_enter": "Сохранить и войти",
+	"menu.hyperbox.save_and_exit": "Сохранить и выйти",
+	"menu.hyperbox.dimension_id_in_use": "ID измерения уже используется",
+	"menu.hyperbox.message.no_id": "Не удалось создать измерение гипербокса: отсутствует или пуст ID измерения",
+	"menu.hyperbox.message.invalid_id": "Не удалось создать измерение гипербокса: недопустимый символ (отличный от [a-z0-9/._-]) в пути: %s",
+	"menu.hyperbox.message.existing_id": "Не удалось создать измерение гипербокса: измерение с ID %s уже существует"
+}

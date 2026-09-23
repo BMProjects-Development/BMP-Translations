@@ -1,0 +1,78 @@
+{
+  "name": "Поздняя игра",
+  "icon": "irons_spellbooks:arcane_anvil",
+  "category": "irons_spellbooks:root",
+  "sortnum": -1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Мистическая наковальня",
+      "text": "Этап поздней игры начинается с получения незерита и огромного количества базовых ресурсов. Его двигатель — Мистическая наковальня.$(br2)Это самая мощная ремесленная станция, используемая для повышения уровня ваших свитков, улучшения брони и книг заклинаний, а также для наложения чар на оружие."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:arcane_anvil"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Больше книг",
+      "text": "Здесь показаны лучшие из создаваемых книг заклинаний. Разрушенную книгу можно найти в Древнем Городе.",
+      "recipe": "irons_spellbooks:netherite_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:dragonskin_spell_book",
+      "text": "Драконья кожа выпадает из Эндер-дракона."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:cryomancer_helmet",
+      "recipe2": "irons_spellbooks:pyromancer_helmet",
+      "title": "Броня школ магии"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Напр: Броня криоманта",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:cryomancer_boots',Count:1b},{id:'irons_spellbooks:cryomancer_leggings',Count:1b},{id:'irons_spellbooks:cryomancer_chestplate',Count:1b},{id:'irons_spellbooks:cryomancer_helmet',Count:1b}],NoBasePlate:1b}",
+      "text": "Броня школ магии создается из мистической ткани и руны определенной школы по этому шаблону."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:upgrade_orb",
+      "title": "Улучшения",
+      "text": "Улучшения — это финальная стадия прогрессии. По умолчанию любую броню и книгу заклинаний можно улучшить.$(br2)Сферы улучшений для определенного атрибута создаются из пустой сферы улучшения и 8 рун нужного атрибута."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:upgrade_orb",
+      "recipe2": "irons_spellbooks:fire_upgrade_orb"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "Материалы для крафта сфер",
+      "enable_visualize": false,
+      "multiblock": {
+        "pattern": [
+          [
+            " D S ",
+            "DA0PF"
+          ]
+        ],
+        "mapping": {
+          "D": "minecraft:deepslate",
+          "A": "irons_spellbooks:deepslate_mithril_ore",
+          "P": "irons_spellbooks:armor_pile",
+          "S": "minecraft:soul_sand",
+          "F": "minecraft:soul_fire"
+        }
+      },
+      "text": "Мифрил — редкая руда Обычного мира. Встречается ниже высоты Y = -38 и не соприкасается с воздухом. Требует незеритовую кирку."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "irons_spellbooks:citadel_keeper",
+      "text": "Пепельная эссенция выпадает из Древних рыцарей, которых можно пробудить, разрушая груды брони в Незере."
+    }
+  ]
+}

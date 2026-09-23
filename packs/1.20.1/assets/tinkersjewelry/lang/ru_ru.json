@@ -1,0 +1,262 @@
+{
+  "item.tinkersjewelry.eudialyte": "Эвдиалит",
+  "item.tinkersjewelry.fire_opal": "Огненный опал",
+  "item.tinkersjewelry.malachite": "Малахит",
+  "item.tinkersjewelry.calcite": "Кальцит",
+  "item.tinkersjewelry.milky_quartz": "Молочный кварц",
+  "item.tinkersjewelry.merlinite": "Мерлинит",
+  "item.tinkersjewelry.prehnite": "Пренит",
+  "item.tinkersjewelry.rubellite": "Рубеллит",
+
+  "item.tinkersjewelry.ring.description": "Кольца — это простые украшения, которые дают эффекты в зависимости от использованного самоцвета.",
+  "item.tinkersjewelry.ring": "Кольцо",
+
+  "item.tinkersjewelry.gem.description": "Самоцветы содержат особенности",
+  "item.tinkersjewelry.gem": "Ограненный самоцвет",
+
+  "item.tinkersjewelry.plain_ring.description": "Кольца — это простые украшения, которые дают эффекты в зависимости от использованного самоцвета.",
+  "item.tinkersjewelry.plain_ring": "Простое кольцо",
+
+  "item.tinkersjewelry.plain_ring_cast": "Слепок простого кольца",
+  "item.tinkersjewelry.plain_ring_sand_cast": "Песчаная форма простого кольца",
+  "item.tinkersjewelry.plain_ring_red_sand_cast": "Форма простого кольца из красного песка",
+
+  "item.tinkersjewelry.book": "Ювелирное дело для чайников",
+  "item.tinkersjewelry.book.tooltip": "Руководство по тому, как выглядеть потрясающе\nот Ferri",
+
+  "pattern.tinkersjewelry.gem" : "Самоцвет",
+  "pattern.tinkersjewelry.plain_ring" : "Простое кольцо",
+
+  "itemGroup.tinkersjewelry.all": "Tinker's Jewelry",
+
+  "stat.tinkersjewelry.gem": "Самоцвет",
+  "stat.tinkersjewelry.plain_ring": "Простое кольцо",
+
+  "key.categories.tinkersjewelry": "Tinkers' Jewelry",
+  "key.tinkersjewelry.subspace": "Подпространство",
+
+  "gui.tinkersjewelry.subspace": "Подпространство",
+
+  "modifier.tinkersjewelry.rage_gem.description": "Дает прибавку к скорости атаки",
+  "modifier.tinkersjewelry.rage_gem.flavor": "Дает прибавку к скорости атаки",
+  "modifier.tinkersjewelry.rage_gem": "Ярость",
+
+  "modifier.tinkersjewelry.lifesteal_gem.description": "Исцеляет в зависимости от нанесенного урона",
+  "modifier.tinkersjewelry.lifesteal_gem.flavor": "Исцеляет в зависимости от нанесенного урона",
+  "modifier.tinkersjewelry.lifesteal_gem": "Вампиризм",
+
+  "modifier.tinkersjewelry.fly_gem.description": "Позволяет летать как в творческом режиме несколько секунд",
+  "modifier.tinkersjewelry.fly_gem.flavor": "Позволяет летать как в творческом режиме несколько секунд",
+  "modifier.tinkersjewelry.fly_gem": "Полет",
+  "description.tinkersjewelry.flight": "Полет: %s сек.",
+
+  "modifier.tinkersjewelry.armor_gem.description": "Добавляет дополнительную броню",
+  "modifier.tinkersjewelry.armor_gem.flavor": "Добавляет дополнительную броню",
+  "modifier.tinkersjewelry.armor_gem": "Броня",
+
+  "modifier.tinkersjewelry.piercing_gem.description": "Игнорирует часть брони цели",
+  "modifier.tinkersjewelry.piercing_gem.flavor": "Игнорирует часть брони цели",
+  "modifier.tinkersjewelry.piercing_gem": "Пробивание",
+
+  "modifier.tinkersjewelry.speed_gem.description": "Увеличивает скорость передвижения",
+  "modifier.tinkersjewelry.speed_gem.flavor": "Увеличивает скорость передвижения",
+  "modifier.tinkersjewelry.speed_gem": "Скорость",
+
+  "modifier.tinkersjewelry.fireresistance_gem.description": "Дает огнестойкость",
+  "modifier.tinkersjewelry.fireresistance_gem.flavor": "Дает огнестойкость",
+  "modifier.tinkersjewelry.fireresistance_gem": "Огнестойкость",
+
+  "modifier.tinkersjewelry.silk_gem.description": "Дает Шелковое касание",
+  "modifier.tinkersjewelry.silk_gem.flavor": "Дает Шелковое касание",
+  "modifier.tinkersjewelry.silk_gem": "Шелковое касание",
+
+  "modifier.tinkersjewelry.fortune_gem.description": "Дает Удачу",
+  "modifier.tinkersjewelry.fortune_gem.flavor": "Дает Удачу",
+  "modifier.tinkersjewelry.fortune_gem": "Удача",
+
+  "modifier.tinkersjewelry.waterbreathing_gem.description": "Дает Подводное дыхание",
+  "modifier.tinkersjewelry.waterbreathing_gem.flabour": "Дает Подводное дыхание",
+  "modifier.tinkersjewelry.waterbreathing_gem": "Подводное дыхание",
+
+  "modifier.tinkersjewelry.nightvision_gem.description": "Дает Ночное зрение",
+  "modifier.tinkersjewelry.nightvision_gem.flavor": "Дает Ночное зрение",
+  "modifier.tinkersjewelry.nightvision_gem": "Ночное зрение",
+
+  "modifier.tinkersjewelry.poison_gem.description": "Накладывает Отравление на цель",
+  "modifier.tinkersjewelry.poison_gem.flavor": "Накладывает Отравление на цель",
+  "modifier.tinkersjewelry.poison_gem": "Отравление",
+
+  "modifier.tinkersjewelry.flame_gem.description": "Поджигает цель",
+  "modifier.tinkersjewelry.flame_gem.flavor": "Поджигает цель",
+  "modifier.tinkersjewelry.flame_gem": "Воспламенение",
+
+  "modifier.tinkersjewelry.cleanse_gem.description": "Снимает негативные эффекты",
+  "modifier.tinkersjewelry.cleanse_gem.flavor": "Снимает негативные эффекты",
+  "modifier.tinkersjewelry.cleanse_gem": "Очищение",
+
+  "modifier.tinkersjewelry.health_gem.description": "Дает бонусное здоровье",
+  "modifier.tinkersjewelry.health_gem.flavor": "Дает бонусное здоровье",
+  "modifier.tinkersjewelry.health_gem": "Здоровье",
+
+  "modifier.tinkersjewelry.reach_gem.description": "Дает дополнительную дальность атаки",
+  "modifier.tinkersjewelry.reach_gem.flavor": "Дает дополнительную дальность атаки",
+  "modifier.tinkersjewelry.reach_gem": "Досягаемость",
+
+  "modifier.tinkersjewelry.trade_gem.description": "Снижает цены при торговле с жителями",
+  "modifier.tinkersjewelry.trade_gem.flavor": "Снижает цены при торговле с жителями",
+  "modifier.tinkersjewelry.trade_gem": "Торговля",
+
+  "modifier.tinkersjewelry.exp_gem.description": "Увеличивает получаемый опыт",
+  "modifier.tinkersjewelry.exp_gem.flavor": "Увеличивает получаемый опыт",
+  "modifier.tinkersjewelry.exp_gem": "Опыт",
+
+  "modifier.tinkersjewelry.resistance_gem.description": "Дает эффект Сопротивление",
+  "modifier.tinkersjewelry.resistance_gem.flavor": "Дает эффект Сопротивление",
+  "modifier.tinkersjewelry.resistance_gem": "Сопротивление",
+
+  "modifier.tinkersjewelry.luck_gem.description": "Увеличивает параметр удачи (везения) владельца",
+  "modifier.tinkersjewelry.luck_gem.flavor": "Увеличивает параметр удачи (везения) владельца",
+  "modifier.tinkersjewelry.luck_gem": "Везение",
+
+  "modifier.tinkersjewelry.swim_gem.description": "Увеличивает скорость плавания владельца",
+  "modifier.tinkersjewelry.swim_gem.flavor": "Увеличивает скорость плавания владельца",
+  "modifier.tinkersjewelry.swim_gem": "Скорость плавания",
+
+  "modifier.tinkersjewelry.gravity_gem.description": "Снижает гравитацию",
+  "modifier.tinkersjewelry.gravity_gem.flavor": "Снижает гравитацию",
+  "modifier.tinkersjewelry.gravity_gem": "Гравитация",
+
+  "modifier.tinkersjewelry.current_health_damage_gem.description": "Наносит дополнительный урон в зависимости от текущего здоровья",
+  "modifier.tinkersjewelry.current_health_damage_gem.flavor": "Наносит дополнительный урон в зависимости от текущего здоровья",
+  "modifier.tinkersjewelry.current_health_damage_gem": "Урон от текущего здоровья",
+
+  "modifier.tinkersjewelry.conduit_gem.description": "Дает эффект Сила источника",
+  "modifier.tinkersjewelry.conduit_gem.flavor": "Дает эффект Сила источника",
+  "modifier.tinkersjewelry.conduit_gem": "Сила источника",
+
+  "modifier.tinkersjewelry.draw_speed_gem.description": "Увеличивает скорость натяжения для владельца",
+  "modifier.tinkersjewelry.draw_speed_gem.flavor": "Увеличивает скорость натяжения для владельца",
+  "modifier.tinkersjewelry.draw_speed_gem": "Скорость натяжения",
+
+  "modifier.tinkersjewelry.mining_speed_gem.description": "Увеличивает скорость добычи для владельца",
+  "modifier.tinkersjewelry.mining_speed_gem.flavor": "Увеличивает скорость добычи для владельца",
+  "modifier.tinkersjewelry.mining_speed_gem": "Скорость добычи",
+
+  "modifier.tinkersjewelry.enderference_gem.description": "Ненадолго запрещает цели телепортироваться",
+  "modifier.tinkersjewelry.enderference_gem.flavor": "Действительно отвлекает",
+  "modifier.tinkersjewelry.enderference_gem": "Эндерференция",
+
+  "modifier.tinkersjewelry.enderclearance_gem.description": "Имеет шанс телепортировать атакующих прочь",
+  "modifier.tinkersjewelry.enderclearance_gem.flavor": "Скидка на эндер",
+  "modifier.tinkersjewelry.enderclearance_gem": "Эндер-очистка",
+
+  "modifier.tinkersjewelry.antiheal_gem.description": "Снижает эффективность исцеления противника",
+  "modifier.tinkersjewelry.antiheal_gem.flavor": "Снижает эффективность исцеления противника",
+  "modifier.tinkersjewelry.antiheal_gem": "Антиисцеление",
+
+  "modifier.tinkersjewelry.glowing_gem.description": "Отмечает врага эффектом свечения",
+  "modifier.tinkersjewelry.glowing_gem.flavor": "Это оставит след",
+  "modifier.tinkersjewelry.glowing_gem": "Метка",
+
+  "modifier.tinkersjewelry.darkness_gem.description": "Накладывает эффект тьмы на врага",
+  "modifier.tinkersjewelry.darkness_gem.flavor": "Накладывает эффект тьмы на врага",
+  "modifier.tinkersjewelry.darkness_gem": "Тьма",
+
+  "modifier.tinkersjewelry.knockback_gem.description": "Дает атакам откидывание",
+  "modifier.tinkersjewelry.knockback_gem.flavor": "Дает атакам откидывание",
+  "modifier.tinkersjewelry.knockback_gem": "Откидывание",
+
+  "modifier.tinkersjewelry.wither_gem.description": "Накладывает Иссушение на цель",
+  "modifier.tinkersjewelry.wither_gem.flavor": "Накладывает Иссушение на цель",
+  "modifier.tinkersjewelry.wither_gem": "Иссушение",
+
+  "modifier.tinkersjewelry.precious.description": "Дает слот способностей",
+  "modifier.tinkersjewelry.precious.flavor": "Выглядит дорого",
+  "modifier.tinkersjewelry.precious": "Драгоценность",
+
+  "modifier.tinkersjewelry.polish.description": "Дает слот для улучшений",
+  "modifier.tinkersjewelry.polish.flavor": "Блестяще",
+  "modifier.tinkersjewelry.polish": "Полировка",
+
+  "modifier.tinkersjewelry.undying.requirements": "Требует: Привязанность",
+  "modifier.tinkersjewelry.undying.description": "При получении смертельного урона вы выживаете с 1 очком здоровья",
+  "modifier.tinkersjewelry.undying.flavor": "Не сегодня!",
+  "modifier.tinkersjewelry.undying": "Бессмертие",
+
+  "modifier.tinkersjewelry.subspace.description": "Добавляет 9 слотов в ваш инвентарь подпространства",
+  "modifier.tinkersjewelry.subspace.flavor": "Куда оно девается?",
+  "modifier.tinkersjewelry.subspace": "Подпространство",
+
+  "modifier.tinkersjewelry.magnetic.description": "Вы притягиваете к себе лежащие рядом предметы?!",
+  "modifier.tinkersjewelry.magnetic.flavor": "Магнетическая личность!",
+  "modifier.tinkersjewelry.magnetic": "Магнетизм",
+
+  "modifier.tinkersjewelry.maintained.description": "Ювелирное изделие имеет более высокое усиление",
+  "modifier.tinkersjewelry.maintained.flavor": "Остается блестящим дольше!",
+  "modifier.tinkersjewelry.maintained": "Ухоженность",
+
+  "modifier.tinkersjewelry.ductile.description": "Инструмент служит дольше и дает больше усиления",
+  "modifier.tinkersjewelry.ductile.flavor": "Хорошо меняет форму!",
+  "modifier.tinkersjewelry.ductile": "Ковкость",
+
+  "modifier.tinkersjewelry.invariant.amplification": "Нейтральное усиление",
+  "modifier.tinkersjewelry.invariant.description": "Украшение получает усиление при нейтральной температуре",
+  "modifier.tinkersjewelry.invariant.flavor": "Ему совершенно всё равно",
+  "modifier.tinkersjewelry.invariant": "Инвариантность",
+
+  "modifier.tinkersjewelry.temperate.amplification": "Умеренное усиление",
+  "modifier.tinkersjewelry.temperate.description": "Украшение получает усиление при экстремальных температурах",
+  "modifier.tinkersjewelry.temperate.flavor": "Экстрим!",
+  "modifier.tinkersjewelry.temperate": "Умеренность",
+
+  "tool_stat.tinkersjewelry.amplification": "Усиление: ",
+  "tool_stat.tinkersjewelry.amplification.description": "Увеличивает/уменьшает силу эффектов",
+
+  "tinkersjewelry:fortune": "Удача",
+  "tinkersjewelry:fortune.desc": "Дает дополнительный уровень Удачи любому инструменту",
+
+  "tinkersjewelry:silk": "Шелковое касание",
+  "tinkersjewelry:silk.desc": "Дает дополнительный уровень Шелкового касания любому инструменту",
+
+  "tinkersjewelry:trade": "Репутация",
+  "tinkersjewelry:trade.desc": "Повышает вашу репутацию среди жителей",
+
+  "tinkersjewelry:subspace": "Подпространство",
+  "tinkersjewelry:subspace.desc": "Предоставляет инвентарь подпространства",
+
+  "material.tinkersjewelry.redstone": "Редстоун",
+  "material.tinkersjewelry.lapis": "Лазурит",
+  "material.tinkersjewelry.netherstar": "Звезда Незера",
+  "material.tinkersjewelry.scute": "Щиток",
+  "material.tinkersjewelry.diamond": "Алмаз",
+  "material.tinkersjewelry.quartz": "Кварц",
+  "material.tinkersjewelry.amethyst": "Аметист",
+  "material.tinkersjewelry.emerald": "Изумруд",
+  "material.tinkersjewelry.prismarine": "Призмарин",
+  "material.tinkersjewelry.heart_of_the_sea": "Сердце моря",
+  "material.tinkersjewelry.ender_eye": "Око Края",
+  "material.tinkersjewelry.echo_shard": "Осколок эха",
+  "material.tinkersjewelry.glowstone": "Светокамень",
+  "material.tinkersjewelry.prismarine_crystal": "Кристалл призмарина",
+  "material.tinkersjewelry.purpur": "Пурпур",
+
+  "material.tinkersjewelry.earth_crystal": "Слизь земли",
+  "material.tinkersjewelry.sky_crystal": "Слизь небес",
+  "material.tinkersjewelry.ichor_crystal": "Ихор",
+  "material.tinkersjewelry.ender_crystal": "Слизь Края",
+
+  "material.tinkersjewelry.eudialyte": "Эвдиалит",
+  "material.tinkersjewelry.fire_opal": "Огненный опал",
+  "material.tinkersjewelry.malachite": "Малахит",
+  "material.tinkersjewelry.calcite": "Кальцит",
+  "material.tinkersjewelry.milky_quartz": "Молочный кварц",
+  "material.tinkersjewelry.merlinite": "Мерлинит",
+  "material.tinkersjewelry.prehnite": "Пренит",
+  "material.tinkersjewelry.rubellite": "Рубеллит",
+
+  "material.tinkersjewelry.ruby": "Рубин",
+  "material.tinkersjewelry.peridot": "Перидот",
+  "material.tinkersjewelry.sapphire": "Сапфир",
+  "material.tinkersjewelry.cinnabar": "Кинноварь",
+  "material.tinkersjewelry.fluorite": "Флюорит"
+}

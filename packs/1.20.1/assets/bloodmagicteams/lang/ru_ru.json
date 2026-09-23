@@ -1,0 +1,43 @@
+{
+  "gui.bloodmagicteams.binding_mode.title": "Привязка к сети душ",
+  "gui.bloodmagicteams.binding_mode.team": "Команда: %s",
+  "gui.bloodmagicteams.binding_mode.personal": "Личная привязка",
+  "gui.bloodmagicteams.binding_mode.team_button": "Командная привязка",
+  "gui.bloodmagicteams.binding_mode.personal.tooltip": "Привязать к вашей личной сети душ",
+  "gui.bloodmagicteams.binding_mode.team.tooltip": "Привязать к общей сети душ вашей команды",
+  "gui.bloodmagicteams.binding_mode.dont_ask": "Больше не спрашивать",
+  "gui.bloodmagicteams.binding_mode.dont_ask.tooltip": "Запомнить этот выбор для будущих привязок",
+  "gui.bloodmagicteams.binding_mode.reset_hint": "Используйте /bloodmagicteams reset для изменения",
+
+  "commands.bloodmagicteams.player_only": "Эту команду могут использовать только игроки",
+  "commands.bloodmagicteams.not_on_team": "Вы не состоите в команде",
+  "commands.bloodmagicteams.invalid_team_id": "Неверный формат ID команды",
+  "commands.bloodmagicteams.team_not_found": "Команда не найдена",
+  "commands.bloodmagicteams.set_self": "Режим привязки изменен: Личный (все предметы будут привязываться к вашей личной сети душ)",
+  "commands.bloodmagicteams.set_team": "Режим привязки изменен: Команда %s (все предметы будут привязываться к сети душ вашей команды)",
+  "commands.bloodmagicteams.set_specific_team": "Режим привязки изменен: Команда %s (все предметы будут привязываться к сети душ этой команды)",
+  "commands.bloodmagicteams.reset_success": "Настройки привязки сброшены. При следующей привязке предмета вам будет предложено сделать выбор.",
+  "commands.bloodmagicteams.status_ask": "Текущий режим привязки: Спрашивать каждый раз",
+  "commands.bloodmagicteams.status_self": "Текущий режим привязки: Личный (автоматически)",
+  "commands.bloodmagicteams.status_team": "Текущий режим привязки: Командный (автоматически)",
+  "commands.bloodmagicteams.status_specific_team": "Текущий режим привязки: Команда %s (автоматически)",
+
+  "tooltip.bloodmagicteams.team_bound": "Командная привязка: %s",
+  "tooltip.bloodmagicteams.personal_bound": "Личная привязка",
+  "bloodmagicteams.tooltip.team_bound": "[Командная привязка]",
+  "bloodmagicteams.tooltip.unknown_team": "Неизвестная команда",
+
+  "itemGroup.bloodmagicteams": "BloodMagic Teams",
+
+  "ftbteamsconfig.bloodmagicteams": "BloodMagic Teams",
+  "ftbteamsconfig.bloodmagicteams.binding_restriction": "Ограничение привязки",
+  "ftbteams.property.bloodmagicteams.binding_restriction": "Доступ к привязке сети душ",
+  "ftbteams.property.bloodmagicteams.binding_restriction.tooltip": "Кто может привязывать предметы к сети душ команды",
+  "bloodmagicteams.binding_restriction.member": "Все участники",
+  "bloodmagicteams.binding_restriction.officer": "Только офицеры",
+
+  "bloodmagicteams.error.not_officer": "Только офицеры могут привязывать предметы к сети душ этой команды",
+
+  "bloodmagicteams.patchouli.book.name": "Дополнение BloodMagic Teams",
+  "bloodmagicteams.patchouli.book.landing": "Документация по командной сети душ"
+}

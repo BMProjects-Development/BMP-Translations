@@ -1,0 +1,23 @@
+{
+  "name": "guide.animus.entry.sigil_boundless_nature",
+  "icon": "animus:sigil_boundless_nature",
+  "category": "animus:sigils",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "animus:crafting_array",
+      "recipe": "animus:array/sigil_boundless_nature",
+      "text": "Создается с помощью $(blood)Алхимического массива$() путем объединения $(l:animus:items/reagentboundlessnature)Реагента: Безграничная природа$() с $(item)Усиленной плиткой$(). Сначала реагент должен быть выкован в Адской кузне."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "animus:sigil_boundless_nature",
+      "text": "Мост между Blood Magic и Botania. Этот сигил действует как планшет маны, который конвертирует Жизненную Эссенцию в ману, позволяя магам крови питать инструменты и устройства из Botania."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Использование",
+      "text": "$(bold)Стоимость LP:$() 50 LP в секунду при активации$(br2)$(bold)Эффект:$() Преобразует LP в ману с настраиваемой скоростью (по умолчанию: 50 LP = 100 маны в секунду).$(br2)$(bold)Хранилище маны:$() До 2500 маны$(br2)Shift-ПКМ для переключения активации. Когда сигил активен, он будет непрерывно конвертировать LP в ману, может питать инструменты Botania и экспортировать в бассейны маны.$(br2)$(bold)Для работы требуется Botania.$()$(br)"
+    }
+  ]
+}

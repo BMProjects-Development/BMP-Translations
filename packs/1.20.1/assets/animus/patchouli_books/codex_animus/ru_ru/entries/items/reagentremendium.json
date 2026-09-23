@@ -1,0 +1,18 @@
+{
+  "name": "guide.animus.entry.reagent_remedium",
+  "icon": "animus:reagentremendium",
+  "category": "animus:items",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "animus:crafting_soulforge",
+      "heading": "Реагент: Исцеления (Remedium)",
+      "recipe": "animus:soulforge/reagentremendium",
+      "text": "Реагент с очищающими свойствами."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Этот катализатор можно объединить с $(item)Усиленной плиткой$() в Алхимическом массиве для создания $(l:animus:sigils/sigil_remedium)Сигила исцеления (Remedium)$()."
+    }
+  ]
+}

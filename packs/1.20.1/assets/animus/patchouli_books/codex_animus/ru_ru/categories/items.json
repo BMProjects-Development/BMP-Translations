@@ -1,0 +1,6 @@
+{
+  "name": "guide.animus.category.items",
+  "description": "Артефакты и инструменты, которые помогут Вам в Вашем тёмном путешествии. От фрагментов исцеления до ключей привязки.",
+  "icon": "animus:fragment_healing",
+  "sortnum": 3
+}

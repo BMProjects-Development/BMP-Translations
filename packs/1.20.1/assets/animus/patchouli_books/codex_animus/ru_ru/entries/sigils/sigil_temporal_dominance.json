@@ -1,0 +1,28 @@
+{
+  "name": "guide.animus.entry.sigil_temporal_dominance",
+  "icon": "animus:sigil_temporal_dominance",
+  "category": "animus:sigils",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "animus:sigil_temporal_dominance",
+      "text": "Сигил, ускоряющий время для блочных сущностей. Печи переплавляют быстрее, урожай растет скорее, а механизмы работают с невероятной скоростью."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Использование",
+      "text": "$(bold)Активация:$() Shift + ПКМ по блочной сущности$(br)$(bold)Длительность:$() 30 секунд за активацию$(br2)Каждая активация повышает уровень скорости. Многократное нажатие по одному и тому же блоку суммирует ускорение вплоть до 32-кратной скорости."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Развитие",
+      "text": "$(bold)Уровень 1:$() Ускорение 2x - 1,000 LP$(br)$(bold)Уровень 2:$() Ускорение 4x - 2,000 LP$(br)$(bold)Уровень 3:$() Ускорение 8x - 4,000 LP$(br)$(bold)Уровень 4:$() Ускорение 16x - 8,000 LP$(br)$(bold)Уровень 5:$() Ускорение 32x - 16,000 LP$(br2)$(bold)Обновление:$() 15,000 LP для сброса таймера на максимальном уровне"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Совместимость",
+      "text": "$(bold)Черный список:$() Блоки с тегом $(thing)animus:disallow_acceleration$() не могут быть ускорены.$(br2)$(bold)Совместимость модов:$() Не суммируется с Temporal Pouch из GAG, Time in a Bottle или Time Wand из JustDireThings.$(br2)$(italic)Время подчиняется воле крови.$()"
+    }
+  ]
+}

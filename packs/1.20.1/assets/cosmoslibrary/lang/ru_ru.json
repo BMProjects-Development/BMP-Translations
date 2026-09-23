@@ -1,0 +1,149 @@
+{
+	"jei.experience": "Опыт",
+
+	"cosmoslibrary.info.hold.name": "Удерживайте",
+
+	"cosmoslibrary.info.shift.name": "Shift",
+	"cosmoslibrary.info.ctrl.name": "Ctrl",
+	"cosmoslibrary.info.alt.name": "Alt",
+
+	"cosmoslibrary.info.fordetails.name": "для подробностей.",
+	"cosmoslibrary.info.tooltip.energy.name": "Предмет, хранящий энергию.",
+	"cosmoslibrary.info.currentpower.name": "Текущая энергия:",
+	"cosmoslibrary.info.maxpower.name": "Макс. энергия:",
+	"cosmoslibrary.info.release.name": "Отпустите",
+	"cosmoslibrary.info.less.name": "чтобы скрыть подробности.",
+
+	"cosmoslibrary.info.nbt.name": "для информации NBT.",
+	"cosmoslibrary.info.nbt.less.name": "чтобы скрыть информацию NBT.",
+
+	"cosmoslibrary.info.energy.name": "для подробностей об энергии.",
+	"cosmoslibrary.info.energy.less.name": "чтобы скрыть подробности.",
+
+	"cosmoslibrary.info.tooltip.fluid.name": "Блок, хранящий жидкость.",
+	"cosmoslibrary.tooltip.energy_item.stored": "Энергия: ",
+	"cosmoslibrary.tooltip.energy_item.stored_suff": " FE",
+	"cosmoslibrary.tooltip.energy_item.extract": "Макс. отдача: ",
+	"cosmoslibrary.tooltip.energy_item.receive": "Макс. прием: ",
+
+	"cosmoslibrary.info.pickaxe.name": "Кирка, использующая энергию",
+	"cosmoslibrary.info.pickaxe.power.name": "Остаток энергии",
+
+	"cosmoslibrary.info.energy_item": "Подробности об энергии:",
+
+	"gui.button.side.output_to": "Выход",
+	"gui.button.side.input_from": "Вход",
+	"gui.button.side.none": "Нет",
+	"gui.button.side.disabled": "Отключено",
+
+	"gui.info.input.name": "Вход",
+	"gui.info.output.name": "Выход",
+	"gui.info.normal.name": "Обычно",
+	"gui.info.disabled.name": "Отключено",
+
+	"cosmoslibrary.channel_state.air.name": "",
+	"cosmoslibrary.channel_state.cable_no_conn.name": "Нет подключения",
+	"cosmoslibrary.channel_state.cable.name": "Кабель",
+	"cosmoslibrary.channel_state.cable_other.name": "Другой кабель",
+	"cosmoslibrary.channel_state.interface_no_conn.name": "Интерфейс (Обычно)",
+	"cosmoslibrary.channel_state.interface_input.name": "Интерфейс (Вход)",
+	"cosmoslibrary.channel_state.interface_output.name": "Интерфейс (Выход)",
+	"cosmoslibrary.channel_state.disabled.name": "Отключено",
+
+	"item.cosmoslibrary.cosmos_wrench": "Гаечный ключ Cosmos",
+
+	"cosmoslibrary.enum.lock_state.locked": "Заблокировано",
+	"cosmoslibrary.enum.lock_state.unlocked": "Разблокировано",
+	"cosmoslibrary.enum.lock_state.unknown": "Неизвестно",
+
+	"cosmoslibrary.enum.connection_type.screen": "Экран",
+	"cosmoslibrary.enum.connection_type.energy": "Энергия",
+	"cosmoslibrary.enum.connection_type.fluid": "Жидкость",
+	"cosmoslibrary.enum.connection_type.item": "Предмет",
+
+	"cosmoslibrary.enum.side_state.interface_normal": "Интерфейс (Обычно)",
+	"cosmoslibrary.enum.side_state.interface_output": "Интерфейс (Выход)",
+	"cosmoslibrary.enum.side_state.interface_input": "Интерфейс (Вход)",
+	"cosmoslibrary.enum.side_state.disabled": "Отключено",
+
+	"cosmoslibrary.enum.side_guide.shown": "Показано",
+	"cosmoslibrary.enum.side_guide.hidden": "Скрыто",
+
+	"cosmoslibrary.enum.generated.false": "Не сгенерировано",
+	"cosmoslibrary.enum.generated.true": "Сгенерировано",
+
+	"cosmoslibrary.enum.trap_players.free": "Свободно",
+	"cosmoslibrary.enum.trap_players.trapped": "В ловушке",
+
+	"cosmoslibrary.enum.allow_state.allowed": "Разрешено",
+	"cosmoslibrary.enum.allow_state.blocked": "Заблокировано",
+
+	"cosmoslibrary.enum.enable_state.enabled": "Включено",
+	"cosmoslibrary.enum.enable_state.disabled": "Отключено",
+
+	"cosmoslibrary.enum.energy_state.fill": "Заполнение",
+	"cosmoslibrary.enum.energy_state.drain": "Извлечение",
+
+	"cosmoslibrary.enum.generation_mode.item": "Сжигаемые предметы",
+	"cosmoslibrary.enum.generation_mode.fluid": "Высокотемпературные жидкости",
+
+	"cosmoslibrary.enum.allowed_entities.none": "Нет сущностей",
+	"cosmoslibrary.enum.allowed_entities.entities_only": "Сущности (кроме игроков)",
+	"cosmoslibrary.enum.allowed_entities.players_only": "Только игроки",
+	"cosmoslibrary.enum.allowed_entities.items_only": "Только предметы",
+	"cosmoslibrary.enum.allowed_entities.all": "Все сущности",
+
+	"cosmoslibrary.enum.ui_mode.dark": "Темная",
+	"cosmoslibrary.enum.ui_mode.light": "Светлая",
+
+	"cosmoslibrary.enum.ui_help.hidden": "Скрыта",
+	"cosmoslibrary.enum.ui_help.shown": "Показана",
+
+	"cosmoslibrary.enum.ui_lock.private": "Приватный",
+	"cosmoslibrary.enum.ui_lock.public": "Публичный",
+
+	"cosmoslibrary.gui.button.direction.down": "Вниз",
+	"cosmoslibrary.gui.button.direction.up": "Вверх",
+	"cosmoslibrary.gui.button.direction.north": "Север",
+	"cosmoslibrary.gui.button.direction.south": "Юг",
+	"cosmoslibrary.gui.button.direction.west": "Запад",
+	"cosmoslibrary.gui.button.direction.east": "Восток",
+
+	"cosmoslibrary.gui.button.tank_clear": "Shift-клик, чтобы опустошить резервуар.",
+	"cosmoslibrary.gui.button.tank_clear_shift": "Внимание! Это действие нельзя отменить.",
+
+	"cosmoslibrary.gui.fluid_bar.pre": "Жидкости: ",
+	"cosmoslibrary.gui.fluid_bar.suff": " мБ.",
+
+	"cosmoslibrary.gui.energy_bar.pre": "Энергии: ",
+	"cosmoslibrary.gui.energy_bar.suff": " FE.",
+
+	"cosmoslibrary.gui.generation.pre": "Генерация: ",
+	"cosmoslibrary.gui.generation.suff": " FE/t.",
+
+	"cosmoslibrary.gui.energy.fe_rate": " FE/t.",
+	"cosmoslibrary.gui.energy.fe_pre": "Потребление: ",
+
+	"cosmoslibrary.options.off": "ВЫКЛ",
+	"cosmoslibrary.options.on": "ВКЛ",
+	"cosmoslibrary.options.off.composed": " ВЫКЛ",
+	"cosmoslibrary.options.on.composed": " ВКЛ",
+
+	"cosmoslibrary.options.no": "НЕТ",
+	"cosmoslibrary.options.yes": "ДА",
+	"cosmoslibrary.options.no.composed": " НЕТ",
+	"cosmoslibrary.options.yes.composed": " ДА",
+
+	"cosmoslibrary.gui.ui_mode.info": "Сменить тему интерфейса: ",
+	"cosmoslibrary.gui.ui_mode.value": "Текущая тема: ",
+
+	"cosmoslibrary.gui_help_title": "Режим справки",
+	"cosmoslibrary.gui.ui_help.info": "Показывать справку: ",
+	"cosmoslibrary.gui.ui_help.value": "Справка сейчас: ",
+
+	"cosmoslibrary.gui.ui_lock.info": "Изменить состояние блокировки: ",
+	"cosmoslibrary.gui.ui_lock.value": "Текущее состояние блокировки: ",
+
+	"cosmoslibrary.gui.colour.info": "Изменить текущий цвет:",
+	"cosmoslibrary.gui.colour.value": "Текущий цвет: "
+}

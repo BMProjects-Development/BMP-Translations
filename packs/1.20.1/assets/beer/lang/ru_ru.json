@@ -1,0 +1,21 @@
+{
+  "config.jade.plugin_beer.beer": "BEER",
+  "beer.jei.category.enchanting_modifiers": "Модификаторы зачарования",
+  "beer.jei.category.main_hand": "В главной руке",
+  "beer.jei.category.off_hand": "Во второй руке",
+  "beer.jei.category.not_consumed": "Не расходуется",
+  "beer.jei.category.right_click_table": "Shift + ПКМ по столу зачарования",
+  "beer.jei.enchanting_table.info.title": "Радиус стола зачарования",
+  "beer.jei.enchanting_table.info.bookshelf_range": "По умолчанию книжные полки можно размещать на расстоянии до 16 блоков в любом направлении (X/Z) и до 16 блоков по вертикали (Y).",
+  "beer.jei.enchanting_table.info.configuration": "Радиусы по умолчанию можно изменить в конфигурации мода.",
+  "beer.jei.enchanting_table.info.range_modification": "Вы можете изменить радиус конкретного стола зачарования, нажав по нему Shift + ПКМ с определенными предметами. Подробности см. в категории «Модификаторы зачарования».",
+  "beer.jei.modifier.xp_cost": "Стоимость: %s опыта",
+  "beer.jei.modifier.xp_gain": "Возвращает %s опыта",
+  "tooltip.beer.enchanting_table.range": "Радиус: %sx%sx%s",
+  "beer.jei.modifier.x_width.description": "Увеличивает/уменьшает радиус по X",
+  "beer.jei.modifier.y_height.description": "Увеличивает/уменьшает радиус по Y",
+  "beer.jei.modifier.z_width.description": "Увеличивает/уменьшает радиус по Z",
+  "beer.message.xp_gained": "Вы получили %s опыта",
+  "beer.message.insufficient_xp": "Недостаточно опыта. Вам нужно %s опыта (Всего: %s)",
+  "beer.message.xp_consumed": "Потрачено %s опыта"
+}

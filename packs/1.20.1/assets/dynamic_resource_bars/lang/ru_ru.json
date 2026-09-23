@@ -1,0 +1,123 @@
+{
+  "dynamic_resource_bars.configuration.textScalingFactor": "Множитель масштаба текста",
+  "dynamic_resource_bars.configuration.textScalingFactor.tooltip": "Степень масштабирования текста, отображаемого на шкалах ресурсов.",
+  "dynamic_resource_bars.configuration.title": "Конфигурация Dynamic Resource Bars",
+  "dynamic_resource_bars.configuration.client.tooltip": "Клиентские настройки для шкал ресурсов.",
+  "dynamic_resource_bars.configuration.section.dynamic.resource.bars.client.toml": "Клиентская конфигурация",
+  "dynamic_resource_bars.configuration.section.dynamic.resource.bars.client.toml.title": "Клиентская конфигурация",
+
+  "gui.dynamic_resource_bars.common.on": "ВКЛ",
+  "gui.dynamic_resource_bars.common.off": "ВЫКЛ",
+
+  "gui.dynamic_resource_bars.element.health": "Шкала здоровья",
+  "gui.dynamic_resource_bars.element.mana": "Шкала маны",
+  "gui.dynamic_resource_bars.element.stamina": "Шкала выносливости",
+  "gui.dynamic_resource_bars.element.armor": "Шкала брони",
+  "gui.dynamic_resource_bars.element.air": "Шкала воздуха",
+
+  "gui.dynamic_resource_bars.hud_editor.title_main": "Редактор элементов интерфейса",
+  "gui.dynamic_resource_bars.hud_editor.title_focused": "Настройки: %s",
+  "gui.dynamic_resource_bars.hud_editor.help.main.line1": "Нажмите и потяните шкалы для перемещения. ESC — сохранить и выйти.",
+  "gui.dynamic_resource_bars.hud_editor.help.main.line2": "Двойной клик по шкале — тонкая настройка элементов.",
+  "gui.dynamic_resource_bars.hud_editor.help.main.line3.armor_air": "Используйте 'Цикличное поведение' для шкал брони/воздуха.",
+  "gui.dynamic_resource_bars.hud_editor.help.main.line4": "Кнопка полного сброса находится ниже.",
+  "gui.dynamic_resource_bars.hud_editor.help.focus.line1": "Потяните шкалу для перемещения. Двойной клик — выйти из фокуса.",
+  "gui.dynamic_resource_bars.hud_editor.help.focus.line2.sub_element": "Потяните элементы для настройки смещения (не для брони/воздуха).",
+  "gui.dynamic_resource_bars.hud_editor.help.focus.line3": "Используйте кнопки для других настроек.",
+  "gui.dynamic_resource_bars.hud_editor.help.focus.line4": "ESC — сохранить настройки и закрыть редактор.",
+
+  "gui.dynamic_resource_bars.hud_editor.button.health_toggle_format": "Здоровье: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.mana_toggle_format": "Мана: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.stamina_toggle_format": "Выносливость: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.armor_behavior_format": "Броня: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.air_behavior_format": "Воздух: %s",
+
+  "bar_behavior.vanilla": "Ваниль",
+  "bar_behavior.custom": "Пользовательская",
+  "bar_behavior.hidden": "Скрыта",
+
+  "gui.dynamic_resource_bars.behavior.off": "Выкл/Ваниль",
+  "gui.dynamic_resource_bars.behavior.custom_simple": "Пользовательская",
+  "gui.dynamic_resource_bars.behavior.vanilla_simple": "Ваниль",
+
+  "gui.dynamic_resource_bars.hud_editor.button.health_settings": "Настройки здоровья",
+  "gui.dynamic_resource_bars.hud_editor.button.mana_settings": "Настройки маны",
+  "gui.dynamic_resource_bars.hud_editor.button.stamina_settings": "Настройки выносливости",
+  "gui.dynamic_resource_bars.hud_editor.button.armor_settings": "Настройки брони",
+  "gui.dynamic_resource_bars.hud_editor.button.air_settings": "Настройки воздуха",
+  "gui.dynamic_resource_bars.hud_editor.button.reset_all_bars": "Сбросить все шкалы по умолчанию",
+
+  "gui.dynamic_resource_bars.hud_editor.button.cycle_fill_direction_format": "Заполнение: %s",
+  "fill_direction.horizontal": "Горизонтальное",
+  "fill_direction.vertical": "Вертикальное",
+  "gui.dynamic_resource_bars.hud_editor.button.toggle_background_format": "Фон: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.toggle_foreground_format": "Передний план: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.toggle_fade_full_format": "Затухание при заполнении: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.cycle_text_behavior_format": "Текст: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.cycle_text_align_format": "Выравнивание текста: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.cycle_anchor_format": "Привязка: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.mana_behavior_format": "Мана: %s",
+  "gui.dynamic_resource_bars.hud_editor.button.resize_bar": "Изменить размер",
+  "gui.dynamic_resource_bars.hud_editor.button.stop_resizing_bar": "Завершить изменение размера",
+  "gui.dynamic_resource_bars.hud_editor.button.reset_position": "Сбросить позицию",
+  "gui.dynamic_resource_bars.hud_editor.button.reset_size": "Сбросить размер",
+
+  "gui.dynamic_resource_bars.confirm.reset_all.title": "Сбросить настройки всех шкал?",
+  "gui.dynamic_resource_bars.confirm.reset_all.explanation": "Это сбросит позиции, размеры и привязки для всех шкал.",
+  "gui.dynamic_resource_bars.confirm.reset_position.title": "Сбросить позицию: %s?",
+  "gui.dynamic_resource_bars.confirm.reset_position.explanation": "Сбрасывает привязку и все смещения по X/Y для этой шкалы.",
+  "gui.dynamic_resource_bars.confirm.reset_size.title": "Сбросить размер: %s?",
+  "gui.dynamic_resource_bars.confirm.reset_size.explanation": "Сбрасывает размеры фона, шкалы и наложения для этой шкалы.",
+
+  "gui.dynamic_resource_bars.config.button.open_hud_editor": "Открыть редактор интерфейса",
+  "gui.dynamic_resource_bars.config.tooltip.hud_editor_disabled": "Настройки интерфейса можно изменять только в игре (зайдите в мир!)",
+
+  "gui.dynamic_resource_bars.hud_editor.tooltip.no_mana_provider": "В настоящее время не установлены совместимые моды, добавляющие ману",
+  "gui.dynamic_resource_bars.hud_editor.tooltip.air_tied_to_stamina": "Поведение воздуха привязано к выносливости на Fabric 1.20.1",
+
+  "text_behavior.always": "Всегда",
+  "text_behavior.never": "Никогда",
+  "text_behavior.when_not_full": "Когда не полная",
+
+  "horizontal_alignment.left": "Влево",
+  "horizontal_alignment.center": "По центру",
+  "horizontal_alignment.right": "Вправо",
+
+  "bar_placement.health": "Здоровье",
+  "bar_placement.hunger": "Голод",
+  "bar_placement.armor": "Броня",
+  "bar_placement.air": "Воздух",
+  "bar_placement.above_utilities": "Сверху по центру",
+
+  "gui.dynamic_resource_bars.resize.title_format": "Изменение размера: %s",
+  "gui.dynamic_resource_bars.resize.label.background_width": "Ширина фона:",
+  "gui.dynamic_resource_bars.resize.label.background_height": "Высота фона:",
+  "gui.dynamic_resource_bars.resize.label.background_x_offset": "Смещение фона по X:",
+  "gui.dynamic_resource_bars.resize.label.background_y_offset": "Смещение фона по Y:",
+  "gui.dynamic_resource_bars.resize.label.bar_width": "Ширина шкалы (Макс. 256):",
+  "gui.dynamic_resource_bars.resize.label.bar_height": "Высота шкалы (Макс. 32):",
+  "gui.dynamic_resource_bars.resize.label.overlay_width": "Ширина наложения:",
+  "gui.dynamic_resource_bars.resize.label.overlay_height": "Высота наложения:",
+
+  "gui.dynamic_resource_bars.config.label.text_color": "Цвет текста:",
+  "gui.dynamic_resource_bars.config.label.text_opacity": "Макс. непрозрачность текста:",
+  "gui.dynamic_resource_bars.config.label.text_size": "Масштабирование текста:",
+
+  "gui.dynamic_resource_bars.mana_behavior.off": "Выкл",
+  "gui.dynamic_resource_bars.mana_behavior.rpg_mana": "RPGMana",
+  "gui.dynamic_resource_bars.mana_behavior.ars_nouveau": "Ars Nouveau",
+  "gui.dynamic_resource_bars.mana_behavior.irons_spellbooks": "Iron's Spellbooks",
+  "gui.dynamic_resource_bars.mana_behavior.mana_attributes": "Mana Attributes",
+
+  "gui.dynamic_resource_bars.stamina_bar_behavior.food": "Голод",
+  "gui.dynamic_resource_bars.stamina_bar_behavior.stamina_attributes": "Stamina Attributes",
+  "gui.dynamic_resource_bars.stamina_bar_behavior.off": "Выкл",
+
+  "gui.dynamic_resource_bars.stamina_source.food": "Голод",
+  "gui.dynamic_resource_bars.stamina_source.stamina_attributes": "Stamina Attributes",
+
+  "gui.dynamic_resource_bars.merge_mount_health": "Объединить со здоровьем питомца",
+
+  "gui.dynamic_resource_bars.mana_format": "Мана: %s",
+  "gui.dynamic_resource_bars.stamina_format": "Выносливость: %s"
+}

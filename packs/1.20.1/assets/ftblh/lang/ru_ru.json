@@ -1,0 +1,9 @@
+{
+  "key.ftblh.toggle": "Переключить помощника",
+  "key.categories.ftblh": "FTB Little Helper",
+  "ftblh.chat_prefix": "[Маленький помощник] ",
+  "ftblh.message.hi": "Привет!",
+  "ftblh.message.bye": "Пока!",
+  "ftblh.message.no_permission": "У вас нет прав на это действие!",
+  "entity.ftblh.little_helper": "Маленький помощник"
+}

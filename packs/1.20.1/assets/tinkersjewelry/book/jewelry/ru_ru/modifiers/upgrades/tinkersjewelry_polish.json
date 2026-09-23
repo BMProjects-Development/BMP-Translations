@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkersjewelry:polish",
+  "text": [
+    {
+      "text": "Дает +1 слот для улучшений."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Один уровень",
+    "Не требует слотов"
+  ]
+}

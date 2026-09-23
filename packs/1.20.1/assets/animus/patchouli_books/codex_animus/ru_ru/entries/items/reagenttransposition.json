@@ -1,0 +1,18 @@
+{
+  "name": "guide.animus.entry.reagent_transposition",
+  "icon": "animus:reagenttransposition",
+  "category": "animus:items",
+  "sortnum": 25,
+  "pages": [
+    {
+      "type": "animus:crafting_soulforge",
+      "heading": "Реагент: Перемещение",
+      "recipe": "animus:soulforge/reagenttransposition",
+      "text": "Реагент, искажающий само пространство."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Этот катализатор можно объединить с $(item)Демонической плиткой$() в Алхимическом массиве для создания $(l:animus:sigils/sigil_transposition)Сигила перемещения$()."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "item.deus_ex_machina.ambrosia": "Бутылочка амброзии",
+  "effect.deus_ex_machina.deus_ex_machina_effect": "Deus Ex Machina",
+  "effect.deus_ex_machina.deus_ex_machina_effect.desc": "Состояние, в котором вы становитесь выносливее. После смерти вы станете еще чуточку крепче.",
+  "deus_ex_machina.death_screen.header": "Усиления Deus Ex Machina против %s:",
+  "deus_ex_machina.death_screen.resistance": "  Сопротивление: +%d%% ",
+  "deus_ex_machina.death_screen.resistance.now": "(теперь %d%%)",
+  "deus_ex_machina.death_screen.attack": "  Усиление атаки: +%d%% ",
+  "deus_ex_machina.death_screen.attack.now": "(теперь %d%%)",
+  "buff.deus_ex_machina.resistance": "Сопротивление",
+  "buff.deus_ex_machina.attack_boost": "Усиление атаки",
+  "buff.deus_ex_machina.life_leech": "Вампиризм",
+  "buff.deus_ex_machina.evasion": "Уклонение",
+  "buff.deus_ex_machina.thorns": "Шипы",
+  "buff.deus_ex_machina.critical_chance": "Шанс критического удара",
+  "buff.deus_ex_machina.execute": "Казнь",
+  "buff.deus_ex_machina.knockback": "Откидывание",
+  "buff.deus_ex_machina.knockback_resistance": "Сопротивление откидыванию",
+  "buff.deus_ex_machina.berserker": "Берсерк",
+  "buff.deus_ex_machina.momentum": "Импульс"
+}

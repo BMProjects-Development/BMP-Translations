@@ -1,0 +1,18 @@
+{
+  "name": "guide.animus.entry.reagent_reparare",
+  "icon": "animus:reagentreparare",
+  "category": "animus:items",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "animus:crafting_soulforge",
+      "heading": "Реагент: Починка (Reparare)",
+      "recipe": "animus:soulforge/reagentreparare",
+      "text": "Реагент с восстанавливающей эссенцией."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Этот катализатор можно объединить с $(item)Усиленной плиткой$() в Алхимическом массиве для создания $(l:animus:sigils/sigil_reparare)Сигила починки (Reparare)$()."
+    }
+  ]
+}

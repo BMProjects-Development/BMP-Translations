@@ -1,0 +1,13 @@
+{
+  "modifier_id": "tinkersjewelry:glowing_gem",
+  "text": [
+    {
+      "text": "Отмечает врага эффектом свечения."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Один уровень",
+    "Слот для улучшений"
+  ]
+}

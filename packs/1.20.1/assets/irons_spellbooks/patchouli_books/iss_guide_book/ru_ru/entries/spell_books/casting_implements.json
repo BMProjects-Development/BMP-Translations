@@ -1,0 +1,34 @@
+{
+  "name": "Инструменты для каста",
+  "icon": "irons_spellbooks:graybeard_staff",
+  "category": "irons_spellbooks:root",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Инструменты для каста",
+      "text": "Инструменты для каста (посохи) — это предметы, нажав ПКМ которыми, можно сотворить ваше активное заклинание. Чаще всего они также дают пассивные бонусы, идеально подходящие для стиля игры за чистого волшебника."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:graybeard_staff",
+      "text": "Обычной палки вполне достаточно, чтобы запустить хрустальный шар."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:artificer_cane",
+      "text": "Иногда немного стиля — это всё, что нужно, чтобы вывести ваше колдовство на новый уровень."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:ice_staff",
+      "text": "Ходят слухи, что части мистического ледяного посоха разбросаны по всему Обычному миру. Возможно, у криомантов припрятаны исследования, раскрывающие больше секретов."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blood_staff",
+      "text": "Древний скипетр с непревзойденными возможностями призыва. Получить его можно, только отобрав у мертвого владельца."
+    }
+  ]
+}

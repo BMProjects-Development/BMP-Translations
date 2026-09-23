@@ -1,0 +1,50 @@
+{
+  "name": "Середина игры",
+  "icon": "irons_spellbooks:scroll_forge",
+  "category": "irons_spellbooks:root",
+  "sortnum": -2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Кузница свитков",
+      "text": "Как только вы доберетесь до ресурсов Незера, для вас откроется совершенно новый путь к обретению силы: Кузница свитков.$(br2)Кузница свитков используется для создания свитков с помощью чернил, бумаги и фокуса. Чернила определяют редкость (и, следовательно, уровень), а фокус — школу заклинания."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:scroll_forge"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Новые книги заклинаний",
+      "text": "Кроме того, используя ресурсы из Незера, вы сможете создавать продвинутые книги заклинаний.",
+      "recipe": "irons_spellbooks:gold_spell_book"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:diamond_spell_book",
+      "text": "Шкура хоглина выпадает, очевидно, из хоглинов."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "irons_spellbooks:magic_cloth",
+      "title": "Новые материалы",
+      "text": "Вам также стоит начать создавать более крепкую броню из мистической ткани. Чтобы получить мистическую эссенцию в больших количествах, вам придется совершать рейды на магические структуры."
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "Броня пугала",
+      "entity": "minecraft:armor_stand{ArmorItems:[{id:'irons_spellbooks:pumpkin_boots',Count:1b},{id:'irons_spellbooks:pumpkin_leggings',Count:1b},{id:'irons_spellbooks:pumpkin_chestplate',Count:1b},{id:'irons_spellbooks:pumpkin_helmet',Count:1b}],NoBasePlate:1b}"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "irons_spellbooks:blank_rune",
+      "title": "Редкие материалы",
+      "text": "Чтобы продолжать развиваться, ищите рунные камни в магических структурах. Рунные камни нужны для создания еще более мощной брони. Из классовых магов всегда выпадает руна их школы."
+    },
+    {
+      "type": "patchouli:empty",
+      "draw_filler": false
+    }
+  ]
+}

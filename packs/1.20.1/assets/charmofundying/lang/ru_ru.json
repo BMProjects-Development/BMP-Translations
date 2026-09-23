@@ -1,0 +1,9 @@
+{
+  "gui.charmofundying.config.xOffset.name": "Горизонтальное смещение отображения",
+  "gui.charmofundying.config.xOffset.description": "Горизонтальное смещение для отображения тотема на игроке.",
+  "gui.charmofundying.config.yOffset.name": "Вертикальное смещение отображения",
+  "gui.charmofundying.config.yOffset.description": "Вертикальное смещение для отображения тотема на игроке.",
+  "gui.charmofundying.config.renderTotem.name": "Отображать экипированный тотем",
+  "gui.charmofundying.config.renderTotem.description": "Если включено, надетый тотем будет отображаться на игроках.",
+  "trinkets.slot.charm.charm": "Амулет"
+}
