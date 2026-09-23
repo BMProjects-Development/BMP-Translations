@@ -27,3 +27,23 @@ Release-system documentation:
 - [Русское руководство](docs/GUIDE_RU.md)
 
 The shorter [RELEASING.md](RELEASING.md) reference is also available.
+
+## License
+
+Original translations and other original materials contributed to **BMP Translations** are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license, unless otherwise noted.
+
+You are free to use, share, modify, and redistribute our translations — including as part of **modpacks, resource packs, servers, launchers, and commercial projects** — as long as you follow the license terms.
+
+In short:
+
+* You may use our translations in your projects.
+* Commercial use is allowed.
+* You may modify and improve the translations.
+* You may redistribute them.
+* You must provide appropriate credit to **BMP Translations / BMProjects (BMP)**.
+* You must indicate if you modified the material.
+* Adapted versions of our licensed material must remain available under **CC BY-SA 4.0** or a compatible license.
+* hird-party content remains subject to the rights and licenses of its respective owners.
+
+For the complete licensing terms and project-specific details, see [LICENSE.md](LICENSE.md).
+
