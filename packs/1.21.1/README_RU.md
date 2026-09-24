@@ -1,6 +1,6 @@
 # Переведённые моды для Minecraft 1.21.1
 
-BMP Translations содержит переводы для 233 модов и дополнений на Minecraft 1.21.1.
+BMP Translations содержит переводы для 238 модов и дополнений на Minecraft 1.21.1.
 
 Список создаётся автоматически из исходников ресурспака. Ссылка на площадку отображается только тогда, когда проект на ней найден.
 
@@ -79,6 +79,9 @@ BMP Translations содержит переводы для 233 модов и до
 - Eatinganimation
 - Elemental Craft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
 - Embeddium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embeddium) · [Modrinth](https://modrinth.com/mod/embeddium)
+- Emi Enchanting
+- Emi Letsdo Compat
+- Emi Ores
 - Emirecipesharing
 - Enchanted
 - Enchdesc
@@ -197,6 +200,7 @@ BMP Translations содержит переводы для 233 модов и до
 - Simplyswords
 - Simplytooltips
 - Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- Sophisticatedbackpacks
 - Soulplied Energistics
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - StarbuncleMania
@@ -223,6 +227,7 @@ BMP Translations содержит переводы для 233 модов и до
 - Voltaic — [Modrinth](https://modrinth.com/mod/voltaic)
 - Wavy Water — [Modrinth](https://modrinth.com/mod/waves)
 - Waystones — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones) · [Modrinth](https://modrinth.com/mod/waystones)
+- Wildernature
 - Witcher Rpg
 - Wizard Tower
 - Wooden Bucket — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wooden-bucket)

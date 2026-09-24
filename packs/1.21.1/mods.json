@@ -565,6 +565,27 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/embeddium"
     },
     {
+      "name": "Emi Enchanting",
+      "namespaces": [
+        "emi_enchanting"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Emi Letsdo Compat",
+      "namespaces": [
+        "emi_letsdo_compat"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Emi Ores",
+      "namespaces": [
+        "emi_ores"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Emirecipesharing",
       "namespaces": [
         "emirecipesharing"
@@ -1448,6 +1469,13 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage"
     },
     {
+      "name": "Sophisticatedbackpacks",
+      "namespaces": [
+        "sophisticatedbackpacks"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Soulplied Energistics",
       "namespaces": [
         "soulplied_energistics"
@@ -1641,6 +1669,13 @@
       "modrinth": "https://modrinth.com/mod/waystones",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/waystones"
+    },
+    {
+      "name": "Wildernature",
+      "namespaces": [
+        "wildernature"
+      ],
+      "resolved": false
     },
     {
       "name": "Witcher Rpg",

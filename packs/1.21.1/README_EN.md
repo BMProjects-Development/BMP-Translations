@@ -1,6 +1,6 @@
 # Translated mods for Minecraft 1.21.1
 
-BMP Translations currently contains translations for 233 mods and add-ons on Minecraft 1.21.1.
+BMP Translations currently contains translations for 238 mods and add-ons on Minecraft 1.21.1.
 
 The list is generated from the resource-pack sources. A platform link is shown only when the project was found there.
 
@@ -79,6 +79,9 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Eatinganimation
 - Elemental Craft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
 - Embeddium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embeddium) · [Modrinth](https://modrinth.com/mod/embeddium)
+- Emi Enchanting
+- Emi Letsdo Compat
+- Emi Ores
 - Emirecipesharing
 - Enchanted
 - Enchdesc
@@ -197,6 +200,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Simplyswords
 - Simplytooltips
 - Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
+- Sophisticatedbackpacks
 - Soulplied Energistics
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - StarbuncleMania
@@ -223,6 +227,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Voltaic — [Modrinth](https://modrinth.com/mod/voltaic)
 - Wavy Water — [Modrinth](https://modrinth.com/mod/waves)
 - Waystones — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones) · [Modrinth](https://modrinth.com/mod/waystones)
+- Wildernature
 - Witcher Rpg
 - Wizard Tower
 - Wooden Bucket — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/wooden-bucket)

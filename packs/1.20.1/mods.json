@@ -2,6 +2,14 @@
   "minecraft": "1.20.1",
   "mods": [
     {
+      "name": "Advanced Loot Info (ALI)",
+      "namespaces": [
+        "ali"
+      ],
+      "resolved": true,
+      "modrinth": "https://modrinth.com/mod/advanced-loot-info"
+    },
+    {
       "name": "AE2",
       "namespaces": [
         "ae2"
@@ -81,6 +89,44 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/angel-ring"
     },
     {
+      "name": "Animus",
+      "namespaces": [
+        "animus"
+      ],
+      "modrinth": "https://modrinth.com/mod/animus",
+      "resolved": true
+    },
+    {
+      "name": "Appliedcooking",
+      "namespaces": [
+        "appliedcooking"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "AppliedE",
+      "namespaces": [
+        "appliede"
+      ],
+      "modrinth": "https://modrinth.com/mod/appliede",
+      "resolved": true
+    },
+    {
+      "name": "AStages",
+      "namespaces": [
+        "astages"
+      ],
+      "modrinth": "https://modrinth.com/mod/astages",
+      "resolved": true
+    },
+    {
+      "name": "Astages Curios",
+      "namespaces": [
+        "astages_curios"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Automobility",
       "namespaces": [
         "automobility"
@@ -115,6 +161,13 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/betternether"
     },
     {
+      "name": "Bhmenu",
+      "namespaces": [
+        "bhmenu"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Bigreactors",
       "namespaces": [
         "bigreactors"
@@ -130,9 +183,24 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
     },
     {
+      "name": "Block Entity Extended Rendering",
+      "namespaces": [
+        "beer"
+      ],
+      "modrinth": "https://modrinth.com/mod/beer",
+      "resolved": true
+    },
+    {
       "name": "Block Factorys Bosses",
       "namespaces": [
         "block_factorys_bosses"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Blockrunner",
+      "namespaces": [
+        "blockrunner"
       ],
       "resolved": false
     },
@@ -143,6 +211,21 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blood-magic"
+    },
+    {
+      "name": "Blood Magic: Woot Addon",
+      "namespaces": [
+        "bloodmagicwootaddon"
+      ],
+      "modrinth": "https://modrinth.com/mod/bloodmagicwootaddon",
+      "resolved": true
+    },
+    {
+      "name": "Bloodmagicteams",
+      "namespaces": [
+        "bloodmagicteams"
+      ],
+      "resolved": false
     },
     {
       "name": "Botany Pots",
@@ -169,9 +252,30 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets"
     },
     {
+      "name": "Busy Villagers",
+      "namespaces": [
+        "busy_villagers"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Byg",
       "namespaces": [
         "byg"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Carbonconfig",
+      "namespaces": [
+        "carbonconfig"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Cataclysm Amethyst Crab Temple",
+      "namespaces": [
+        "cataclysm_amethyst_crab_temple"
       ],
       "resolved": false
     },
@@ -183,6 +287,13 @@
       "modrinth": "https://modrinth.com/mod/caupona",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/caupona"
+    },
+    {
+      "name": "Charmofundying",
+      "namespaces": [
+        "charmofundying"
+      ],
+      "resolved": false
     },
     {
       "name": "Chemical Science",
@@ -209,6 +320,35 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8"
+    },
+    {
+      "name": "Collective",
+      "namespaces": [
+        "collective"
+      ],
+      "modrinth": "https://modrinth.com/mod/collective",
+      "resolved": true
+    },
+    {
+      "name": "Commoncapabilities",
+      "namespaces": [
+        "commoncapabilities"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Constructionstick",
+      "namespaces": [
+        "constructionstick"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Cosmoslibrary",
+      "namespaces": [
+        "cosmoslibrary"
+      ],
+      "resolved": false
     },
     {
       "name": "Crafting Stantion",
@@ -240,6 +380,20 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cultural-delights"
+    },
+    {
+      "name": "Cyclopscore",
+      "namespaces": [
+        "cyclopscore"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Deus Ex Machina",
+      "namespaces": [
+        "deus_ex_machina"
+      ],
+      "resolved": false
     },
     {
       "name": "Dis-Enchanting Table",
@@ -274,6 +428,34 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/draconic-evolution"
     },
     {
+      "name": "Dragonfight",
+      "namespaces": [
+        "dragonfight"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dungeonsdelight",
+      "namespaces": [
+        "dungeonsdelight"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dynamic Resource Bars",
+      "namespaces": [
+        "dynamic_resource_bars"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Effortlessbuilding",
+      "namespaces": [
+        "effortlessbuilding"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Elemental Craft",
       "namespaces": [
         "elementalcraft"
@@ -298,12 +480,34 @@
       "resolved": false
     },
     {
+      "name": "Enchantmentdisabletag",
+      "namespaces": [
+        "enchantmentdisabletag"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Enchdesc",
+      "namespaces": [
+        "enchdesc"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Ender's Delight",
       "namespaces": [
         "endersdelight"
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/enders-delight"
+    },
+    {
+      "name": "Energy Meter",
+      "namespaces": [
+        "energymeter"
+      ],
+      "modrinth": "https://modrinth.com/mod/energymeter",
+      "resolved": true
     },
     {
       "name": "Entity Culling",
@@ -313,6 +517,14 @@
       "modrinth": "https://modrinth.com/mod/entityculling",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/entityculling"
+    },
+    {
+      "name": "EntityJS",
+      "namespaces": [
+        "entityjs"
+      ],
+      "modrinth": "https://modrinth.com/mod/entityjs",
+      "resolved": true
     },
     {
       "name": "Er2create",
@@ -339,6 +551,45 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/everything-is-copper"
     },
     {
+      "name": "Fastload",
+      "namespaces": [
+        "fastload"
+      ],
+      "modrinth": "https://modrinth.com/mod/fastload",
+      "resolved": true
+    },
+    {
+      "name": "Fdbosses",
+      "namespaces": [
+        "fdbosses"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "FindMe",
+      "namespaces": [
+        "findme"
+      ],
+      "modrinth": "https://modrinth.com/mod/findme",
+      "resolved": true
+    },
+    {
+      "name": "FLIB",
+      "namespaces": [
+        "flib"
+      ],
+      "modrinth": "https://modrinth.com/mod/flib",
+      "resolved": true
+    },
+    {
+      "name": "Fragmentum",
+      "namespaces": [
+        "fragmentum"
+      ],
+      "modrinth": "https://modrinth.com/mod/fragmentum",
+      "resolved": true
+    },
+    {
       "name": "Framed Blocks",
       "namespaces": [
         "framedblocks"
@@ -346,6 +597,34 @@
       "modrinth": "https://modrinth.com/mod/framedblocks",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/framedblocks"
+    },
+    {
+      "name": "Ftbauxilium",
+      "namespaces": [
+        "ftbauxilium"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ftbfiltersystem",
+      "namespaces": [
+        "ftbfiltersystem"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ftblh",
+      "namespaces": [
+        "ftblh"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ftbpc",
+      "namespaces": [
+        "ftbpc"
+      ],
+      "resolved": false
     },
     {
       "name": "Ftbquests",
@@ -387,6 +666,14 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/hadean-breathe"
     },
     {
+      "name": "Hyperbox",
+      "namespaces": [
+        "hyperbox"
+      ],
+      "modrinth": "https://modrinth.com/mod/hyperbox",
+      "resolved": true
+    },
+    {
       "name": "Iron Furnaces",
       "namespaces": [
         "ironfurnaces"
@@ -401,6 +688,27 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks"
+    },
+    {
+      "name": "Irons Lib",
+      "namespaces": [
+        "irons_lib"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Irons Patreon Lib",
+      "namespaces": [
+        "irons_patreon_lib"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Irons Spellbooks",
+      "namespaces": [
+        "irons_spellbooks"
+      ],
+      "resolved": false
     },
     {
       "name": "Itemcollectors",
@@ -616,6 +924,13 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/playing-cards-chips"
     },
     {
+      "name": "Portablehole",
+      "namespaces": [
+        "portablehole"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Productive Bees",
       "namespaces": [
         "productivebees"
@@ -623,6 +938,27 @@
       "modrinth": "https://modrinth.com/mod/productivebees",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/productive-bees"
+    },
+    {
+      "name": "Projectexpansion",
+      "namespaces": [
+        "projectexpansion"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Puffish Attributes",
+      "namespaces": [
+        "puffish_attributes"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Rainshield",
+      "namespaces": [
+        "rainshield"
+      ],
+      "resolved": false
     },
     {
       "name": "Rechiseled",
@@ -649,11 +985,49 @@
       "resolved": false
     },
     {
+      "name": "Rgp Client",
+      "namespaces": [
+        "rgp_client"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Roots",
       "namespaces": [
         "roots"
       ],
       "resolved": true
+    },
+    {
+      "name": "Runelic",
+      "namespaces": [
+        "runelic"
+      ],
+      "modrinth": "https://modrinth.com/mod/runelic",
+      "resolved": true
+    },
+    {
+      "name": "RunicLib",
+      "namespaces": [
+        "runiclib"
+      ],
+      "modrinth": "https://modrinth.com/mod/runiclib",
+      "resolved": true
+    },
+    {
+      "name": "SebastrnLib",
+      "namespaces": [
+        "sebastrnlib"
+      ],
+      "modrinth": "https://modrinth.com/mod/sebastrnlib",
+      "resolved": true
+    },
+    {
+      "name": "Shulkertooltip",
+      "namespaces": [
+        "shulkertooltip"
+      ],
+      "resolved": false
     },
     {
       "name": "Sophisticated Storage",
@@ -664,6 +1038,43 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage"
     },
     {
+      "name": "Spacecatasb",
+      "namespaces": [
+        "spacecatasb"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Starbunclemania",
+      "namespaces": [
+        "starbunclemania"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Sticks to Wands",
+      "namespaces": [
+        "scraps"
+      ],
+      "modrinth": "https://modrinth.com/mod/scraps",
+      "resolved": true
+    },
+    {
+      "name": "Structure Layout Optimizer",
+      "namespaces": [
+        "structure_layout_optimizer"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Structurify - Structure Control",
+      "namespaces": [
+        "structurify"
+      ],
+      "modrinth": "https://modrinth.com/mod/structurify",
+      "resolved": true
+    },
+    {
       "name": "Structurize",
       "namespaces": [
         "structurize"
@@ -672,9 +1083,39 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/structurize"
     },
     {
+      "name": "TeamProjectE",
+      "namespaces": [
+        "teamprojecte"
+      ],
+      "modrinth": "https://modrinth.com/mod/teamprojecte",
+      "resolved": true
+    },
+    {
       "name": "Tiab",
       "namespaces": [
         "tiab"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Tinkers' Integrations and Tweaks",
+      "namespaces": [
+        "tcintegrations"
+      ],
+      "modrinth": "https://modrinth.com/mod/tcintegrations",
+      "resolved": true
+    },
+    {
+      "name": "Tinkersjewelry",
+      "namespaces": [
+        "tinkersjewelry"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Tinkerslevellingaddon",
+      "namespaces": [
+        "tinkerslevellingaddon"
       ],
       "resolved": false
     },
@@ -685,6 +1126,29 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/toast-control"
+    },
+    {
+      "name": "ToolKit",
+      "namespaces": [
+        "toolkit"
+      ],
+      "modrinth": "https://modrinth.com/mod/toolkit",
+      "resolved": true
+    },
+    {
+      "name": "Tooltipoverhaul",
+      "namespaces": [
+        "tooltipoverhaul"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "TrashSlot",
+      "namespaces": [
+        "trashslot"
+      ],
+      "modrinth": "https://modrinth.com/mod/trashslot",
+      "resolved": true
     },
     {
       "name": "Twilight Delight",
@@ -707,6 +1171,21 @@
       "namespaces": [
         "undead_unleashed"
       ],
+      "resolved": true
+    },
+    {
+      "name": "Uteamcore",
+      "namespaces": [
+        "uteamcore"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Utilitarian",
+      "namespaces": [
+        "utilitarian"
+      ],
+      "modrinth": "https://modrinth.com/mod/utilitarian",
       "resolved": true
     },
     {
@@ -741,6 +1220,13 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/wooden-bucket"
+    },
+    {
+      "name": "Woot Revived",
+      "namespaces": [
+        "woot_revived"
+      ],
+      "resolved": false
     },
     {
       "name": "Xaero's World Map",
