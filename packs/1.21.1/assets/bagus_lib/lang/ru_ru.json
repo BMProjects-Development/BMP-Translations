@@ -1,0 +1,12 @@
+{
+  "bagus_lib.config.shakeCameraForVanilla": "Включить тряску камеры для ванильного режима",
+  "bagus_lib.config.aprilFeature": "Включить апрельскую функцию",
+  "bagus_lib.config.betterEndPoem": "Улучшенная поэма Края",
+  "bagus_lib.config.playableFirstPerson": "Играбельный вид от первого лица",
+  "entity.bagus_lib.mini_bagu": "Мини-Багу",
+  "bagus_lib.watermelon": "Арбуз",
+  "command.bagus_lib.remove_all_dialog": "Все диалоги успешно удалены",
+  "command.bagus_lib.item_dialog": "Диалог с предметом успешно добавлен",
+  "command.bagus_lib.dialog": "Диалог успешно добавлен",
+  "command.bagus_lib.image_dialog": "Диалог с изображением успешно добавлен"
+}

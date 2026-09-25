@@ -1,0 +1,85 @@
+{
+  "marvellegacy.configuration.title": "Настройки мода Marvel Legacy",
+  "marvellegacy.configuration.section.marvellegacy.common.toml": "Настройки мода Marvel Legacy",
+  "marvellegacy.configuration.section.marvellegacy.common.toml.title": "Настройки мода Marvel Legacy",
+  "marvellegacy.configuration.renderPowerHud": "Отображать HUD способностей",
+  "marvellegacy.configuration.craftablePaperBags": "Создаваемые бумажные пакеты",
+
+  "key.categories.marvellegacy": "Клавиши отладки мода",
+  "key.marvellegacy.ability_1_key": "Способность №1",
+  "key.marvellegacy.ability_2_key": "Способность №2",
+  "key.marvellegacy.ability_3_key": "Способность №3",
+  "key.marvellegacy.ability_4_key": "Способность №4",
+  "key.marvellegacy.ability_5_key": "Способность №5",
+
+  "itemTab.marvellegacy.block_tab": "Блоки Marvel Legacy",
+  "itemTab.marvellegacy.item_tab": "Предметы Marvel Legacy",
+  "itemTab.marvellegacy.suit_tab": "Костюмы Marvel Legacy",
+
+  "block.marvellegacy.tailoring_bench": "Портновский верстак",
+
+  "item.marvellegacy.sewing_kit": "Набор для шитья",
+  "item.marvellegacy.cloth_white": "Белая ткань",
+  "item.marvellegacy.cloth_light_gray": "Светло-серая ткань",
+  "item.marvellegacy.cloth_gray": "Серая ткань",
+  "item.marvellegacy.cloth_black": "Чёрная ткань",
+  "item.marvellegacy.cloth_brown": "Коричневая ткань",
+  "item.marvellegacy.cloth_red": "Красная ткань",
+  "item.marvellegacy.cloth_orange": "Оранжевая ткань",
+  "item.marvellegacy.cloth_yellow": "Жёлтая ткань",
+  "item.marvellegacy.cloth_lime": "Лаймовая ткань",
+  "item.marvellegacy.cloth_green": "Зелёная ткань",
+  "item.marvellegacy.cloth_cyan": "Бирюзовая ткань",
+  "item.marvellegacy.cloth_light_blue": "Голубая ткань",
+  "item.marvellegacy.cloth_blue": "Синяя ткань",
+  "item.marvellegacy.cloth_purple": "Фиолетовая ткань",
+  "item.marvellegacy.cloth_magenta": "Пурпурная ткань",
+  "item.marvellegacy.cloth_pink": "Розовая ткань",
+
+  "item.marvellegacy.paper_bag": "Бумажный пакет",
+
+  "item.marvellegacy.syringe_empty": "Шприц",
+  "item.marvellegacy.syringe_spider_powers_peter_parker": "Шприц",
+  "item.marvellegacy.syringe_weapon_x_logan": "Шприц",
+
+  "item.marvellegacy.vial_empty": "Стеклянный флакон",
+  "item.marvellegacy.vial_water": "Флакон с водой",
+  "item.marvellegacy.vial_web_fluid": "Флакон с паутинной жидкостью",
+
+  "item.marvellegacy.web_cartridge": "Картридж для паутины",
+
+  "item.marvellegacy.web_shooters": "Паутинные стрелялки",
+
+  "item.marvellegacy.spiderman_classic_helmet": "Маска Человека-паука",
+  "item.marvellegacy.spiderman_classic_chestplate": "Костюм Человека-паука",
+  "item.marvellegacy.spiderman_classic_leggings": "Штаны Человека-паука",
+  "item.marvellegacy.spiderman_classic_boots": "Ботинки Человека-паука",
+
+  "item.marvellegacy.spiderman_original_helmet": "Маска Человека-паука",
+  "item.marvellegacy.spiderman_original_chestplate": "Костюм Человека-паука",
+  "item.marvellegacy.spiderman_original_leggings": "Штаны Человека-паука",
+  "item.marvellegacy.spiderman_original_boots": "Ботинки Человека-паука",
+
+  "item.marvellegacy.spiderman_bagman_helmet": "Маска Человека-паука",
+  "item.marvellegacy.spiderman_bagman_chestplate": "Костюм Человека-паука",
+  "item.marvellegacy.spiderman_bagman_leggings": "Штаны Человека-паука",
+  "item.marvellegacy.spiderman_bagman_boots": "Носки Человека-паука",
+
+  "item.marvellegacy.spiderman_tasmii_helmet": "Маска Человека-паука",
+  "item.marvellegacy.spiderman_tasmii_chestplate": "Костюм Человека-паука",
+  "item.marvellegacy.spiderman_tasmii_leggings": "Штаны Человека-паука",
+  "item.marvellegacy.spiderman_tasmii_boots": "Ботинки Человека-паука",
+
+  "item.marvellegacy.wolverine_classic_helmet": "Капюшон Росомахи",
+  "item.marvellegacy.wolverine_classic_chestplate": "Костюм Росомахи",
+  "item.marvellegacy.wolverine_classic_leggings": "Штаны Росомахи",
+  "item.marvellegacy.wolverine_classic_boots": "Ботинки Росомахи",
+
+  "item.marvellegacy.wolverine_original_helmet": "Капюшон Росомахи",
+  "item.marvellegacy.wolverine_original_chestplate": "Костюм Росомахи",
+  "item.marvellegacy.wolverine_original_leggings": "Штаны Росомахи",
+  "item.marvellegacy.wolverine_original_boots": "Ботинки Росомахи",
+
+  "effects.marvellegacy.webbed_effect": "Опутан паутиной",
+  "effects.marvellegacy.bleed_effect": "Кровотечение"
+}

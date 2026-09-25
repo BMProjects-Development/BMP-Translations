@@ -1,0 +1,7 @@
+{
+  "step.bjornlib.collect_item_step": "Соберите %s — %s / %s",
+  "step.bjornlib.kill_mob_step": "Убейте %s — %s / %s",
+  "step.bjornlib.consume_item_step": "Съешьте %s — %s / %s",
+  "category.bjornlib.main_quest.name": "Основное задание",
+  "category.bjornlib.secondary_quest.name": "Побочное задание"
+}

@@ -1,0 +1,23 @@
+{
+  "creeperfireworks.configuration.colors.description": "Цвета, используемые в фейерверке. Требуется формат HEX.",
+  "creeperfireworks.configuration.colors.name": "Цвета фейерверка",
+  "creeperfireworks.configuration.disableblockdamage.description": "Установите значение true/вкл., чтобы отключить повреждение блоков при взрыве крипера.",
+  "creeperfireworks.configuration.disableblockdamage.name": "Отключить повреждение блоков",
+  "creeperfireworks.configuration.disableitemdamage.description": "Установите значение true/вкл., чтобы отключить повреждение выпавших предметов при взрыве крипера.",
+  "creeperfireworks.configuration.disableitemdamage.name": "Отключить повреждение предметов",
+  "creeperfireworks.configuration.fireworkschance.description": "Шанс появления фейерверка после взрыва крипера.",
+  "creeperfireworks.configuration.fireworkschance.name": "Шанс фейерверка",
+  "creeperfireworks.configuration.fireworksflicker.description": "Настройка мерцания фейерверка (соответствует параметру фейерверков Minecraft).",
+  "creeperfireworks.configuration.fireworksflicker.name": "Мерцание фейерверка",
+  "creeperfireworks.configuration.fireworksheight.description": "Высота над крипером, на которой взрывается фейерверк.",
+  "creeperfireworks.configuration.fireworksheight.name": "Высота фейерверка",
+  "creeperfireworks.configuration.fireworksshape.description": "Настройка формы фейерверка (соответствует параметру фейерверков Minecraft).",
+  "creeperfireworks.configuration.fireworksshape.name": "Форма фейерверка",
+  "creeperfireworks.configuration.fireworkstrail.description": "Настройка следа фейерверка (соответствует параметру фейерверков Minecraft).",
+  "creeperfireworks.configuration.fireworkstrail.name": "След фейерверка",
+  "creeperfireworks.configuration.general.description": "Настройки всех функций взаимодействия криперов с миром в этом моде.",
+  "creeperfireworks.configuration.general.name": "Общие настройки",
+  "creeperfireworks.configuration.title": "Creeper Fireworks",
+  "creeperfireworks.configuration.visuals.description": "Все настройки, связанные с отображением фейерверков при взрыве крипера.",
+  "creeperfireworks.configuration.visuals.name": "Настройки отображения"
+}

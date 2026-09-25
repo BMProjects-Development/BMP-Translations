@@ -1,0 +1,6 @@
+{
+  "badmobs.configuration.allowNormalSpawning": "Обычное появление",
+  "badmobs.configuration.allowSpawners": "Спавнеры",
+  "badmobs.configuration.allowSpawnEggs": "Яйца призыва",
+  "badmobs.configuration.allowConversions": "Превращения"
+}

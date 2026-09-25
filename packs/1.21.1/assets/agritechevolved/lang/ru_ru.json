@@ -1,0 +1,138 @@
+{
+  "creativetab.agritechevolved": "Agritech: Evolved",
+
+  "block.agritechevolved.basic_planter": "Простой дубовый контейнер для растений",
+  "block.agritechevolved.basic_acacia_planter": "Простой акациевый контейнер для растений",
+  "block.agritechevolved.basic_bamboo_planter": "Простой бамбуковый контейнер для растений",
+  "block.agritechevolved.basic_birch_planter": "Простой берёзовый контейнер для растений",
+  "block.agritechevolved.basic_cherry_planter": "Простой вишнёвый контейнер для растений",
+  "block.agritechevolved.basic_crimson_planter": "Простой багровый контейнер для растений",
+  "block.agritechevolved.basic_dark_oak_planter": "Простой контейнер для растений из тёмного дуба",
+  "block.agritechevolved.basic_jungle_planter": "Простой контейнер для растений из тропического дерева",
+  "block.agritechevolved.basic_mangrove_planter": "Простой мангровый контейнер для растений",
+  "block.agritechevolved.basic_spruce_planter": "Простой еловый контейнер для растений",
+  "block.agritechevolved.basic_warped_planter": "Простой искажённый контейнер для растений",
+
+  "block.agritechevolved.advanced_planter": "Продвинутый контейнер для растений",
+
+  "block.agritechevolved.composter": "Компостер",
+
+  "block.agritechevolved.biomass_burner": "Биомассовый генератор",
+
+  "block.agritechevolved.capacitor_tier1": "Конденсатор 1-го уровня",
+  "block.agritechevolved.capacitor_tier2": "Конденсатор 2-го уровня",
+  "block.agritechevolved.capacitor_tier3": "Конденсатор 3-го уровня",
+
+  "block.agritechevolved.compacted_biomass_block": "Блок сжатой биомассы",
+
+  "block.agritechevolved.infused_farmland": "Насыщенная грядка",
+  "block.agritechevolved.mulch": "Мульча",
+
+  "item.agritechevolved.sm_mk1": "СМ-МК1",
+  "item.agritechevolved.sm_mk2": "СМ-МК2",
+  "item.agritechevolved.sm_mk3": "СМ-МК3",
+  "item.agritechevolved.ym_mk1": "УМ-МК1",
+  "item.agritechevolved.ym_mk2": "УМ-МК2",
+  "item.agritechevolved.ym_mk3": "УМ-МК3",
+
+  "item.agritechevolved.cloche_dome": "Купол-клош",
+
+  "item.agritechevolved.cloche.tooltip.line1": "Разместите на контейнере для растений, чтобы ускорить рост и повысить урожайность.",
+  "item.agritechevolved.cloche.tooltip.line2": "Складывается с удобрением для максимальной эффективности.",
+  "item.agritechevolved.cloche.tooltip.line3": "Shift + ПКМ пустой рукой, чтобы снять.",
+
+  "item.agritechevolved.crude_biomass": "Необработанная биомасса",
+  "item.agritechevolved.biomass": "Биомасса",
+  "item.agritechevolved.compacted_biomass": "Сжатая биомасса",
+
+  "gui.agritechevolved.basic_planter": "Простой контейнер для растений",
+  "gui.agritechevolved.advanced_planter": "Продвинутый контейнер для растений",
+  "gui.agritechevolved.biomass_burner": "Биомассовый генератор",
+  "gui.agritechevolved.composter": "Компостер",
+  "gui.agritechevolved.capacitor": "Конденсатор",
+
+  "message.agritechevolved.invalid_plant_soil_combination": "Семена/саженец не могут расти на этой почве",
+  "message.agritechevolved.same_farmland": "Эта грядка уже такого типа!",
+
+  "tooltip.agritechevolved.sm_mk1": "§6§n§lУдерживайте Shift для подробностей§r§r§r",
+  "tooltip.agritechevolved.sm_mk2": "§6§n§lУдерживайте Shift для подробностей§r§r§r",
+  "tooltip.agritechevolved.sm_mk3": "§6§n§lУдерживайте Shift для подробностей§r§r§r",
+
+  "tooltip.agritechevolved.ym_mk1": "§6§n§lУдерживайте Shift для подробностей§r§r§r",
+  "tooltip.agritechevolved.ym_mk2": "§6§n§lУдерживайте Shift для подробностей§r§r§r",
+  "tooltip.agritechevolved.ym_mk3": "§6§n§lУдерживайте Shift для подробностей§r§r§r",
+
+  "tooltip.agritechevolved.crude_biomass": "Начальное топливо для биомассового генератора",
+  "tooltip.agritechevolved.biomass": "Используется для создания сжатой биомассы",
+  "tooltip.agritechevolved.compacted": "Используется для создания мульчи",
+
+  "tooltip.agritechevolved.mulch": "§aИспользуется в контейнерах для растений. Даёт 50% скорости роста. Используется для создания насыщенной грядки§r",
+  "tooltip.agritechevolved.infused_farmland": "§aИспользуется в контейнерах для растений или как обычная грядка. Даёт 100% скорости роста§r",
+
+  "jei.agritechevolved.planter.tooltip": "Простые и продвинутые контейнеры для растений",
+  "jei.agritechevolved.composting.tooltip": "Компостирование",
+
+  "tooltip.agritechevolved.stored_energy": "Накопленная энергия",
+  "tooltip.agritechevolved.growth_progress": "Прогресс роста",
+  "tooltip.agritechevolved.view_recipes": "Нажмите, чтобы посмотреть рецепты",
+
+  "tooltip.agritechevolved.composting_progress": "Прогресс компостирования",
+
+  "tooltip.agritechevolved.burner.energy": "Энергия: %s / %s RF",
+  "tooltip.agritechevolved.burner.energy_percentage": "%s%% заполнено",
+  "tooltip.agritechevolved.burner.burning_progress": "Прогресс сжигания",
+  "tooltip.agritechevolved.burner.progress_percentage": "%s%% завершено",
+  "tooltip.agritechevolved.burner.time_remaining": "Осталось %s секунд",
+  "tooltip.agritechevolved.burner.no_fuel": "Нет топлива",
+  "tooltip.agritechevolved.burner.insert_fuel": "Вставьте биомассу или сжатую биомассу",
+  "tooltip.agritechevolved.burner.fuel_slot": "Слот для топлива",
+  "tooltip.agritechevolved.burner.accepts": "Принимает:",
+  "tooltip.agritechevolved.burner.accepts_biomass": "• Биомасса",
+  "tooltip.agritechevolved.burner.accepts_compacted_biomass": "• Сжатая биомасса",
+
+  "tooltip.agritechevolved.capacitor.title": "Конденсатор %s",
+  "tooltip.agritechevolved.capacitor.energy_storage": "Хранилище энергии",
+  "tooltip.agritechevolved.capacitor.energy": "%s / %s RF",
+  "tooltip.agritechevolved.capacitor.energy_percentage": "%s%% заполнено",
+  "tooltip.agritechevolved.capacitor.transfer_rate": "Скорость передачи: %s RF/т",
+  "tooltip.agritechevolved.capacitor.connects_all_sides": "Подключается со всех сторон",
+  "tooltip.agritechevolved.capacitor.except_bottom": "(кроме низа)",
+  "tooltip.agritechevolved.capacitor.description": "Хранение и распределение RF",
+  "tooltip.agritechevolved.capacitor.max_transfer": "Макс. передача: %s RF/т",
+  "tooltip.agritechevolved.capacitor.information": "Информация о конденсаторе",
+  "tooltip.agritechevolved.capacitor.info_stores": "• Хранит и распределяет энергию RF",
+  "tooltip.agritechevolved.capacitor.info_balances": "• Автоматически балансирует энергию",
+  "tooltip.agritechevolved.capacitor.info_automatic": "• Не требует ручного управления",
+  "tooltip.agritechevolved.capacitor.stored_energy": "Накоплено энергии: %s RF",
+
+  "tooltip.agritechevolved.biomass.rf_generation": "Генерирует %s RF при сжигании",
+  "tooltip.agritechevolved.compacted_biomass.rf_generation": "Генерирует %s RF при сжигании",
+  "tooltip.agritechevolved.crude_biomass.rf_generation": "Генерирует %s RF при сжигании",
+  "tooltip.agritechevolved.crude_biomass.inefficient": "Очень неэффективно",
+
+  "tooltip.agritechevolved.module.shift_info": "§6§oУдерживайте Shift для информации§r",
+  "tooltip.agritechevolved.module.speed_boost": "§aУскоряет обработку в продвинутом контейнере и машинах на %s%%§r",
+  "tooltip.agritechevolved.module.power_increase": "§cно увеличивает энергопотребление на %s%%§r",
+  "tooltip.agritechevolved.module.yield_boost": "§aПовышает урожайность продвинутого контейнера на %s%%§r",
+  "tooltip.agritechevolved.module.speed_reduction": "§cно снижает скорость обработки на %s%%§r",
+
+  "tooltip.agritechevolved.fertilizer.effects": "Эффекты удобрения:",
+  "tooltip.agritechevolved.fertilizer.speed_boost": "§aУскоряет работу контейнера на %s%%§r",
+  "tooltip.agritechevolved.fertilizer.yield_boost": "§aПовышает урожайность контейнера на %s%%§r",
+
+  "tooltip.agritechevolved.fuel.burn_duration": "§bГорит %s секунд§r",
+  "tooltip.agritechevolved.fuel.rf_per_second": "§eГенерирует %s RF/секунду§r",
+  "tooltip.agritechevolved.fuel.duration_bonus": "§a+%s%% RF за более долгое горение§r",
+  "tooltip.agritechevolved.fuel.duration_penalty": "§c-%s%% RF за более короткое горение§r",
+  "tooltip.agritechevolved.fuel.shift_info": "§6§oУдерживайте Shift для информации о топливе и удобрении§r",
+  "tooltip.agritechevolved.crude_fuel.shift_info": "§6§oУдерживайте Shift для информации о топливе§r",
+
+  "jade.agritechevolved.crop_ready": "%s — готово к сбору!",
+  "jade.agritechevolved.crop_progress": "%s — стадия %d/%d (%d%%)",
+  "jade.agritechevolved.soil_info": "Почва: %s (рост %s)",
+  "jade.agritechevolved.modules_installed": "Модули: %s",
+  "jade.agritechevolved.fertilizer_info": "Удобрение: %s",
+  "jade.agritechevolved.cloche_installed": "Клош: установлен (скорость: %s, урожай: %s)",
+  "jade.agritechevolved.energy_info": "Энергия: %s / %s RF",
+  "jade.agritechevolved.module_info": "Модули: Скорость %s | Урожай %s"
+}

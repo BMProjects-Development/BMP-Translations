@@ -1,0 +1,41 @@
+{
+  "creativetab.agritechtwo": "Agritech: Two",
+
+  "block.agritechtwo.acacia_planter": "Акациевый контейнер для растений",
+  "block.agritechtwo.bamboo_planter": "Бамбуковый контейнер для растений",
+  "block.agritechtwo.birch_planter": "Берёзовый контейнер для растений",
+  "block.agritechtwo.cherry_planter": "Вишнёвый контейнер для растений",
+  "block.agritechtwo.crimson_planter": "Багровый контейнер для растений",
+  "block.agritechtwo.dark_oak_planter": "Контейнер для растений из тёмного дуба",
+  "block.agritechtwo.jungle_planter": "Контейнер для растений из тропического дерева",
+  "block.agritechtwo.mangrove_planter": "Мангровый контейнер для растений",
+  "block.agritechtwo.oak_planter": "Дубовый контейнер для растений",
+  "block.agritechtwo.spruce_planter": "Еловый контейнер для растений",
+  "block.agritechtwo.warped_planter": "Искажённый контейнер для растений",
+
+  "item.agritechtwo.cloche_dome": "Купол-клош",
+
+  "blockentity.agritechtwo.name": "Контейнер для растений",
+
+  "container.agritechtwo.planter": "Контейнер Agritech",
+
+  "jei.agritechtwo.planter.tooltip": "Контейнеры для растений Agritech",
+
+  "message.agritechtwo.invalid_seed_soil_combination": "Это семя не может расти на такой почве!",
+  "message.agritechtwo.invalid_soil": "Этот блок нельзя использовать как почву!",
+  "message.agritechtwo.slots_full": "Контейнер для растений заполнен!",
+  "message.agritechtwo.same_farmland": "Эта грядка уже такого типа!",
+
+  "tooltip.agritechtwo.growth_progress": "Прогресс роста",
+  "tooltip.agritechtwo.view_recipes": "Нажмите, чтобы посмотреть рецепты",
+
+  "item.agritechtwo.cloche.tooltip.line1": "Разместите на контейнере для растений, чтобы ускорить рост и повысить урожайность.",
+  "item.agritechtwo.cloche.tooltip.line2": "Складывается с удобрением для максимальной эффективности.",
+  "item.agritechtwo.cloche.tooltip.line3": "Shift + ПКМ пустой рукой, чтобы снять.",
+
+  "jade.agritechtwo.crop_progress": "%s (стадия %d/%d — %d%%)",
+  "jade.agritechtwo.crop_ready": "%s (готово к сбору)",
+  "jade.agritechtwo.soil_info": "Почва: %s (скорость %s)",
+  "jade.agritechtwo.fertilizer_info": "Удобрение: %s (скорость: %s, урожай: %s)",
+  "jade.agritechtwo.cloche_installed": "Клош: установлен (скорость: %s, урожай: %s)"
+}

@@ -1,0 +1,21 @@
+{
+  "block.databank.megastructure_save": "Блок мегаструктуры: сохранение",
+  "block.databank.megastructure_save.reset": "Границы успешно сброшены",
+  "block.databank.megastructure_save.corner1": "Пожалуйста, выберите первый угол",
+  "block.databank.megastructure_save.corner2": "Пожалуйста, выберите второй угол",
+  "block.databank.megastructure_save.center": "Пожалуйста, выберите центр",
+  "block.databank.megastructure_save.finished": "Границы теперь от %1$s до %2$s",
+  "block.databank.megastructure_save.saved": "Сохранено как %1$s",
+
+  "commands.databank.megastructure": "%1$s создано в %2$s",
+  "commands.databank.recheck_advancements": "Все достижения успешно перепроверены для %1$s игрока",
+  "commands.databank.recheck_advancements.plural": "Все достижения успешно перепроверены для %1$s игроков",
+  "commands.databank.open_dialogue": "Диалог успешно открыт",
+  "commands.databank.open_dialogue.fail.tree_doesnt_exist": "Дерево диалогов %1$s не существует",
+  "commands.databank.open_dialogue.fail.entry_doesnt_exist": "Запись %1$s не существует в дереве диалогов %2$s",
+
+  "entity.databank.world_gui": "Мировой интерфейс",
+
+  "databank.configuration.compatibility": "Совместимость",
+  "databank.configuration.accessibility": "Доступность"
+}
