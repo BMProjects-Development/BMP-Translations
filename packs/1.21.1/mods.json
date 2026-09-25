@@ -62,6 +62,27 @@
       "resolved": true
     },
     {
+      "name": "Agriculturalenhancements",
+      "namespaces": [
+        "agriculturalenhancements"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Agritechevolved",
+      "namespaces": [
+        "agritechevolved"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Agritechtwo",
+      "namespaces": [
+        "agritechtwo"
+      ],
+      "resolved": false
+    },
+    {
       "name": "AllTheCompressed",
       "namespaces": [
         "allthecompressed"
@@ -147,6 +168,20 @@
       "resolved": true
     },
     {
+      "name": "Archaion",
+      "namespaces": [
+        "archaion"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Armoroftheages",
+      "namespaces": [
+        "armoroftheages"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Ars Affinity",
       "namespaces": [
         "ars_affinity"
@@ -189,6 +224,21 @@
       "resolved": true
     },
     {
+      "name": "Bad Mobs",
+      "namespaces": [
+        "badmobs"
+      ],
+      "resolved": true,
+      "modrinth": "https://modrinth.com/mod/bad-mobs-fabric"
+    },
+    {
+      "name": "Bagus Lib",
+      "namespaces": [
+        "bagus_lib"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Bamboo Everything",
       "namespaces": [
         "bambooeverything"
@@ -213,6 +263,13 @@
       "resolved": true
     },
     {
+      "name": "Bhmenu",
+      "namespaces": [
+        "bhmenu"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Bigreactors",
       "namespaces": [
         "bigreactors"
@@ -228,6 +285,14 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty"
     },
     {
+      "name": "BjornLib",
+      "namespaces": [
+        "bjornlib"
+      ],
+      "modrinth": "https://modrinth.com/mod/bjornlib",
+      "resolved": true
+    },
+    {
       "name": "Block Factorys Bosses",
       "namespaces": [
         "block_factorys_bosses"
@@ -241,6 +306,14 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blood-magic"
+    },
+    {
+      "name": "Blueprint",
+      "namespaces": [
+        "blueprint"
+      ],
+      "modrinth": "https://modrinth.com/mod/blueprint",
+      "resolved": true
     },
     {
       "name": "Bonsai Trees 4",
@@ -284,6 +357,13 @@
       "name": "Cataclysm",
       "namespaces": [
         "cataclysm"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Catalogue",
+      "namespaces": [
+        "catalogue"
       ],
       "resolved": false
     },
@@ -410,6 +490,13 @@
       "modrinth": "https://modrinth.com/mod/companions-mod"
     },
     {
+      "name": "Countriesdelight",
+      "namespaces": [
+        "countriesdelight"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Crafting Stantion",
       "namespaces": [
         "craftingstation"
@@ -437,6 +524,14 @@
       "namespaces": [
         "create_shimmer"
       ],
+      "resolved": true
+    },
+    {
+      "name": "Creeper Fireworks",
+      "namespaces": [
+        "creeperfireworks"
+      ],
+      "modrinth": "https://modrinth.com/mod/creeperfireworks",
       "resolved": true
     },
     {
@@ -490,11 +585,34 @@
       "resolved": false
     },
     {
+      "name": "Cyberspace",
+      "namespaces": [
+        "cyberspace"
+      ],
+      "modrinth": "https://modrinth.com/mod/cyberspace",
+      "resolved": true
+    },
+    {
       "name": "Data & Essence",
       "namespaces": [
         "datanessence"
       ],
       "resolved": true
+    },
+    {
+      "name": "Databank",
+      "namespaces": [
+        "databank"
+      ],
+      "modrinth": "https://modrinth.com/mod/databank",
+      "resolved": true
+    },
+    {
+      "name": "Dawnoftimebuilder",
+      "namespaces": [
+        "dawnoftimebuilder"
+      ],
+      "resolved": false
     },
     {
       "name": "Deepdarkdimdungeons",
@@ -1020,6 +1138,13 @@
       "resolved": true
     },
     {
+      "name": "Marvellegacy",
+      "namespaces": [
+        "marvellegacy"
+      ],
+      "resolved": false
+    },
+    {
       "name": "ME Requester",
       "namespaces": [
         "merequester"
@@ -1175,6 +1300,20 @@
       "name": "Nethersdelight",
       "namespaces": [
         "nethersdelight"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Old Glass Photograph",
+      "namespaces": [
+        "old_glass_photograph"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Olympusmythology",
+      "namespaces": [
+        "olympusmythology"
       ],
       "resolved": false
     },

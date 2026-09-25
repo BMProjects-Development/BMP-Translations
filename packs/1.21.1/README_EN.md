@@ -1,6 +1,6 @@
 # Translated mods for Minecraft 1.21.1
 
-BMP Translations currently contains translations for 238 mods and add-ons on Minecraft 1.21.1.
+BMP Translations currently contains translations for 257 mods and add-ons on Minecraft 1.21.1.
 
 The list is generated from the resource-pack sources. A platform link is shown only when the project was found there.
 
@@ -12,6 +12,9 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - AE2 Import Export Card
 - AE2 Things — [Modrinth](https://modrinth.com/mod/ae2things)
 - AE2 WT Lib
+- Agriculturalenhancements
+- Agritechevolved
+- Agritechtwo
 - AllTheCompressed — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthecompressed)
 - Allthemodium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthemodium) · [Modrinth](https://modrinth.com/mod/allthemodium)
 - AllTheOres — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alltheores)
@@ -23,25 +26,33 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Apothic Compats
 - Appex
 - Applied Flux — [Modrinth](https://modrinth.com/mod/appflux)
+- Archaion
+- Armoroftheages
 - Ars Affinity
 - Ars Creo
 - Ars Hex
 - Ars Ocultas
 - Arts And Crafts
 - Avaritia
+- Bad Mobs — [Modrinth](https://modrinth.com/mod/bad-mobs-fabric)
+- Bagus Lib
 - Bamboo Everything
 - Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
 - BetterStats — [Modrinth](https://modrinth.com/mod/betterstats)
+- Bhmenu
 - Bigreactors
 - Biomes O' Plenty — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- BjornLib — [Modrinth](https://modrinth.com/mod/bjornlib)
 - Block Factorys Bosses
 - Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- Blueprint — [Modrinth](https://modrinth.com/mod/blueprint)
 - Bonsai Trees 4
 - Botany Pots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - Brandon's Core — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brandons-core)
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 - Byg
 - Cataclysm
+- Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
 - Chancecubes
 - Chatimpressiveanimation
@@ -58,10 +69,12 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Combat Roll
 - Compact Machines
 - Companions! — [Modrinth](https://modrinth.com/mod/companions-mod)
+- Countriesdelight
 - Crafting Stantion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
 - Create Dd
 - Create Goggles — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-goggles)
 - Create: Shimmer
+- Creeper Fireworks — [Modrinth](https://modrinth.com/mod/creeperfireworks)
 - Creeperoverhaul
 - Ctov
 - Cultural Delights — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cultural-delights)
@@ -69,7 +82,10 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Custommachineryars
 - Custommachinerycreate
 - Custommachinerymekanism
+- Cyberspace — [Modrinth](https://modrinth.com/mod/cyberspace)
 - Data & Essence
+- Databank — [Modrinth](https://modrinth.com/mod/databank)
+- Dawnoftimebuilder
 - Deepdarkdimdungeons
 - Defaultoptions
 - Dimdungeous
@@ -140,6 +156,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Magistuarmory
 - Magnumtorch
 - Malum — [Modrinth](https://modrinth.com/mod/malum)
+- Marvellegacy
 - ME Requester — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/me-requester) · [Modrinth](https://modrinth.com/mod/merequester)
 - Mecrh
 - Mega Cells — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mega-cells)
@@ -161,6 +178,8 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Neruina - Ticking Entity Fixer — [Modrinth](https://modrinth.com/mod/neruina)
 - Nether Skeletons — [Modrinth](https://modrinth.com/mod/netherskeletons)
 - Nethersdelight
+- Old Glass Photograph
+- Olympusmythology
 - Openpartiesandclaims
 - Oracle Index
 - Oritech — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech) · [Modrinth](https://modrinth.com/mod/oritech)
