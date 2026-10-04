@@ -13,7 +13,7 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 1.21.1
 
 <details>
-<summary>257 mods and add-ons | модов и дополнений</summary>
+<summary>263 mods and add-ons | модов и дополнений</summary>
 
 - Accessories Compat Layer
 - Actually Additions
@@ -80,6 +80,11 @@ BMP Translations — ресурспак, созданный командой BMP
 - Combat Roll
 - Compact Machines
 - Companions! — [Modrinth](https://modrinth.com/mod/companions-mod)
+- Confluence Music
+- Confluence: Otherworld — [Modrinth](https://modrinth.com/mod/confluence)
+- Confluencegunanimationfix
+- Confluencemenuaddon
+- Confluent Enchants
 - Countriesdelight
 - Crafting Stantion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
 - Create Dd
@@ -217,6 +222,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Rftoolsbuilder
 - Rftoolspower
 - Rftoolsutility
+- Rocks
 - Roots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roots)
 - RSInfinityBooster — [Modrinth](https://modrinth.com/mod/rsinfinitybooster)
 - Schematicenergistics

@@ -1,6 +1,6 @@
 # Переведённые моды для Minecraft 1.21.1
 
-BMP Translations содержит переводы для 257 модов и дополнений на Minecraft 1.21.1.
+BMP Translations содержит переводы для 263 модов и дополнений на Minecraft 1.21.1.
 
 Список создаётся автоматически из исходников ресурспака. Ссылка на площадку отображается только тогда, когда проект на ней найден.
 
@@ -69,6 +69,11 @@ BMP Translations содержит переводы для 257 модов и до
 - Combat Roll
 - Compact Machines
 - Companions! — [Modrinth](https://modrinth.com/mod/companions-mod)
+- Confluence Music
+- Confluence: Otherworld — [Modrinth](https://modrinth.com/mod/confluence)
+- Confluencegunanimationfix
+- Confluencemenuaddon
+- Confluent Enchants
 - Countriesdelight
 - Crafting Stantion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
 - Create Dd
@@ -206,6 +211,7 @@ BMP Translations содержит переводы для 257 модов и до
 - Rftoolsbuilder
 - Rftoolspower
 - Rftoolsutility
+- Rocks
 - Roots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roots)
 - RSInfinityBooster — [Modrinth](https://modrinth.com/mod/rsinfinitybooster)
 - Schematicenergistics

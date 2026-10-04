@@ -490,6 +490,42 @@
       "modrinth": "https://modrinth.com/mod/companions-mod"
     },
     {
+      "name": "Confluence Music",
+      "namespaces": [
+        "confluence_music"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Confluence: Otherworld",
+      "namespaces": [
+        "confluence"
+      ],
+      "modrinth": "https://modrinth.com/mod/confluence",
+      "resolved": true
+    },
+    {
+      "name": "Confluencegunanimationfix",
+      "namespaces": [
+        "confluencegunanimationfix"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Confluencemenuaddon",
+      "namespaces": [
+        "confluencemenuaddon"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Confluent Enchants",
+      "namespaces": [
+        "confluent_enchants"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Countriesdelight",
       "namespaces": [
         "countriesdelight"
@@ -1508,6 +1544,13 @@
       "name": "Rftoolsutility",
       "namespaces": [
         "rftoolsutility"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Rocks",
+      "namespaces": [
+        "rocks"
       ],
       "resolved": false
     },
