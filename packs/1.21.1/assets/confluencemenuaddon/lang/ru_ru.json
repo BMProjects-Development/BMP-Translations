@@ -1,0 +1,57 @@
+{
+  "confluencemenuaddon.configuration.menus": "Меню",
+  "confluencemenuaddon.configuration.menus.tooltip": "На каких экранах отображается анимированный фон.",
+
+  "confluencemenuaddon.configuration.animation": "Анимация",
+  "confluencemenuaddon.configuration.animation.tooltip": "Как движется анимированный фон.",
+
+  "confluencemenuaddon.configuration.extra": "Дополнительно",
+  "confluencemenuaddon.configuration.extra.tooltip": "Скрытые дополнения.",
+
+  "confluencemenuaddon.configuration.enableMainMenu": "Фон главного меню",
+  "confluencemenuaddon.configuration.enableMainMenu.tooltip": "Показывать анимированный фон в главном меню.",
+
+  "confluencemenuaddon.configuration.enableWorldSelectScreen": "Фон выбора мира",
+  "confluencemenuaddon.configuration.enableWorldSelectScreen.tooltip": "Показывать анимированный фон на экране выбора мира.",
+
+  "confluencemenuaddon.configuration.enableMultiplayerScreen": "Фон сетевой игры",
+  "confluencemenuaddon.configuration.enableMultiplayerScreen.tooltip": "Показывать анимированный фон в списке серверов для сетевой игры.",
+
+  "confluencemenuaddon.configuration.enableOptionsScreen": "Фон настроек",
+  "confluencemenuaddon.configuration.enableOptionsScreen.tooltip": "Показывать анимированный фон на экране настроек.",
+
+  "confluencemenuaddon.configuration.enableCreateWorldScreen": "Фон создания мира",
+  "confluencemenuaddon.configuration.enableCreateWorldScreen.tooltip": "Показывать анимированный фон на экране создания мира.",
+
+  "confluencemenuaddon.configuration.enableModListScreen": "Фон списка модов",
+  "confluencemenuaddon.configuration.enableModListScreen.tooltip": "Показывать анимированный фон на экране списка модов.",
+
+  "confluencemenuaddon.configuration.enableConfigScreen": "Фон настроек мода",
+  "confluencemenuaddon.configuration.enableConfigScreen.tooltip": "Показывать анимированный фон на экране настройки мода (открывается кнопкой «Настройки» в списке модов).",
+
+  "confluencemenuaddon.configuration.enableAccessibilityScreen": "Фон специальных возможностей",
+  "confluencemenuaddon.configuration.enableAccessibilityScreen.tooltip": "Показывать анимированный фон на экране настроек специальных возможностей.",
+
+  "confluencemenuaddon.configuration.enableLanguageScreen": "Фон выбора языка",
+  "confluencemenuaddon.configuration.enableLanguageScreen.tooltip": "Показывать анимированный фон на экране выбора языка.",
+
+  "confluencemenuaddon.configuration.backgroundAnimationSpeed": "Скорость прокрутки неба",
+  "confluencemenuaddon.configuration.backgroundAnimationSpeed.tooltip": "Как быстро прокручиваются фон неба, солнце, луна и облака. Значение 0 оставляет их неподвижными.",
+
+  "confluencemenuaddon.configuration.environmentScrollSpeed": "Скорость прокрутки пейзажа",
+  "confluencemenuaddon.configuration.environmentScrollSpeed.tooltip": "Как быстро фоновый пейзаж прокручивается в стороны. Значение 0 оставляет его неподвижным.",
+
+  "confluencemenuaddon.configuration.environmentScrollDirection": "Направление прокрутки пейзажа",
+  "confluencemenuaddon.configuration.environmentScrollDirection.tooltip": "В каком направлении прокручивается фоновый пейзаж.",
+  "confluencemenuaddon.configuration.environmentScrollDirection.LEFT_TO_RIGHT": "Слева направо",
+  "confluencemenuaddon.configuration.environmentScrollDirection.RIGHT_TO_LEFT": "Справа налево",
+
+  "confluencemenuaddon.configuration.additionalScreens": "Дополнительные экраны",
+  "confluencemenuaddon.configuration.additionalScreens.tooltip": "Другие экраны для отображения фона, перечисленные по их полному имени класса.",
+
+  "confluencemenuaddon.configuration.enableSunClickLogo": "Пасхалка с логотипом",
+  "confluencemenuaddon.configuration.enableSunClickLogo.tooltip": "Нажатие на солнце или луну на анимированном фоне меняет логотип «MINECRAFT» главного меню на старую версию до перезапуска игры.",
+
+  "confluencemenuaddon.configuration.enableConfluenceSplashText": "Текст Confluence на заставке",
+  "confluencemenuaddon.configuration.enableConfluenceSplashText.tooltip": "Заменяет стандартный текст заставки главного меню на одну из случайных строк заголовка окна Confluence: Otherworld вместо ванильного текста Minecraft."
+}

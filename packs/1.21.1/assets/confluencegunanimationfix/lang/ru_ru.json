@@ -1,0 +1,13 @@
+{
+  "itemGroup.confluencegunanimationfix": "Confluence: Исправление анимации оружия",
+  "block.confluencegunanimationfix.example_block": "Пример блока",
+  "item.confluencegunanimationfix.example_item": "Пример предмета",
+
+  "confluencegunanimationfix.configuration.title": "Confluence: Настройки исправления анимации оружия",
+  "confluencegunanimationfix.configuration.section.confluencegunanimationfix.common.toml": "Confluence: Настройки исправления анимации оружия",
+  "confluencegunanimationfix.configuration.section.confluencegunanimationfix.common.toml.title": "Confluence: Настройки исправления анимации оружия",
+  "confluencegunanimationfix.configuration.items": "Список предметов",
+  "confluencegunanimationfix.configuration.logDirtBlock": "Логировать блок земли",
+  "confluencegunanimationfix.configuration.magicNumberIntroduction": "Текст магического числа",
+  "confluencegunanimationfix.configuration.magicNumber": "Магическое число"
+}

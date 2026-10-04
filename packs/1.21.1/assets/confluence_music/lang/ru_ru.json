@@ -1,0 +1,15 @@
+{
+  "confluence_music.configuration.checkInterval": "Интервал проверки",
+  "confluence_music.configuration.checkInterval.tooltip": "Интервал проверки изменений биомов, событий и структур",
+  "confluence_music.configuration.denyVanillaMusic": "Отключить ванильную музыку",
+  "confluence_music.configuration.denyVanillaMusic.tooltip": "При включении этой опции ванильная музыка больше не будет воспроизводиться.",
+  "confluence_music.configuration.keepCreativeModeMusic": "Сохранять музыку режима креатива",
+  "confluence_music.configuration.keepCreativeModeMusic.tooltip": "При включении этой опции и нахождении игрока в режиме креатива будет играть только музыка креатива; в противном случае будет играть фоновая музыка.",
+  "confluence_music.configuration.lastSongFadeOutTime": "Время затухания последней песни",
+  "confluence_music.configuration.lastSongFadeOutTime.tooltip": "Установите 20, что означает 1 секунду; установите 0, что означает немедленную остановку.",
+  "confluence_music.configuration.musicType": "Тип музыки",
+  "confluence_music.configuration.musicType.tooltip": "Используется для определения плейлиста",
+  "confluence_music.configuration.nextSongDelay": "Задержка следующей песни",
+  "confluence_music.configuration.nextSongDelay.tooltip": "Общий интервал между двумя песнями составляет: lastSongFadeOutTime + nextSongDelay.",
+  "confluence_music.configuration.title": "Confluence: Настройки музыки Otherworld"
+}

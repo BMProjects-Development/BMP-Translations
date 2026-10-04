@@ -1,0 +1,15 @@
+{
+  "enchantment.confluent_enchants.crackle": "Потрескивание",
+  "enchantment.confluent_enchants.crackle.desc": "Увеличивает урон хлыстов",
+  "enchantment.confluent_enchants.displacement": "Смещение",
+  "enchantment.confluent_enchants.displacement.desc": "Увеличивает скорость пуль",
+  "enchantment.confluent_enchants.potency": "Мощность",
+  "enchantment.confluent_enchants.potency.desc": "Увеличивает урон магического оружия",
+  "enchantment.confluent_enchants.snappy": "Хлёсткость",
+  "enchantment.confluent_enchants.snappy.desc": "Увеличивает урон метки призывателя от хлыстов",
+  "enchantment.confluent_enchants.welly": "Убойность",
+  "enchantment.confluent_enchants.welly.desc": "Увеличивает урон немагического огнестрельного оружия",
+  "enchantment.terra_entity.multi_boomerang": "Мультибросок",
+  "enchantment.terra_entity.multi_boomerang.desc": "Увеличивает количество бумерангов, которые можно бросить",
+  "enchantment.terra_entity.whip_sweep.desc": "Улучшает способность хлыстов поражать несколько целей"
+}
