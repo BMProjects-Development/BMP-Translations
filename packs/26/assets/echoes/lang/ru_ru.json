@@ -1,0 +1,91 @@
+{
+  "itemGroup.echoes.echoes": "Timeless Echoes",
+
+  "section.echoes.general": "Обязательное",
+
+  "block.echoes.portal": "Вневечные врата",
+  "block.echoes.display": "Витрина кузнеца",
+  "block.echoes.timeless_marker": "Вневечный маркер",
+  "item.echoes.soul_heart_container": "Вместилище сердца души",
+
+  "section.echoes.sculk": "Скалк",
+
+  "block.echoes.sculk_pillar": "Скалковая колонна",
+  "block.echoes.sculk_slab": "Скалковая плита",
+
+  "block.echoes.sculked_deepslate": "Заскалкованный глубинный сланец",
+  "block.echoes.sculked_deepslate_slab": "Плита из заскалкованного глубинного сланца",
+  "block.echoes.sculked_deepslate_stairs": "Ступеньки из заскалкованного глубинного сланца",
+  "block.echoes.sculked_deepslate_wall": "Ограда из заскалкованного глубинного сланца",
+
+  "block.echoes.sculked_deepslate_bricks": "Кирпичи из заскалкованного глубинного сланца",
+  "block.echoes.sculked_deepslate_bricks_slab": "Плита из кирпичей заскалкованного глубинного сланца",
+  "block.echoes.sculked_deepslate_bricks_stairs": "Ступеньки из кирпичей заскалкованного глубинного сланца",
+  "block.echoes.sculked_deepslate_bricks_wall": "Ограда из кирпичей заскалкованного глубинного сланца",
+
+  "section.echoes.prisma": "Призма",
+
+  "block.echoes.prisma_pane": "Призматическая панель",
+
+  "block.echoes.gleemslate_grass": "Трава глимсланца",
+  "block.echoes.chiseled_gleemslate": "Резной глимсланец",
+  "block.echoes.gleemslate_pillar": "Колонна из глимсланца",
+  "block.echoes.trimmed_gleemslate": "Отделанный глимсланец",
+
+  "block.echoes.gleemslate": "Глимсланец",
+  "block.echoes.gleemslate_slab": "Плита из глимсланца",
+  "block.echoes.gleemslate_stairs": "Ступеньки из глимсланца",
+  "block.echoes.gleemslate_wall": "Ограда из глимсланца",
+
+  "block.echoes.cut_gleemslate": "Обработанный глимсланец",
+  "block.echoes.cut_gleemslate_slab": "Плита из обработанного глимсланца",
+  "block.echoes.cut_gleemslate_stairs": "Ступеньки из обработанного глимсланца",
+  "block.echoes.cut_gleemslate_wall": "Ограда из обработанного глимсланца",
+
+  "block.echoes.gleemslate_tiles": "Плитка из глимсланца",
+  "block.echoes.gleemslate_tiles_slab": "Плита из плитки глимсланца",
+  "block.echoes.gleemslate_tiles_stairs": "Ступеньки из плитки глимсланца",
+  "block.echoes.gleemslate_tiles_wall": "Ограда из плитки глимсланца",
+
+  "block.echoes.gleemslate_bricks": "Кирпичи из глимсланца",
+  "block.echoes.gleemslate_bricks_slab": "Плита из кирпичей глимсланца",
+  "block.echoes.gleemslate_bricks_stairs": "Ступеньки из кирпичей глимсланца",
+  "block.echoes.gleemslate_bricks_wall": "Ограда из кирпичей глимсланца",
+
+  "section.echoes.blacksmith_trades": "Товары кузнеца",
+
+  "item.echoes.echo_blade": "Клинок эха",
+  "item.echoes.prisma_blade": "Призматический клинок",
+  "item.echoes.ramattra": "Раматтра",
+  "item.echoes.time_reaper": "Жнец времени",
+  "item.echoes.gloombringer": "Несущий мрак",
+
+  "item.echoes.lucent_will": "Сияющая воля",
+  "item.echoes.time_keeper": "Хранитель времени",
+
+  "section.echoes.materials": "Материалы",
+
+  "item.echoes.sculk_spawn": "Скалковый выводок",
+  "item.echoes.hollowed_spine": "Выдолбленный хребет",
+  "item.echoes.sculked_teeth": "Заскалкованные зубы",
+  "block.echoes.sculk_tendril": "Скалковый усик",
+  "item.echoes.echoing_marrow": "Эхо-костный мозг",
+  "item.echoes.rot_brain": "Гнилой мозг",
+
+  "item.echoes.prisma_shard": "Призматический осколок",
+  "item.echoes.lattice": "Решётка",
+  "item.echoes.lucent_shard": "Сияющий осколок",
+  "item.echoes.crystal_core": "Кристальное ядро",
+  "item.echoes.lucent_die": "Сияющий кубик",
+
+  "item.echoes.timelost_helmet": "Шлем потерянных во времени",
+  "item.echoes.timelost_chestplate": "Нагрудник потерянных во времени",
+  "item.echoes.timelost_leggings": "Поножи потерянных во времени",
+  "item.echoes.timelost_boots": "Ботинки потерянных во времени",
+
+  "echoes.rarity.common": "<eccommon>§lОБЫЧНЫЙ</eccommon>",
+  "echoes.rarity.uncommon": "<ecuncommon>§lНЕОБЫЧНЫЙ</ecuncommon>",
+  "echoes.rarity.rare": "<ecrare>§lРЕДКИЙ</ecrare>",
+  "echoes.rarity.epic": "<ecepic>§lЭПИЧЕСКИЙ</ecepic>",
+  "echoes.rarity.legendary": "<eclegendary>ЛЕГЕНДАРНЫЙ</eclegendary>"
+}
