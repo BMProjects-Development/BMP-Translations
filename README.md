@@ -9,6 +9,7 @@
 <!-- BEGIN GENERATED TRANSLATED MODS -->
 ## Translated mods | Переведённые моды
 
+- Minecraft 26: [English](packs/26/README_EN.md) · [Русский](packs/26/README_RU.md)
 - Minecraft 1.21.1: [English](packs/1.21.1/README_EN.md) · [Русский](packs/1.21.1/README_RU.md)
 - Minecraft 1.20.1: [English](packs/1.20.1/README_EN.md) · [Русский](packs/1.20.1/README_RU.md)
 - Minecraft 1.19.2: [English](packs/1.19.2/README_EN.md) · [Русский](packs/1.19.2/README_RU.md)

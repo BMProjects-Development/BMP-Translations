@@ -22,7 +22,7 @@ from typing import Any, Iterable
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "release-config.json"
 VERSION_RE = re.compile(r"^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(?:-([0-9A-Za-z.-]+))?(?:\+([0-9A-Za-z.-]+))?$")
-MC_RE = re.compile(r"^\d+\.\d+(?:\.\d+)?$")
+MC_RE = re.compile(r"^\d+(?:\.\d+){0,2}$")
 MARKER_RE = re.compile(r"^\s*release\s+(all|gh|cf|mr)(?:\s+(.+?))?\s*$", re.IGNORECASE)
 ZERO_SHA_RE = re.compile(r"^0+$")
 IGNORED_SOURCE_NAMES = {"README.md", "README_EN.md", "README_RU.md", "VERSION", "mods.json"}
@@ -32,11 +32,12 @@ class ReleaseError(RuntimeError):
     pass
 
 
-def run_git(*args: str, check: bool = True) -> str:
+def run_git(*args: str, check: bool = True, input: str | None = None) -> str:
     result = subprocess.run(
         ["git", *args],
         cwd=ROOT,
         text=True,
+        input=input,
         encoding="utf-8",
         errors="replace",
         stdout=subprocess.PIPE,
@@ -130,6 +131,38 @@ def load_json_relaxed(text: str, source: str) -> Any:
             raise ReleaseError(f"Invalid JSON in {source}: {exc}") from exc
 
 
+def pack_format_version(value: Any, source: str, field: str) -> tuple[int, int]:
+    """Normalize a pack format, including the open minor bound of max_format."""
+    parts = value if isinstance(value, list) else [value]
+    if len(parts) not in (1, 2) or any(type(part) is not int or part < 0 for part in parts):
+        raise ReleaseError(f"{source} pack.{field} must be a non-negative integer or [major, minor]")
+    minor = parts[1] if len(parts) == 2 else (0x7FFFFFFF if field == "max_format" else 0)
+    return parts[0], minor
+
+
+def validate_pack_metadata(mcmeta: Any, source: str) -> None:
+    pack_meta = mcmeta.get("pack") if isinstance(mcmeta, dict) else None
+    if not isinstance(pack_meta, dict):
+        raise ReleaseError(f"{source} must contain a pack object")
+    if "pack_format" in pack_meta and (
+        type(pack_meta["pack_format"]) is not int or pack_meta["pack_format"] < 0
+    ):
+        raise ReleaseError(f"{source} must contain a non-negative integer pack.pack_format")
+
+    if "min_format" in pack_meta or "max_format" in pack_meta:
+        minimum = pack_format_version(pack_meta.get("min_format"), source, "min_format")
+        maximum = pack_format_version(pack_meta.get("max_format"), source, "max_format")
+        if minimum > maximum:
+            raise ReleaseError(f"{source} pack.min_format must not exceed pack.max_format")
+        if minimum[0] < 65 and "pack_format" not in pack_meta:
+            raise ReleaseError(f"{source} requires pack.pack_format for resource-pack formats below 65")
+    elif "pack_format" not in pack_meta or pack_meta["pack_format"] >= 65:
+        raise ReleaseError(f"{source} must contain pack.min_format and pack.max_format (or legacy pack.pack_format)")
+
+    if not isinstance(pack_meta.get("description"), (str, dict, list)):
+        raise ReleaseError(f"{source} must contain pack.description")
+
+
 def validate_pack(minecraft: str) -> list[str]:
     config = load_config()
     if minecraft not in config["packs"]:
@@ -154,11 +187,7 @@ def validate_pack(minecraft: str) -> list[str]:
 
     mcmeta_path = directory / "pack.mcmeta"
     mcmeta = load_json_relaxed(mcmeta_path.read_text(encoding="utf-8-sig"), str(mcmeta_path.relative_to(ROOT)))
-    pack_meta = mcmeta.get("pack") if isinstance(mcmeta, dict) else None
-    if not isinstance(pack_meta, dict) or not isinstance(pack_meta.get("pack_format"), int):
-        raise ReleaseError(f"{mcmeta_path.relative_to(ROOT)} must contain an integer pack.pack_format")
-    if not isinstance(pack_meta.get("description"), (str, dict, list)):
-        raise ReleaseError(f"{mcmeta_path.relative_to(ROOT)} must contain pack.description")
+    validate_pack_metadata(mcmeta, str(mcmeta_path.relative_to(ROOT)))
 
     warnings: list[str] = []
     seen_casefolded: dict[str, str] = {}
@@ -289,6 +318,13 @@ def changelog_base(minecraft: str, head: str, version: str | None = None) -> str
         return tag
     first_commit = first_source_commit(minecraft, head)
     if first_commit:
+        # Newly added sources may precede their first VERSION file. Include all
+        # initial assets, while keeping the existing migration baseline intact.
+        if git_file(first_commit, f"packs/{minecraft}/VERSION") is None:
+            parents = run_git("rev-list", "--parents", "-n", "1", first_commit).split()
+            if len(parents) > 1:
+                return parents[1]
+            return run_git("hash-object", "-t", "tree", "--stdin", input="").strip()
         return first_commit
     parent = run_git("rev-parse", f"{head}^").strip()
     return parent

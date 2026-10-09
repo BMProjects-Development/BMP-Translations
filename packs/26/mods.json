@@ -1,0 +1,61 @@
+{
+  "minecraft": "26",
+  "mods": [
+    {
+      "name": "Ages of Dominion",
+      "namespaces": [
+        "forgotten_realms_rts"
+      ],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ages-of-dominion",
+      "resolved": true
+    },
+    {
+      "name": "Alterna: Ancient Echoes Below",
+      "namespaces": [
+        "alterna"
+      ],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alterna",
+      "resolved": true
+    },
+    {
+      "name": "Noble Phantasms",
+      "namespaces": [
+        "noblephantasms"
+      ],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/noble-phantasms",
+      "resolved": true
+    },
+    {
+      "name": "Relict",
+      "namespaces": [
+        "relict"
+      ],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/relict",
+      "resolved": true
+    },
+    {
+      "name": "The Lost Camera",
+      "namespaces": [
+        "thelostcamera"
+      ],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/the-lost-camera",
+      "resolved": true
+    },
+    {
+      "name": "Timeless Echoes",
+      "namespaces": [
+        "echoes"
+      ],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/timeless-echoes",
+      "resolved": true
+    },
+    {
+      "name": "Voidweaver",
+      "namespaces": [
+        "arachnemod"
+      ],
+      "curseforge": "https://www.curseforge.com/minecraft/mc-mods/voidweaver",
+      "resolved": true
+    }
+  ]
+}

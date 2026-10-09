@@ -18,9 +18,11 @@ packs/
   1.19.2/
   1.20.1/
   1.21.1/
+  26/
 
 scripts/
   release_tools.py
+  mod_metadata.py
 
 .github/workflows/
   validate.yml
@@ -35,6 +37,11 @@ the workflow and are not committed to the repository.
 Every Minecraft directory is an independent release line. Updating Minecraft
 1.21.1 does not require publishing or increasing the version of Minecraft
 1.20.1, 1.19.2, or 1.16.5.
+
+Minecraft 26.x is a separate release line in `packs/26/`, starting at pack
+version `1.0.0`. The release configuration lists actual platform versions
+(`26.1`, `26.1.1`, `26.1.2`, `26.2`, `26.3`), rather than the directory name `26`.
+Add future compatible game versions to this list explicitly.
 
 ## Versioning
 
@@ -75,6 +82,12 @@ requests. It checks:
 - file paths that differ only by letter casing;
 - accidental nested ZIP files.
 
+Both legacy `pack_format` metadata and modern `min_format` / `max_format`
+metadata are supported. Modern bounds accept an integer major version or
+`[major, minor]` (also `[major]`); the minimum must not exceed the maximum.
+An integer maximum includes all minor versions of that major format.
+See the [official pack metadata specification](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w31a).
+
 The builder excludes repository-only files such as `README_EN.md`,
 `README_RU.md`, `VERSION`, and `mods.json`. Files are sorted, timestamps are normalized, and fixed ZIP
 attributes are used, so identical sources produce byte-identical archives.
@@ -86,6 +99,13 @@ BMP_Translations_1.21.1_v1.1.5.zip
 ```
 
 ## Release markers
+
+The first release of Minecraft 26 can use the commit that introduces
+`packs/26/VERSION` with `release all`. Its changelog includes the initial 26.x
+translations even when the sources were committed earlier. Existing migrated
+packs retain their original baseline. Later 26.x releases require a version bump
+as usual. Tags and ZIPs use `mc26-v1.0.0` and `BMP_Translations_26_v1.0.0.zip`.
+For a failed platform retry, use an explicit marker such as `release mr 26`.
 
 Publishing is considered only for a push to `main`. The last commit message
 must contain an exact marker on its own line:

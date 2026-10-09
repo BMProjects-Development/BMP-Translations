@@ -6,6 +6,12 @@ Full documentation is available in
 Each supported Minecraft version is an independent release line. Its current
 BMP Translations version is stored in `packs/<minecraft>/VERSION`.
 
+Minecraft 26.x uses `packs/26/`, starting at BMP Translations `1.0.0`.
+Its `game_versions` list in `release-config.json` contains the actual platform
+versions: `26.1`, `26.1.1`, `26.1.2`, `26.2`, and `26.3`. Add future compatible
+versions there explicitly. The pack uses modern `min_format` / `max_format`
+metadata; older packs keep their `pack_format` metadata.
+
 ## One-time GitHub setup
 
 Add these repository secrets under **Settings → Secrets and variables →
@@ -61,6 +67,7 @@ Tags use this format:
 
 ```text
 mc1.21.1-v1.1.5
+mc26-v1.0.0
 ```
 
 ## Retrying one platform
@@ -79,10 +86,15 @@ Multiple versions can be separated by spaces or commas:
 
 ```text
 release mr 1.20.1 1.21.1
+release mr 26
 ```
 
 Explicit version markers are intended for recovery. A normal release should
 select packs by changing their `VERSION` files.
+
+For the first Minecraft 26 release, commit the new `packs/26/VERSION` file
+with a `release all` marker. The initial changelog includes all previously
+committed 26.x sources. For subsequent releases, increase that file's version.
 
 ## Changelog generation
 

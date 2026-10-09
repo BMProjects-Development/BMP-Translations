@@ -10,6 +10,21 @@ BMP Translations — ресурспак, созданный командой BMP
 
 ## Translated mods | Переведённые моды
 
+### Minecraft 26
+
+<details>
+<summary>7 mods and add-ons | модов и дополнений</summary>
+
+- Ages of Dominion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ages-of-dominion)
+- Alterna: Ancient Echoes Below — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alterna)
+- Noble Phantasms — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noble-phantasms)
+- Relict — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/relict)
+- The Lost Camera — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-lost-camera)
+- Timeless Echoes — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/timeless-echoes)
+- Voidweaver — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/voidweaver)
+
+</details>
+
 ### Minecraft 1.21.1
 
 <details>
