@@ -1,0 +1,13 @@
+{
+    "name": "Руда вибраниума",
+    "icon": "allthemodium:vibranium_ore",
+    "category": "allthemodium:ore",
+    "sortnum": 2,
+    "pages": [{
+        "type": "spotlight",
+        "item": "allthemodium:vibranium_ore",
+        "title": "Руда вибраниума",
+        "link_recipe": false,
+        "text": "Руда вибраниума может быть найдена в аду, выше Y: 64. Она также встречается в Ином измерении, глубоко под землёй в пещерах"
+    }]
+}

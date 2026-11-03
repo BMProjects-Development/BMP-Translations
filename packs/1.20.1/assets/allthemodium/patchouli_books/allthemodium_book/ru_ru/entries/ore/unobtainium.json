@@ -1,0 +1,13 @@
+{
+    "name": "Руда унобнатия",
+    "icon": "allthemodium:unobtainium_ore",
+    "category": "allthemodium:ore",
+    "sortnum": 3,
+    "pages": [{
+        "type": "spotlight",
+        "item": "allthemodium:unobtainium_ore",
+        "title": "Руда унобнатия",
+        "link_recipe": false,
+        "text": "Руда унобнатия может быть найдена только в биоме возвышенности Края. Она появляется ниже Y: 78."
+    }]
+}

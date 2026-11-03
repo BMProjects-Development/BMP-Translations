@@ -1,0 +1,12 @@
+{
+  "name": "Всемодиевые инструменты",
+  "icon": "allthemodium:allthemodium_pickaxe",
+  "category": "allthemodium:misc",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "В Allthemodium есть несколько встроенных инструментов, и все они неуничтожимы."
+    }
+  ]
+}

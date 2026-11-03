@@ -1,0 +1,15 @@
+{
+    "name": "Всемодиевая морковь",
+    "icon": "allthemodium:allthemodium_carrot",
+    "category": "allthemodium:food",
+    "pages": [{
+            "type": "crafting",
+            "recipe": "allthemodium:allthemodium_carrot",
+            "title": "Всемодиевая морковь"
+        },
+        {
+            "type": "text",
+            "text": "Всемодиевая морковь даёт 40 сытости и 320 насыщения. Морковь имеет следующие эффекты:$(li)Быстросъедаемо$(li)Можно всегда съесть$(li)Поглощение X на 30 сек$(li)Регенерация X на 30 сек"
+        }
+    ]
+}

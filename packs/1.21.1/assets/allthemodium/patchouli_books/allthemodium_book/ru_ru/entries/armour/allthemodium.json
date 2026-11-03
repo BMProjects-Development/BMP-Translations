@@ -1,0 +1,29 @@
+{
+    "name": "Всемодиевая броня",
+    "icon": "allthemodium:allthemodium_chestplate",
+    "category": "allthemodium:armour",
+    "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "Всемодиевая броня имеет несколько преимуществ, помимо обычной защиты, прочности и сопротивления отбрасыванию:$(li)Подводное дыхание$(li)Отсутствие урона от столкновения при полете на элитре$(li)Иммунитет к урону от огня$(li)Отсутствие урона от падения$(li)При улучшении брони с незеритовой она сохраняет зачарования"
+    },
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_helmet_smithing"
+    },
+
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_chestplate_smithing"
+    },
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_leggings_smithing"
+    },
+    {
+      "type": "smithing",
+      "recipe": "allthemodium:smithing/allthemodium_boots_smithing"
+    }
+  ]
+}

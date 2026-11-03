@@ -1,0 +1,15 @@
+{
+    "name": "Платформа телепортации",
+    "icon": "allthemodium:teleport_pad",
+    "category": "allthemodium:dimensions",
+    "sortnum": 1,
+    "pages": [{
+            "type": "crafting",
+            "recipe": "allthemodium:teleport_pad"
+        },
+        {
+            "type": "text",
+            "text": "Платформа телепортации используется для перемещения в $(l:dimensions/miningdim)шахтёрское измерение$(/c) и $(l:dimensions/otherdim)Иное$(/c). Для использования нужно нажать Shift + ПКМ пустыми руками.$(br2)Как заметка, $(l:dimensions/miningdim)шахтёрское измерение$(/c) отключено в сборке ATM6: To The Sky"
+        }
+    ]
+}

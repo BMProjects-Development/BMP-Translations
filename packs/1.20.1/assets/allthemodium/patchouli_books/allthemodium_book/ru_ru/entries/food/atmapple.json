@@ -1,0 +1,15 @@
+{
+    "name": "Всемодиевое яблоко",
+    "icon": "allthemodium:allthemodium_apple",
+    "category": "allthemodium:food",
+    "pages": [{
+            "type": "crafting",
+            "recipe": "allthemodium:allthemodium_apple",
+            "title": "Всемодиевое яблоко"
+        },
+      {
+        "type": "text",
+        "text": "Всемодиевое яблоко даёт 20 сытости и 80 насыщения. Яблоко имеет следующие эффекты:$(li)Быстросъедаемо$(li)Можно всегда съесть$(li)Поглощение X на 30 сек$(li)Регенерация X на 30 сек"
+      }
+    ]
+}
