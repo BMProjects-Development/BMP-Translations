@@ -13,10 +13,12 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 26
 
 <details>
-<summary>7 mods and add-ons | модов и дополнений</summary>
+<summary>9 mods and add-ons | модов и дополнений</summary>
 
 - Ages of Dominion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ages-of-dominion)
+- AllTheModium — [Modrinth](https://modrinth.com/mod/allthemodium)
 - Alterna: Ancient Echoes Below — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alterna)
+- Ftbquests
 - Noble Phantasms — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noble-phantasms)
 - Relict — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/relict)
 - The Lost Camera — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-lost-camera)
@@ -28,7 +30,7 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 1.21.1
 
 <details>
-<summary>263 mods and add-ons | модов и дополнений</summary>
+<summary>264 mods and add-ons | модов и дополнений</summary>
 
 - Accessories Compat Layer
 - Actually Additions
@@ -203,6 +205,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - More Immersive Wires
 - Morered
 - MrCrayfish's Furniture Mod: Refurbished — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
+- Myths Of The Sea
 - Nautec — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nautec) · [Modrinth](https://modrinth.com/mod/nautec)
 - NBT Ac
 - Neo Vitae — [Modrinth](https://modrinth.com/mod/neovitae)

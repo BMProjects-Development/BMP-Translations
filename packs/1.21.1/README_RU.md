@@ -1,6 +1,6 @@
 # Переведённые моды для Minecraft 1.21.1
 
-BMP Translations содержит переводы для 263 модов и дополнений на Minecraft 1.21.1.
+BMP Translations содержит переводы для 264 модов и дополнений на Minecraft 1.21.1.
 
 Список создаётся автоматически из исходников ресурспака. Ссылка на площадку отображается только тогда, когда проект на ней найден.
 
@@ -177,6 +177,7 @@ BMP Translations содержит переводы для 263 модов и до
 - More Immersive Wires
 - Morered
 - MrCrayfish's Furniture Mod: Refurbished — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
+- Myths Of The Sea
 - Nautec — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nautec) · [Modrinth](https://modrinth.com/mod/nautec)
 - NBT Ac
 - Neo Vitae — [Modrinth](https://modrinth.com/mod/neovitae)

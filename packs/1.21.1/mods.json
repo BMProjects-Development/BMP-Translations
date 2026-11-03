@@ -1293,6 +1293,13 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture"
     },
     {
+      "name": "Myths Of The Sea",
+      "namespaces": [
+        "myths_of_the_sea"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Nautec",
       "namespaces": [
         "nautec"

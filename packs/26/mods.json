@@ -10,12 +10,27 @@
       "resolved": true
     },
     {
+      "name": "AllTheModium",
+      "namespaces": [
+        "allthemodium"
+      ],
+      "modrinth": "https://modrinth.com/mod/allthemodium",
+      "resolved": true
+    },
+    {
       "name": "Alterna: Ancient Echoes Below",
       "namespaces": [
         "alterna"
       ],
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/alterna",
       "resolved": true
+    },
+    {
+      "name": "Ftbquests",
+      "namespaces": [
+        "ftbquests"
+      ],
+      "resolved": false
     },
     {
       "name": "Noble Phantasms",
