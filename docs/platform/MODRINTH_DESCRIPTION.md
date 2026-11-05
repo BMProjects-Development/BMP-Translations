@@ -302,7 +302,7 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 1.20.1
 
 <details>
-<summary>161 mods and add-ons | модов и дополнений</summary>
+<summary>163 mods and add-ons | модов и дополнений</summary>
 
 - Advanced Loot Info (ALI) — [Modrinth](https://modrinth.com/mod/advanced-loot-info)
 - AE2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) · [Modrinth](https://modrinth.com/mod/ae2)
@@ -333,6 +333,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 - Blood Magic: Woot Addon — [Modrinth](https://modrinth.com/mod/bloodmagicwootaddon)
 - Bloodmagicteams
+- Bocchium
 - Botany Pots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - Brandon's Core — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brandons-core)
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
@@ -340,6 +341,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Byg
 - Carbonconfig
 - Cataclysm Amethyst Crab Temple
+- Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
 - Charmofundying
 - Chemical Science — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chemical-science) · [Modrinth](https://modrinth.com/mod/chemicalscience)

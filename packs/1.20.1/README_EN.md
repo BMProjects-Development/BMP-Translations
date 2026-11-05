@@ -1,6 +1,6 @@
 # Translated mods for Minecraft 1.20.1
 
-BMP Translations currently contains translations for 161 mods and add-ons on Minecraft 1.20.1.
+BMP Translations currently contains translations for 163 mods and add-ons on Minecraft 1.20.1.
 
 The list is generated from the resource-pack sources. A platform link is shown only when the project was found there.
 
@@ -33,6 +33,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 - Blood Magic: Woot Addon — [Modrinth](https://modrinth.com/mod/bloodmagicwootaddon)
 - Bloodmagicteams
+- Bocchium
 - Botany Pots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - Brandon's Core — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brandons-core)
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
@@ -40,6 +41,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Byg
 - Carbonconfig
 - Cataclysm Amethyst Crab Temple
+- Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
 - Charmofundying
 - Chemical Science — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chemical-science) · [Modrinth](https://modrinth.com/mod/chemicalscience)

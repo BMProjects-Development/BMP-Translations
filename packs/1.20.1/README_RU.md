@@ -1,6 +1,6 @@
 # Переведённые моды для Minecraft 1.20.1
 
-BMP Translations содержит переводы для 161 модов и дополнений на Minecraft 1.20.1.
+BMP Translations содержит переводы для 163 модов и дополнений на Minecraft 1.20.1.
 
 Список создаётся автоматически из исходников ресурспака. Ссылка на площадку отображается только тогда, когда проект на ней найден.
 
@@ -33,6 +33,7 @@ BMP Translations содержит переводы для 161 модов и до
 - Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 - Blood Magic: Woot Addon — [Modrinth](https://modrinth.com/mod/bloodmagicwootaddon)
 - Bloodmagicteams
+- Bocchium
 - Botany Pots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - Brandon's Core — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brandons-core)
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
@@ -40,6 +41,7 @@ BMP Translations содержит переводы для 161 модов и до
 - Byg
 - Carbonconfig
 - Cataclysm Amethyst Crab Temple
+- Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
 - Charmofundying
 - Chemical Science — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chemical-science) · [Modrinth](https://modrinth.com/mod/chemicalscience)

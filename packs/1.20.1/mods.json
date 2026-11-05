@@ -228,6 +228,13 @@
       "resolved": false
     },
     {
+      "name": "Bocchium",
+      "namespaces": [
+        "bocchium"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Botany Pots",
       "namespaces": [
         "botanypots"
@@ -276,6 +283,13 @@
       "name": "Cataclysm Amethyst Crab Temple",
       "namespaces": [
         "cataclysm_amethyst_crab_temple"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Catalogue",
+      "namespaces": [
+        "catalogue"
       ],
       "resolved": false
     },
