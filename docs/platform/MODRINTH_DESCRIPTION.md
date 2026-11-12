@@ -30,7 +30,7 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 1.21.1
 
 <details>
-<summary>264 mods and add-ons | модов и дополнений</summary>
+<summary>291 mods and add-ons | модов и дополнений</summary>
 
 - Accessories Compat Layer
 - Actually Additions
@@ -43,6 +43,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Agriculturalenhancements
 - Agritechevolved
 - Agritechtwo
+- Alexsmobs
 - AllTheCompressed — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthecompressed)
 - Allthemodium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/allthemodium) · [Modrinth](https://modrinth.com/mod/allthemodium)
 - AllTheOres — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alltheores)
@@ -53,6 +54,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Apothic Attributes
 - Apothic Compats
 - Appex
+- AppleSkin — [Modrinth](https://modrinth.com/mod/appleskin)
 - Applied Flux — [Modrinth](https://modrinth.com/mod/appflux)
 - Archaion
 - Armoroftheages
@@ -64,25 +66,31 @@ BMP Translations — ресурспак, созданный командой BMP
 - Avaritia
 - Bad Mobs — [Modrinth](https://modrinth.com/mod/bad-mobs-fabric)
 - Bagus Lib
+- Balm — [Modrinth](https://modrinth.com/mod/balm)
 - Bamboo Everything
 - Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
+- Betteradvancedtooltips
 - BetterStats — [Modrinth](https://modrinth.com/mod/betterstats)
 - Bhmenu
 - Bigreactors
+- Biolith — [Modrinth](https://modrinth.com/mod/biolith)
 - Biomes O' Plenty — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - BjornLib — [Modrinth](https://modrinth.com/mod/bjornlib)
 - Block Factorys Bosses
 - Blood Magic — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 - Blueprint — [Modrinth](https://modrinth.com/mod/blueprint)
 - Bonsai Trees 4
+- Bookshelf — [Modrinth](https://modrinth.com/mod/bookshelf)
 - Botany Pots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
 - Brandon's Core — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brandons-core)
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- Bwncr
 - Byg
 - Cataclysm
 - Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
 - Chancecubes
+- ChatHeads — [Modrinth](https://modrinth.com/mod/chatheads)
 - Chatimpressiveanimation
 - Chefsdelight
 - Chemical Science — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chemical-science) · [Modrinth](https://modrinth.com/mod/chemicalscience)
@@ -102,15 +110,19 @@ BMP Translations — ресурспак, созданный командой BMP
 - Confluencegunanimationfix
 - Confluencemenuaddon
 - Confluent Enchants
+- Controlling — [Modrinth](https://modrinth.com/mod/controlling)
 - Countriesdelight
 - Crafting Stantion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
 - Create Dd
 - Create Goggles — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-goggles)
 - Create: Shimmer
+- CreativeCore — [Modrinth](https://modrinth.com/mod/creativecore)
 - Creeper Fireworks — [Modrinth](https://modrinth.com/mod/creeperfireworks)
 - Creeperoverhaul
 - Ctov
+- Cullleaves
 - Cultural Delights — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cultural-delights)
+- Curios API — [Modrinth](https://modrinth.com/mod/curios)
 - Custommachinery
 - Custommachineryars
 - Custommachinerycreate
@@ -124,10 +136,13 @@ BMP Translations — ресурспак, созданный командой BMP
 - Dimdungeous
 - Dis-Enchanting Table — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
 - Draconic Evolution — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- Dsurround
 - Dummmmmmy
 - Eatinganimation
+- Eccentrictome
 - Elemental Craft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
 - Embeddium — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/embeddium) · [Modrinth](https://modrinth.com/mod/embeddium)
+- EMI — [Modrinth](https://modrinth.com/mod/emi)
 - Emi Enchanting
 - Emi Letsdo Compat
 - Emi Ores
@@ -142,8 +157,11 @@ BMP Translations — ресурспак, созданный командой BMP
 - Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
 - Everything is Copper — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper) · [Modrinth](https://modrinth.com/mod/everythingcopper)
 - Expandedae
+- Explosiveenhancement
 - Extendedae
+- Extremesoundmuffler
 - Fadingnightvision
+- Fancy Tab Sections — [Modrinth](https://modrinth.com/mod/fancytabsections)
 - Fancy World Animations [FWA] — [Modrinth](https://modrinth.com/mod/fwa)
 - Fmtt
 - Forbidden and Arcanus — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
@@ -184,6 +202,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Lfpirates
 - Lionfishapi
 - Living Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/living-things)
+- Lychee — [Modrinth](https://modrinth.com/mod/lychee)
 - Magic Coins
 - Magic Vibe Decorations
 - Magistuarmory
@@ -212,12 +231,14 @@ BMP Translations — ресурспак, созданный командой BMP
 - Neruina - Ticking Entity Fixer — [Modrinth](https://modrinth.com/mod/neruina)
 - Nether Skeletons — [Modrinth](https://modrinth.com/mod/netherskeletons)
 - Nethersdelight
+- Nyctography — [Modrinth](https://modrinth.com/mod/nyctography)
 - Old Glass Photograph
 - Olympusmythology
 - Openpartiesandclaims
 - Oracle Index
 - Oritech — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech) · [Modrinth](https://modrinth.com/mod/oritech)
 - Oritech Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech-things)
+- Owo
 - Particlerain
 - Paxi — [Modrinth](https://modrinth.com/mod/paxi)
 - Pet Home — [Modrinth](https://modrinth.com/mod/pet_home)
@@ -236,6 +257,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Replication — [Modrinth](https://modrinth.com/mod/replication)
 - Replication Matter Overflow
 - Reskillable
+- Resourcefulconfig
 - Rftoolsbase
 - Rftoolsbuilder
 - Rftoolspower
@@ -243,11 +265,14 @@ BMP Translations — ресурспак, созданный командой BMP
 - Rocks
 - Roots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roots)
 - RSInfinityBooster — [Modrinth](https://modrinth.com/mod/rsinfinitybooster)
+- Runelic — [Modrinth](https://modrinth.com/mod/runelic)
 - Schematicenergistics
+- Selling Bin
 - Shoppy
 - Shrink — [Modrinth](https://modrinth.com/mod/shrink)
 - Shulker Box Tooltip — [Modrinth](https://modrinth.com/mod/shulkerboxtooltip)
 - Simple Teleporters
+- Simple Weather
 - Simpletomb
 - Simply Traps
 - Simplybows
@@ -266,6 +291,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Teams — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams)
 - Tempad — [Modrinth](https://modrinth.com/mod/tempad)
 - Thaumic Decoration
+- The Bakery Modpack — [Modrinth](https://modrinth.com/mod/bakery)
 - Tiab
 - Toast Control — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - Tooltipoverhaul
@@ -295,6 +321,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Xycraft Machines
 - Xycraft World
 - YTech — [Modrinth](https://modrinth.com/mod/ytech)
+- Zeta — [Modrinth](https://modrinth.com/mod/zeta)
 - Zombie Variants
 
 </details>

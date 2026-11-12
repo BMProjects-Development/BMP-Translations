@@ -83,6 +83,13 @@
       "resolved": false
     },
     {
+      "name": "Alexsmobs",
+      "namespaces": [
+        "alexsmobs"
+      ],
+      "resolved": false
+    },
+    {
       "name": "AllTheCompressed",
       "namespaces": [
         "allthecompressed"
@@ -158,6 +165,14 @@
         "appex"
       ],
       "resolved": false
+    },
+    {
+      "name": "AppleSkin",
+      "namespaces": [
+        "appleskin"
+      ],
+      "modrinth": "https://modrinth.com/mod/appleskin",
+      "resolved": true
     },
     {
       "name": "Applied Flux",
@@ -239,6 +254,14 @@
       "resolved": false
     },
     {
+      "name": "Balm",
+      "namespaces": [
+        "balm"
+      ],
+      "modrinth": "https://modrinth.com/mod/balm",
+      "resolved": true
+    },
+    {
       "name": "Bamboo Everything",
       "namespaces": [
         "bambooeverything"
@@ -253,6 +276,13 @@
       "modrinth": "https://modrinth.com/mod/betternether",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/betternether"
+    },
+    {
+      "name": "Betteradvancedtooltips",
+      "namespaces": [
+        "betteradvancedtooltips"
+      ],
+      "resolved": false
     },
     {
       "name": "BetterStats",
@@ -275,6 +305,14 @@
         "bigreactors"
       ],
       "resolved": false
+    },
+    {
+      "name": "Biolith",
+      "namespaces": [
+        "biolith"
+      ],
+      "modrinth": "https://modrinth.com/mod/biolith",
+      "resolved": true
     },
     {
       "name": "Biomes O' Plenty",
@@ -323,6 +361,14 @@
       "resolved": true
     },
     {
+      "name": "Bookshelf",
+      "namespaces": [
+        "bookshelf"
+      ],
+      "modrinth": "https://modrinth.com/mod/bookshelf",
+      "resolved": true
+    },
+    {
       "name": "Botany Pots",
       "namespaces": [
         "botanypots"
@@ -345,6 +391,13 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/building-gadgets"
+    },
+    {
+      "name": "Bwncr",
+      "namespaces": [
+        "bwncr"
+      ],
+      "resolved": false
     },
     {
       "name": "Byg",
@@ -382,6 +435,14 @@
         "chancecubes"
       ],
       "resolved": false
+    },
+    {
+      "name": "ChatHeads",
+      "namespaces": [
+        "chat_heads"
+      ],
+      "modrinth": "https://modrinth.com/mod/chatheads",
+      "resolved": true
     },
     {
       "name": "Chatimpressiveanimation",
@@ -526,6 +587,14 @@
       "resolved": false
     },
     {
+      "name": "Controlling",
+      "namespaces": [
+        "controlling"
+      ],
+      "modrinth": "https://modrinth.com/mod/controlling",
+      "resolved": true
+    },
+    {
       "name": "Countriesdelight",
       "namespaces": [
         "countriesdelight"
@@ -563,6 +632,14 @@
       "resolved": true
     },
     {
+      "name": "CreativeCore",
+      "namespaces": [
+        "creativecore"
+      ],
+      "modrinth": "https://modrinth.com/mod/creativecore",
+      "resolved": true
+    },
+    {
       "name": "Creeper Fireworks",
       "namespaces": [
         "creeperfireworks"
@@ -585,12 +662,27 @@
       "resolved": false
     },
     {
+      "name": "Cullleaves",
+      "namespaces": [
+        "cullleaves"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Cultural Delights",
       "namespaces": [
         "culturaldelights"
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/cultural-delights"
+    },
+    {
+      "name": "Curios API",
+      "namespaces": [
+        "curios"
+      ],
+      "modrinth": "https://modrinth.com/mod/curios",
+      "resolved": true
     },
     {
       "name": "Custommachinery",
@@ -688,6 +780,13 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/draconic-evolution"
     },
     {
+      "name": "Dsurround",
+      "namespaces": [
+        "dsurround"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Dummmmmmy",
       "namespaces": [
         "dummmmmmy"
@@ -698,6 +797,13 @@
       "name": "Eatinganimation",
       "namespaces": [
         "eatinganimation"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Eccentrictome",
+      "namespaces": [
+        "eccentrictome"
       ],
       "resolved": false
     },
@@ -717,6 +823,14 @@
       "modrinth": "https://modrinth.com/mod/embeddium",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/embeddium"
+    },
+    {
+      "name": "EMI",
+      "namespaces": [
+        "emi"
+      ],
+      "modrinth": "https://modrinth.com/mod/emi",
+      "resolved": true
     },
     {
       "name": "Emi Enchanting",
@@ -824,9 +938,23 @@
       "resolved": false
     },
     {
+      "name": "Explosiveenhancement",
+      "namespaces": [
+        "explosiveenhancement"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Extendedae",
       "namespaces": [
         "extendedae"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Extremesoundmuffler",
+      "namespaces": [
+        "extremesoundmuffler"
       ],
       "resolved": false
     },
@@ -836,6 +964,14 @@
         "fadingnightvision"
       ],
       "resolved": false
+    },
+    {
+      "name": "Fancy Tab Sections",
+      "namespaces": [
+        "fancytabsections"
+      ],
+      "modrinth": "https://modrinth.com/mod/fancytabsections",
+      "resolved": true
     },
     {
       "name": "Fancy World Animations [FWA]",
@@ -1138,6 +1274,14 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/living-things"
     },
     {
+      "name": "Lychee",
+      "namespaces": [
+        "lychee"
+      ],
+      "modrinth": "https://modrinth.com/mod/lychee",
+      "resolved": true
+    },
+    {
       "name": "Magic Coins",
       "namespaces": [
         "magic_coins"
@@ -1347,6 +1491,14 @@
       "resolved": false
     },
     {
+      "name": "Nyctography",
+      "namespaces": [
+        "nyctography"
+      ],
+      "modrinth": "https://modrinth.com/mod/nyctography",
+      "resolved": true
+    },
+    {
       "name": "Old Glass Photograph",
       "namespaces": [
         "old_glass_photograph"
@@ -1390,6 +1542,13 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/oritech-things"
+    },
+    {
+      "name": "Owo",
+      "namespaces": [
+        "owo"
+      ],
+      "resolved": false
     },
     {
       "name": "Particlerain",
@@ -1527,6 +1686,13 @@
       "resolved": false
     },
     {
+      "name": "Resourcefulconfig",
+      "namespaces": [
+        "resourcefulconfig"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Rftoolsbase",
       "namespaces": [
         "rftoolsbase"
@@ -1578,9 +1744,24 @@
       "resolved": true
     },
     {
+      "name": "Runelic",
+      "namespaces": [
+        "runelic"
+      ],
+      "modrinth": "https://modrinth.com/mod/runelic",
+      "resolved": true
+    },
+    {
       "name": "Schematicenergistics",
       "namespaces": [
         "schematicenergistics"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Selling Bin",
+      "namespaces": [
+        "selling_bin"
       ],
       "resolved": false
     },
@@ -1613,6 +1794,13 @@
         "simpleteleporters"
       ],
       "resolved": true
+    },
+    {
+      "name": "Simple Weather",
+      "namespaces": [
+        "simple_weather"
+      ],
+      "resolved": false
     },
     {
       "name": "Simpletomb",
@@ -1744,6 +1932,14 @@
         "thaumic_decoration"
       ],
       "resolved": false
+    },
+    {
+      "name": "The Bakery Modpack",
+      "namespaces": [
+        "bakery"
+      ],
+      "modrinth": "https://modrinth.com/mod/bakery",
+      "resolved": true
     },
     {
       "name": "Tiab",
@@ -1959,6 +2155,14 @@
         "ytech"
       ],
       "modrinth": "https://modrinth.com/mod/ytech",
+      "resolved": true
+    },
+    {
+      "name": "Zeta",
+      "namespaces": [
+        "zeta"
+      ],
+      "modrinth": "https://modrinth.com/mod/zeta",
       "resolved": true
     },
     {
