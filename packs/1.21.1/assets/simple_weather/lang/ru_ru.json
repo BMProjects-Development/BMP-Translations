@@ -1,0 +1,23 @@
+{
+  "config.client.simple_weather.override_weather": "Включено",
+  "config.client.simple_weather.rain": "Настройки дождя",
+  "config.client.simple_weather.snow": "Настройки снега",
+
+  "config.client.simple_weather.rain.rain_collision_percent": "Шанс частиц столкновения",
+  "config.client.simple_weather.rain.rain_range": "Дальность",
+  "config.client.simple_weather.weather_particle_count": "Количество частиц",
+  "config.client.simple_weather.weather_particle_thunder_count": "Количество частиц во время грозы",
+  "config.client.simple_weather.rain.rain_particle_alpha": "Прозрачность",
+  "config.client.simple_weather.rain.rain_lifetime": "Время жизни",
+  "config.client.simple_weather.rain.rain_particle_scale": "Масштаб",
+  "config.client.simple_weather.rain.rain_random": "Турбулентность",
+  "config.client.simple_weather.rain.rain_color_blending_frequency": "Частота смешивания цветов",
+  "config.client.simple_weather.rain.use_cached_aabb": "Вычислять AABB",
+  "config.client.simple_weather.rain.full_biome_lookup": "Полная проверка биома",
+
+  "config.client.simple_weather.snow.snow_particle_scale": "Масштаб",
+  "config.client.simple_weather.snow.snow_lifetime": "Время жизни",
+  "config.client.simple_weather.snow.snow_range": "Дальность",
+  "config.client.simple_weather.snow.snow_particle_alpha": "Прозрачность",
+  "config.client.simple_weather.snow.snow_outer_range": "Внешняя дальность"
+}

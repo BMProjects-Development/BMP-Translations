@@ -1,0 +1,63 @@
+{
+  "itemGroup.selling_bin.selling_bin": "wd's Selling Bin",
+  "section.selling_bin.bin": "Контейнер!",
+  "section.selling_bin.currencies": "Валюты",
+  "section.selling_bin.sellables": "Продаваемые предметы",
+
+  "selling_bin.configuration.always_show_selling_bin_price": "Всегда показывать цены контейнера продажи",
+  "selling_bin.configuration.selling_in_multiplier": "Множитель контейнера продажи",
+
+
+  "emi.category.selling_bin.selling_bin_selling": "Контейнер продажи",
+  "emi.category.selling_bin.selling_bin_currencies": "Валюты контейнера продажи",
+
+  "gui.selling_bin.selling.empty.0": "Не зарегистрировано ни одного предмета, продаваемого через контейнер продажи!",
+  "gui.selling_bin.selling.empty.1": "",
+  "gui.selling_bin.selling.empty.2": "Контейнер продажи ничего не делает без датапака.",
+  "gui.selling_bin.selling.empty.3": "",
+  "gui.selling_bin.selling.empty.4": "Проверьте вики на github.com/wdiscute/Selling-Bin/wiki: там есть готовые",
+  "gui.selling_bin.selling.empty.5": "датапаки, а также инструкции, как добавить и настроить свои собственные.",
+  "gui.selling_bin.selling.empty.6": "",
+  "gui.selling_bin.selling.empty.7": "Вы также можете выбрать один из готовых встроенных датапаков",
+  "gui.selling_bin.selling.empty.8": "при создании мира, в разделе датапаков — так же, как в ванильной игре,",
+  "gui.selling_bin.selling.empty.9": "или использовать /datapack enable XXXXXXXXX",
+
+
+  "gui.selling_bin.currency.empty.0": "Не зарегистрировано ни одной валюты контейнера продажи!",
+  "gui.selling_bin.currency.empty.1": "",
+  "gui.selling_bin.currency.empty.2": "Контейнер продажи ничего не делает без датапака.",
+  "gui.selling_bin.currency.empty.3": "",
+  "gui.selling_bin.currency.empty.4": "Проверьте вики на github.com/wdiscute/Selling-Bin/wiki: там есть готовые",
+  "gui.selling_bin.currency.empty.5": "датапаки, а также инструкции, как добавить и настроить свои собственные.",
+  "gui.selling_bin.currency.empty.6": "",
+  "gui.selling_bin.currency.empty.7": "Вы также можете выбрать один из готовых встроенных датапаков",
+  "gui.selling_bin.currency.empty.8": "при создании мира, в разделе датапаков — так же, как в ванильной игре,",
+  "gui.selling_bin.currency.empty.9": "или использовать /datapack enable XXXXXXXXX",
+
+
+  "gui.selling_bin.processor.durability": "- Цена зависит от оставшейся прочности.",
+  "gui.selling_bin.processor.food": "- Цена увеличивается в зависимости от голода и насыщения.",
+  "gui.selling_bin.processor.enchantments": "- Цена увеличивается в зависимости от зачарований.",
+  "gui.selling_bin.processor.quality_foods_processor": "- Цена увеличивается в зависимости от качества.",
+  "gui.selling_bin.processor.wine_age_processor": "- Цена увеличивается в зависимости от выдержки вина.",
+  "gui.selling_bin.processor.beer_quality_processor": "- Цена увеличивается в зависимости от качества пива.",
+
+
+  "gui.selling_bin.value": "стоимость",
+  "gui.selling_bin.base_price": "Цена:",
+  "gui.selling_bin.processors": "Модификаторы:",
+  "gui.selling_bin.sell": "Продать",
+  "gui.selling_bin.sell_all": "Продать всё",
+  "gui.selling_bin.auto_sell": "Автопродажа",
+  "gui.selling_bin.sell_sound": "Звук продажи",
+  "gui.selling_bin.currency_selected": "Валюта:",
+  "gui.selling_bin.currencies": "Валюты:",
+  "gui.selling_bin.highest": "Максимально возможная",
+  "gui.selling_bin.card_slot": "Нумизматическая банковская карта",
+
+
+  "block.selling_bin.selling_bin": "Контейнер продажи",
+
+  "item.minecraft.emerald.plural": "Изумруды",
+  "block.minecraft.emerald_block.plural": "Изумрудные блоки"
+}

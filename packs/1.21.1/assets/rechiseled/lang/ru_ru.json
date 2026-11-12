@@ -3654,7 +3654,5 @@
   "block.rechiseled.warped_planks_woven_slab": "Плита из переплетённых искажённых досок",
   "rechiseled.block.warped_planks_woven_connecting": "Переплетённые искажённые доски",
   "block.rechiseled.warped_planks_woven_stairs_connecting": "Ступеньки из переплетённых искажённых досок",
-  "block.rechiseled.warped_planks_woven_slab_connecting": "Плита из переплетённых искажённых досок",
-  "rechiseled": "Rechiseled",
-  "rechiseled.jei_category.title": "Высекание"
+  "block.rechiseled.warped_planks_woven_slab_connecting": "Плита из переплетённых искажённых досок"
 }

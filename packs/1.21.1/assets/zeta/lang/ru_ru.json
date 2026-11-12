@@ -1,0 +1,14 @@
+{
+  "zeta.misc.mod_disabled": "Отключено. Установите %s, чтобы включить.",
+  "zeta.jei.hint_preamble": "[Zeta]\n",
+
+  "zeta.gui.config.save": "Сохранить изменения",
+  "zeta.gui.config.header": "Конфигурация %s",
+  "zeta.gui.config.default": "Установить по умолчанию",
+  "zeta.gui.config.discard": "Отменить изменения",
+  "zeta.gui.config.subcategories": "------- Подкатегории -------",
+  "zeta.gui.config.onechild": "1 дочерний элемент",
+  "zeta.gui.config.nchildren": "%d дочерних элементов",
+  "zeta.gui.config.defaultvalue": "По умолчанию: %s",
+  "zeta.gui.config.missingaddon": "Вам не хватает необходимого мода-аддона для этой категории"
+}

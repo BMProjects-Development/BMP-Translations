@@ -1,0 +1,7 @@
+{
+	"cullleaves.midnightconfig.title": "Настройки отбраковки листьев",
+	"cullleaves.midnightconfig.enabled.tooltip": "Включает отбраковку листьев, что значительно повышает производительность",
+	"cullleaves.midnightconfig.enabled": "Включить отбраковку листьев",
+	"cullleaves.midnightconfig.cullRoots.tooltip": "Включает отбраковку мангровых корней.",
+	"cullleaves.midnightconfig.cullRoots": "Включить отбраковку мангровых корней"
+}

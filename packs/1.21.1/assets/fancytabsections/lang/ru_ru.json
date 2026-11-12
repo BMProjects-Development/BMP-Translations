@@ -1,0 +1,18 @@
+{
+  "fancytabsections.configuration.index_expanded": "Расширенный индекс",
+
+  "itemGroup.fancytabsections.fancy_things": "[Только для разработки FTS] Блестящие вещи",
+  "itemGroup.fancytabsections.dirty_tools": "[Только для разработки FTS] Грязные инструменты",
+
+  "section.fancytabsections.shiny_things": "Блестящие вещи",
+  "section.fancytabsections.pretty_things": "Красивые вещи!",
+  "section.fancytabsections.secret_things": "Секретная секция с очень длинным названием для демонстрации прокрутки...",
+  "section.fancytabsections.hotbar": "Правильный порядок хотбара",
+  "section.fancytabsections.dirt": "Земля",
+  "section.fancytabsections.stone": "Камень",
+  "section.fancytabsections.colors": "ЦВЕТ!",
+  "section.fancytabsections.empty": "Пустая секция...",
+
+  "section.fancytabsections.very_dirty_tools": "Очень грязные инструменты",
+  "section.fancytabsections.decently_dirty_tools": "Умеренно грязные инструменты"
+}

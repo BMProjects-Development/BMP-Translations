@@ -1,0 +1,39 @@
+{
+  "rconfig.server.title": "Выделенный сервер",
+  "rconfig.server.desc": "Свойства, которые можно обновлять в реальном времени.",
+  "rconfig.server.wiki": "Вики",
+
+  "rconfig.server.properties.white-list": "Белый список",
+  "rconfig.server.properties.white-list.desc": "Если включено, доступ к серверу имеют только пользователи из белого списка.",
+
+  "rconfig.server.properties.max-players": "Максимум игроков",
+  "rconfig.server.properties.max-players.desc": "Максимальное количество игроков, которые могут одновременно играть на сервере.",
+
+  "rconfig.server.properties.motd": "Сообщение дня",
+  "rconfig.server.properties.motd.desc": "Сообщение, отображаемое в списке серверов.",
+
+  "rconfig.server.properties.allow-flight": "Разрешить полёт",
+  "rconfig.server.properties.allow-flight.desc": "Если включено, игрокам разрешено летать на сервере; обычно требуется на серверах с модами.",
+
+  "rconfig.server.properties.pvp": "Игрок против игрока",
+  "rconfig.server.properties.pvp.desc": "Если включено, игроки могут атаковать друг друга.",
+
+  "rconfig.server.properties.enforce-whitelist": "Строгий белый список",
+  "rconfig.server.properties.enforce-whitelist.desc": "Если включено, доступ к серверу имеют только пользователи из белого списка; игроки не из белого списка будут исключены.",
+
+  "rconfig.ui.constant.close": "Закрыть",
+  "rconfig.ui.constant.reset": "Сбросить",
+  "rconfig.ui.constant.edit": "Изменить",
+  "rconfig.ui.constant.edit.string": "Редактировать строку",
+  "rconfig.ui.constant.edit.list": "Редактировать список",
+  "rconfig.ui.constant.edit.object": "Редактировать объект",
+  "rconfig.ui.constant.choose_item": "Выбрать предмет: ",
+  "rconfig.ui.constant.add_item": "Добавить предмет: ",
+  "rconfig.ui.constant.mod_configs": "Конфигурации модов",
+  "rconfig.ui.constant.mod_configs.description": "Выберите конфигурацию для просмотра или редактирования.",
+
+
+  "rconfig.color.preset.defaults": "По умолчанию",
+  "rconfig.color.preset.recents": "Недавние",
+  "rconfig.color.preset.mc_colors": "Цвета текста"
+}

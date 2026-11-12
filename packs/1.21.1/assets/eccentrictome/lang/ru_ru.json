@@ -1,0 +1,9 @@
+{ 
+    "eccentrictome.convert": "Shift + ПКМ", 
+    "eccentrictome.name": "Чудаковатый фолиант (%s)",
+    "item.eccentrictome.tome": "Чудаковатый фолиант",
+    "eccentrictome.configuration.common": "Эксцентричная конфигурация",
+    "eccentrictome.configuration.disable_overlay": "Отключить оверлей",
+    "eccentrictome.configuration.items": "Разрешённые предметы",
+    "eccentrictome.configuration.aliases": "Псевдонимы modid"
+}
