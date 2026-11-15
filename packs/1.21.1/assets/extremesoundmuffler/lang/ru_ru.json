@@ -12,7 +12,7 @@
   "main_screen.btn.csl.recent": "Недавние",
   "main_screen.btn.csl.all": "Все",
   "main_screen.btn.csl.muffled": "Заглушённые",
-  "main_screen.btn.csl.tooltip": "Показано %s звуков",
+  "main_screen.btn.csl.tooltip": "Показано звуков: %s",
   "main_screen.btn.tms.stop": "Прекратить заглушение",
   "main_screen.btn.tms.start": "Начать заглушение",
   "main_screen.btn.delete.sounds": "Удалить заглушённые звуки",

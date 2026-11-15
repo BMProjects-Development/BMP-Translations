@@ -1,0 +1,12 @@
+{
+	"enhancedai.subtitle.angry_creeper_fuse": "Злой крипер вот-вот взорвётся",
+	"enhancedai.subtitle.angry_creeper_explode": "Злой крипер взрывается",
+
+	"death.attack.bite": "%s погиб от укуса %s",
+	"death.attack.shockwave": "%s погиб от ударной волны %s",
+
+	"attribute.name.xray_follow_range": "Рентгеновская дальность следования моба",
+	"attribute.name.push_resistance": "Сопротивление толканию",
+
+	"enhancedai.leader_banner": "Знамя лидера"
+}

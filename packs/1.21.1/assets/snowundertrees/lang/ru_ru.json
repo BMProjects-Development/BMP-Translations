@@ -1,0 +1,8 @@
+{
+	"snowundertrees.configuration.enable_biome_feature": "Включить особенности биома",
+	"snowundertrees.configuration.enable_biome_feature.tooltip": "Отключите это, чтобы при генерации чанков под деревьями не было снега.",
+	"snowundertrees.configuration.enable_when_snowing": "Включать при снегопаде",
+	"snowundertrees.configuration.enable_when_snowing.tooltip": "Отключите это, чтобы во время снегопада снег не скапливался под деревьями",
+	"snowundertrees.configuration.filtered_biomes": "Фильтрация биомов",
+	"snowundertrees.configuration.filtered_biomes.tooltip": "Добавьте идентификаторы биомов, чтобы мод не влиял на них. Вы можете найти идентификатор биома, в котором вы находитесь на экране F3. Например, идентификатор биома равнин выглядит следующим образом: minecraft:plains"
+}

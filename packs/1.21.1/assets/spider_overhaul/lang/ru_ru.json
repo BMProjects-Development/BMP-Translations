@@ -1,0 +1,108 @@
+{
+  "entity.spider_overhaul.desert_spider": "Пустынный паук",
+  "entity.spider_overhaul.ice_spider": "Ледяной паук",
+  "entity.spider_overhaul.jungle_spider": "Паук джунглей",
+  "entity.spider_overhaul.sculk_spider": "Скалк-паук",
+  "entity.spider_overhaul.mushroom_spider": "Грибной паук",
+  "entity.spider_overhaul.cavern_spider": "Пещерный паук",
+  "entity.spider_overhaul.cavern_spider.type.amethyst": "Аметистовый пещерный паук",
+  "entity.spider_overhaul.cavern_spider.type.emerald": "Изумрудный пещерный паук",
+  "entity.spider_overhaul.cavern_spider.type.diamond": "Алмазный пещерный паук",
+  "entity.spider_overhaul.ocean_spider": "Океанский паук",
+  "entity.spider_overhaul.taiga_spider": "Паук тайги",
+  "entity.spider_overhaul.birch_spider": "Берёзовый паук",
+  "entity.spider_overhaul.savanna_spider": "Паук саванны",
+  "entity.spider_overhaul.swamp_spider": "Болотный паук",
+  
+  "block.spider_overhaul.birch_nest": "Берёзовое гнездо пауков",
+  "block.spider_overhaul.spider_lily_pad": "Заражённая кувшинка",
+  "block.spider_overhaul.giant_bamboo_block": "Блок гигантского бамбука",
+  "block.spider_overhaul.sculk_string": "Глубинный шёлк",
+  
+  "item.spider_overhaul.cactus_spine": "Шип кактуса",
+  "item.spider_overhaul.ice_shard": "Осколок льда",
+  "item.spider_overhaul.ice_snowball": "Ледяной снежок",
+  "item.spider_overhaul.crab_leg": "Крабья нога",
+  "item.spider_overhaul.cooked_crab": "Приготовленный краб",
+  "item.spider_overhaul.spider_lily_pad": "Заражённая кувшинка",
+  "item.spider_overhaul.sculk_string": "Глубинный шёлк",
+  "item.spider_overhaul.bottle_of_spider_pollen": "Бутылочка паучьей пыльцы",
+  
+  "item.spider_overhaul.desert_spider_spawn_egg": "Яйцо призыва пустынного паука",
+  "item.spider_overhaul.ice_spider_spawn_egg": "Яйцо призыва ледяного паука",
+  "item.spider_overhaul.jungle_spider_spawn_egg": "Яйцо призыва паука джунглей",
+  "item.spider_overhaul.sculk_spider_spawn_egg": "Яйцо призыва скалк-паука",
+  "item.spider_overhaul.mushroom_spider_spawn_egg": "Яйцо призыва грибного паука",
+  "item.spider_overhaul.cavern_spider_spawn_egg": "Яйцо призыва пещерного паука",
+  "item.spider_overhaul.ocean_spider_spawn_egg": "Яйцо призыва океанского паука",
+  "item.spider_overhaul.taiga_spider_spawn_egg": "Яйцо призыва паука тайги",
+  "item.spider_overhaul.birch_spider_spawn_egg": "Яйцо призыва берёзового паука",
+  "item.spider_overhaul.savanna_spider_spawn_egg": "Яйцо призыва паука саванны",
+  "item.spider_overhaul.swamp_spider_spawn_egg": "Яйцо призыва болотного паука",
+  
+  "effect.spider_overhaul.icy": "Обморожение",
+  "effect.spider_overhaul.bog": "Увязание",
+  "effect.spider_overhaul.webbed": "Опутанность",
+  
+  "item.minecraft.potion.effect.icy": "Зелье обморожения",
+  "item.minecraft.splash_potion.effect.icy": "Взрывное зелье обморожения",
+  "item.minecraft.lingering_potion.effect.icy": "Туманное зелье обморожения",
+  "item.minecraft.tipped_arrow.effect.icy": "Стрела обморожения",
+  
+  "item.minecraft.potion.effect.long_icy": "Зелье обморожения",
+  "item.minecraft.splash_potion.effect.long_icy": "Взрывное зелье обморожения",
+  "item.minecraft.lingering_potion.effect.long_icy": "Туманное зелье обморожения",
+  "item.minecraft.tipped_arrow.effect.long_icy": "Стрела обморожения",
+  
+  "item.minecraft.potion.effect.bog": "Зелье увязания",
+  "item.minecraft.splash_potion.effect.bog": "Взрывное зелье увязания",
+  "item.minecraft.lingering_potion.effect.bog": "Туманное зелье увязания",
+  "item.minecraft.tipped_arrow.effect.bog": "Стрела увязания",
+  
+  "item.minecraft.potion.effect.long_bog": "Зелье увязания",
+  "item.minecraft.splash_potion.effect.long_bog": "Взрывное зелье увязания",
+  "item.minecraft.lingering_potion.effect.long_bog": "Туманное зелье увязания",
+  "item.minecraft.tipped_arrow.effect.long_bog": "Стрела увязания",
+  
+  "advancements.spider_overhaul.root.title": "Spider Overhaul",
+  "advancements.spider_overhaul.root.description": "Пауки ползут по стенам",
+  "advancements.spider_overhaul.use_spider_pollen.title": "Растёт как на дрожжах",
+  "advancements.spider_overhaul.use_spider_pollen.description": "Используйте паутинную пыльцу на бамбуке, чтобы вырастить гигантский бамбук",
+  "advancements.spider_overhaul.break_webbed.title": "Мрмф-мхмф!!",
+  "advancements.spider_overhaul.break_webbed.description": "Избавьтесь от эффекта опутанности до того, как он исчезнет",
+  "advancements.spider_overhaul.kill_mod_spider.title": "Психопаты-пауки!",
+  "advancements.spider_overhaul.kill_mod_spider.description": "Убейте одного из переработанных вариантов паука",
+  "advancements.spider_overhaul.kill_all_spiders.title": "Я слышала, они ненавидят пауков",
+  "advancements.spider_overhaul.kill_all_spiders.description": "Уничтожьте каждый переработанный вариант паука",
+  
+  "itemGroup.spider_overhaul.general": "Spider Overhaul",
+
+  "config.spider_overhaul.title": "Настройки Spider Overhaul",
+  "config.spider_overhaul.category.general": "Общие",
+  "config.spider_overhaul.category.spawning": "Спавн",
+  "config.spider_overhaul.category.attributes": "Характеристики",
+
+  "config.spider_overhaul.replace_vanilla_spiders": "Заменять ванильных пауков",
+  "config.spider_overhaul.replace_vanilla_spiders.tooltip": "Убирает спавн ванильных пауков и пещерных пауков из биомов, где есть варианты пауков.",
+
+  "config.spider_overhaul.use_vanilla_models": "Использовать ванильные модели",
+  "config.spider_overhaul.use_vanilla_models.tooltip": "Переключает модели пауков на ванильный стиль. Отключите, чтобы использовать кастомные переработанные модели.",
+
+  "config.spider_overhaul.hide_spider_legs": "Скрыть паучьи лапы",
+  "config.spider_overhaul.hide_spider_legs.tooltip": "Скрывает лапы у всех моделей пауков, чтобы они не отрисовывались. Предназначено для игроков с арахнофобией.",
+
+  "config.spider_overhaul.sculk_spider_use_eyes_model": "Модель глаз скалк-паука",
+  "config.spider_overhaul.sculk_spider_use_eyes_model.tooltip": "Использует модель с глазами для скалк-паука вместо модели без глаз. Только визуально.",
+
+  "config.spider_overhaul.spawn_weight_multiplier": "Множитель веса спавна",
+  "config.spider_overhaul.spawn_weight_multiplier.tooltip": "Умножает вес спавна всех вариантов пауков. Большие значения = более частый спавн.",
+
+  "config.spider_overhaul.health_multiplier": "Множитель здоровья",
+  "config.spider_overhaul.health_multiplier.tooltip": "Умножает базовое здоровье всех вариантов пауков.",
+
+  "config.spider_overhaul.damage_multiplier": "Множитель урона",
+  "config.spider_overhaul.damage_multiplier.tooltip": "Умножает базовый урон от атаки всех вариантов пауков.",
+
+  "config.spider_overhaul.speed_multiplier": "Множитель скорости",
+  "config.spider_overhaul.speed_multiplier.tooltip": "Умножает базовую скорость передвижения всех вариантов пауков."
+}

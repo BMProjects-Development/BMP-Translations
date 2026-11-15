@@ -1,0 +1,10 @@
+{
+  "fusion.resource_packs.requires_newer_version": "(Создан для более новой версии Fusion)",
+  "fusion.resource_packs.warning_screen.title": "Предупреждение о версии Fusion",
+  "fusion.resource_packs.warning_screen.message": "Этот набор ресурсов создан для более новой версии Fusion и может работать некорректно с текущей установленной версией Fusion.",
+  "fusion.resource_packs.warning_screen.confirmation": "Вы всё равно хотите включить этот набор ресурсов?",
+  "fusion.resource_packs.warning_screen.current_version": "Установленная версия:",
+  "fusion.resource_packs.warning_screen.required_version": "Требуемая версия:",
+  "fusion.resource_packs.warning_screen.cancel": "Нет",
+  "fusion.resource_packs.warning_screen.confirm": "Да"
+}

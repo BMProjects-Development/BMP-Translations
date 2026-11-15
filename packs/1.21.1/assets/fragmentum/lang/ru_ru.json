@@ -1,0 +1,19 @@
+{
+  "config.fragmentum.anyReloadWrapper": "%s\n\n§6⚠ Для применения этого параметра необходимо перезагрузить мир или выполнить команду /reload!",
+  "config.fragmentum.worldReloadWrapper": "%s\n\n§6⚠ Для применения этого параметра необходимо перезагрузить мир!",
+  "config.fragmentum.format.percentage": "%s%%",
+  "config.fragmentum.format.seconds": "%s сек.",
+  "config.fragmentum.format.minutes": "%s мин.",
+  "config.fragmentum.format.blocks": "%s блок(ов)",
+  "config.fragmentum.format.chunks": "%s чанк(ов)",
+  "config.fragmentum.format.potency.0": "I",
+  "config.fragmentum.format.potency.1": "II",
+  "config.fragmentum.format.potency.2": "III",
+  "config.fragmentum.format.potency.3": "VI",
+  "config.fragmentum.format.potency.4": "V",
+  "config.fragmentum.format.potency.5": "VI",
+  "config.fragmentum.format.potency.6": "VII",
+  "config.fragmentum.format.potency.7": "VIII",
+  "config.fragmentum.format.potency.8": "IX",
+  "config.fragmentum.format.potency.9": "X"
+}
