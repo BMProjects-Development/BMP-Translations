@@ -269,6 +269,13 @@
       "resolved": true
     },
     {
+      "name": "Bestinpack",
+      "namespaces": [
+        "bestinpack"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Better Nether",
       "namespaces": [
         "betternether"
@@ -281,6 +288,13 @@
       "name": "Betteradvancedtooltips",
       "namespaces": [
         "betteradvancedtooltips"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Betteradvancements",
+      "namespaces": [
+        "betteradvancements"
       ],
       "resolved": false
     },
@@ -519,6 +533,14 @@
         "cognition"
       ],
       "modrinth": "https://modrinth.com/mod/cognition",
+      "resolved": true
+    },
+    {
+      "name": "Collective",
+      "namespaces": [
+        "collective"
+      ],
+      "modrinth": "https://modrinth.com/mod/collective",
       "resolved": true
     },
     {
@@ -847,6 +869,13 @@
       "resolved": false
     },
     {
+      "name": "Emi Loot",
+      "namespaces": [
+        "emi_loot"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Emi Ores",
       "namespaces": [
         "emi_ores"
@@ -894,6 +923,13 @@
       "name": "Enderzoology",
       "namespaces": [
         "enderzoology"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Enhancedai",
+      "namespaces": [
+        "enhancedai"
       ],
       "resolved": false
     },
@@ -982,6 +1018,20 @@
       "resolved": true
     },
     {
+      "name": "Fastbench",
+      "namespaces": [
+        "fastbench"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Fastpaintings",
+      "namespaces": [
+        "fastpaintings"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Fmtt",
       "namespaces": [
         "fmtt"
@@ -995,6 +1045,14 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus"
+    },
+    {
+      "name": "Fragmentum",
+      "namespaces": [
+        "fragmentum"
+      ],
+      "modrinth": "https://modrinth.com/mod/fragmentum",
+      "resolved": true
     },
     {
       "name": "Framed Blocks",
@@ -1017,6 +1075,13 @@
       "name": "Ftbauxilium",
       "namespaces": [
         "ftbauxilium"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Ftbbackups3",
+      "namespaces": [
+        "ftbbackups3"
       ],
       "resolved": false
     },
@@ -1069,6 +1134,14 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/functional-storage"
+    },
+    {
+      "name": "Fusion",
+      "namespaces": [
+        "fusion"
+      ],
+      "modrinth": "https://modrinth.com/mod/fusion",
+      "resolved": true
     },
     {
       "name": "Gadgets Against Grind",
@@ -1148,6 +1221,21 @@
       "resolved": true
     },
     {
+      "name": "InsaneLib",
+      "namespaces": [
+        "insanelib"
+      ],
+      "modrinth": "https://modrinth.com/mod/insanelib",
+      "resolved": true
+    },
+    {
+      "name": "Inventoryessentials",
+      "namespaces": [
+        "inventoryessentials"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Iron Furnaces",
       "namespaces": [
         "ironfurnaces"
@@ -1183,6 +1271,21 @@
         "itemcollectors"
       ],
       "resolved": false
+    },
+    {
+      "name": "Jadeaddons",
+      "namespaces": [
+        "jadeaddons"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "JamLib",
+      "namespaces": [
+        "jamlib"
+      ],
+      "modrinth": "https://modrinth.com/mod/jamlib",
+      "resolved": true
     },
     {
       "name": "Jearchaeology",
@@ -1222,6 +1325,14 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/justhammers"
     },
     {
+      "name": "Kiwi 🥝",
+      "namespaces": [
+        "kiwi"
+      ],
+      "modrinth": "https://modrinth.com/mod/kiwi",
+      "resolved": true
+    },
+    {
       "name": "Knightlib",
       "namespaces": [
         "knightlib"
@@ -1257,6 +1368,14 @@
         "lfpirates"
       ],
       "resolved": false
+    },
+    {
+      "name": "LibTooltips",
+      "namespaces": [
+        "libtooltips"
+      ],
+      "modrinth": "https://modrinth.com/mod/libtooltips",
+      "resolved": true
     },
     {
       "name": "Lionfishapi",
@@ -1838,6 +1957,20 @@
       "resolved": false
     },
     {
+      "name": "Sky Archipelago",
+      "namespaces": [
+        "sky_archipelago"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Snowundertrees",
+      "namespaces": [
+        "snowundertrees"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Sophisticated Storage",
       "namespaces": [
         "sophisticatedstorage"
@@ -1868,6 +2001,13 @@
       "modrinth": "https://modrinth.com/mod/sound"
     },
     {
+      "name": "Spider Overhaul",
+      "namespaces": [
+        "spider_overhaul"
+      ],
+      "resolved": false
+    },
+    {
       "name": "StarbuncleMania",
       "namespaces": [
         "starbunclemania"
@@ -1880,6 +2020,14 @@
         "statuseffectbars"
       ],
       "resolved": false
+    },
+    {
+      "name": "Structurify - Structure Control",
+      "namespaces": [
+        "structurify"
+      ],
+      "modrinth": "https://modrinth.com/mod/structurify",
+      "resolved": true
     },
     {
       "name": "Structurize",
@@ -1909,6 +2057,13 @@
         "superfactorymanager"
       ],
       "resolved": true
+    },
+    {
+      "name": "Supermartijn642corelib",
+      "namespaces": [
+        "supermartijn642corelib"
+      ],
+      "resolved": false
     },
     {
       "name": "Teams",
@@ -1947,6 +2102,14 @@
         "tiab"
       ],
       "resolved": false
+    },
+    {
+      "name": "Titanium",
+      "namespaces": [
+        "titanium"
+      ],
+      "modrinth": "https://modrinth.com/mod/titanium",
+      "resolved": true
     },
     {
       "name": "Toast Control",
@@ -2171,6 +2334,14 @@
         "zombie_variants"
       ],
       "resolved": false
+    },
+    {
+      "name": "Zume",
+      "namespaces": [
+        "zume"
+      ],
+      "modrinth": "https://modrinth.com/mod/zume",
+      "resolved": true
     }
   ]
 }

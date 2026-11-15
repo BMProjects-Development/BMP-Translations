@@ -30,7 +30,7 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 1.21.1
 
 <details>
-<summary>291 mods and add-ons | модов и дополнений</summary>
+<summary>314 mods and add-ons | модов и дополнений</summary>
 
 - Accessories Compat Layer
 - Actually Additions
@@ -68,8 +68,10 @@ BMP Translations — ресурспак, созданный командой BMP
 - Bagus Lib
 - Balm — [Modrinth](https://modrinth.com/mod/balm)
 - Bamboo Everything
+- Bestinpack
 - Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
 - Betteradvancedtooltips
+- Betteradvancements
 - BetterStats — [Modrinth](https://modrinth.com/mod/betterstats)
 - Bhmenu
 - Bigreactors
@@ -101,6 +103,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Christmas Culinary Decorations
 - CodeChicken Lib — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 - Cognition — [Modrinth](https://modrinth.com/mod/cognition)
+- Collective — [Modrinth](https://modrinth.com/mod/collective)
 - Colored Water
 - Combat Roll
 - Compact Machines
@@ -145,6 +148,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - EMI — [Modrinth](https://modrinth.com/mod/emi)
 - Emi Enchanting
 - Emi Letsdo Compat
+- Emi Loot
 - Emi Ores
 - Emirecipesharing
 - Enchanted
@@ -152,6 +156,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Ender's Delight — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enders-delight)
 - EnderDrives — [Modrinth](https://modrinth.com/mod/enderdrives)
 - Enderzoology
+- Enhancedai
 - Entity Culling — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling) · [Modrinth](https://modrinth.com/mod/entityculling)
 - Er2create
 - Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
@@ -163,11 +168,15 @@ BMP Translations — ресурспак, созданный командой BMP
 - Fadingnightvision
 - Fancy Tab Sections — [Modrinth](https://modrinth.com/mod/fancytabsections)
 - Fancy World Animations [FWA] — [Modrinth](https://modrinth.com/mod/fwa)
+- Fastbench
+- Fastpaintings
 - Fmtt
 - Forbidden and Arcanus — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
+- Fragmentum — [Modrinth](https://modrinth.com/mod/fragmentum)
 - Framed Blocks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/framedblocks) · [Modrinth](https://modrinth.com/mod/framedblocks)
 - FTB: Backups — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
 - Ftbauxilium
+- Ftbbackups3
 - Ftbechoes
 - Ftbmaterials
 - Ftbpc
@@ -175,6 +184,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Ftbteambases
 - Ftbunearthed
 - Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
+- Fusion — [Modrinth](https://modrinth.com/mod/fusion)
 - Gadgets Against Grind — [Modrinth](https://modrinth.com/mod/gag)
 - Gateways — [Modrinth](https://modrinth.com/mod/gateway)
 - Gaze
@@ -185,21 +195,27 @@ BMP Translations — ресурспак, созданный командой BMP
 - Iceandfire
 - ImmersiveThunder — [Modrinth](https://modrinth.com/mod/immersivethunder)
 - Industrial Foregoing: Souls
+- InsaneLib — [Modrinth](https://modrinth.com/mod/insanelib)
+- Inventoryessentials
 - Iron Furnaces — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces)
 - Iron Jetpacks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/iron-jetpacks)
 - Irons Jewelry
 - Irregular Implements
 - Itemcollectors
+- Jadeaddons
+- JamLib — [Modrinth](https://modrinth.com/mod/jamlib)
 - Jearchaeology
 - JEI Mekanism Multiblocks
 - Just Dire Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-dire-things)
 - Just Dyna Things
 - JustHammers — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justhammers)
+- Kiwi 🥝 — [Modrinth](https://modrinth.com/mod/kiwi)
 - Knightlib
 - LaserIO — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/laserio)
 - Lava Fishing — [Modrinth](https://modrinth.com/mod/lavafishing)
 - Leaderboards
 - Lfpirates
+- LibTooltips — [Modrinth](https://modrinth.com/mod/libtooltips)
 - Lionfishapi
 - Living Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/living-things)
 - Lychee — [Modrinth](https://modrinth.com/mod/lychee)
@@ -278,21 +294,27 @@ BMP Translations — ресурспак, созданный командой BMP
 - Simplybows
 - Simplyswords
 - Simplytooltips
+- Sky Archipelago
+- Snowundertrees
 - Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
 - Sophisticatedbackpacks
 - Soulplied Energistics
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
+- Spider Overhaul
 - StarbuncleMania
 - Statuseffectbars
+- Structurify - Structure Control — [Modrinth](https://modrinth.com/mod/structurify)
 - Structurize — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - Stylisheffects
 - Subtle Effects
 - Super Factory Manager
+- Supermartijn642corelib
 - Teams — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams)
 - Tempad — [Modrinth](https://modrinth.com/mod/tempad)
 - Thaumic Decoration
 - The Bakery Modpack — [Modrinth](https://modrinth.com/mod/bakery)
 - Tiab
+- Titanium — [Modrinth](https://modrinth.com/mod/titanium)
 - Toast Control — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 - Tooltipoverhaul
 - Toxony — [Modrinth](https://modrinth.com/mod/toxony)
@@ -323,6 +345,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - YTech — [Modrinth](https://modrinth.com/mod/ytech)
 - Zeta — [Modrinth](https://modrinth.com/mod/zeta)
 - Zombie Variants
+- Zume — [Modrinth](https://modrinth.com/mod/zume)
 
 </details>
 
