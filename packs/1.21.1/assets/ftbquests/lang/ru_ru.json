@@ -588,6 +588,7 @@
   "ftbquests.reward.ftbquests.xp": "Опыт",
   "ftbquests.reward.ftbquests.xp_levels": "Уровни опыта",
   "ftbquests.reward.ftbquests.currency": "Валюта",
+  "ftbquests.reward.ftbquests.currency.title": "§e⬤§r %s",
   "ftbquests.reward.ftbquests.command": "Команда",
   "ftbquests.reward.ftbquests.command.success": "Командная награда успешно получена",
   "ftbquests.reward.ftbquests.command.tooltip": "Поддерживаются ванильные подстановки, напр. @p\nСпециальные подстановки:\n{x} / {y} / {z} - текущие X/Y/Z позиции игрока\n{quest} - ID этого квеста\n{chapter} - ID этой главы\n{team} - короткое имя команды игрока",

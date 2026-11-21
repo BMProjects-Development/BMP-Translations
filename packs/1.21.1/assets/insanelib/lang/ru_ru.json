@@ -1,4 +1,5 @@
 {
   "attribute.name.push_resistance": "Сопротивление отталкиванию",
-  "attribute.name.mob_detection_range": "Дальность обнаружения мобов"
+  "attribute.name.mob_detection_range": "Дальность обнаружения мобов",
+  "attribute.name.off_ground_mining_speed": "Скорость добычи в воздухе"
 }

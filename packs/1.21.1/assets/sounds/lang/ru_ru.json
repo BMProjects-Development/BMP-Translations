@@ -132,6 +132,5 @@
   "sounds.config.option.description.hideSoundsButtonInSoundMenu": "Должен ли мод скрыnь кнопку 'Звуки', которая открывает экран настройки, с ванильного экрана звукового микшера?",
   "sounds.config.option.enableVerboseSoundTypeLogging": "Включить подробное логирование типов звуков",
   "sounds.config.option.description.enableVerboseSoundTypeLogging": "Должен ли Sounds логировать подробную информацию о типах звуков блоков в консоль? Это полезно для целей отладки.",
-  "sounds.subtitle.sword_swoosh": "Взмах меча",
-  "sounds.config.option.enableEnderpearlVariety.name": "Разнообразие звуков эндер-жемчуга"
+  "sounds.subtitle.sword_swoosh": "Взмах меча"
 }
