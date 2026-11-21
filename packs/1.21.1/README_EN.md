@@ -1,6 +1,6 @@
 # Translated mods for Minecraft 1.21.1
 
-BMP Translations currently contains translations for 314 mods and add-ons on Minecraft 1.21.1.
+BMP Translations currently contains translations for 333 mods and add-ons on Minecraft 1.21.1.
 
 The list is generated from the resource-pack sources. A platform link is shown only when the project was found there.
 
@@ -34,7 +34,10 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Ars Creo
 - Ars Hex
 - Ars Ocultas
+- Artifacts — [Modrinth](https://modrinth.com/mod/artifacts)
 - Arts And Crafts
+- AStages — [Modrinth](https://modrinth.com/mod/astages)
+- Atmospheric — [Modrinth](https://modrinth.com/mod/atmospheric)
 - Avaritia
 - Bad Mobs — [Modrinth](https://modrinth.com/mod/bad-mobs-fabric)
 - Bagus Lib
@@ -85,6 +88,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Confluencegunanimationfix
 - Confluencemenuaddon
 - Confluent Enchants
+- Connectedglass
 - Controlling — [Modrinth](https://modrinth.com/mod/controlling)
 - Countriesdelight
 - Crafting Stantion — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
@@ -108,11 +112,16 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Dawnoftimebuilder
 - Deepdarkdimdungeons
 - Defaultoptions
+- Difficultyplus
 - Dimdungeous
 - Dis-Enchanting Table — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dis-enchanting-table)
 - Draconic Evolution — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)
+- Drippyloadingscreen
 - Dsurround
 - Dummmmmmy
+- Dungeon Difficulty
+- Dungeons Arise
+- Durability Tooltip — [Modrinth](https://modrinth.com/mod/durabilitytooltip)
 - Eatinganimation
 - Eccentrictome
 - Elemental Craft — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
@@ -130,11 +139,13 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Enderzoology
 - Enhancedai
 - Entity Culling — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling) · [Modrinth](https://modrinth.com/mod/entityculling)
+- Environmental — [Modrinth](https://modrinth.com/mod/environmental)
 - Er2create
 - Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
 - Everything is Copper — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper) · [Modrinth](https://modrinth.com/mod/everythingcopper)
 - Expandedae
 - Explosiveenhancement
+- Exposure — [Modrinth](https://modrinth.com/mod/exposure)
 - Extendedae
 - Extremesoundmuffler
 - Fadingnightvision
@@ -142,10 +153,12 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Fancy World Animations [FWA] — [Modrinth](https://modrinth.com/mod/fwa)
 - Fastbench
 - Fastpaintings
+- Fieldguide
 - Fmtt
 - Forbidden and Arcanus — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus)
 - Fragmentum — [Modrinth](https://modrinth.com/mod/fragmentum)
 - Framed Blocks — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/framedblocks) · [Modrinth](https://modrinth.com/mod/framedblocks)
+- Friendsandfoes
 - FTB: Backups — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
 - Ftbauxilium
 - Ftbbackups3
@@ -165,6 +178,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - GuideME — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/guideme) · [Modrinth](https://modrinth.com/mod/guideme)
 - Hooked — [Modrinth](https://modrinth.com/mod/hooked)
 - Iceandfire
+- Immersiveoverlays
 - ImmersiveThunder — [Modrinth](https://modrinth.com/mod/immersivethunder)
 - Industrial Foregoing: Souls
 - InsaneLib — [Modrinth](https://modrinth.com/mod/insanelib)
@@ -228,6 +242,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Oritech Things — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/oritech-things)
 - Owo
 - Particlerain
+- Patchouli — [Modrinth](https://modrinth.com/mod/patchouli)
 - Paxi — [Modrinth](https://modrinth.com/mod/paxi)
 - Pet Home — [Modrinth](https://modrinth.com/mod/pet_home)
 - Pipe Connector
@@ -237,9 +252,11 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - PolyLib — [Modrinth](https://modrinth.com/mod/polylib)
 - Productive Bees — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/productive-bees) · [Modrinth](https://modrinth.com/mod/productivebees)
 - Productivefarming
+- Quark — [Modrinth](https://modrinth.com/mod/quark)
 - Reanimal
 - Rechiseled — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled) · [Modrinth](https://modrinth.com/mod/rechiseled)
 - Rechiseled: Create — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create)
+- Relics — [Modrinth](https://modrinth.com/mod/relics)
 - Rep AE2 Bridge
 - Repeatable Trial Vaults
 - Replication — [Modrinth](https://modrinth.com/mod/replication)
@@ -250,6 +267,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Rftoolsbuilder
 - Rftoolspower
 - Rftoolsutility
+- RightClickHarvest — [Modrinth](https://modrinth.com/mod/rightclickharvest)
 - Rocks
 - Roots — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roots)
 - RSInfinityBooster — [Modrinth](https://modrinth.com/mod/rsinfinitybooster)
@@ -267,6 +285,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Simplyswords
 - Simplytooltips
 - Sky Archipelago
+- Snowrealmagic
 - Snowundertrees
 - Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
 - Sophisticatedbackpacks

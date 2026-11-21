@@ -225,11 +225,35 @@
       "resolved": false
     },
     {
+      "name": "Artifacts",
+      "namespaces": [
+        "artifacts"
+      ],
+      "modrinth": "https://modrinth.com/mod/artifacts",
+      "resolved": true
+    },
+    {
       "name": "Arts And Crafts",
       "namespaces": [
         "arts_and_crafts"
       ],
       "resolved": false
+    },
+    {
+      "name": "AStages",
+      "namespaces": [
+        "astages"
+      ],
+      "modrinth": "https://modrinth.com/mod/astages",
+      "resolved": true
+    },
+    {
+      "name": "Atmospheric",
+      "namespaces": [
+        "atmospheric"
+      ],
+      "modrinth": "https://modrinth.com/mod/atmospheric",
+      "resolved": true
     },
     {
       "name": "Avaritia",
@@ -609,6 +633,13 @@
       "resolved": false
     },
     {
+      "name": "Connectedglass",
+      "namespaces": [
+        "connectedglass"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Controlling",
       "namespaces": [
         "controlling"
@@ -779,6 +810,13 @@
       "resolved": false
     },
     {
+      "name": "Difficultyplus",
+      "namespaces": [
+        "difficultyplus"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Dimdungeous",
       "namespaces": [
         "dimdungeous"
@@ -802,6 +840,13 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/draconic-evolution"
     },
     {
+      "name": "Drippyloadingscreen",
+      "namespaces": [
+        "drippyloadingscreen"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Dsurround",
       "namespaces": [
         "dsurround"
@@ -814,6 +859,28 @@
         "dummmmmmy"
       ],
       "resolved": false
+    },
+    {
+      "name": "Dungeon Difficulty",
+      "namespaces": [
+        "dungeon_difficulty"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Dungeons Arise",
+      "namespaces": [
+        "dungeons_arise"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Durability Tooltip",
+      "namespaces": [
+        "durabilitytooltip"
+      ],
+      "modrinth": "https://modrinth.com/mod/durabilitytooltip",
+      "resolved": true
     },
     {
       "name": "Eatinganimation",
@@ -943,6 +1010,14 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/entityculling"
     },
     {
+      "name": "Environmental",
+      "namespaces": [
+        "environmental"
+      ],
+      "modrinth": "https://modrinth.com/mod/environmental",
+      "resolved": true
+    },
+    {
       "name": "Er2create",
       "namespaces": [
         "er2create"
@@ -979,6 +1054,14 @@
         "explosiveenhancement"
       ],
       "resolved": false
+    },
+    {
+      "name": "Exposure",
+      "namespaces": [
+        "exposure"
+      ],
+      "modrinth": "https://modrinth.com/mod/exposure",
+      "resolved": true
     },
     {
       "name": "Extendedae",
@@ -1032,6 +1115,13 @@
       "resolved": false
     },
     {
+      "name": "Fieldguide",
+      "namespaces": [
+        "fieldguide"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Fmtt",
       "namespaces": [
         "fmtt"
@@ -1062,6 +1152,13 @@
       "modrinth": "https://modrinth.com/mod/framedblocks",
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/framedblocks"
+    },
+    {
+      "name": "Friendsandfoes",
+      "namespaces": [
+        "friendsandfoes"
+      ],
+      "resolved": false
     },
     {
       "name": "FTB: Backups",
@@ -1202,6 +1299,13 @@
       "name": "Iceandfire",
       "namespaces": [
         "iceandfire"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Immersiveoverlays",
+      "namespaces": [
+        "immersiveoverlays"
       ],
       "resolved": false
     },
@@ -1677,6 +1781,14 @@
       "resolved": false
     },
     {
+      "name": "Patchouli",
+      "namespaces": [
+        "patchouli"
+      ],
+      "modrinth": "https://modrinth.com/mod/patchouli",
+      "resolved": true
+    },
+    {
       "name": "Paxi",
       "namespaces": [
         "paxi"
@@ -1745,6 +1857,14 @@
       "resolved": false
     },
     {
+      "name": "Quark",
+      "namespaces": [
+        "quark"
+      ],
+      "modrinth": "https://modrinth.com/mod/quark",
+      "resolved": true
+    },
+    {
       "name": "Reanimal",
       "namespaces": [
         "reanimal"
@@ -1767,6 +1887,14 @@
       ],
       "resolved": true,
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/rechiseled-create"
+    },
+    {
+      "name": "Relics",
+      "namespaces": [
+        "relics"
+      ],
+      "modrinth": "https://modrinth.com/mod/relics",
+      "resolved": true
     },
     {
       "name": "Rep AE2 Bridge",
@@ -1838,6 +1966,14 @@
         "rftoolsutility"
       ],
       "resolved": false
+    },
+    {
+      "name": "RightClickHarvest",
+      "namespaces": [
+        "rightclickharvest"
+      ],
+      "modrinth": "https://modrinth.com/mod/rightclickharvest",
+      "resolved": true
     },
     {
       "name": "Rocks",
@@ -1960,6 +2096,13 @@
       "name": "Sky Archipelago",
       "namespaces": [
         "sky_archipelago"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Snowrealmagic",
+      "namespaces": [
+        "snowrealmagic"
       ],
       "resolved": false
     },
