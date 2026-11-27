@@ -20,8 +20,10 @@
   "fwa.config.category.lantern": "ФОНАРИ",
   "fwa.config.category.chain": "ЦЕПИ",
   "fwa.config.category.dripleaf": "ЛИСТЬЯ КАПЕЛЬНИКА",
-  "fwa.config.category.redstone": "КРАСНЫЕ ПРОВОДА",
+  "fwa.config.category.redstone": "РЕДСТОУНОВЫЕ ПРОВОДА",
   "fwa.config.category.shulkerbox": "ШАЛКЕРОВЫЕ ЯЩИКИ",
+  "fwa.config.category.swinging": "АНИМАЦИИ РАСКАЧИВАНИЯ",
+  "fwa.config.category.hanging_sign": "ПОДВЕСНЫЕ ТАБЛИЧКИ",
 
   "fwa.config.option.mod_toggle.name": "Состояние мода",
   "fwa.config.option.animation_render_distance.name": "Дальность рендеринга активированных анимаций",
@@ -36,6 +38,9 @@
   "fwa.config.option.texture_change_time.name": "Время смены текстуры",
   "fwa.config.option.override.name": "Переопределять состояние цепей, если на конце висит фонарь",
   "fwa.config.option.swing_limit.name": "Ограничить угол раскачивания цепей",
+  "fwa.config.option.redstone.name": "Анимировать при подаче сигнала редстоуна",
+  "fwa.config.option.weather.name": "Погода влияет на анимации раскачивания",
+  "fwa.config.option.intensity.name": "Множитель интенсивности анимации",
 
   "fwa.config.value.true": "Включено",
   "fwa.config.value.false": "Отключено",
