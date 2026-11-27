@@ -323,6 +323,13 @@
       "resolved": false
     },
     {
+      "name": "Bettercombat",
+      "namespaces": [
+        "bettercombat"
+      ],
+      "resolved": false
+    },
+    {
       "name": "BetterStats",
       "namespaces": [
         "betterstats"
@@ -441,6 +448,13 @@
       "name": "Byg",
       "namespaces": [
         "byg"
+      ],
+      "resolved": false
+    },
+    {
+      "name": "Carbonconfig",
+      "namespaces": [
+        "carbonconfig"
       ],
       "resolved": false
     },
@@ -1033,6 +1047,13 @@
       "curseforge": "https://www.curseforge.com/minecraft/mc-mods/ftb-essentials"
     },
     {
+      "name": "Euphoria Patcher",
+      "namespaces": [
+        "euphoria_patcher"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Everything is Copper",
       "namespaces": [
         "everythingcopper"
@@ -1239,6 +1260,13 @@
       ],
       "modrinth": "https://modrinth.com/mod/fusion",
       "resolved": true
+    },
+    {
+      "name": "Fzzy Config",
+      "namespaces": [
+        "fzzy_config"
+      ],
+      "resolved": false
     },
     {
       "name": "Gadgets Against Grind",
@@ -2129,11 +2157,25 @@
       "resolved": false
     },
     {
+      "name": "Sophisticatedcore",
+      "namespaces": [
+        "sophisticatedcore"
+      ],
+      "resolved": false
+    },
+    {
       "name": "Soulplied Energistics",
       "namespaces": [
         "soulplied_energistics"
       ],
       "resolved": true
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "namespaces": [
+        "sound_physics_remastered"
+      ],
+      "resolved": false
     },
     {
       "name": "Sounds",

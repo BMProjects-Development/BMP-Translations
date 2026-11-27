@@ -30,7 +30,7 @@ BMP Translations — ресурспак, созданный командой BMP
 ### Minecraft 1.21.1
 
 <details>
-<summary>333 mods and add-ons | модов и дополнений</summary>
+<summary>339 mods and add-ons | модов и дополнений</summary>
 
 - Accessories Compat Layer
 - Actually Additions
@@ -75,6 +75,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
 - Betteradvancedtooltips
 - Betteradvancements
+- Bettercombat
 - BetterStats — [Modrinth](https://modrinth.com/mod/betterstats)
 - Bhmenu
 - Bigreactors
@@ -91,6 +92,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 - Bwncr
 - Byg
+- Carbonconfig
 - Cataclysm
 - Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
@@ -170,6 +172,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Environmental — [Modrinth](https://modrinth.com/mod/environmental)
 - Er2create
 - Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
+- Euphoria Patcher
 - Everything is Copper — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper) · [Modrinth](https://modrinth.com/mod/everythingcopper)
 - Expandedae
 - Explosiveenhancement
@@ -198,6 +201,7 @@ BMP Translations — ресурспак, созданный командой BMP
 - Ftbunearthed
 - Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
 - Fusion — [Modrinth](https://modrinth.com/mod/fusion)
+- Fzzy Config
 - Gadgets Against Grind — [Modrinth](https://modrinth.com/mod/gag)
 - Gateways — [Modrinth](https://modrinth.com/mod/gateway)
 - Gaze
@@ -317,7 +321,9 @@ BMP Translations — ресурспак, созданный командой BMP
 - Snowundertrees
 - Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
 - Sophisticatedbackpacks
+- Sophisticatedcore
 - Soulplied Energistics
+- Sound Physics Remastered
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - Spider Overhaul
 - StarbuncleMania

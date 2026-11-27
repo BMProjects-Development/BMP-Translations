@@ -1,6 +1,6 @@
 # Переведённые моды для Minecraft 1.21.1
 
-BMP Translations содержит переводы для 333 модов и дополнений на Minecraft 1.21.1.
+BMP Translations содержит переводы для 339 модов и дополнений на Minecraft 1.21.1.
 
 Список создаётся автоматически из исходников ресурспака. Ссылка на площадку отображается только тогда, когда проект на ней найден.
 
@@ -47,6 +47,7 @@ BMP Translations содержит переводы для 333 модов и до
 - Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
 - Betteradvancedtooltips
 - Betteradvancements
+- Bettercombat
 - BetterStats — [Modrinth](https://modrinth.com/mod/betterstats)
 - Bhmenu
 - Bigreactors
@@ -63,6 +64,7 @@ BMP Translations содержит переводы для 333 модов и до
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 - Bwncr
 - Byg
+- Carbonconfig
 - Cataclysm
 - Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
@@ -142,6 +144,7 @@ BMP Translations содержит переводы для 333 модов и до
 - Environmental — [Modrinth](https://modrinth.com/mod/environmental)
 - Er2create
 - Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
+- Euphoria Patcher
 - Everything is Copper — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper) · [Modrinth](https://modrinth.com/mod/everythingcopper)
 - Expandedae
 - Explosiveenhancement
@@ -170,6 +173,7 @@ BMP Translations содержит переводы для 333 модов и до
 - Ftbunearthed
 - Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
 - Fusion — [Modrinth](https://modrinth.com/mod/fusion)
+- Fzzy Config
 - Gadgets Against Grind — [Modrinth](https://modrinth.com/mod/gag)
 - Gateways — [Modrinth](https://modrinth.com/mod/gateway)
 - Gaze
@@ -289,7 +293,9 @@ BMP Translations содержит переводы для 333 модов и до
 - Snowundertrees
 - Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
 - Sophisticatedbackpacks
+- Sophisticatedcore
 - Soulplied Energistics
+- Sound Physics Remastered
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - Spider Overhaul
 - StarbuncleMania

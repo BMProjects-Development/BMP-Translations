@@ -1,6 +1,6 @@
 # Translated mods for Minecraft 1.21.1
 
-BMP Translations currently contains translations for 333 mods and add-ons on Minecraft 1.21.1.
+BMP Translations currently contains translations for 339 mods and add-ons on Minecraft 1.21.1.
 
 The list is generated from the resource-pack sources. A platform link is shown only when the project was found there.
 
@@ -47,6 +47,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Better Nether — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether) · [Modrinth](https://modrinth.com/mod/betternether)
 - Betteradvancedtooltips
 - Betteradvancements
+- Bettercombat
 - BetterStats — [Modrinth](https://modrinth.com/mod/betterstats)
 - Bhmenu
 - Bigreactors
@@ -63,6 +64,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Building Gadgets 2 — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 - Bwncr
 - Byg
+- Carbonconfig
 - Cataclysm
 - Catalogue
 - Caupona — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/caupona) · [Modrinth](https://modrinth.com/mod/caupona)
@@ -142,6 +144,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Environmental — [Modrinth](https://modrinth.com/mod/environmental)
 - Er2create
 - Essentials — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
+- Euphoria Patcher
 - Everything is Copper — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/everything-is-copper) · [Modrinth](https://modrinth.com/mod/everythingcopper)
 - Expandedae
 - Explosiveenhancement
@@ -170,6 +173,7 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Ftbunearthed
 - Functional Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/functional-storage)
 - Fusion — [Modrinth](https://modrinth.com/mod/fusion)
+- Fzzy Config
 - Gadgets Against Grind — [Modrinth](https://modrinth.com/mod/gag)
 - Gateways — [Modrinth](https://modrinth.com/mod/gateway)
 - Gaze
@@ -289,7 +293,9 @@ The list is generated from the resource-pack sources. A platform link is shown o
 - Snowundertrees
 - Sophisticated Storage — [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
 - Sophisticatedbackpacks
+- Sophisticatedcore
 - Soulplied Energistics
+- Sound Physics Remastered
 - Sounds — [Modrinth](https://modrinth.com/mod/sound)
 - Spider Overhaul
 - StarbuncleMania
